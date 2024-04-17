@@ -1,0 +1,322 @@
+﻿@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:420px) {
+    .emp_right {
+        display: none;
+    }
+
+    .emp_ind_image_main {
+        display: none;
+    }
+
+    .emp_ind_name_main {
+        float: none !important;
+        margin-bottom: 10px;
+        margin-left: -14px;
+        margin-top: 0;
+        text-align: left;
+    }
+
+    .emp_ind_name_text {
+        line-height: 35px;
+    }
+
+    .dialogbox_container {
+        width: 300px;
+    }
+
+    .dial_text {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        width: 102px;
+    }
+
+    .dial_textfield {
+        width: 160px;
+    }
+
+    .dial_lft {
+        width: 160px;
+    }
+
+    .livemap_bg {
+        display: none;
+    }
+}
+
+@media screen and (max-width:880px) {
+    .emp_left {
+        float: left;
+        width: 100%;
+    }
+
+    .emp_right {
+        float: left;
+        margin-bottom: 10px;
+        margin-top: 15px;
+    }
+
+    .emp_details_view_edit_main {
+        margin: 0px!important;
+    }
+}
+
+@media screen and (max-width:980px) {
+    .btn_preference_div {
+        display: block;
+    }
+
+    .action_btn_div {
+        display: none;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .dash_icon {
+        display: block !important;
+        font-size: 14px;
+        height: 15px !important;
+        margin-top: 5px !important;
+    }
+
+    .alloc_right_grid {
+        border-left: medium none;
+        margin-top: 15px;
+    }
+}
+
+@media screen and (max-width:1010px) {
+    .emp_right {
+        clear: both;
+        float: left;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .field_label_text {
+        width: 60%;
+        padding: 0 0px 0 15px;
+        text-align: justify;
+        margin-bottom: -10px;
+    }
+
+    .info {
+        width: 100% !important;
+    }
+
+    .notes {
+        clear: both;
+        width: 100% !important;
+    }
+
+    .notes_height {
+        height: 200px!important;
+    }
+
+    .notes_height_tab {
+        height: 200px!important;
+        clear: both;
+    }
+
+    .profile_map_container {
+        width: 17%!important;
+    }
+
+    .popup_inner_left_div {
+        display: none;
+    }
+
+    .popup_inner_right_div {
+        margin-left: 0px;
+    }
+}
+
+
+
+@media screen and (max-width:1079px) {
+    .page-stats li .summary {
+        margin-right: 4px!important;
+    }
+}
+
+
+
+@media screen and (max-width:1200px) {
+    .dash_user_icon {
+        display: none!important;
+    }
+}
+
+@media screen and (max-width:1710px) {
+    .address_container {
+        /*width: 83%!important;*/
+    }
+
+    .profile_map_container {
+        width: 14%!important;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    .group-left {
+        float: right;
+        margin-left: 8px;
+        margin-right: 0px;
+        width: 100%;
+    }
+
+    .mlc {
+        margin-left: 125px!important;
+    }
+}
+
+@media screen and (max-width:1260px) {
+    .address_container {
+        /* width: 80%!important;*/
+    }
+
+    .profile_map_container {
+        width: 15%!important;
+        margin-left: 14px;
+        margin-top: 10px;
+    }
+
+    .ml14 {
+        margin-left: 0px!important;
+    }
+
+    .content_scroller {
+        margin-bottom: 10px;
+        margin-left: 0;
+        width: 150%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .shift_table_brdr {
+        overflow-x: scroll;
+    }
+
+    .wh_width {
+        overflow-x: scroll;
+    }
+}
+
+@media screen and (max-width:580px) {
+    .profile_map_container {
+        width: 30%!important;
+        clear: both;
+        margin-top: 10px;
+        margin-left: 15px;
+    }
+
+    .address_container {
+        width: 100% !important;
+    }
+
+    .group-left {
+        width: 100%!important;
+    }
+}
+
+@media screen and (max-width:1450px) {
+    .dash_user_icon {
+        display: none!important;
+    }
+
+    
+}
+
+@media (min-width: 991px) and (max-width: 1600px) {
+    .remove_l {
+        display: none;
+    }
+
+    .group-left {
+        float: left;
+        width: 83%;
+        margin-right: 8px;
+    }
+
+  
+}
+
+@media (min-width: 991px) and (max-width:1350px) {
+    .remove_s {
+        display: none;
+    }
+}
+
+@media (min-width: 980px) and (max-width:1150px) {
+       .Cwidth {  
+        width:900px;
+    }
+}
+
+@media (min-width: 991px) and (max-width:1150px) {
+    .remove_f {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width:920px) {
+    .remove_l {
+        display: none;
+    }
+}
+
+@media screen and (max-width:390px) {
+    .remove_l {
+        display: none;
+    }
+
+    .remove_s {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) and (max-width:1250px) {
+    .livemap_bg {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) and (max-width:1355px) {
+    .Mt5Float {
+        width:55px;
+        white-space:nowrap;
+        text-overflow:ellipsis;
+        overflow:hidden;
+    }
+}
+
+
+
+@media screen and (max-width:999px) {
+
+
+
+
+    .pop_tab_scroll {
+        overflow: auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .ml14 {
+        margin-left: 0px!important;
+    }
+}
+
+@media screen and (min-width: 990px) and (max-width: 1690px) {
+    .ft_search_small_input {
+        width: 50%;
+    }
+}
+@media screen and (max-width:991px) {
+    .mlc {
+        margin-left: 14px!important;
+    }
+}

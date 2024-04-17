@@ -1,0 +1,355 @@
+﻿.div_content
+{
+	width: 850px;
+	margin-left: 0.5%;
+	/*border-style: double;
+	border-color: Black;*/
+	height: 570px;
+	float: left;
+}
+
+.div_Main
+{
+	background-color: #fff;
+	color: Black;
+	width: 840px;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	margin-top: 1%;
+	font-weight: bold;
+	text-indent: 2px;
+	[if IE]wi
+}
+
+.div_Break
+{
+	clear: both;
+}
+.div_booking
+{
+	float: left;
+	width: 7%;
+	margin-left: 0.5%;
+	margin-top: 1%;
+}
+.div_book_txt
+{
+	width: 15%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_book_txt input, Text
+{
+	width: 100%;
+}
+.div_date
+{
+	float: left;
+	width: 3%;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+.div_date_txt
+{
+	width: 14%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_date_txt input, Text
+{
+	width: 80%;
+}
+.div_shipper
+{
+	float: left;
+	width: 5%;
+	margin-left: 0.5%;
+	margin-top: 1%;
+}
+.div_shipper_txt
+{
+	width: 25%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_shipper_txt input, Text
+{
+	width: 100%;
+	text-transform:uppercase;
+}
+.div_consignee
+{
+	float: left;
+	width: 5%;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+.div_consignee_txt
+{
+	width: 25%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_consignee_txt input, Text
+{
+	width: 100%;
+	text-transform:uppercase;
+}
+.div_port
+{
+	float: left;
+	width: 4%;
+	margin-left: 1%;
+	margin-top: 1%;
+	text-align: center;
+}
+.div_port_txt
+{
+	width: 18%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_port_txt input, Text
+{
+	width: 100%;
+}
+.div_por_txt
+{
+	width: 17%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_por_txt input, Text
+{
+	width: 100%;
+}
+.div_Approx_Volume
+{
+	float: left;
+	width: 9%;
+	margin-left: 0.5%;
+	margin-top: 1%;
+}
+
+.div_Approx_Volume_txt
+{
+	width: 10%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_Approx_Volume_txt input, Text
+{
+	width: 100%;
+}
+.div_cargo
+{
+	float: left;
+	width: 14%;
+	margin-left: 1%;
+	margin-top: 1%;
+	text-align: center;
+}
+
+.div_cargo_txt
+{
+	width: 10%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_cargo_txt input, Text
+{
+	width: 70%;
+}
+
+.div_despatch
+{
+	float: left;
+	width: 16%;
+	margin-left: 1.5%;
+	margin-top: 1%;
+	text-align: center;
+}
+.div_po
+{
+	float: left;
+	width: 11%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_po input, Text
+{
+	width: 100%;
+}
+.div_btn
+{
+	width: 6%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	vertical-align: baseline;
+	text-align:right;
+}
+.div_btn input, submit
+{
+	width: 80%;
+	height:24px;
+	
+}
+.div_save
+{
+	width: 850px;
+	height: 5%;
+	float: left;
+	margin-right: 1%;
+	margin-top: 0.5%;
+	text-align: right;
+}
+.div_save input, submit
+{
+	width: 12%;
+	height: 100%;
+	margin-right:1%;
+}
+.div_img
+{
+	width: 16px;
+	height: 16px;
+	margin-left: 1px;
+	vertical-align:middle;
+}
+.div_img:hover
+{
+    cursor:pointer;
+}
+.div_Out
+{
+	width: 15%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 1%;
+
+}
+.div_ddl
+{
+	width: 19%;
+	float: left;
+	margin-left: 1.7%;
+	margin-top: 0.5%;
+}
+.div_ddl input, select
+{
+	width: 100%;
+}
+.div_ddl_type
+{
+	width: 12%;
+	float: left;
+	margin-left: 2%;
+	margin-top: 0.5%;
+}
+.div_ddl_type input, select
+{
+	width: 100%;
+}
+.div_remark
+{
+	float: left;
+	width: 72%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_remark input, Text
+{
+	width: 100%;
+}
+.div_invoicedate
+{
+	float: left;
+	width: 10%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_invoicedate input, Text
+{
+	width: 70%;
+}
+.div_desc
+{
+	float: left;
+	width: 17.9%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_desc input, Text
+{
+	width: 100%;
+}
+.div_carton
+{
+	float: left;
+	width: 9%;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_carton input, Text
+{
+	width: 100%;
+}
+.div_invoice
+{
+	float: left;
+	width: 8%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	margin-top: 0.5%;
+}
+.div_invoice input, Text
+{
+	width: 100%;
+}
+.div_remarkpo
+{
+	float: left;
+	width: 82%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_remarkpo input, Text
+{
+	width: 100%;
+}
+.div_rmk
+{
+	float: left;
+	width: 9%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_markno
+{
+	float: left;
+	width: 37.9%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	
+}
+.div_markno input, Text
+{
+	width: 100%;
+}
+.div_marknopo
+{
+	float: left;
+	width: 11%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	text-align:center;
+}

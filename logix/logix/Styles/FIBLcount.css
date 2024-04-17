@@ -1,0 +1,156 @@
+﻿.div_total
+{
+   
+    width:850px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_lbl_header
+{
+	background-color: #0061AE;
+    color: White;
+    width:  63%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+	clear:both;
+}
+.div_lbl_Cust
+{
+	width: 10%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 1%;
+}
+.div_lbl_From
+{
+	width: 4%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 1%;
+}
+.div_txt_From
+{
+	width: 9%;
+	height: 17px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+	margin-bottom: 1%;
+}
+.div_txt_From input
+{
+	width: 100%;
+}
+.div_lbl_To
+{
+	/*width: 1%;*/
+	float: left;
+	margin-top: 2%;
+	margin-left: 1%;
+}
+.div_txt_To
+{
+	width: 9%;
+	height: 17px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+	margin-bottom: 1%;
+}
+.div_txt_To input
+{
+	width: 100%;
+}
+.div_lbl_By
+{
+	/*width: 2%;*/
+	float: left;
+	margin-top: 2%;
+	margin-left: 1%;
+}
+.div_ddl_By
+{
+	width: 10%;
+	height: 17px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+	margin-bottom: 1%;
+}
+.div_ddl_By input,select
+{
+	width: 100%;
+}
+.div_btn_get
+{
+	/*width:4%;*/
+	margin-left:1%;
+	margin-right:0.5%;
+	margin-top: 1.5%;
+	float:left;
+}
+/*.div_btn_get input,button
+{
+	width:100%;
+}*/
+.div_btn_cancel
+{
+	/*width:6%;*/
+	margin-top: 1.5%;
+	margin-left:1%;
+	margin-right:0.5%;
+	float:left;
+}
+/*.div_btn_cancel input,button
+{
+	width:100%;
+}*/
+.div_grd
+{
+	width:99%;
+	margin-top:1.5%;
+}
+.pnlgrd
+{
+     width:100%;
+   height:390px;
+    float:left;
+   /*border:1px solid black;*/
+    margin-left:1%;
+    margin-bottom: 0px;
+}
+
+.div_btn_e2e
+{
+	/*width:93%;
+	margin-top: 0.5%;
+	margin-left:0.5%;
+	margin-right:0.5%;
+	text-align:right;*/
+   float:left;
+	margin-top: 1.5%;
+	margin-left:1%;
+	margin-right:0.5%;
+	
+}
+/*.div_btn_e2e input,button
+{
+	width:100%;
+}*/

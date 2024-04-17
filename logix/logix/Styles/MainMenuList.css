@@ -1,0 +1,83 @@
+﻿
+/*.btn  
+ {
+    transform: rotate(-90deg);
+    border:1px solid cyan;
+    top:1%;
+}
+.div_main btn
+{
+    width:20%;
+    margin-top :0.5%;
+    border:1px solid red;
+}
+.div_prop
+{
+    height: 350px;
+    width: 20%;
+    background-color: #DFDFDF;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    margin-top: 0.5%;
+}*/
+
+.btn  
+ {
+    transform: rotate(-90deg);
+    /*margin-left:0.5%;*/
+    border:1px solid cyan;
+    margin-top :1.5%;
+    margin-left :-2%;
+    top:1%;
+}
+.div_main btn
+{
+    width:20%;
+    margin-top :0.5%;
+   /* margin-left: 0.5%;*/
+    border:1px solid red;
+}
+.div_prop
+{
+    Height:440px;
+    width:20%;
+    background-color :ButtonFace;
+    margin:0;
+    padding:0;
+    border:1px solid black;
+  margin-top:-3%;
+    margin-left :1%;
+    left:1%;
+    top:1%;
+    float:left ;
+    
+}
+
+.div_menulist
+{
+    height:200px;
+    width:60%;
+    float:left;
+    /*margin-left:1px;*/
+    margin-top:0.5%;
+    border:1px solid orange;
+    
+}
+
+.menu_li
+{
+    height:25px;
+    border: 1px solid pink;
+}
+
+.Div_Clear
+{
+    clear:both;
+}
+.mar
+{
+    margin:0;
+    padding:0;
+}
+

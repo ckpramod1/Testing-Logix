@@ -1,0 +1,313 @@
+﻿.div_Main
+{
+   /* background-color: #0061AE;
+    width: 99%;
+    color: White;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    font-weight: bold;*/
+
+
+      background-color: #333399;
+    width: 100%;
+    margin-left: 1%;
+    margin-top:0.8%;
+    font-weight: bold;
+    color:White;
+}
+.div_Tab
+{
+  
+
+   padding: 3px 4px;
+    border-top: 2px solid #0077c9;
+    border-bottom: none;
+    color:#4e4c4c;
+    margin:0px 2px 0px 0px;
+    border-right:1px solid #b1b1b1;
+    border-left:1px solid #b1b1b1;
+   
+    float: left;
+  
+}
+
+.div_total
+{
+  /*border:1px solid black;*/
+  width :800px;
+
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_break
+{
+    clear: both;
+}
+.div_view
+{
+    float: left;
+    width: 100%;
+}
+
+.div_cust1
+{
+    width: 75%;
+    float: left;
+}
+.div_lblCustomer
+{
+    margin-top: 0.7%;
+    width: 8%;
+    float: left;
+    margin-left: 0.5%;
+}
+.div_txtCustomer
+{
+    margin-top: 0.7%;
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtCustomer input, Text
+{
+    width: 100%;
+}
+.div_txtaddress
+{
+    margin-top: 0.7%;
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtaddress input, Text
+{
+    width: 100%;
+}
+.div_lblphone
+{
+    margin-top: 0.7%;
+    width: 8%;
+    float: left;
+    margin-left: 0.5%;
+}
+.div_txtphone
+{
+    margin-top: 0.7%;
+    width: 32%;
+    float: left;
+    margin-left:1%;
+   
+}
+.div_txtphone input, Text
+{
+    width: 100%;
+}
+.div_txtphoneNo
+{
+    margin-top: 0.7%;
+    width: 32%;
+    float: left;
+    margin-left:1%;
+   
+}
+.div_txtphoneNo input, Text
+{
+    width: 100%;
+}
+.div_txtphoneNo1
+{
+    margin-top: 0.7%;
+    width: 32%;
+    float: left;
+    margin-left:1%;
+  
+}
+.div_txtphoneNo1 input, Text
+{
+    width: 100%;
+}
+.div_lblfax
+{
+    margin-top: 0.7%;
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtemail
+{
+    margin-top: 0.7%;
+    width: 65%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtemail input, Text
+{
+    width: 100%;
+}
+.div_lblMsg
+{
+    margin-top: 0.7%;
+    width: 70%;
+    float: left;
+    margin-left: 1%;
+}
+.div_lblgroupname
+{
+    margin-top: 0.7%;
+    width: 8%;
+    float: left;
+    margin-left: 0.5%;
+}
+.div_lblcredit
+{
+    margin-top: 0.7%;
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtcredit
+{
+    margin-top: 0.7%;
+    width:32%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtcredit input, Text
+{
+    width: 100%;
+}
+.div_lblpan
+{
+    margin-top: 0.7%;
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtpan
+{
+    margin-top: 0.7%;
+    width:32%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtpan input, Text
+{
+    width: 100%;
+}
+.div_txtptc
+{
+    margin-top: 0.7%;
+    width: 43%;
+    float: left;
+    margin-left: 0.5%;
+}
+.div_txtptc input, Text
+{
+    width: 100%;
+}
+.div_txtptc1
+{
+    margin-top: 0.7%;
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtptc1 input, Text
+{
+    width: 100%;
+}
+
+.div_lblphone1
+{
+    margin-top: 0.7%;
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+}
+.div_txtphone1
+{
+    margin-top: 0.7%;
+    width: 48%;
+    float: left;
+    margin-left: 0.9%;
+    margin-left:1%;
+}
+.div_txtphone1 input, Text
+{
+    width: 100%;
+}
+.div_cust2
+{
+    width: 24%;
+    float: left;
+}
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    height: 50%;
+    margin-bottom:0%;
+    overflow:auto;
+}
+.div_Grid1
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    height: 50%;
+    margin-bottom:0%;
+    overflow:auto;
+}
+.div_Radio
+{
+    font-family: sans-serif;
+    font-size: 8pt;
+    font-style: normal;
+    margin-left: 0.2%;
+    width: 90%;
+    float: left;
+    vertical-align: top;
+    text-align: left;
+    margin-top: 1.5%;
+}
+/*.div_Radio input,Radio
+{
+    width: 100%;
+    height:15px;
+}
+*/
+.div_buttton
+{
+    width: 95%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    float: left;
+    text-align:right;
+}
+.div_buttton input, submit
+{
+    width: 30%;
+    margin-left: 2%;
+}
+.div_grdCust
+{
+    float: left;
+    width: 100%;
+}
+.div_lblGrdCustomer
+{
+    float: left;
+    margin-left: -5px;
+    margin-top: 0.7%;
+    padding-bottom: 0.5%;
+    width: 25%;
+}
+    

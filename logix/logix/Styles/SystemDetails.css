@@ -1,0 +1,320 @@
+﻿.div_total
+{    
+    width:600px;
+    /*height:100%;*/
+    /*border:1px solid black;*/ 
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+   height :100%;
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 49.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+}
+.div_lbl_user
+{
+    width: 9%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_break
+{
+    clear: both;
+}
+.div_txt_User
+{
+    width: 25%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_User INPUT
+{
+    width: 100%;
+}
+
+.div_txt_User1
+{
+    width: 72%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left :0.5%;
+}
+.div_txt_User1 INPUT
+{
+    width: 100%;
+}
+.div_lbl_divs
+{
+    width: 9%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_division
+{
+    width: 97.5%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_division INPUT
+{
+    width: 100%;
+}
+.div_lbl_brname
+{
+    width: 9%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_branch
+{
+    width: 97.5%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}   
+.div_txt_branch INPUT
+{
+    width: 100%;
+}
+.div_lbl_pctype
+{
+    width: 9%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_ddl_cmbfr
+{
+    width: 98%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+
+}
+.div_ddl_cmbfr select
+{
+    width: 100%;
+}
+.div_txt_Proc
+{
+    width: 48.5%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_Proc INPUT
+{
+    width: 100%;
+}
+.div_lbl_ra
+{
+    width: 7%;
+    height: 10%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Ram
+{
+    width: 48.5%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :0.5%;
+}
+.div_txt_Ram INPUT
+{
+    width: 100%;
+}
+
+.div_lbl_moth
+{
+    width: 9%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Mb
+{
+    width: 48.5%;  
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_Mb INPUT
+{
+    width: 100%;
+}
+.div_lbl_moni
+{
+    width: 7%;
+    height: 10%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Moniter
+{
+    width: 48.5%;   
+    float: left;
+    margin-top: 0.5%;
+     margin-left: 0.5%;
+}
+.div_txt_Moniter INPUT
+{
+    width: 100%;
+}
+.div_lbl_ipadd
+{
+    width: 9%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+
+.div_txt_ip
+{
+    width: 97.5%; 
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_ip INPUT
+{
+    width: 100%;
+}
+.div_lbl_data
+{
+    width: 9%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_DC
+{
+    width: 97.5%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_DC INPUT
+{
+    width: 100%;
+}
+
+.div_lbl_hard
+{
+    width: 9%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_ddl_cmbfdd
+{
+    width: 49%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left :0.5%;
+}
+.div_ddl_cmbfdddd select
+{
+    width: 100%;
+}
+
+.div_txt_HD
+{
+    width: 48.5%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+
+}
+.div_txt_HD INPUT
+{
+    width: 100%;
+}
+
+.div_lbl_floppy
+{
+    width: 7%;
+    height: 10%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_CD
+{
+    width: 9%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_ddl_cmbCd
+{
+    width: 48.5%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_ddl_cmbCd select
+{
+    width: 100%;
+}
+.div_ddl_cmbDvd
+{
+    width: 49%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left :0.5%;
+}
+.div_ddl_cmbDvd select
+{
+    width: 100%;
+}
+.div_lbl_dvd
+{
+    width: 7%;
+    height: 10%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.buy_btn
+{
+    width: 99%;
+    float: left;
+    /*margin-top: 2%;*/
+    text-align: right;
+    /*height: 20px;*/
+    margin-bottom :1%;
+}
+.buy_btn input, button
+{
+    width: 18%;
+    margin-left: 0.5%;
+}

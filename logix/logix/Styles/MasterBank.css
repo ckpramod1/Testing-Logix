@@ -1,0 +1,181 @@
+﻿.div_Main
+{
+    background-color:#66CCFF;
+/*border:1px solid black; */
+width:70%;
+font:10%;
+font-weight:bold;
+}
+.div_label
+{
+/*border:1px solid black;*/
+    width:8%;
+    height:10px;
+    float:left;
+    /*margin-left:1%;*/
+    margin-top:1%;
+    text-align:right;	
+}
+.bank
+{
+    width:450px;
+height:100%;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_TB
+{
+    /*border:1px solid black;*/
+    width:95%;
+    height:10%;
+    float:left;
+    margin-left:2%;
+    margin-top:1%;
+    background-color:#0094ff;
+     /*background-color:#E0E0E0;*/
+}
+.div_TB input
+{
+    width:100%;
+}
+
+
+.div_Btnbank
+{
+float:right;
+margin-right:2%;
+/*margin-top:1%;*/
+}
+.div_Grid1
+{
+margin-left:1%;
+margin-top:1%;
+margin-bottom:1%;
+margin-right:1%;
+
+}
+.div_Grid
+{
+margin-top:1%;
+margin-left:1%;
+margin-bottom:1%;
+font-family:sans-serif; 
+    font-size:10pt;
+    color:Black;
+    overflow :hidden;
+ margin-top:-3%;
+}
+.div_grd2
+{
+   
+    
+  
+    width:97%;
+   Height:205px;
+    border:1px solid gray;
+    margin-left:1%;
+    margin-bottom:1%;
+    margin-top:1%;
+
+}
+.GrdAltRow
+{
+    background-color:#FFF8DC;
+    font-family:sans-serif;
+    font-size:10pt;
+    color:Black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}
+.div_txt_Search
+{
+    width: 97%;  
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+}
+.div_txt_Search INPUT
+{
+    width:100%;
+}
+.GridHeader
+{
+    background-color:Navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    padding:1px;
+  
+}
+
+.GridHeader_my
+{
+      /*background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: -0.3%;
+    margin-bottom: 0px;
+    position :absolute ;
+    margin-top:-2.3%;*/
+  
+
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+  position :absolute ;
+   margin-top:-1.5%
+   
+}
+
+.Div_Chk
+{
+   float:left;
+    margin-top:1%;
+    margin-left:2%;
+    
+}
+.Div_ourbank
+{
+    margin-top:1%;
+     margin-left:10%;
+    
+}
+.div_DRopdown_btn
+{
+/*margin-left :79%;*/
+float :right;
+ margin-right :1.5%;
+ margin-top:0%;
+
+
+ 
+}
+.span_excel_txt
+{
+    font-weight :bold;
+   
+}
+.spn_txt_first
+{
+  color:Black;
+  
+  
+}
+.div_buttonExport
+{
+   float:right;
+margin-right:2%;
+margin-bottom:1%;
+margin-top:1%;
+ width:21%;
+ margin-left:15%;
+}

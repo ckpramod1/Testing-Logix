@@ -1,0 +1,138 @@
+﻿.divTotal {
+    width: 650px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+   width:52%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 11%;
+    float: left;
+   
+    margin-top: 0.5%;
+    text-align:right;
+}
+
+.div_lbl
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt
+{
+    float: left;
+    width: 11%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt input, text
+{
+    width: 100%;
+}
+
+.div_txt1
+{
+    float: left;
+    width: 12%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt1 input, text
+{
+    width: 100%;
+}
+.div_Taxtxt
+{
+    float: left;
+    width: 10%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Taxtxt input, text
+{
+    width: 100%;
+    text-align:right;
+}
+.div_Taxtxt1
+{
+    float: left;
+    width: 12%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Taxtxt1 input, text
+{
+    width: 100%;
+    text-align:right;
+}
+.div_Taxtxt2
+{
+    float: left;
+    width: 12%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Taxtxt2 input, text
+{
+    width: 100%;
+    text-align:right;
+}
+.div_btn
+{
+    /*width: 15.5%;*/
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_ddlmonth
+{
+    float: left;
+    width: 13%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+
+}
+.div_ddlmonth input, Select
+{
+    width: 100%;
+}
+.div_Grid
+{
+    width: 100%;
+    height:250px;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+    overflow:auto;
+}
+.div_Viewbtn
+{
+    /*width: 51.5%;*/
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 0.5%;
+    text-align: right;
+    margin-bottom:1%;
+    height: 21px;
+}

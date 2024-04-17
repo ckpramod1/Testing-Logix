@@ -1,0 +1,102 @@
+﻿.div_total 
+{
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_txtCustomer{
+
+    width:95%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.div_txtCustomer input,Text{
+
+    width:100%;
+}
+
+.div_txtTotalexperience{
+     width:60%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_txtTotalexperience input,Text{
+    width:100%;
+}
+
+.div_ddlBranch{
+     width:60%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_ddlBranch input,select{
+    width:100%;
+}
+
+.div_limittxt{
+     width:26%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_limittxt input,Text{
+    width:100%;
+}
+
+.div_btnAdd{
+     width:5%;
+    float:left;
+    margin-left:2%;
+    margin-top:0.5%;
+}
+
+.div_grdCreaditExamList{
+     width:100%;
+     height:200px;
+    float:left;
+    margin-left:0%;
+    margin-top:0.5%;
+    margin-bottom:0.5%;
+}
+
+.div_txttotal{
+     width:20%;
+    float:left;
+    margin-left:78.2%;
+    margin-top:0.5%;
+}
+
+.div_txttotal input,Text{
+    width:100%;
+}
+
+.div_btn{
+
+    float:right;
+    margin-right:2%;
+
+    margin-top:1%;
+}

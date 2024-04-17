@@ -1,0 +1,194 @@
+﻿.div_total 
+{
+    width: 700px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break 
+{
+    clear: both;
+}
+.div_txtCustnamecs
+{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtCustnamecs input
+{
+    width: 100%;
+}
+.div_txtmblnocs
+{
+    width: 30%;
+    float: left;
+    margin-left: -40%;
+    margin-top: 0.5%;
+}
+.div_txtmblnocs input
+{
+    width: 100%;   
+}
+.div_txtcontnocs
+{
+    width: 30%;
+    float: left;
+    margin-left: -40%;
+    margin-top: 0.5%;
+}
+.div_txtcontnocs input
+{
+    width: 100%;
+}
+.div_txtbookingcs
+{
+    width: 30%;
+    float: right;
+    margin-right: 1.1%;
+    margin-top: 0.5%;
+}
+.div_txtbookingcs input
+{
+    width: 100%;
+}
+.div_txtblcs
+{
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtblcs input
+{
+    width: 100%;
+}
+.div_txtfvesselcs
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtfvesselcs input
+{
+    width: 100%;
+}
+.div_txtmarkscs
+{
+    width: 73.5%;
+    float: left;
+    margin-left: 1%;    
+    margin-top: 0.5%;
+}
+.div_txtmarkscs input
+{
+    width: 100%;
+}
+.div_txtlinenocs
+{
+    width: 23.8%;
+    float: left;
+    margin-left: 0.7%;    
+    margin-top: 0.5%;
+}
+.div_txtlinenocs input
+{
+    width: 100%;
+}
+.div_txtdescrcs
+{
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtdescrcs input
+{
+    width: 100%;
+}
+.div_txtweightcs
+{
+    width: 24%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtweightcs input
+{
+    width: 100%;
+}
+.div_txtweightcss
+{
+    width: 23.8%;
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txtweightcss input
+{
+    width: 100%;
+}
+.div_txtporcs
+{
+    width: 24%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtporcs input
+{
+    width: 100%;
+}
+.div_txtpolcs
+{
+    width: 24.3%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtpolcs input
+{
+    width: 100%;
+}
+.div_txtpodcs
+{
+    width: 24.1%;
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txtpodcs input
+{
+    width: 100%;
+}
+.div_txtfdcs
+{
+    width: 23.9%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtfdcs input
+{
+    width: 100%;
+}
+
+.div_Grid
+{
+    width: 100%;
+    height:140px;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+    Border: 1px solid #b1b1b1;
+}
+.div_btn
+{ 
+    float: right;
+    margin-right: 1%;
+    margin-top: -0.4%;
+    margin-bottom:1%;
+}

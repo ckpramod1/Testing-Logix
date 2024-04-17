@@ -1,0 +1,718 @@
+/* ========================================================
+*
+* Melon - Flat & Responsive Admin Template
+*
+* ========================================================
+*
+* File: login.css
+* Description: Login template styling
+* Version: 1.0
+*
+* ======================================================== */
+@font-face {
+    font-family: 'OpenSansLight';
+    src: url('font/opensans-light_0.eot');
+    src: url('font/opensans-light_0.eot') format('embedded-opentype'),
+         url('../../assets/css/font/opensans-light_0.woff') format('woff'),
+         url('font/opensans-light_0.ttf') format('truetype'),
+         url('font/opensans-light_0.svg#OpenSansLight') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('font/opensans-regular_0.eot');
+    src: url('font/opensans-regular_0.eot') format('embedded-opentype'),
+         url('../../assets/css/font/opensans-regular_0.woff') format('woff'),
+         url('../../assets/css/font/opensans-regular_0.ttf') format('truetype'),
+         url('../../assets/css/font/opensans-regular_0.svg#OpenSansRegular') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansSemibold';
+    src: url('font/opensans-semibold_0.eot');
+    src: url('font/opensans-semibold_0.eot') format('embedded-opentype'),
+         url('../../assets/css/font/opensans-semibold_0.woff') format('woff'),
+         url('../../assets/css/font/opensans-semibold_0.ttf') format('truetype'),
+         url('../../assets/css/font/opensans-semibold_0.svg#OpenSansSemibold') format('svg');
+}
+
+body {
+    font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.clearfix {
+    *zoom: 1;
+}
+
+    .clearfix:before,
+    .clearfix:after {
+        display: table;
+        content: "";
+        line-height: 0;
+    }
+
+    .clearfix:after {
+        clear: both;
+    }
+
+.login {
+    background-color: #fff;
+    padding-top: 60px;
+    /* Helper */
+}
+
+    .login .logo,
+    .login .single-sign-on,
+    .login .footer {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .login .logo {
+        padding: 15px;
+        font-size: 23px;
+    }
+
+    .login .box {
+        background-color: #eeeff1;
+        width: 342px;
+       /* margin: 0 auto;
+        border: 1px solid #d9d9d9;
+        border-top: 5px solid #009b9f;*/
+       float:left;
+       min-height:418px;
+      
+	   border-radius:5px;
+        /* * * * * * * * * * * *
+		 * Inner Box
+		 * * * * * * * * * * * */
+    }
+
+        .login .box .content {
+           /* padding: 30px;
+            padding-top: 10px;
+            padding-bottom: 15px;*/
+        }
+
+        .login .box form {
+            padding: 0;
+            margin: 0;
+        }
+
+        .login .box .form-title {
+            color: #717171 !important;
+            font-weight: 300;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+
+        .login .box .form-group {
+            margin: 0;
+            padding: 0;
+            margin-bottom: 15px;
+        }
+
+        .login .box .form-actions {
+           
+            border-top: none;
+            padding: 0px 0;
+            margin: 0px;
+        }
+
+        .login .box .input-icon input {
+        }
+
+        .login .box .has-error .input-icon input {
+            border-left-color: #b94a48;
+        }
+
+        .login .box .has-success .input-icon input {
+            border-left-color: #468847;
+        }
+
+        .login .box .checkbox {
+            margin-top: 7px;
+        }
+
+        .login .box .inner-box {
+           /* background-color: #f9f9f9;
+            border-top: 1px solid #c0c0c0;
+            -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+            -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;*/
+        }
+
+            .login .box .inner-box .content {
+                /*padding: 12px 30px;
+                text-align: center;*/
+            }
+
+            .login .box .inner-box a {
+                color: #eb1c54;
+                font-size: 11px;
+               
+            }
+
+                .login .box .inner-box a:hover {
+                    text-decoration: none;
+                    color: #1b5b66;
+                }
+
+            .login .box .inner-box .close {
+                font-size: 11px;
+                margin-top: 2px;
+                margin-right: 3px;
+            }
+
+                .login .box .inner-box .close.hide-default {
+                    display: none;
+                }
+
+            .login .box .inner-box form {
+                margin-bottom: 10px;
+                clear:both;
+            }
+
+            .login .box .inner-box a + form {
+                margin-top: 20px;
+            }
+
+            .login .box .inner-box .form-group {
+                margin-bottom: 10px;
+            }
+
+            .login .box .inner-box .forgot-password-done {
+                padding: 10px 0;
+            }
+
+                .login .box .inner-box .forgot-password-done .success-icon,
+                .login .box .inner-box .forgot-password-done .danger-icon {
+                    display: block;
+                    font-size: 30px;
+                    padding: 15px;
+                    padding-top: 0;
+                }
+
+                .login .box .inner-box .forgot-password-done .success-icon {
+                    color: #94b86e;
+                }
+
+                .login .box .inner-box .forgot-password-done .danger-icon {
+                    color: #e25856;
+                }
+
+                .login .box .inner-box .forgot-password-done span {
+                    font-weight: 600;
+                }
+
+    .login .single-sign-on {
+        width: 350px;
+        padding: 15px 0;
+        opacity: 0.5;
+        -webkit-transition: opacity 200ms ease-out;
+        -moz-transition: opacity 200ms ease-out;
+        -o-transition: opacity 200ms ease-out;
+        transition: opacity 200ms ease-out;
+    }
+
+        .login .single-sign-on:hover {
+            opacity: 1;
+        }
+
+        .login .single-sign-on span {
+            text-transform: uppercase;
+            font-weight: 600;
+            margin-bottom: 15px;
+            display: block;
+            color: #888888;
+        }
+
+        .login .single-sign-on .btn i {
+            padding-right: 5px;
+        }
+
+    .login .footer {
+        width: 350px;
+        padding-top: 30px;
+    }
+
+        .login .footer a {
+            font-size: 13px;
+            color: #485568;
+        }
+
+            .login .footer a:hover {
+                text-decoration: none;
+                color: #1b5b66;
+            }
+
+    .login .spacing-top {
+        padding-top: 7px !important;
+    }
+
+    .login .footer strong {
+        color: #51A351;
+    }
+
+.login-lang {
+    background-color: #019ba0;
+    border-top: 2px solid #008d92;
+    bottom: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    min-height:48px;
+}
+
+.login-lang-select-div {
+    float: right;
+    padding: 10px 15px !important;
+}
+
+.lang_txt {
+   background: url("../img/icons/lang-icon.png") no-repeat scroll 0 4px transparent;
+    color: #555555;
+    float: left;
+    font-size: 13px;
+    line-height: 23px;
+    margin-right: 5px;
+    text-indent: 26px;
+}
+
+.login-lang-selectbox {
+    float: right;
+    border:1px solid #B1B1B6;
+}
+
+
+.langbox {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: medium none;
+    color: #555555;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Open Sans","Segoe UI";
+    font-size: 12px !important;
+    height: 21px;
+    outline: medium none;
+    padding-right: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 73px;
+}
+
+.lang_option {
+    position: relative;
+}
+
+    .lang_option:after {
+        color: #C73E38;
+        content: ">";
+        font: 600 13px "Consolas",monospace !important;
+        padding: 0 0 3px;
+        pointer-events: none;
+        position: absolute;
+        right: 6px;
+        top: 1px;
+        transform: rotate(90deg);
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+    }
+
+    .lang_option:before {
+        background: none repeat scroll 0 0 #FFFFFF;
+        content: "";
+        display: block;
+        height: 21px;
+        pointer-events: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 18px;
+    }
+
+
+/* New Login Design Styles Start */
+.Logincontainer {
+    margin:60px auto;
+    width:1350px;
+
+}
+.Loginleftimg {
+    float:left;
+    width:943px;
+    background-color:#fff;
+    height:417px;
+    background:url(../img/demo/lighthouse.jpg) no-repeat left top;
+}
+.LoginDivider {
+    width:1px;
+    float:left;
+    background-color:#cbcbcb;
+    height:416px;
+    margin-left:25px;
+
+}
+.Human-icon {
+   
+    text-align:center;
+    width:100%;
+	margin:20px 0px 12px 0px;
+}
+.Login_virtual {
+    float:left;
+    width:auto;
+    margin-bottom:15px;
+}
+.Login_forgot {
+    float:left;
+    margin-bottom:5px;
+    margin-left:20px;
+    margin-top:10px;
+
+}
+.Login_virtual label.lblclr {
+    color:#4b7db2;
+    font-size:12px;
+    text-transform:uppercase;
+    font-weight:400;
+}
+.LoginMtop {
+    margin-top:20px!important;
+}
+.Login_forgot a {
+    color:#df3838;
+    font-size:12px;
+    text-transform:capitalize;
+    font-family:'OpenSansSemibold';
+	text-decoration:underline;
+
+}
+.padctrl{ padding:5px 0px 5px 0px!important; margin:0px 0px 0px 0px!important; float:left; width:100%!important;}
+.btnctrl{ width:42%!important; margin:0px 2px 0px 18px!important; float:left;}
+
+.arrow-left {
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent; 	
+	border-right:10px solid #eeeff1; 
+	float:left;
+	margin:26px 0px 0px 20px;
+}
+
+
+
+.Virtual_container {
+    width:1024px;
+    margin:40px auto;
+    clear:both;
+
+}
+.Virtual_container .VirtualHead {
+        color:#a8abaf;
+        text-transform:uppercase;
+        text-align:center;
+ }
+.Virtual_container .VirtualHead label {
+        color:#4b7db2;
+        text-transform:uppercase;
+
+    }
+.moreview {
+    float: right;
+    position: relative;
+    right: 5%;
+    top: 68%;
+    color:#eb1c54;
+}
+
+.moreview > h3 {
+    font-size: 13px;
+    color:#eb1c54;
+}
+
+
+
+
+.moreview a {
+     color:#eb1c54;
+     text-decoration:none;
+ }
+.VirtualKeydiv {
+   width:670px;
+   margin:15px auto;
+}
+/* VirtualKeyboard css start */
+
+.Virtual_container .VirtualHead label {
+    color: #4B7DB2;
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.submitButton
+{
+	text-align: right;
+	padding-right: 10px;
+}
+
+.keyButton
+{
+	text-align: center;
+	width: 40px;
+	height: 26px;
+	background-color:#ffffff;
+}
+.backbutton
+{
+	float: left;
+	border: 1px solid #e4a25a;
+	cursor:pointer;
+	text-align: center;
+	width: 100%;
+	height: 26px;
+	color: #212121;
+    background-color:#fff;
+}
+.clearbutton
+{
+	float: left;
+	border: 1px solid #e4a25a;
+	cursor:pointer;
+	text-align: center;
+	width: 100%;
+	height: 26px;
+	color: #212121;
+    background-color:#fff;
+}
+
+.capslockbutton
+{
+	float: left;
+	border: 1px solid #e4a25a;
+	cursor:pointer;
+	text-align: center;
+	width: 100%;
+	height: 26px;
+	color: #212121;
+    background-color:#fff;
+}
+
+.mixedbutton
+{
+	float: left;
+	border: 1px solid #e4a25a;
+	cursor:pointer;
+	text-align: center;
+	width: 100%;
+	height: 26px;
+	color: #212121;
+    background-color:#fff;
+}
+
+
+.v_key
+{
+	float: left;
+	border: 1px solid #e4a25a;
+	cursor:pointer;
+	text-align: center;
+	width: 100%;
+	height: 26px;
+	color: #212121;
+	/*width:40px !important;*/
+    margin:0px 0px 3px 0px;
+    background-color:#fff;
+}
+
+.v_key_btn
+{
+	float: left;
+	border: 1px solid #e4a25a;
+	cursor:pointer;
+	text-align: center;
+	width: 100%;
+	height: 26x;
+	color: #212121;  
+    background-color:#fff;
+   
+}
+.tblvirtualkey {
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+}
+.tblvirtualkey td {
+    padding:0px 3px 0px 0px;
+   
+}
+
+/*.key_txt{font-family:Arial, Helvetica, sans-serif; size:18px; color:#333333;padding:3px 5px 3px 5px; font-weight:bold; text-align:center;}*/
+
+
+/* VirtualKeyboard css end*/
+
+/* New Login Design Styles End */
+
+@media screen and (max-width:1024px) {
+    .login .box {
+        margin-left:20px;
+    }
+
+}
+
+@media screen and (max-width:991px) {
+
+    .Loginleftimg {
+        display:none;
+    }
+    .LoginDivider {
+        display:none;
+    }
+    .login .box {
+       /* float:none;
+        margin:0px auto;*/
+    }
+    .Logincontainer {
+        width:auto;
+    }
+    .Virtual_container {
+        float:none;
+        margin:40px 0px;
+        width:auto;
+    }
+}
+@media screen and (max-width:980px) {
+    .login {
+        padding-top:0px;
+    }
+}
+@media screen and (max-width:680px) {
+.Virtual_container {
+    display:none!important;
+  }
+
+.Login_virtual {
+        display:none;
+    }
+
+.Login_forgot {
+       /* margin-left:0px;*/
+    }
+
+
+}
+@media screen and (max-width:679px) {
+    .Login_virtual {
+        display:none;
+    }
+    .Login_forgot {
+        float:left;
+      /*  margin-left:0px;*/
+
+    }
+
+}
+
+@media screen and (max-width:360px) {
+    .form-control {
+        width:90%;
+    }
+    .login .box .form-group {
+        margin-left:29px;
+    }
+ 
+    .Login_forgot {
+    float: left;
+    margin-left:30px;
+    }
+
+    .login .box .inner-box .close {
+        margin-right:38px;
+    }
+    .btn-block {
+        margin-left:29px;
+        width:82.5%;
+    }
+   .login .box {
+       width:auto;
+   }
+
+.login .box .form-actions {
+            background-color: #fff;
+            border-top: none;
+            padding: 10px 0;
+            margin: 0px 30px 0px 30px;
+        }
+
+
+}
+
+/* Login Style CSS Start */
+
+.Loginimg{ width:1366px; margin:65px auto 0px auto; min-height:400px; background:url(../img/loginbg.png) repeat-x left top;}
+.LoginLeft{ width:223px; float:left; height:400px;}
+.Header{ width:100%;}
+
+.LoginGlobe{ width:581px; float:left; margin:45px 0px 0px 29px;}
+.LoginPannel{ width:434px; float:right; margin:-45px 47px 0px 0px; background:url(../img/login_bg.png) no-repeat left top; min-height:422px;}
+.Footer{ width:100%; top:618px; position:absolute}
+.Loginicon{ width:138px; float:right; margin:10px 25px 0px 0px;}
+.LognbgPannel{ background:url(../img/loginbg_drop.png) no-repeat left top; width:369px; min-height:207px; margin:146px 0px 0px 34px;}
+.LoginCompanyDrop{width:334px; float:left; margin:25px 10px 10px 18px;
+}
+.LoginCompanyBranch {width:334px; margin:10px 10px 5px 18px;
+}
+.LoginUser{width:334px; margin:5px 10px 5px 18px; float:left;
+}
+.LoginPass{width:334px; margin:5px 10px 5px 18px; float:left;
+}
+.SignIn1 {background-color:#b8e4f1; border:1px solid #3e6a77; font-family:12px; color:#2d4b54; padding:6px 12px; margin:5px 10px 0px 0px;
+}
+.Cancel1{background-color:#b8e4f1; border:1px solid #3e6a77; font-family:12px; color:#2d4b54;  padding:6px 12px;  margin:5px 0px 0px 0px;
+}
+.SignIn {float:left; width:60px; margin:15px 5px 0px 56px;
+}
+.Cancel{float:left; width:60px; margin:15px 5px 0px 0px;
+}
+.ForGotPass{float:right; width:110px; margin:25px 35px 0px 0px;
+}
+    .ForGotPass a {color:#45afd6!important;
+    }
+/* New Login Style CSS End*/
+
+
+
+
+
+
+
+@media screen and (max-width:320px) {
+    .form-control {
+        width:85%;
+    }
+    .login .box .form-group {
+        margin-left:25px;
+    }
+
+    .Login_forgot {
+    float: left;
+    margin-left: 25px;
+    }
+
+    .login .box .inner-box .close {
+        margin-right:47px;
+    }
+    .btn-block {
+        margin-left:25px;
+        width:78%;
+    }
+
+    .login .box {
+        margin-left:10px;
+    }
+
+
+}
+

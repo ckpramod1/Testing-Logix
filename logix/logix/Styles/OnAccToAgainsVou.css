@@ -1,0 +1,178 @@
+﻿.div_total 
+{
+    width: 750px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 45.2%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_labelReceipt
+{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_receipttxt
+{
+    width: 10%;
+    float: left;
+    margin-left: 63.5%;
+    margin-top: 0.5%;
+}
+.div_receipttxt input, Text
+{
+    width: 100%;
+}
+.div_yeartxt
+{
+    width: 8%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_yeartxt input, Text
+{
+    width: 100%;
+}
+.div_module
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_module input, Select
+{
+    width: 100%;
+}
+.div_title
+{
+    width: 38%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.div_date
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_datetxt
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_datetxt input, Text
+{
+    width: 100%;
+}
+.div_amounttxt
+{
+    width: 12%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 0.5%;
+}
+.div_amounttxt input, Text
+{
+    width: 100%;
+}
+.div_received
+{
+    width: 9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_receivedtxt
+{
+    width: 97%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_receivedtxt input, Text
+{
+    width: 100%;
+}
+
+.div_voucher
+{
+    width: 11%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    
+}
+
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-top: 0%;
+    margin-left:0%;
+    height:215px!important;
+}
+.div_voucher
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    
+}
+.div_voucher input,Text
+{
+    width: 100%;
+}
+.div_TDS
+{
+    width: 15%;
+    float: right;
+    margin-right: 3%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_TDS input,Text
+{
+    width: 100%;
+}
+.div_btn
+{
+    /*width: 45%;*/
+    float: left;
+    margin-left: 85%;
+    margin-top: 0.5%;
+    text-align:right;
+}

@@ -1,0 +1,444 @@
+﻿
+.DivTotal {
+    width: 650px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.DivHeaderlbl
+{
+ font-size:12pt;     
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:1%;
+    margin-top:0.5%;   
+}
+
+.DivBreak
+{
+    clear:both;
+}
+
+.DivMain
+{
+/*background-color:#333399;*/
+background-color:darkblue;
+width:100%;
+height:21px;
+border-bottom :1px solid black;
+font-size:15px;
+font-size-adjust:inherit;
+
+}
+
+.DivButton
+{
+    float:right;
+    margin-top:1%;
+    margin-bottom:1%;
+    margin-right:1.1%;
+}
+
+.DivBLlbl
+{
+width:5%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:1%;
+color:black;
+text-align:left;
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.DivBLTxt
+{
+width:17.8%;    
+height:6%;
+float:left;	
+margin-top:0.5%;	
+/*margin-right:0.2%;*/
+margin-left:1%;
+/*border-radius:inherit*/
+}
+.DivBLTxt input, Text
+{
+     width: 100%;
+}
+.DivBLDatelbl
+{
+width:8%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:1%;
+color:black;
+text-align:left;
+
+}
+
+
+.DivBLDateTxt
+{
+width:48.3%;
+height:6%;
+float:left;	
+margin-top:1%;	
+margin-right:0.2%;
+margin-left:1%;
+}
+
+.DivBLDateTxt
+{
+width:10.5%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:0.5%;
+color:black;
+text-align:left;
+}
+.DivBLDateTxt input, Text
+{
+     width: 100%;
+}
+.DivConSneelbl
+{
+width:48%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+color:black;
+text-align:left;
+margin-left:1%;
+
+}
+
+
+.DivShipperTxt
+{
+width:47.8%;
+/*height:6%;*/
+float:left;	
+/*margin-top:-0.5%;*/	
+margin-left:1%;
+/*margin-right:0.2%;*/
+}
+.DivShipperTxt input,text
+{
+    width:100%
+}
+
+.DivConsneeTxt
+{
+width:49.5%;
+/*height:6%;*/
+float:left;	
+/*margin-top:0.5%;*/	
+margin-left:0.5%;
+/*margin-right:0.2%;*/
+}
+.DivConsneeTxt input,text
+{
+    width:100%
+}
+
+.DivShipperTxt1
+{
+width:47.8%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;	
+margin-left:1%;
+/*margin-right:0.2%;*/
+}
+.DivShipperTxt1 input,text
+{
+    width:100%
+}
+
+.DivConsneeTxt1
+{
+width:49.5%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;	
+margin-left:0.5%;
+/*margin-right:0.2%;*/
+}
+.DivConsneeTxt1 input,text
+{
+    width:100%
+}
+
+.DivShpAreaTxt
+{
+width:47.1%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;	
+margin-left:1%;
+margin-right:0.2%;
+resize:none;
+}
+.DivShpAreaTxt input, Text
+{
+    width: 100%;
+   
+}
+
+.DivConsAreaTxt
+{
+width:48.79%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;	
+margin-left:1%; 
+/*margin-right:0.2%;*/
+resize:none;
+}
+.DivConsAreaTxt input, Text
+{
+    width: 100%;
+   
+}
+
+.DivRecepitlbl
+{
+width:16%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:1%;
+color:black;
+text-align:left;
+
+}
+
+.DivRecepitTxt
+{
+width:47.7%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;	
+/*margin-right:0.2%;*/
+margin-left:1%;
+}
+.DivRecepitTxt input, Text
+{
+    width: 100%;
+   
+}
+.DivLoadinglbl
+{
+width:15.5%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:1%;
+color:black;
+text-align:left;
+
+}
+
+.DivLoadingTxt
+{
+width:49.5%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;	
+/*margin-right:0.2%;*/
+margin-left:0.5%;
+}
+.DivLoadingTxt input,Text
+{
+    width:100%;
+}
+.DivGWlbl
+{
+width:9%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:1%;
+color:black;
+text-align:left;
+
+}
+
+.DivGWTxt
+{
+width:18.5%;
+float:left;	
+margin-left:1%;
+}
+.DivGWTxt input,Text
+{
+    width:100%;
+}
+
+.DivNWlbl
+{
+width:9%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:1%;
+color:black;
+text-align:left;
+
+}
+
+.DivNWTxt
+{
+width:19%;
+/*height:6%;*/
+float:left;	
+/*margin-top:1%;*/	
+/*margin-right:0.2%;*/
+margin-left:0.5%;
+}
+.DivNWTxt input,Text
+{
+    width:100%;
+}
+
+.DivCBMlbl
+{
+width:5%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:1%;
+color:black;
+text-align:left;
+
+}
+
+.DivCBMTxt
+{
+width:27%;
+float:left;	
+margin-left:0.5%;
+}
+.DivCBMTxt input,Text
+{
+    width:100%;
+}
+
+
+.DivPackglbl
+{
+width:9%;
+/*height:13px;*/
+float:left;
+/*margin-top:0.5%;*/	
+margin-left:0.5%;
+
+}
+
+.DivPackgTxt
+{
+width:31.6%;
+float:left;	
+margin-left :0.5%;
+}
+.DivPackgTxt input,Text
+{
+    width:100%;
+}
+
+.DivContFooterlbl
+{
+width:16%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+margin-left:1%;
+color:black;
+text-align:left;
+
+}
+
+.DivContFooterTxt
+{
+width:97%;
+float:left;		
+margin-left:1%; 
+resize:none;
+}
+.DivContFooterTxt input,Text
+{
+    width:100%;
+}
+.DivBLFormatdll
+{
+/*border: 1px solid #c4c4c4;*/
+width:42%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;	
+margin-right:0.2%;
+margin-left:0.5%;
+}
+.DivBLFormatdll input,Text
+{
+    width:100%;
+}
+.DivBLFormatdll1
+{
+/*border: 1px solid #c4c4c4;*/
+width:25.8%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;	
+/*margin-right:1%;*/
+margin-left:0.5%;
+}
+.DivBLFormatdll1 input,Text
+{
+    width:100%;
+}
+.Divcheck
+{
+    float: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 30%;
+}
+
+/*.Text
+{
+     /*border: 1px solid #c4c4c4;*/
+    /*width: 100%;*/
+    /*height: 18px;
+    font-size: 13px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+     }
+    
+   .Text:focus
+{
+	outline: none;
+    border: 1px solid #56f3e5;
+    box-shadow: 0px 0px 8px #56f3e5;
+    -moz-box-shadow: 0px 0px 8px #56f3e5;
+    -webkit-box-shadow: 0px 0px 8px #56f3e5;
+} */

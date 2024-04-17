@@ -1,0 +1,323 @@
+﻿.total{
+    width:650px;
+         margin-top :1%;
+         margin-bottom:1%;
+        background-color:#F8F8F8;
+       -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+       -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+       box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+        height:100%;
+}
+
+.lbl_job
+{
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.txt_job
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:8%;
+}
+.txt_job input
+{
+    width:100%;
+}
+.txt_jobtype
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:23%;
+}
+.txt_jobtype input
+{
+    width:100%;
+}
+.txt_mdoc
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:30%;
+}
+.txt_mdoc input
+{
+    width:100%;
+}
+
+.txt_doc
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:30%;
+}
+.txt_doc input
+{
+    width:100%;
+}
+
+.txt_customer
+{
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;
+    width:49%;
+}
+.txt_customer input
+{
+    width:100%;
+}
+.txt_principal
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:48.1%;
+}
+.txt_principal input
+{
+    width:100%;
+}
+.txt_shipper
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_shipper input
+{
+    width:100%;
+}
+
+.txt_notify
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_notify input
+{
+    width:100%;
+}
+
+.txt_consignee
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_consignee input
+{
+    width:100%;
+}
+
+.txt_pic
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_pic input
+{
+    width:100%;
+}
+
+.txt_mode
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_mode input
+{
+    width:100%;
+}
+.txt_documents
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_documents input
+{
+    width:100%;
+}
+
+.txt_cargo
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_cargo input
+{
+    width:100%;
+}
+
+.txt_volume
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_volume input
+{
+    width:100%;
+}
+
+.txt_pol
+{
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;
+    width:18%;
+}
+.txt_pol input
+{
+    width:100%;
+}
+
+.txt_pod
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:18%;
+}
+.txt_pod input
+{
+    width:100%;
+}
+
+.txt_fd
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:18%;
+}
+.txt_fd input
+{
+    width:100%;
+}
+.txt_packages
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:11.1%;
+}
+.txt_packages input
+{
+    width:100%;
+}
+.txt_netWeight
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:15%;
+}
+.txt_netWeight input
+{
+    width:100%;
+}
+.txt_Grossweight
+{
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    width:10%;
+}
+.txt_Grossweight input
+{
+    width:100%;
+}
+.txt_event
+{
+    margin-left:1%;
+    /*margin-top:0.5%;*/
+    float:left;
+    width:86.1%;
+}
+.txt_event input
+{
+    width:100%;
+}
+.txt_eventDate
+{
+    margin-left:0.5%;
+    /*margin-top:0.5%;*/
+    float:left;
+    width:11%;
+}
+.txt_eventDate input
+{
+    width:100%;
+}
+.txt_remarks
+{
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;
+    width:97.6%;
+}
+.txt_remarks input
+{
+    width:100%;
+}
+
+
+.panel_grd
+{
+    width:100%;
+    margin-left:0%;
+    height:100px;
+    border:1px solid gray;
+}
+
+.Pnl1
+{
+    position: absolute;
+    /*top: 165%;*/
+    /*margin-left:1%;*/
+    width: 30%;
+    /*height: 15%;*/
+    text-align: center;
+    background-color: White;
+    border: solid 3px black;
+    float:left;
+    /*left: 160px;*/
+
+    background-color: #FFFFFF;
+        border-width: 3px;
+        border-style: solid;
+        padding-top: 10px;
+        padding-left: 10px;
+        /*width: 30%;
+        height: 15%;*/
+        margin-left :1%;
+    top: 548px;
+    /*left: 413px;*/
+}
+.div_confirm
+{
+    /*Border:1px solid red;*/
+    width: 100%;
+    float: left;
+    margin-left: 3%;
+    margin-bottom: 1%;
+}

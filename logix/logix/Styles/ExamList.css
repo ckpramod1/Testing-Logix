@@ -1,0 +1,86 @@
+﻿.div_total 
+{
+    width: 950px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_divisionddl{
+
+    width:35%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+
+
+}
+
+.div_divisionddl input,select{
+
+    width:100%;
+}
+
+.div_branchddl{
+      width:24%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_branchddl input,select{
+      width:100%;
+}
+
+.div_fromtxt{
+      width:17%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_fromtxt input,Text{
+      width:100%;
+}
+
+.div_totxt{
+      width:16%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_totxt input,Text{
+      width:100%;
+}
+
+.div_btn
+{
+  
+    float:right;
+    margin-right:1.5%;
+    margin-top:0.5%;
+}
+
+.div_grdviewExemption{
+       width:100%;
+       height:300px;
+    float:left;
+    margin-left:0%;
+    margin-top:0%;
+    overflow:auto;
+}

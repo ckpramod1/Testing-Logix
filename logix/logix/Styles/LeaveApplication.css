@@ -1,0 +1,251 @@
+﻿.div_total 
+{
+   
+}
+
+.lbl_Header1
+{
+    font-size:13pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:0.5%;
+    margin-top:2%;
+    height:13px;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_ddlLocation
+{
+      width:30%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+
+.div_ddlLocation input,select
+{
+     width:100%;
+}
+.div_lnkBut
+{
+      width:11%;
+    float:left;
+    margin-left:45.5%;
+    margin-top:1%;
+}
+
+.div_txtDate {
+      width:13%;
+    float:left;
+    margin-left:55%;
+    margin-top:1%;
+}
+
+.div_txtDate input,Text{
+    width:100%;
+}
+.div_txtName {
+      width:35%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+
+.div_txtName input,Text{
+    width:100%;
+}
+
+.div_designationtxt{
+     width:23%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_designationtxt input,Text{
+    width:100%;
+}
+
+.div_departmentxt{
+     width:26.5%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_departmentxt input,Text{
+    width:100%;
+}
+
+.div_leaveRequired{
+     width:20%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_leaveRequired input,Text{
+    width:100%;
+}
+
+.div_lblday
+{
+   width:5%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+
+.div_ddlGrade
+{
+     width:7%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_ddlGrade input,Text{
+    width:100%;
+}
+
+.div_cboxEl
+{
+     width:7%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_cboxSick
+{
+     width:10%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_cboxCausal
+{
+     width:15%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+
+.div_txtFrom {
+ width:11%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_txtFrom  input,Text{
+    width:100%;
+}
+.div_txtTo {
+ width:11%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_txtTo   input,Text{
+    width:100%;
+}
+
+.div_txtPreperadBy {
+ width:5%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_txtPreperadBy input,Text{
+    width:100%;
+}
+
+.div_lblBoth
+{
+ width:19%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+
+
+.div_txtPurpose {
+ width:18.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtPurpose input,Text{
+    width:100%;
+}
+.div_txtLeaveAddress {
+    width:19%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_txtLeaveAddress input,Text{
+    width:100%;
+}
+
+.div_txtPHone {
+ width:16%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.div_txtPHone  input,Text{
+    width:100%;
+}
+
+.div_txtApprovedBy {
+ width:23%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.div_txtApprovedBy input,Text{
+    width:100%;
+}
+.div_btnNewLeave{
+
+ 
+    float:right;
+    margin-right:1%;
+    margin-top:0.5%;
+    margin-bottom:1%;
+}
+.div_lblApprovedBy
+{
+ width:13%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.div_txtApprovedOn {
+ width:10%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.div_txtApprovedOn input,Text{
+    width:100%;
+}
+
+.div_ddlFor
+{
+     width:15%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+
+
+.div_ddlFor input,select{
+     width:100%;
+}
+
+

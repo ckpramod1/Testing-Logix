@@ -1,0 +1,269 @@
+﻿
+.div_total
+{
+    width: 1030px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    height:470px;
+}
+    .div_total1
+    {
+        border:1px solid black;
+         width :650px;
+         /*height:45px;*/
+         float:left;
+         margin-left:25%;
+           background:white;
+    }
+    .lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.4%;
+   /*margin-top:10px;*/
+}    
+.div_popup_RNotice
+{
+	float: left;
+	width: 650px;
+	
+	background-color:White;
+	margin-top:1%;
+}
+.div_closevoucher_Rnotice
+{
+	cursor: pointer;
+	float: right;
+}
+.div_closevoucher_form
+{
+	cursor: pointer;
+	float: right;
+    
+}
+.div_lbl_hdr
+{
+    background-color: #0061AE;
+    color: White;
+    width: 80%;    
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_topspace
+{
+	margin-top:1%;
+}
+.div_lbl_vslvoy
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+}
+.div_txt_vslvoy
+{
+    width:98%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+    margin-left:1%;
+}
+.div_txt_vslvoy input
+{
+	width:100%;
+}
+.div_lbl_eta
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+}
+.div_txt_eta
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;     
+    margin-left:1%;
+}
+.div_txt_eta input
+{
+	width:100%;
+}
+.div_lbl_etb
+{
+    width:5%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-left:1%;
+}
+.div_txt_etb
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-left:1%;
+}
+.div_txt_etb input
+{
+	width:100%;
+}
+.div_lbl_agent
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+}
+.div_txt_agent
+{
+    width:98%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+    margin-left:1%;
+}
+.div_txt_agent input
+{
+	width:100%;
+}
+.div_lbl_line
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+}
+.div_txt_line
+{
+    width:98%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+    margin-left:1%;
+}
+.div_txt_line input
+{
+	width:100%;
+}
+.div_lbl_hblno
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+}
+.div_ddl_hblno
+{
+    width:66%; 
+    float: left;  
+    margin-top:0.5%; 
+    margin-right:1%;
+    margin-left:1%;
+}
+.div_ddl_hblno input,select
+{
+	width:100%;
+}
+.div_btn_print
+{
+    /*width:9%;*/ 
+    float: right;   
+    margin-right:0.7%;
+    margin-top:0.5%;
+    text-align:center;
+}
+.div_btn_print button
+{
+	width:100%;
+}
+.div_btn_cancel
+{
+    /*width:7%;*/ 
+   float: right;      
+   margin-top:0.5%;
+   margin-bottom:1%;
+   margin-right:0.9%;
+   text-align:center;
+}
+.div_btn_cancel button
+{
+	width:100%;
+}
+.div_grd_job
+{
+	width: 100%; 
+	height:70%;
+	margin-top: 1%;
+	margin-bottom: 1%;	
+	text-align:center;
+	float:left;
+}
+.modalBackground_job
+{
+	background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+	filter: alpha(opacity=70); /* Netscape */
+	-moz-opacity: 0.7; /* Safari 1.x */
+	-khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.div_close
+{
+    /*width: 100%;
+    float: left;
+    text-align: right;
+    cursor: pointer;*/
+     width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:80%;
+            margin-top:1%;
+            /*margin-top:-7.5%;*/
+            border-radius: 90px 90px 90px 90px;
+       
+
+}
+.div_Grd
+{
+    float: left;
+    width: 100%;
+    height: 95%;
+    overflow: auto;
+    margin-top: 2%;
+    font-family:sans-serif;
+    font-size:10pt;   
+    /*overflow-y:scroll;*/
+}
+.div_Grd1
+{
+    float: left;
+    width: 99%;
+    height: 480px;
+    overflow: auto;    
+    font-family: sans-serif;
+    font-size: 10pt;
+    margin-left: 0.5%;
+    margin-bottom:0.5%;
+    margin-top:1%;
+    /*overflow-y:scroll;*/
+}
+.div_frame
+{
+    /*width: 100%;
+    height: 90%;*/
+    width: 250px;
+     Height:355px;
+    
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}

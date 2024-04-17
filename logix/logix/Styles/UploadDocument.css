@@ -1,0 +1,202 @@
+﻿.div_total
+{
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_header
+{
+    width:100%;
+    border:1px solid black;
+     background-color:#333399;
+     color:white ;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.div_Label
+{
+  width:11%;
+  float:left;
+  margin-left:0.5%;
+  text-align:right;   
+  margin-top:0.5%;
+}
+.div_text
+ {
+    width:17.5%;
+    float:left;
+    margin-top:1%;
+    margin-left:0.5%;
+ }
+.div_text input {
+ width:100%;
+ }
+.div_Label_quotation
+{
+  /*width:11.5%;*/
+  margin-top:1.5%;
+  float:left;
+  margin-left:1%;
+  text-align:right;
+}
+.div_txt_Quotation
+{
+    width:37.2%;
+    float:left;
+     margin-top:1%;
+     margin-left:0.5%;
+}
+.div_txt_Quotation input
+{
+    width:100%;
+}
+.div_ddl_doc
+{
+    width:38.6%;
+    float:left;
+     margin-top:0.7%;
+     margin-left:0.5%;
+    
+}
+
+
+#logix_CPH_ddlDoc_chzn {width:100%!important;
+}
+
+.div_ddl_doc select 
+{
+    width:100%;
+}
+.div_ddl_Quotation
+{
+    width:23.5%;
+    float:left;
+     margin-top:0.7%;
+     margin-left:1%;
+}
+.div_ddl_Quotation select
+{
+    width:100%;
+}
+.txtdoc
+{
+     width:30.6%;
+    float:left;
+     margin-top:1%;
+     margin-left:0.5%;
+}
+.txtdoc input
+{
+    width:100%;
+}
+
+
+.txtdocType
+{
+     width:42.5%;
+    float:left;
+     margin-top:1%;
+     margin-left:0.5%;
+}
+.txtdocType input
+{
+    width:100%;
+}
+.div_upload
+{
+  width:97.6%;
+    float:left;
+     margin-top:0.5%;
+     margin-left:1%;
+}
+.div_upload input
+{
+    width:100%;
+}
+
+.div_button
+{
+    
+   
+    float:right;
+margin-right:1%;
+margin-bottom:0.5%;
+margin-top:-0.5%;
+}
+.div_Grid
+{
+width:100%;
+float:left;
+margin-left:0%;
+margin-top:0.2%;
+margin-bottom:1%;
+height:200px;
+border:1px solid gray;
+}
+
+.div_Grid1
+{
+width:590px;
+height:25px;
+float:left;
+margin-bottom:1%;
+  margin-right:1%;
+ margin-top:0%;
+ margin-left:0%;
+ text-transform:uppercase;
+ overflow-y:scroll;
+}
+.GridHeader_my
+{
+       background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:12px;
+     margin-left: -1.5px;   
+    position :absolute ;
+    margin-top:-1.7%;
+   width:975px;
+}
+
+.GridPalICD
+{
+     width:585px; 
+    Height:250px;
+    border:1px solid black;
+    margin-left:0.5%;
+    /*margin-bottom:1%;*/
+    margin-top:1%;
+}
+.myGridHeader
+{
+    background-color:Navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:12px;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+  
+}
+
+.GridHeader_my1
+{
+       background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:12px;
+     margin-left: -1.5px;   
+    position :absolute ;
+    margin-top:-1.7%;
+   width:975px;
+}

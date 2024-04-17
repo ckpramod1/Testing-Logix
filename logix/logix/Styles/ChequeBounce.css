@@ -1,0 +1,281 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 68%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbl 
+{
+    width:6%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_lbl1 
+{
+    width: 6%;
+    float: left;
+    margin-left:10%;
+    margin-top: 1%;
+}
+.div_lbl2 
+{
+    width: 6%;
+    float: left;
+    margin-left:10%;
+    margin-top: 1%;
+}
+.div_lbl3 
+{
+    width:6%;
+    float: left;
+    margin-left:10%;
+    margin-top:1%;
+}
+.div_lbl4
+{
+    width:10%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_lbl5
+{
+    width:10%;
+    float: left;
+    margin-left:55%;
+    margin-top:1%;
+}
+.div_lbl6
+{
+   width:10%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_lbl7
+{
+    width:6%;
+    float: left;
+    margin-left:22%;
+    margin-top:1%;
+}
+.div_lbl7 input, Text
+{
+    width: 99%;
+} 
+.div_lbl8
+{
+    width:6%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_lbl8 input, Text
+{
+    width: 99%;
+} 
+.div_lbl9
+{
+    width:6%;
+    float: left;
+    margin-left:25%;
+    margin-top:1%;
+}
+.div_lbl9 input, Text
+{
+    width: 99%;
+} 
+.div_lbl10
+{
+    width:6%;
+    float: left;
+    margin-left:32%;
+    margin-top:1%;
+}
+.div_lbl11
+{
+    width:10%;
+    float: left;
+    margin-left:21%;
+    margin-top:1%;
+}
+.div_lbl12
+{
+    width:10%;
+    float: left;
+    margin-left:21%;
+    margin-top:1%;
+}
+.div_lbl13
+{
+    width:10%;
+    float: left;
+    margin-left:8%;
+    margin-top:1%;
+}
+.div_lbl7 input, Text
+{
+    width: 99%;
+} 
+.div_txtcheck
+{
+    width:5%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtrec
+{
+    width:5%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtvou
+{
+    width:5%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtreceip
+{
+    width:5%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtreceiv
+{
+    width:63%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtreceiv input, Text
+{
+    width: 99%;
+} 
+/*.div_txtreceiv ,input text
+{
+   width:50%;
+}*/
+.div_txtamount
+{
+    width:21%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtamount input, text
+{
+    width:99%;
+}
+.div_amoun
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_amoun input,text
+{
+    width:100%;
+}
+.div_customer
+{
+    width:30%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_customer input, text
+{
+    width:99%;
+} 
+.div_deduction
+{
+    width:30%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_deduction input, text
+{
+    width:99%;
+} 
+.div_amount
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_amount input,text
+{
+    width:100%;
+}
+.div_amou
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_amou input,text
+{
+    width:100%;
+}
+.div_total
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_total input,text
+{
+    width:100%;
+}
+.div_gridview
+{
+     width:43%;
+    float: left;
+    margin-top:-14.5%;
+    margin-left:43%;
+    height: 200px;
+    overflow: auto;
+}
+.div_remar
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_rema
+{
+    width:74%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_rema input, Text
+{
+    width: 99%;
+} 
+.div_btn
+{
+    width:20%;
+    float:right;
+    margin-right:11%;
+    margin-top:1%;
+}

@@ -1,0 +1,199 @@
+﻿.div_body{
+    width:750px;
+    /*height:500px;*/
+     background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.lbl_head{
+     font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:1%;
+    margin-top:1%;
+}
+.lbl_haw{
+    width:8%;
+    float:left;
+    margin-left:1%;
+    margin-top:1.5%;
+
+}
+.txt_haw{
+    width:69%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.txt_haw input{
+    width:100%;
+    text-transform:uppercase;
+}
+.txt_haw1{
+    width:28%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+.txt_haw1 input {
+    width: 100%;
+}
+.lbl_ship{
+    width:48%;
+    float:left;
+    margin-left:1.5%;
+    margin-top:0.5%;
+}
+.ship_txt
+{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.ship_txt input{
+    width:100%;
+}
+
+.shipcomm_txt
+{
+    width:49%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+.shipcomm_txt input{
+    width:100%;
+}
+.ship_txt1
+{
+    width:48%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+.ship_txt1 input{
+    width:100%;
+}
+.ship_txt1{
+    width:49%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;    
+    }
+.ship_txt1 input{
+    width:100%;
+}
+.ship_txt2
+{
+    width:47.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.ship_txt2 input{
+    width:100%;
+}
+.ship_txt3{
+    width:48.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;    
+    }
+.ship_txt3 input{
+    width:100%;
+}
+.gross
+{
+    width:4%;
+    float:left;
+    margin-left:1.5%;
+    margin-top:1%;
+}
+.gross_txt{
+    width:19%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.gross_txt input {
+    width: 100%;
+}
+.gross_txt1{    
+    width:10%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+.gross_txt2{
+    width:18%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+.gross_txt2 input {
+    width: 100%;
+}
+.charge {
+    width: 9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.commodity{
+    width:10%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:1%;
+}
+.commo_txt{
+    width:38.5%;
+    float:left;
+    margin-left:0.5%;
+    margin-right:1%;
+    margin-top:0.5%;
+}
+.awd{
+    width:13%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.txt_awd
+{
+    width:98%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.radio{
+    width:12%;
+    margin-left:1.5%;
+    margin-top:1%;
+    float:left;
+    text-align:left;
+    margin-bottom:1%;
+    
+}
+.radio1{
+    width:12%;
+    margin-left:1%;
+    margin-top:1%;
+    float:left;
+    margin-bottom:1%;
+}
+.check{
+    width:20%;
+    margin-left:1%;
+    margin-top:1%;
+    float:left;
+    margin-bottom:1%;
+}
+.draft_btn{
+    float:right;
+    margin-right:0.5%;
+    margin-top:1%;
+    margin-bottom:1%;
+}

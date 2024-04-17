@@ -1,0 +1,573 @@
+﻿.div_total
+{
+   width :900px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);     
+}
+.div_lbl_hdr
+{
+    background-color: #0061AE;
+    color: White;
+    width: 99%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbtn_jobno
+{
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+    font-family:sans-serif;
+    font-size:10pt;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.7%;
+   /*margin-top:10px;*/
+}
+.div_txt_jobno
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%; 
+}
+.div_txt_jobno input
+{
+    width: 100%;
+}
+.div_tot_sub
+{
+    width: 99.5%;
+    /*margin-top: 0.5%;*/     
+}
+.div_Sub1
+{
+    width: 70%;
+    float: left;
+}
+.div_Sub2
+{
+    width: 30%;
+    float: left;
+}
+.div_lbl_vessel
+{
+    width: 23%;
+    float: left;
+    margin-top: 0.5%;
+}
+.div_lbl_voyage
+{
+    width: 13%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_lbl_imno
+{
+    width: 16%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_lbl_imdate
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_lbl_eta
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_lbl_etb
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+
+.div_txt_vessel
+{
+    width: 24%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%; 
+}
+.div_txt_vessel input
+{
+    width: 100%;
+}
+.div_txt_voyage
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%; 
+}
+.div_txt_voyage input
+{
+    width: 100%;
+}
+.div_txt_imno
+{
+    width: 15%;
+     float: left;
+    margin-left: 1%;
+    margin-top: 0.5%; 
+}
+.div_txt_imno input
+{
+    width: 100%;
+}
+.div_txt_imdate
+{
+    width: 12%;
+     float: left;
+    margin-left: 1%;
+    margin-top: 0.5%; 
+}
+.div_txt_imdate input
+{
+    width: 100%;
+}
+.div_txt_eta
+{
+    width: 13%;
+     float: left;
+    margin-left: 1%;
+    margin-top: 0.5%; 
+}
+.div_txt_eta input
+{
+    width: 100%;
+}
+.div_txt_etb
+{
+    width: 14%;
+     float: left;
+    margin-left: 1%;
+    margin-top: 0.5%; 
+}
+.div_txt_etb input
+{
+    width: 100%;
+}
+.div_lbl_loadprt
+{
+    width: 23%;
+    float: left;
+    margin-top: 0.5%;
+}
+.div_lbl_dischrgprt
+{
+    width: 31%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_lbl_mblno
+{
+    width: 26%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_lbl_mbldate
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_txt_loadprt
+{
+    width: 24%;
+     float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_loadprt input
+{
+    width: 100%;
+}
+.div_txt_dischrgprt
+{
+    width: 31%;
+     float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_dischrgprt input
+{
+    width: 100%;
+}
+.div_txt_mblno
+{
+    width: 26%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_mblno input
+{
+    width: 100%;
+}
+.div_txt_mbldate
+{
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_mbldate input
+{
+    width: 100%;
+}
+.div_lbl_MLO
+{
+    width: 56%;
+    float: left;
+    margin-top: 0.5%;
+}
+.div_lbl_agent
+{
+    width: 40%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_txt_MLO
+{
+    width: 56%;
+     float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_MLO input
+{
+    width: 100%;
+}
+.div_txt_agent
+{
+    width: 41%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_agent input
+{
+    width: 100%;
+}
+
+.div_lbl_vslimocode
+{
+    width: 23%;
+    float: left;
+    margin-top: 0.5%;
+}
+.div_lbl_cfscode
+{
+    width: 31%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_lbl_cfs
+{
+    width: 40%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+.div_txt_vslimocode
+{
+    width: 24%;
+      float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+
+}
+.div_txt_vslimocode input
+{
+    width: 100%;
+}
+.div_txt_cfscode
+{
+    width: 31%;
+      float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_cfscode input
+{
+    width: 100%;
+}
+.div_txt_cfs
+{
+    width: 41%;
+      float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_cfs input
+{
+    width: 100%;
+}
+.div_lbl_candate
+{
+    /*width: 8%;*/
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_txt_candate
+{
+    width: 9.3%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_txt_candate input
+{
+    width: 100%;
+}
+.div_rbtn_cnsg
+{
+    width: 2%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_rbtn_cnsg input
+{
+    width: 100%;
+}
+.div_lbl_rbtncnsg
+{
+    width: 8%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.div_rbtn_ntfyparty
+{
+    width: 2%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_rbtn_ntfyparty input
+{
+    width: 100%;
+}
+.div_lbl_rbtnntfyparty
+{
+    width: 7%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_rbtn_forwarder
+{
+    width: 2%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_lbl_rbtnforwarder input
+{
+    width: 100%;
+}
+.div_lbl_rbtnforwarder
+{
+    width: 7%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_rbtn_dirctcnsg
+{
+    width: 2%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_lbl_rbtn_dirctcnsg input
+{
+    width: 100%;
+}
+.div_lbl_rbtn_dirctcnsg
+{
+    width: 13%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_grd_contnr
+{
+    width: 100%;
+    float: left;
+    /*margin-left: 1%;*/
+    margin-top: 1%;
+    overflow:auto;
+}
+.div_grd_bldtls
+{
+    width: 98.8%;
+    height: 70%;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    margin-left:0.5%;
+    float: left;
+}
+.div_lbl_entermailid
+{
+    width: 35%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+    height: 15px;
+}
+.div_btn
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right:0.7%;
+    margin-bottom:0.5%;
+    text-align: right;
+    /*padding-left:10%;*/
+}
+.div_btn_send
+{
+    width: 7%;
+    float: left;
+    margin-left: 26%;
+    margin-top: 0.5%;
+}
+.div_btn_send button
+{
+    width: 100%;
+}
+.div_btn_canprfrma
+{
+    width: 13%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_btn_canprfrma button
+{
+    width: 100%;
+}
+.div_btn_can
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_btn_can button
+{
+    width: 100%;
+}
+.div_btn_cancel
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_btn_can button
+{
+    width: 100%;
+}
+.div_popup_job
+{
+    float: left;
+    width: 100%;
+    height: 70%;
+    background-color: White;    
+}
+.div_grd_job
+{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    float: left;
+    height:95%;
+    overflow:auto;
+}
+.div_closevoucher_job
+{
+    cursor: pointer;
+    float: right;
+}
+.modalBackground_job
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.div_close
+{
+    /*width: 100%;
+    float: left;
+    text-align: right;
+    cursor: pointer;*/
+    width:20px; 
+    Height:20px; 
+    border:2px solid white;
+    margin-left:98%;
+    margin-top:-7%;
+    /*margin-top:-7.5%;*/
+    border-radius: 90px 90px 90px 90px;
+}
+.div_Grd
+{
+    float: left;
+    width: 100%;
+    height: 95%;
+    overflow: auto;
+    margin-top: 1%;
+    font-family:sans-serif;
+    font-size:10pt;
+    /*overflow-y:scroll;*/
+}
+.div_frame
+{
+    /*width: 100%;
+    height: 90%;*/
+    width: 200px;
+    Height:305px;   
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}

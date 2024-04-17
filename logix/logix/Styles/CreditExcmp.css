@@ -1,0 +1,11 @@
+﻿.div_total
+{
+    width:900px;
+    /*height:500px;*/
+     background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   
+  
+}

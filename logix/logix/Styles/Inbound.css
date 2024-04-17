@@ -1,0 +1,146 @@
+﻿.div_total
+{
+    width: 700px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+	background-color: #0061AE;
+    color : White ;
+	width: 100%;
+	/*margin-left: 1%;*/
+    font-size:10pt;
+	/*margin-top: 1%;*/
+	/*font-weight: bold;*/
+}
+.div_label
+{
+	width: 15%;
+	height: 10%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2.5%;
+}
+.div_ddlrpt
+{
+	width: 81.5%;
+	height: 12%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2.5%;
+    margin-bottom:1%;
+}
+.div_ddlrpt input, select
+{
+	width: 100%;
+}
+.div_ddlmonth
+{
+	width: 17%;
+	height: 12%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+.div_ddlmonth input, select
+{
+	width: 100%;
+}
+
+
+.div_lblyear
+{
+	width: 4%;
+	height: 10%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2.5%;
+}
+
+.div_ddlyear
+{
+	width: 13%;
+	height: 12%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+.div_ddlyear input, select
+{
+	width: 100%;
+}
+
+
+.div_lblmonth
+{
+	width: 6%;
+	height: 10%;
+	float: left;
+	margin-left: 2.5%;
+	margin-top: 2.5%;
+}
+
+.div_lbltoyear
+{
+	width: 4%;
+	height: 10%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2.5%;
+}
+
+.div_ddltoyear
+{
+	width: 13%;
+	height: 12%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+.div_ddltoyear input, select
+{
+	width: 100%;
+}
+
+.div_Break
+{
+	clear:both;
+}
+
+.div_ButtonExport
+{
+	/*width: 20%;*/
+	float: right; 
+	margin-top: 0.5%;
+	/*margin-left: 0.5%;*/
+}
+
+/*.div_ButtonExport input,button
+{
+	width: 100%;
+	
+}*/
+.div_ButtonCancel
+{
+	/*width: 20%;*/
+	float: right; 
+	margin-top: 0.5%;
+	margin-left: 0.5%;	
+}
+
+/*.div_ButtonCancel input,button
+{
+	width: 100%;
+	
+}*/
+.div_Button
+{
+    float:right;
+	margin-right: 1.5%;
+	width: 66%;
+    margin-top:1%;
+    margin-bottom:1%;
+}

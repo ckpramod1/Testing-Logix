@@ -1,0 +1,215 @@
+﻿
+.divTotal {
+    width: 1020px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   
+}
+.DivBreak
+{
+    clear:both;
+}
+.chkdate
+{
+    float:left;
+    margin-left:1%;
+    width:3%;
+}
+.Header1 {
+    width:100%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_label{
+    width:100%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    text-align:center;
+    color:red;
+}
+.div_vov{
+    width:100%;
+    float:left;
+    margin-left:5%;
+    margin-top:5.5%;
+    text-align:center;
+    color:navy;
+}
+.div_subgroupNametxt{
+
+    width:65%;
+    float:left;
+    margin-left:1.5%;
+    margin-top:1%;
+}
+   
+.div_subgroupNametxt input,Text{
+
+    width:100%;
+}
+.div_table{
+
+    height:50px;
+    width:100%;
+    float:left;
+    margin-top:1%;
+
+}
+.div_left{
+
+    width:20%;
+
+    
+     float:left;
+     margin-left:1%;
+}
+
+.div_right{
+    width:78%;
+    height:50px;
+     float:left;
+}
+.div_cboxLedgerAgeing{
+
+     width:94%;    
+float:left;
+    margin-left:1%;
+    margin-top:1%;
+    font-size:13px;
+
+}
+
+.div_cboxsalesAgeing{
+
+     width:94%;
+   float:left;
+    margin-left:1%;
+   margin-top:0.5%;
+    font-size:13px;
+
+}
+
+.div_branchddl{
+
+    width:17%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:3%;
+    
+}
+
+.div_branchddl select{
+
+    width:100%;
+    height: 22px;
+}
+
+.div_productddl{
+
+     width:17%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:3%;
+    
+
+}
+
+.div_productddl select{
+    width:100%;
+}
+
+.div_salespersontxt{
+
+     width:20%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:3%;
+}
+
+.div_salespersontxt input,Text{
+       width:100%;
+}
+
+.divledgertxt{
+     width:30%;
+    float:left;
+    margin-left:1%;
+    margin-top:3%;
+}
+
+.divledgertxt input,Text{
+       width:100%;
+}
+
+.div_currenceddl{
+     width:12%;
+    float:left;
+    margin-left:1%;
+    margin-top:3%;
+}
+
+.div_currenceddl select{
+       width:100%;
+}
+
+.div_Grdoutnew{
+
+    width:100%;
+    float:left;
+    margin-left:0%;
+    margin-top:0.5%;
+    margin-bottom:1%;
+    height:350px;
+
+    border:1px solid #b1b1b1;
+}
+
+
+.div_Expertbtn{
+    float:left;
+    /*width:10%;*/
+     margin-left:1%;
+     margin-top:1%;
+
+}
+
+.div_Getbtn{
+    /*width:62px;*/
+    float:left;
+     margin-left:6%;
+     margin-top:1%;
+}
+
+.div_Clearbtn{
+    /*width:62px;*/
+    float:left;
+     margin-left:1%;
+     margin-top:1%;
+}
+.back{
+    float:right;
+    margin-right:2%;
+    text-decoration:none;
+    color:red;
+    margin-top:1%;
+}
+.div_test
+{
+    color:Black;
+	cursor:default;
+	text-decoration:none;
+}
+.hide
+{
+    display:none;
+}
+.div_lbl_ecs
+{
+    float: left;
+    text-align: Right;
+}

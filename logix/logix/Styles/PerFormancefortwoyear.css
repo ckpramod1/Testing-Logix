@@ -1,0 +1,204 @@
+﻿.div_total
+{
+        width:700px;
+        height:550px;
+     margin-left: 1%;
+    margin-top: 1%;
+  border:1px solid black;
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 99.5%;
+    /*margin-left: 0.1%;*/
+    /*margin-top: -0.1%;*/
+    /*font-weight: bold;*/
+    padding:2px;
+    font-size:10pt;
+}
+.div_label
+{
+    width: 6%;
+    /*height: 10%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.div_ddlbranch
+{
+    width: 20%;
+    /*height: 12%;*/
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 1.5%;
+}
+.div_ddlbranch input, select
+{
+    width: 100%;
+}
+.div_fyfrom
+{
+    width: 8%;
+    /*height: 10%;*/
+    float: left;
+    margin-left: 1.5%;
+    margin-top: 2%;
+}
+.div_ddlfrom
+{
+    width: 8.5%;
+    /*height: 12%;*/
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 1.5%;
+}
+.div_ddlfrom input, select
+{
+    width: 100%;
+}
+
+.div_fyto
+{
+    width: 6%;
+    /*height: 10%;*/
+    float: left;
+    margin-left:0.2%;
+    margin-top: 2%;
+}
+.div_ddlto
+{
+    width: 9%;
+    /*height: 12%;*/
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 1.5%;
+}
+.div_ddlto input, select
+{
+    width: 100%;
+}
+.div_from
+{
+    width: 6%;
+    /*height: 10%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.div_to
+{
+    width: 5%;
+    /*height: 10%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.div_ButtonView
+{
+    width: 9%;
+    float: left; /* margin-right:1%;*/
+    margin-top: 1.5%;
+    margin-left: 6.5%;
+}
+
+.div_ButtonView input, button
+{
+    width:95%;
+}
+
+.div_Button
+{
+    width: 9%;
+    float: left;
+    margin-top: 1.5%;
+    margin-left: 0.1%;
+}
+.div_Button input, button
+{
+    width: 93%;
+}
+.div_Protitle
+{
+    width: 30.3%;
+    margin-left: 1%;
+    margin-top: 2.5%;
+    float: left;
+    border: 1px solid;
+    border-color: Black;
+    text-align: center;
+     background-color:#0061AE;
+      color:white;
+       font-weight:bold;
+    
+}
+
+.div_title
+{
+    width: 23.2%;
+    margin-top: 2.5%;
+    float: left;
+    border: 1px solid;
+    border-color: Black;
+    text-align: center;
+     background-color:#0061AE;
+      color:white;
+       font-weight:bold;
+    
+}
+.div_title1
+{
+    width: 24.8%;
+    margin-top: 2.5%;
+    float: left;
+    border: 1px solid;
+    border-color: Black;
+    text-align: center;
+     background-color:#0061AE;
+      color:white;
+       font-weight:bold;
+    
+}
+
+.div_Vartitle
+{
+    width: 18.2%;
+    margin-top: 2.5%;
+    float: left;
+    border: 1px solid;
+    border-color: Black;
+    text-align: center;
+     background-color:#0061AE;
+      color:white;
+       font-weight:bold;
+    
+}
+.div_Grid
+{
+    /*width: 97.5%;*/
+    margin-left: 1%;
+    float:left;
+}
+.div_panel
+{
+     width : 683px;
+    height : 400px;
+}
+.div_ButtonExport
+{
+	width: 99%;
+	text-align :right;
+	margin-top: 2.5%;
+
+	
+}
+.div_ButtonExport input,button
+{
+	width: 13%;
+}
+
+.div_Break
+{
+    clear: both;
+}
+

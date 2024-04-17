@@ -1,0 +1,9 @@
+
+error detected by database dll in the Matereceipt report.....
+
+error detected by database dll in the MISSectorWise report.....
+
+
+
+The field name is not known error is in NominationFreehand report..
+

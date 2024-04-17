@@ -1,0 +1,122 @@
+﻿.divTotal {
+    width: 450px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 54%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 9%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    height: 15px;
+}
+.div_lbl
+{
+    width: 4%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_Yearlbl
+{
+    width: 8%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_Title
+{
+    width: 18%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    color:Maroon;
+}
+.div_txt
+{
+    float: left;
+    width: 15%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, text
+{
+    width: 100%;
+    text-align:right;
+}
+
+
+.div_btn
+{
+  
+    float: right;
+    margin-right: 2%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+
+
+.div_Radio
+{
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Radio input, Radio
+{
+    display:inline-block;
+}
+
+.div_ddlmonth
+{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddlmonth input, Select
+{
+    width: 100%;
+}
+.div_ddlcompany
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1.2%;
+    margin-top: 0.5%;
+    min-width:38%;
+}
+.div_ddlcompany input, Select
+{
+    width: 100%;
+}
+.div_ddlbranch
+{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddlbranch input, Select
+{
+    width: 100%;
+}

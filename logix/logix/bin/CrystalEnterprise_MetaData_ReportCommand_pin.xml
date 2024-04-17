@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin xmlns="http://www.crystaldecisions.com/CrystalEnterprise_pin.xsd">
+	<propertybag name="CrystalEnterprise.MetaData.ReportCommand" type="Infoobject" flags="0">
+		<property name="SI_PROGID" type="String" flags="0">CrystalEnterprise.MetaData.ReportCommand</property>
+		<property name="SI_NAME" type="String" flags="0">CrystalEnterprise.MetaData.ReportCommand</property>
+		<property name="SI_PLUGIN_CLASSID" type="String" flags="0">{97A1DB2B-4BA2-4e40-9F2A-284671642212}</property>
+		<property name="SI_PLUGIN_PINFILE" type="String" flags="0">CrystalEnterprise_MetaData_ReportCommand_pin.xml</property>
+		<property name="SI_PARENTID" type="Long" flags="0">27</property>
+		<property name="SI_PLUGIN_VERSION" type="String" flags="0">10.0.0.0</property>
+		<property name="SI_PLUGIN_MUSTCREATEUNDERROOTFOLDER" type="Bool" flags="0">True</property>
+		<property name="SI_PLUGIN_ROOTFOLDERID" type="Long" flags="0">98</property>
+		<property name="SI_PLUGIN_LEVEL" type="Long" flags="0">1</property>
+	</propertybag>
+</plugin>

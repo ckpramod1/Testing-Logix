@@ -1,0 +1,344 @@
+﻿.div_total
+{
+    /*width:67%;*/
+     width :800px;
+  /*height:100%;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 62%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_lbljob
+{
+    /*width: 8%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    }
+.div_txtjob
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtjob input
+{
+    width: 100%;
+}
+.div_lbldate
+{
+    width: 53%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 1%;
+}
+
+.div_Break
+{
+    clear: both;
+}
+.div_lblremark
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtremark
+{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtremark input
+{
+    width: 100%;
+}
+.div_btn
+{    
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-right: 0.5%;
+}
+.div_btncancel
+{ 
+    float: right;
+    margin-right: 1%;
+    margin-top: -0.4%;
+    margin-bottom:1%;
+}
+.div_job
+{
+    width: 18%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_job input, Select
+{
+    width: 100%;
+}
+.div_btnjob
+{
+    width: 60%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_btnupdate
+{
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-right: 0.5%;
+    text-align: right;
+}
+.div_lblvsl
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lblvsl1
+{
+    width: 4%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 0.5%;
+}
+.div_lblvsl2
+{
+    width: 3.5%;
+    float: left;
+    margin-left: 2.5%;
+    margin-top: 0.5%;
+}
+.div_txtvsl
+{
+    width: 62%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtvsl input
+{
+    width: 100%;
+}
+.div_txtvsl1
+{
+    width: 16%;
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txtvsl1 input
+{
+    width: 100%;
+}
+
+.div_txteta
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txteta input
+{
+    width: 100%;
+}
+.div_txtdate
+{
+    width: 18.4%;
+    float: right;
+    margin-right: 1.2%;
+    margin-top: 0.5%;
+}
+.div_txtdate input
+{
+    width: 100%;
+}
+.div_txtport
+{
+    width: 18.3%;
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txtport input
+{
+    width: 100%;
+}
+.div_txtPoD
+{
+    width: 12.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtPoD input
+{
+    width: 100%;
+}
+.div_lbleta
+{
+    width: 2%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtagent
+{
+    width: 78.8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtagent input
+{
+    width: 100%;
+}
+.div_txtmode
+{
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtmode input
+{
+    width: 100%;
+}
+.div_txtmlo
+{
+    width:71.8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtmlo input
+{
+    width: 100%;
+}
+
+.div_txtremarks
+{
+    width:97.7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtremarks input
+{
+    width: 100%;
+}
+
+
+.div_rbt
+{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+.div_close
+{
+    cursor: pointer;
+    float:right;
+}
+.div_popup
+{
+    float: left;
+    width: 100%;
+}
+
+.div_frame
+{
+    width: 100%;
+    height: 90%;
+    float: left;
+    background-color:White;
+    
+}
+.div_Grd
+{
+    float: left;
+    width: 100%;
+    height: 95%;
+    overflow: auto;
+}
+.frames
+{
+    width: 100%;
+    height: 90%;
+}
+.div_button
+{
+     width: 11%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_Grid
+ {
+width:97.8%;
+margin-left :1%;
+margin-top:0.8%;
+margin-bottom :1%;
+height:200px;
+Border :1px solid Black;
+overflow:auto;
+}

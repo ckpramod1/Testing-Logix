@@ -1,0 +1,126 @@
+﻿.div_total
+{
+    
+    width :1000px;
+      background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_lbl_header
+{
+	background-color: #0061AE;
+    color: White;
+    width:  80%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+	clear:both;
+}
+.div_lbl_From
+{
+	/*width: 4%;*/
+	float: left;
+	margin-top: 1%;
+	margin-left: 1%;
+}
+.div_txt_From
+{
+	width: 8%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_txt_From input
+{
+	width: 100%;
+}
+.div_lbl_To
+{
+	/*width: 3%;*/
+	float: left;
+	margin-top: 1%;
+	margin-left: 1%;
+}
+.div_txt_To
+{
+	width: 8%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_txt_To input
+{
+	width: 100%;
+}
+.div_btn_get
+{	
+    margin-left:5%;
+	margin-top: 0.5%;
+	float: left;
+	text-align: center;
+}
+.div_btn_get input, button
+{
+	width: 100%;
+}
+.div_grdFI
+{
+	/*margin-left:1%;*/
+	margin-top: 0.5%;
+	width:99%;
+	margin-left: 1%;
+}
+.div_grdFE
+{
+	/*margin-left:1%;*/
+	margin-top: 0.5%;
+	width:97%;
+	margin-left: 1%;
+}
+.div_btn
+{    
+    float:left;
+    margin-right: 1%;
+    margin-top:0.5%;
+    text-align: center;
+    margin-bottom:1%;
+    margin-left:1%;
+}
+.div_btn_E2E
+{
+	width:73%;
+	margin-top: 0.5%;
+	float: left;
+	text-align: right;
+	margin-right: 1%;
+}
+.div_btn_E2E input, button
+{
+	width: 15%;
+}
+.div_btn_cancel
+{
+	width: 7%;
+	margin-top: 0.5%;
+	float: left;
+	text-align: right;
+}
+.div_btn_cancel input, button
+{
+	width: 100%;
+}

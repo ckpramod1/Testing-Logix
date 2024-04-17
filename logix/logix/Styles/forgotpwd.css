@@ -1,0 +1,51 @@
+﻿       
+         .div_form
+        {
+            width:75%;
+           
+            height:100px;
+        }
+    .div_lbl
+    {
+        width:20%;
+         float:left; 
+            
+         
+         
+         
+          margin-top:1%;
+       
+        
+     }
+     .lbl_Header
+{
+    
+    font-size:10pt;    
+    font-weight:bold;   
+    color:Black;
+    background:pink;
+    width:100%;
+    
+}
+     .div_txtbox
+     {
+       
+        margin-top:1%;
+         width:20%;
+             margin-left:25%;
+     }
+     .div_btn
+     {
+         width:15%;
+         margin-left:40%;
+     }
+     .div_break
+     {
+         clear:both;
+     }
+     .div_Pnl
+     {
+         width:40%;
+         border:1px solid black;
+         height:100px;
+     }

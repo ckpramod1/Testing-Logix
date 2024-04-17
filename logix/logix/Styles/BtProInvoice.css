@@ -1,0 +1,812 @@
+﻿.div_total
+{
+  /*border:1px solid black;*/
+   width :800px;
+  /*height:100%;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);   
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.4%;
+   /*margin-top:10px;*/
+}
+.DivSub
+{
+  /*border:1px solid red;*/
+  width :77.7%;
+  float:left;
+  margin-top:0.5%;
+  margin-left:0.5%;
+  height:100%;
+}
+
+.divSubSide
+{
+ /*border:1px solid green;*/
+  width :21%;
+  float:left;
+  /*margin-top:0.5%;*/
+  height:100%;
+}
+
+.div_Main
+{
+background-color:navy;
+width:100%;
+height:6%;
+font-weight:bold;
+border-bottom :1px solid black;
+}
+
+.div_Break
+{
+    clear:both;
+}
+
+
+.div_hr
+{
+    margin-bottom:1px;
+}
+.lbl_blno
+{
+width:12%;
+float:left;
+margin-left:1%;
+margin-top:1%;	
+text-align :right;
+}
+
+.txt_blno 
+{
+    width: 32%;    
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+
+.txt_blno input
+{
+width:100%;
+}
+
+.txt_blno1
+{
+    width: 30%;    
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+
+.txt_blno1 input
+{
+width:100%;
+}
+
+.chk_mbl 
+{
+    width: 10%;    
+    float: left;
+    margin-top: 1%;    
+}
+
+ .ChkLabelValue
+{
+    font-family:Arial;
+    font-size:9pt;
+    margin-top:-5%;
+    color:DarkBlue;
+    font-weight:normal;
+    text-align:right;
+}
+
+
+ .lbl_mbl
+{
+margin-top:1.8%;
+margin-left :1%;
+float:left;      
+}
+.lbl_mbl input
+{
+width:100%;
+}
+
+.lbl_bltype
+{
+width:10%;
+height:13px;
+float:left;
+/*margin-left:0.5%;*/
+margin-top:1%;
+text-align :right;
+margin-left:0.5%;
+/*border :1px solid red;*/
+}
+
+.ddl_billtype 
+{
+    width:35.5%;
+    float: left;        
+    font: sans-serif;
+    font-size: 8pt;
+    text-transform: uppercase;
+    margin-left: 1%;
+    margin-top:0.3%;
+}
+.ddl_billtype Select
+{
+    width:100%;
+}
+
+.lbl_refno
+{
+width:30%;
+height:13px;
+float:left;
+margin-top:6%;	
+text-align :right;
+margin-right :2%;
+}
+
+.txt_refno 
+{
+    /*width:8.5%;*/
+    width: 75%;    
+    float: left;
+    margin-top: 3.5%;    
+}
+.txt_refno input 
+{
+    width:100%;
+    text-align:right;
+}
+
+ .txt_vouyear 
+{
+    width: 22%;   
+    float: left;
+    margin-top:3.5%;
+    margin-left:2%;    
+}
+
+.txt_vouyear input 
+{
+    width:100%;
+}
+.lbl_to
+{
+width:10%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_to 
+{
+    width: 98.7%;    
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+
+.txt_to input
+{
+width:100%;
+}
+
+.lbl_date
+{
+width:30%;
+height:13px;
+float:left;
+margin-top:4.5%;	
+text-align :right;
+margin-right :1%;
+
+}
+.txt_Date 
+{
+    /*width:17.5%;*/
+    width: 43%;
+    float: right;
+    margin-left: 1%;
+    margin-top: 1.5%;
+    margin-right: 1%;
+}
+.txt_Date input
+{
+    width:100%;
+}
+
+
+.lbl_address
+{
+width:12%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_address
+{    
+    width: 98%;
+    height: 30px;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom:1%;
+}
+
+.txt_address textarea
+{
+width:100%;
+height :100%;
+}
+
+.lbl_vrefno
+{
+width:50%;
+height:13px;
+float:left;
+margin-top:2%;	
+text-align :left;
+}
+
+.lbl_creditdays
+{
+width:45%;
+height:13px;
+float:left;
+margin-top:2%;
+margin-left:1%;	
+text-align :left;
+}
+
+.lbl_jobdetails
+{
+width:12%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_jobdetails 
+{
+    width: 49%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.txt_jobdetails input 
+{
+    width: 100%;
+}
+
+.lbl_destination
+{
+width:13.6%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_destination 
+{
+    width: 49.2%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.txt_destination input
+{
+    width:100%;
+}
+
+.txt_vrefno 
+{
+    width: 98.5%;    
+    float: left;    
+    margin-left:0.5%;
+    margin-top: 2.5%;
+}
+.txt_vrefno input
+{
+    width:100%;
+}
+
+.lbl_shipper
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_shipper
+{
+width:32.8%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_shipper input
+{
+width:100%;
+}
+
+.lbl_agent
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_agent
+{
+width:33.5%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_agent input
+{
+width:100%;
+}
+
+.div_right 
+{
+width :73%;
+float :left;
+/*height:150px;*/
+
+}
+.div_left
+{
+    width: 99.5%;
+    float: right;
+    margin-right:1.5%;
+    margin-top: 1.5%;
+}
+
+.lbl_consignee
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_consignee
+{
+width:32.8%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_consignee input
+{
+width:100%;
+}
+
+
+.lbl_mlo
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_mlo
+{
+width:33.5%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_mlo input
+{
+width:100%;
+}
+
+
+
+.lbl_nparty
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_nparty
+{
+width:32.8%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_nparty input
+{
+width:100%;
+}
+
+
+.lbl_cnf
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_cnf
+{
+width:33.5%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_cnf input
+{
+width:100%;
+}
+
+.lst_cont 
+{
+    width: 100%;
+    height:82px;
+    margin-left: -1%;
+    margin-top: 2.3%;
+}
+
+.lst_vol 
+{
+    width: 100%;
+    height:76px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.lbl_remarks
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_remarks 
+{
+    width: 98.1%;
+    height: 41px;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+}
+
+.txt_remarks textarea 
+{
+    width: 100%;
+    height: 99%;
+}
+
+.div_Button 
+{
+    float: right;
+    height: 6%;
+    margin-right: 0.8%;
+    margin-top: 0.5%;
+}
+
+ /*new*/
+
+        .crg_labels
+        {
+        width:40%;
+        margin-left :2%;
+        height:10%;
+        float:left;
+        margin-top:1%;
+        text-align :Left ;
+        }
+        .curr_labels
+        {
+        
+        width:7%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:1%;
+        text-align :Left ;
+       
+        }
+       .rate_labels
+        {
+        
+        width:10.5%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:1%;
+        text-align :Left ;
+        }
+
+        .exrate_labels
+        {
+        
+        width:7%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:1%;
+        text-align :Left ;
+        }
+         .base_labels
+        {
+        
+        width:10.5%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:1%;
+        text-align :Left ;
+       
+        }
+
+        .amt_labels
+        {
+        
+        width:12%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:1%;
+        text-align :Left ;
+        }
+        .charge_textboxes 
+        {
+            margin-left: 0.7%;
+            width: 41%;            
+            float: left;            
+            margin-top: 0.5%;
+            float: left;
+            font: sans-serif;
+            font-size: 8pt;
+            text-transform: uppercase;
+        }
+        .charge_textboxes input
+        {
+            width :100%;
+        }
+        .curr_textboxes
+        {
+        margin-left :0.5%;
+        width:7%;        
+        float:left;	
+        margin-top:0.5%;
+        float:left;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase ;        
+        }
+        .curr_textboxes input
+        {
+            width :100%;
+        }
+        .rate_textboxes
+        {
+        margin-left :0.5%;
+        width:10.5%;        
+        float:left;	
+        margin-top:0.5%;
+        float:left;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase;
+        text-align:right;
+        }
+        .rate_textboxes input
+        {
+            width :100%;
+            text-align:right;
+        }
+
+        .exrate_textboxes
+        {
+        margin-left :0.5%;
+        width:10%;       
+        float:left;	        
+        margin-top:0.5%;
+        float:left;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase ;
+        }
+        .exrate_textboxes input
+        {
+            width :100%;
+            text-align:right;
+        }
+
+        .ddl_amt
+        {
+        margin-left :0.5%;
+        width:10%;        
+        float:left;	
+        margin-top:0.4%;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase;           
+        }
+        .ddl_amt Select
+        {
+        width:100%;
+        }
+
+        .amt_txt
+        {
+        margin-left :0.4%;
+        width:12.7%;        
+        float:left;	
+        margin-top:0.5%;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase;           
+        text-align:right;
+        }
+        .amt_txt input
+        {
+        width:100%;
+        text-align:right;
+        }
+        .btn_add
+        {
+         float:right;         
+         margin-top :0.5%;
+         margin-right:0.7%;
+         margin-bottom :0.5%;
+        }
+        .hide
+        {
+            display :none;
+        }
+
+.txttotal 
+{
+    float :right;
+    Width:15%;
+    margin-right :1.5%;
+    margin-top :0%;
+    margin-bottom :1%;
+
+
+}
+.txttotal input 
+{
+    width :100%;
+}
+
+.lbl_total
+{
+width:14.5%;
+height:13px;
+float:right ;
+margin-left:1%;
+margin-top:1.3%;	
+text-align :right;
+margin-right :1%;
+
+}
+
+.div_Grid
+{
+    width: 98.5%;
+    float: left;    
+    margin-left:0.7%;    
+    margin-bottom:1%;
+    height:50%;
+    margin-top:0.5%;
+}
+
+.Pnl
+{
+    position: absolute;
+    /*top: 165%;*/
+    /*margin-left:1%;*/
+    width: 30%;
+    height: 15%;
+    text-align: center;
+    background-color: White;
+    border: solid 3px black;
+    float:left;
+    /*left: 160px;*/
+
+    /*background-color: #FFFFFF;*/
+      /*  border-width: 3px;
+        border-style: solid;*/
+        padding-top: 10px;
+        padding-left: 10px;
+        /*width: 30%;
+        height: 15%;*/
+        margin-left :1%;
+    top: 848px;
+    left: 413px;
+}
+.div_confirm
+{
+    /*Border:1px solid red;*/
+    width: 100%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0%;
+}
+
+
+.btn
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    /*-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;*/
+    /*border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;*/
+    color: black;
+}
+.btn:hover
+{
+    cursor: pointer;
+}

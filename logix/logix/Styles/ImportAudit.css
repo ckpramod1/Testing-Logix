@@ -1,0 +1,62 @@
+﻿.div_total 
+{
+    width: 400px;
+    /*height:100%;*/
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+    clear: both;
+}
+.div_radio
+{
+    min-width: 32%;
+    float: left;
+    width: 96.2%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    height: 25%;
+    white-space: nowrap;
+    border:solid 1px;
+    border-color:lightgray;
+}
+.div_radio input, Radio
+{
+    width: 10%;
+    display: inline-block;
+}
+.div_datefrom
+{
+    float: left;    
+    margin-top: 0.7%;
+    margin-left: 1%;
+}
+.div_dateto
+{
+    float: left;  
+    margin-top: 0.7%;   
+    text-align: right;
+    margin-left:45%;
+}
+.div_datetxt
+{
+    float: left;
+    width: 20%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_datetxt input, Text
+{
+    width: 100%;
+}
+.div_btn
+{
+    float: right;    
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    margin-right: 2%;
+    text-align: right;
+}

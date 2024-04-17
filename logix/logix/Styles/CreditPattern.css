@@ -1,0 +1,88 @@
+﻿.div_total 
+{
+    width: 900px;
+    /*height:100%;*/
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+    clear: both;
+}
+.div_module
+{
+    float: left;   
+    margin-top: 0.5%;
+    margin-left: 1%;
+    white-space:nowrap;
+}
+.div_lbl_date
+{
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top: 0.7%;
+    margin-left:3%;
+    margin-right:0.6%; 
+}
+.div_txt_datedrop
+{
+    width: 17%;
+    /*height: 15.5px;*/
+    float: left;
+    margin-left:2%;
+    margin-top: 0.5%;
+    font-family :sans-serif ;
+    font-size :10pt;
+}
+.div_txt_datedrop input
+{
+    width:100%;
+    /*height :100%;*/
+}
+.div_Grid
+{
+    width:100%;
+    height:350px;
+    float: left;
+    /*margin-left: 1%;*/
+    margin-top: 0%;
+    overflow: auto;
+    border:solid 1px #b1b1b1;
+    margin-bottom:0%;
+    margin-left:0%;
+}
+.div_Grid1
+{
+    width:99.7%;
+    height:60px;
+    float: left;
+    /*margin-left: 1%;*/
+    margin-top: -1.5%;
+    overflow: auto;
+    /*border:solid 1px;*/
+}
+.div_Grid2
+{
+    width:99.7%;
+    height:150px;
+    float: left;
+    /*margin-left: 1%;*/
+    margin-top: -1.5%;
+    overflow: auto;
+    /*border:solid 1px;*/
+}
+.div_chat 
+{
+    width: 99%;
+    height: 180px;
+    margin-left:2%;
+}
+.div_btn
+{    
+    float:right;
+    margin-right: 0.6%;   
+    text-align: right;    
+}

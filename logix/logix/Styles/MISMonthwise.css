@@ -1,0 +1,160 @@
+﻿.div_Main
+{
+	background-color: #0061AE;	
+    color : White;
+	width: 90%;
+	margin-left: 1%;
+	margin-top: 1%;
+	font-weight: bold;
+}
+.div_total 
+{
+    width: 900px;
+    /*height:100%;*/
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+	clear:both;
+}
+.div_branchddl
+{
+	/*width: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_branchddl input, Select
+{
+    width:100%;
+}
+.div_moduleddl
+{
+	/*width: 11%;*/
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_moduleddl input, Select
+{
+    width:100%;
+}
+.div_branch
+{
+	width: 4%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.8%;
+}
+.div_month
+{
+	width: 5%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_frommonth
+{	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.8%;
+}
+.div_monthddl
+{
+	/*width: 9%;*/
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_monthddl input, Select
+{
+    width:100%;
+}
+.div_year
+{
+	/*width: 3%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.8%;
+}
+.div_yearddl
+{
+	width: 7%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_yearddl input, Select
+{
+    width:100%;
+}
+
+.div_btnExport
+{
+	width: 79%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	text-align:right;
+}
+.div_btn
+{	
+	float: right;
+    margin-right:0.8%;
+	margin-top: 0.5%;
+}
+.div_Grid
+{
+	width: 100%;
+    height:370px;
+	margin-left:0%;
+	margin-top:0%;
+    overflow:auto;
+}
+.div_test
+{
+    color:Black;
+	cursor:default;
+	text-decoration:none;
+}
+.div_test:hover
+{
+    color:Red;
+	cursor:pointer;
+	text-decoration:underline;
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    float: right;
+    cursor: pointer;
+}
+
+.div_frame
+{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width: 100%;
+    height: 90%;
+    float: left;
+    vertical-align: top;
+}
+.div_Grd_popup
+{
+    float: left;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}

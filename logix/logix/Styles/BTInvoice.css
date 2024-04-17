@@ -1,0 +1,293 @@
+﻿.div_total {
+    width: 700px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1 {
+    font-size: 12pt;
+    font-family: sans-serif;
+    text-align: left;
+    color: navy;
+    margin-left: 1%;
+}
+
+.div_Break {
+    clear: both;
+}
+
+.div_shippbilltxt {
+    width: 35%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+
+    .div_shippbilltxt input, Text {
+        width: 100%;
+    }
+
+.div_jobtxt {
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_jobtxt input, Text {
+        width: 100%;
+    }
+
+.div_billType {
+    width: 22%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_billType input, select {
+        width: 100%;
+    }
+
+.div_invtxt {
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_invtxt input, Text {
+        width: 100%;
+    }
+
+.div_invtxt1 {
+    width: 7.9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_invtxt1 input, Text {
+        width: 100%;
+    }
+
+.div_totxt {
+    width: 78%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_totxt input, Text {
+        width: 100%;
+    }
+
+.div_datetxt {
+    width: 18.9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_datetxt input, Text {
+        width: 100%;
+    }
+
+.div_fromporttxt {
+    width: 38%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_fromporttxt input, Text {
+        width: 100%;
+    }
+
+.div_Toporttxt {
+    width: 39%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_Toporttxt input, Text {
+        width: 100%;
+    }
+
+.div_creditApprovaltxt {
+    width: 18.9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_creditApprovaltxt input, Text {
+        width: 100%;
+    }
+
+.div_etdtxt {
+    width: 48%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_etdtxt input, Text {
+        width: 100%;
+    }
+
+.div_etatxt {
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_etatxt input, Text {
+        width: 100%;
+    }
+
+.div_remarkstxt {
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_remarkstxt input, Text {
+        width: 100%;
+    }
+
+.div_btn {
+    /*width: 13%;*/
+    float: right;
+    margin-right:1%;
+    /*margin-left: 65%;*/
+    margin-top: 1%;
+}
+
+.div_venderReftxt {
+    width: 18.5%;
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 1%;
+}
+
+    .div_venderReftxt input, Text {
+        width: 100%;
+    }
+
+.div_grdInvoice {
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    border:1px solid gray;
+}
+
+.div_totaltxt {
+    width: 13.9%;
+    float: left;
+    margin-left: 85%;
+    margin-top: 1%;
+}
+
+    .div_totaltxt input, Text {
+        width: 100%;
+    }
+
+.div_right {
+    width: 19%;
+    height: 50px;
+    float: left;
+    margin-top: 0.5%;
+}
+
+.div_left {
+    width: 80%;
+    height: 50px;
+    float: left;
+    margin-top: 0.5%;
+}
+
+.div_charedescriptiontxt {
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+    .div_charedescriptiontxt input, Text {
+        width: 100%;
+    }
+
+.div_currtxt {
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+    .div_currtxt input, Text {
+        width: 100%;
+    }
+
+.div_ratetxt {
+    width: 13%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+    .div_ratetxt input, Text {
+        width: 100%;
+    }
+
+.div_exratetxt {
+    width: 11%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+    .div_exratetxt input, Text {
+        width: 100%;
+    }
+
+.div_baseddl {
+    width: 13%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+    .div_baseddl input, select {
+    }
+
+.div_amouttxt {
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+    .div_amouttxt input, Text {
+        width: 100%;
+    }
+
+.div_btnAdd {
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+.div_btndelSave {
+    float: right;
+    margin-right: 1%;
+    margin-top: 1%;
+}

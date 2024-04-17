@@ -1,0 +1,236 @@
+﻿.div_total
+{
+   width :550px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);     
+}
+.div_lbl_hdr
+{
+    background-color: #0061AE;
+    color: White;
+    width: 70%;    
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.div_lbl_blno
+{
+    width:34%; 
+    float: left;  
+    margin-top:0.5%; 
+ 
+}
+.div_lbl_vessel
+{
+    width:34%; 
+    float: left;  
+    margin-top:0.5%; 
+   margin-left:1%;
+}
+.div_txt_blno
+{
+	width:48%; 
+    float: left; 
+    margin-top:0.5%;
+    margin-left: 1%;
+    margin-top: 1.5%;      
+}
+.div_txt_blno input
+{
+	width:100%;
+}
+.div_txt_vessel
+{
+	width:48.5%; 
+    float: left;     
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_txt_vessel input
+{
+	width:100%;
+}
+.div_lbl_shpr
+{
+    width:69%; 
+    float: left;  
+    margin-top:0.5%; 
+ 
+}
+.div_txt_shpr
+{
+    width:97.5%; 
+    float: left;  
+    margin-left: 1%;
+    margin-top: 0.5%;  
+}
+.div_txt_shpr input
+{
+	width:100%;
+}
+.div_lbl_consignee
+{
+    width:69%; 
+    float: left;  
+    margin-top:0.5%;  
+}
+.div_txt_consignee
+{
+    width:97.5%; 
+    float: left;  
+     margin-left: 1%;
+    margin-top: 0.5%; 
+}
+.div_txt_consignee input
+{
+	width:100%;
+}
+.div_lbl_agent
+{
+    width:69%; 
+    float: left;  
+    margin-top:0.5%; 
+}
+.div_txt_agent
+{
+    width:97.5%; 
+    float: left;  
+    margin-left: 1%;
+    margin-top: 0.5%;  
+}
+.div_txt_agent input
+{
+	width:100%;
+}
+.div_lbl_prtofrcpt
+{
+    width:34%; 
+    float: left;  
+    margin-top:0.5%;  
+}
+.div_lbl_prtoflodng
+{
+    width:34%; 
+    float: left;  
+    margin-top:0.5%; 
+   margin-left:1%;
+}
+.div_txt_prtofrcpt
+{
+	width:48%; 
+    float: left; 
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_prtofrcpt input
+{
+	width:100%;
+}
+.div_txt_prtoflodng
+{
+	width:48.5%; 
+    float: left;     
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_prtoflodng input
+{
+	width:100%;
+}
+
+.div_lbl_prtofdstn
+{
+    width:34%; 
+    float: left;  
+    margin-top:0.5%; 
+}
+.div_lbl_finaldstn
+{
+    width:34%; 
+    float: left;  
+    margin-top:0.5%; 
+   margin-left:1%;
+}
+.div_txt_prtofdstn
+{
+	width:48%; 
+    float: left; 
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_prtofdstn input
+{
+	width:100%;
+}
+.div_txt_finaldstn
+{
+	width:48.5%; 
+    float: left;     
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_finaldstn input
+{
+	width:100%;
+}
+.div_btn
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right:1.1%;    
+    margin-bottom:1%;
+    margin-top:1%;
+    text-align: right;
+    /*padding-left:10%;*/
+}
+.div_btn_send
+{
+	 width:8%;
+	 float:left;
+	 margin-left:47.5%;
+	 text-align:right;
+	  margin-top:0.5%;
+}
+.div_btn_save button
+{
+	width:100%;
+}
+.div_btn_view
+{
+	 width:6%;
+	 float:left;
+	 margin-left:1%;
+	 text-align:right;
+	  margin-top:0.5%;
+}
+.div_btn_view button
+{
+	width:100%;
+}
+.div_btn_cancel
+{
+	 width:6%;
+	 float:left;
+	 margin-left:1%;
+	 text-align:right;
+	  margin-top:0.5%;
+}
+.div_btn_cancel button
+{
+	width:100%;
+}

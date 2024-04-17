@@ -1,0 +1,176 @@
+﻿.div_totalnew
+{
+    width:750px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_total
+{
+    margin-left:1%;
+    margin-top:1%;
+    width:500px;
+    border:1px solid black;
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 99.5%;
+    /*margin-left: 0.1%;*/
+    /*margin-top: -0.1%;*/
+    /*font-weight: bold;*/
+    padding:2px;
+    font-size:10pt;
+}
+.div_label
+{
+    width: 10%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1.5%;
+}
+.div_label1
+{
+    /*width: 10%;*/
+    float: left;
+    margin-left: 2%;
+    margin-top: 1.5%;
+    height: 15px;
+}
+.div_division
+{
+    width: 43%;
+    margin-left: 2.5%;
+    margin-top: 1.5%;
+    float: left;
+}
+.div_division input, select
+{
+    width: 100%;
+}
+.div_branch
+{
+    width: 30.3%;
+    margin-left: 2%;
+    margin-top: 1.5%;
+    float: left;
+}
+.div_branch input, select
+{
+    width: 100%;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_product
+{
+    width: 22%;
+    margin-left: 2.5%;
+    margin-top: 1.5%;
+    float: left;
+}
+.div_product input, select
+{
+    width: 100%;
+}
+.div_fromlbl
+{
+    width: 4%;
+    float: left;
+    margin-left: 2.5%;
+    margin-top: 1.5%;
+}
+.div_tolbl
+{
+    /*width: 5%;*/
+    float: left;
+    margin-left: 2.5%;
+    margin-top: 1.5%;
+}
+.div_txtfrom
+{
+    width: 12%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1.5%;
+}
+.div_txtfrom input, Text
+{
+    width: 100%;
+}
+/*.div_buttton
+{
+    /*width: 17%;
+    float: left;
+    margin-left: 5.5%;
+    margin-top: 1.5%;
+    text-align: right;
+
+    width: 10%;
+	float: left; /* margin-right:1%;
+	margin-top: 2.5%;
+	margin-left: 1.5%;
+    height: 20px;
+}
+.div_buttton input, submit
+{
+    width:75%;
+   
+}*/
+.div_btn_View
+{
+	width: 9%;
+	float: left; /* margin-right:1%;*/
+	margin-top: 1.5%;
+	margin-left: 3.5%;
+    height: 20px;
+}
+
+.div_btn_View input,submit
+{
+	width: 100%;
+	
+}
+.div_btn_Canel
+{
+    
+	width: 9.5%;
+	float: left; /* margin-right:1%;*/
+	margin-top: 1.5%;
+	margin-left: 0.5%;
+	
+}
+.div_btn_Canel input,submit
+{
+    width: 100%;
+}
+
+.div_Grid
+{
+    width: 97%;
+    float: left;
+    margin-left: 1.5%;
+    margin-top: 1.5%;
+    margin-bottom: 1%;
+}
+.div_ship
+{
+    width: 70%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1.5%;
+    font-size:13pt;
+}
+.LabelValue1
+{
+
+ font-family: sans-serif;
+    font-size: 13px;
+    color: Black;
+    font-weight: normal;
+   color:#fb4242;
+    }

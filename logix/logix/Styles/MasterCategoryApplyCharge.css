@@ -1,0 +1,39 @@
+﻿.Div_total
+{
+     width :750px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.txt_categ
+{
+    width:97%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+
+}
+.txt_categ input,Text
+{
+    width:100%;
+}
+.Gridpln
+{
+      width:100%;
+    height:215px;
+    /*border:1px solid black;*/
+    margin-bottom:0%;
+    margin-top:0%;
+    margin-right:0%;
+    margin-left:0%;
+    overflow:auto;
+    border:1px solid #b1b1b1;
+}
+.div_btn
+{
+    float:right;
+    margin-right:2%;
+    margin-top:0.5%;
+    text-align:center;
+}

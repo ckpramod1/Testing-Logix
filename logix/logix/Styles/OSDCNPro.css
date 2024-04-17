@@ -1,0 +1,220 @@
+﻿
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.7%;
+   /*margin-top:10px;*/
+}
+.div_total
+{
+  /*border:1px solid black;*/
+  /*width :50%;*/
+   width :700px;
+  /*height:100%;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+.div_Main
+{
+background-color:navy;
+width:100%;
+height:6%;
+font-weight:bold;
+border-bottom :1px solid black;
+}
+
+.lbljobno
+{
+width:6%;
+float:left;
+margin-left:1%;
+margin-top:1.3%;	
+text-align :left ;
+/*Border:1px solid red;*/
+
+}
+
+.txtjobno
+{
+width:12%;
+float:left;	
+margin-left:1%;
+margin-top:1%;	
+}
+.txtjobno input 
+{
+width :100%;
+}
+
+.lbl_refno
+{
+width:6%;
+float:left;
+margin-left:16%;
+margin-top:1.3%;	
+text-align :right;
+
+}
+.txt_refno
+{
+width:10.25%;
+float:left;	
+margin-left:22.5%;
+margin-top:1%;	
+}
+.txt_refno input 
+{
+width:100%;
+}
+
+.txt_vouyear 
+ {
+width:8%;
+float:left;	
+margin-left:1%;
+margin-top:1%;	
+}
+
+.txt_vouyear input 
+{
+width:100%;
+}
+
+.lblagent
+{
+width:6%;
+float:left;
+margin-left:1%;
+margin-top:1.3%;	
+text-align :left ;
+}
+
+.txtagent
+{
+width:47.6%;
+height :45px;
+float:left;	
+margin-left:1%;
+margin-top:0.8%;
+/*border:2px solid red;*/
+}
+
+.txtagent textarea
+{
+width:100%;
+height:100%
+}
+
+.txtagent1
+{
+width:48.2%;
+height :45px;
+float:left;	
+margin-left:1.3%;
+margin-top:0.8%;
+/*border:2px solid red;*/
+}
+
+.txtagent1 textarea
+{
+width:100%;
+height:100%
+}
+
+.lblshipmentdetails
+{
+width:18%;
+float:left;
+margin-left:43.5%;
+margin-top:0.5%;	
+text-align :left;
+}
+
+.lbldebitadv
+{
+width:6%;
+float:left;
+margin-left:1%;
+text-align :left ;
+}
+
+.div_Grid
+{
+width:98%;
+margin-left :1%;
+margin-top:0.5%;
+margin-bottom :1%;
+margin-right :2%;
+height:100px;
+Border :1px solid Gray;
+float :left;
+}
+
+.txttotal 
+{
+    float :left;
+    Width:10%;
+    margin-right :1.5%;
+    margin-top :1%;
+    margin-bottom :1%;
+    text-align:right;
+}
+
+.txttotal input 
+{
+    width :100%;
+}
+
+.lbl_total
+{
+width:14.5%;
+height:13px;
+float:left ;
+margin-left:73%;
+margin-top:1.3%;	
+text-align :right;
+margin-right :1%;
+
+}
+
+.lbl_forref
+{
+width:15%;
+float:left;
+margin-left:29%;
+margin-top:1.3%;	
+text-align :center ;
+color :red;
+
+  font-family:Arial;
+    font-size:9pt;
+    font-weight :bold;
+
+}
+
+ .div_Button
+{
+float:right;
+margin-right:1.2%;
+margin-bottom :1%;
+margin-top :0.5%;
+    height: 21px;
+}
+
+
+ /*.div_Button
+{
+
+float:right;
+height:6%;
+margin-right:0.8%;
+
+}*/

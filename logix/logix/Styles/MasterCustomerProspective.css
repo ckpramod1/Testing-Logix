@@ -1,0 +1,211 @@
+﻿     
+.WH_labelstart
+{
+    /*border:1px solid white;*/
+  /*  width: 41%;*/
+  width:87%;
+    height: 10%;
+    float: left;
+  margin-left: 2%;
+    margin-top: 0.5%;
+     text-transform:uppercase;
+}
+.WH_labelstart input
+{
+    width:99.5%;
+}
+.WH_labelarea
+{
+   
+    width: 15%;
+    height: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.labels
+{
+  
+     margin-left: 1%;
+    width:10%;
+    height: 16px;
+    float: left;
+    text-align:right;
+    margin-top: 1%;
+    font-size: 10pt;
+    font-family:Arial;
+}
+
+.labels_mail
+{
+  
+     margin-left: 7%;
+    width:50%;
+    height: 16px;
+    float: left;
+    color:Maroon ;
+    text-align:left;
+    margin-top: 1%;
+    font-size: 10pt;
+    font-family:Arial;
+  
+
+}
+.labels_bname
+{
+  
+     margin-left: 1%;
+    width:13%;
+    height: 16px;
+    float: left;
+   text-align:right;
+    margin-top: 1%;
+    font-size: 10pt;
+    font-family:Arial;
+}
+.textboxes
+{
+    /*border:1px solid black;*/
+    width: 91%;
+    height: 10%;
+    float: left;
+   /* margin-left: 1%;*/
+    margin-top: 0.5%;
+    font-family:sans-serif;
+    text-transform:uppercase;
+    font-size:9pt;
+}
+.textboxes input
+{
+    width:99%;
+}
+.div_form
+{
+    border:1px solid black;
+     width:85%;
+     height :100%;
+   
+    
+}
+.txtUnit
+{
+    width:35.5%;
+    float:left;
+     margin-left: 1.99%;
+      margin-top: 1%;
+}
+.txtUnit input
+{
+    width:99%;
+}
+.txtDoor
+{
+    width:10%;
+    float:left;
+     margin-left: 1.99%;
+      margin-top: 1%;
+}
+.txtDoor input
+{
+    width:99%;
+}
+.txtBuilding
+{
+    width:61.01%;
+   float:right;
+ 
+    /* margin-left: 2.105%;*/
+      margin-top: 1%;
+}
+.txtBuilding input
+{
+    width:99.4%;
+}
+.header
+{
+    background-color: #333399; 
+    border:1px solid black;
+    width: 100%;
+    color:White;
+   /* margin-left: 1%;*/
+   /* margin-top: 1%;*/
+}
+.button
+{
+   /* width: 14%;
+    height: 10%;
+    float: left;
+    margin-left: 80%;
+    margin-top: 0.5%;
+    text-align:right;
+    margin-bottom :1%;*/
+     float:right;
+margin-right:1%;
+margin-bottom:0.1%;
+margin-top:0.1%;
+
+}
+.div_lst
+{
+    width:25%;
+    float:left;
+   
+    margin-left:1%;
+    margin-top:0.5%; 
+   
+}
+.labelsstd
+{
+    width: 7%;
+    height: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: left;
+     font-size: 10pt;
+    font-family:Arial;
+}
+.labelsdistrict
+{
+
+    width: 15.5%;
+    height: 10%;
+    float: left;
+   /* margin-left: 1%;
+    margin-top: 0.5%;*/
+    font-size: 14px;
+}
+.div_break
+{
+    clear:both;
+}
+.div_Grid
+{
+width:99%;
+margin-left:1%;
+margin-top:0.2%;
+margin-bottom:0%;
+}
+
+.div_ddl
+{
+    width: 40.3%;
+    height: 10%;
+    float: left;
+  /*  margin-left: 1%;*/
+    margin-top: 0.5%;
+    
+}
+.div_ddl select 
+{
+    width:100%;
+}
+.divCkeckbox
+{
+    width:96%;
+    border:1px solid black;
+   
+    height:220px;
+    margin-top:1%;
+    
+}

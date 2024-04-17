@@ -1,0 +1,227 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 65%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+
+.div_Break
+{
+    clear: both;
+}
+.div_bl
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_mbl
+{
+    width: 3%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt input, Text
+{
+    width: 100%;
+}
+.div_jobtxt
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_jobtxt input, Text
+{
+    width: 100%;
+}
+.div_booking
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_booktxt
+{
+    width: 10.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_booktxt input, Text
+{
+    width: 100%;
+}
+.div_carriertxt
+{
+    width: 28%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_carriertxt input, Text
+{
+    width: 100%;
+}
+.div_marktxt
+{
+    width: 57%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_marktxt input, Text
+{
+    width: 100%;
+}
+.div_submain
+{
+    width: 65%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    float:left;
+    height: 100px;
+}
+.div_hbl_sub
+{
+    width: 51%;
+    margin-top: 1%;
+    float:left;
+    height:120px;
+}
+.div_container_sub
+{
+    width: 49%;
+    margin-top: 1%;
+    float:left;
+    height:112px;
+}
+.div_hbl
+{
+    width: 22%;
+    float: left;
+    margin-left: 1%;
+ 
+}
+.div_hbltxt
+{
+    width: 44%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+   
+}
+.div_hbltxt input, Text
+{
+    width: 100%;
+}
+.div_hblchk
+{
+    width: 29%;
+    float: left;
+    margin-left: 1%;
+}
+.div_scac
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align:right;
+}
+.div_scactxt
+{
+    width: 18%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_scactxt input, Text
+{
+    width: 100%;
+}
+.div_htctxt
+{
+    width: 76%;
+    float: left;
+    margin-left: 1%;
+     margin-top: 1%;
+   
+}
+.div_htctxt input, Text
+{
+    width: 100%;
+}
+.div_Grid
+{
+    float: left;
+    width: 98%;
+    margin-top: 1%;
+    margin-left: 3%;
+    height:98%;
+    overflow:auto;
+}
+.div_customer
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_customer_right
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_customertxt
+{
+    width: 24%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_customertxt input, Text
+{
+    width: 100%;
+}
+.div_customeraddresstxt
+{
+    width: 24%;
+    float: left;
+    margin-left: 9%;
+    margin-top: 0.5%;
+}
+.div_customeraddresstxt input, Text
+{
+    width: 100%;
+}
+.div_btn
+{
+    width: 65%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_btn input, submit
+{
+    width: 9%;
+    margin-left: 2%;
+}

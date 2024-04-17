@@ -1,0 +1,231 @@
+﻿.div_lblheader
+{
+    background-color:#66ccff;
+    width: 58%;
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+    height: 13px;
+}
+.div_lbl_sec
+{
+    width: 11%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: right;
+}
+.div_lbl_tds
+{
+    width: 11%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: right;
+}
+.div_txt_Department
+{
+    width: 46%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+}
+.div_txt_Department INPUT
+{
+    width: 100%;
+}
+
+.div_break
+{
+    clear: both;
+}
+
+
+.buy_btn
+{
+    /*width: 98.5%;*/
+    float: right;
+    margin-right:1%;
+    /*margin-top: 2%;*/
+    text-align: right;
+    /*height: 20px;*/
+    /*margin-bottom :2%;*/
+}
+
+.div_Button
+{
+    margin-top :1%;
+ float:right;
+ margin-right:1%;
+
+}
+/*.buy_btn input, button
+{
+    width: 10%;
+    margin-left: 0.5%;
+}*/
+.div_txt_desc
+{
+    width: 46%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+}
+
+/*.btn
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;
+    color: black;
+}*/
+
+.div_total
+{
+  
+    width:750px;
+  
+    BORDER :none ;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+
+}
+.div_txt_desc INPUT
+{
+    width: 100%;
+}
+.div_lbl_tdstype
+{
+    width: 11.1%;
+    height: 13px;
+    float: left; 
+    margin-top: 1%;
+    text-align: right;
+    margin-left:0%;
+    margin-left:1%;
+}
+.div_ddl_cmbType
+{
+    width: 98%;
+    height: 18px;
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+  
+}
+.div_ddl_cmbType select
+{
+    width: 100%;
+}
+
+.div_lbl_slap
+{
+    width: 11.1%;
+    height: 13px;
+    float: left; 
+    margin-top: 1%;
+    text-align: right;
+   margin-left:1%;
+}
+
+
+
+.div_ddl_cmbSlab
+{
+   width: 98%;
+    height: 18px;
+    float: left;
+    margin-top: 1%;
+    margin-left:1%;
+    margin-bottom:0.4%;
+}
+
+
+.div_ddl_cmbSlab select
+{
+    width: 100%;
+}
+.div_lbl_tdsper
+{
+    width: 11%;
+    height: 10%;
+    float: left; 
+    margin-top: 1%;
+    text-align: right;
+    margin-left:1%;
+}
+.div_txt_Percent
+{
+    width: 46%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+}
+.div_txt_Percent INPUT
+{
+    width: 100%;
+}
+.div_grd
+{
+    width: 97%;
+    margin-top:-2%;
+    margin-bottom:1%;
+     margin-left:1%;
+     text-transform:uppercase;
+     /*overflow-y:scroll;*/
+}
+/*.div_grd input
+{
+    width: 98%;
+}*/
+.GridHeader_my
+{
+     
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-1.5%
+   
+}
+
+.div_TB
+{
+    /*border:1px solid black;*/
+width:97.8%;
+height:30%;
+float:left;	
+margin-left:1%;
+margin-top:1%;
+}
+.div_TB input
+{
+   width:100%;  
+}
+
+.div_TB1
+{
+    /*border:1px solid black;*/
+width:97.8%;
+height:30%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+.div_TB1 input
+{
+   width:100%;  
+}

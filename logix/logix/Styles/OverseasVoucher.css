@@ -1,0 +1,74 @@
+﻿.div_total 
+{
+    width: 400px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_branchddl{
+
+    width:97%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_branchddl input,select{
+    width:100%;
+}
+
+.div_voucherTypeddl{
+   width:97%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.div_voucherTypeddl input,select{
+     width:100%;
+}
+
+.div_fromtxt{
+       width:20%;
+    float:left;
+    margin-left:53.5%;
+    margin-top:1%;
+}
+
+.div_fromtxt input,Text{
+      width:100%;
+}
+
+.div_totxt{
+       width:20%;
+    float:left;
+    margin-left:4%;
+    margin-top:1%;
+}
+
+.div_totxt input,Text{
+     width:100%;
+}
+
+.div_btn{
+
+    float:right;
+    margin-right:2%;
+    margin-top:1%;
+}
+

@@ -1,0 +1,113 @@
+﻿ /*.DivTotal
+{
+  border:1px solid Black;
+  width :850px;
+  height:100%;
+}*/
+ .div_total
+{
+  /*border:1px solid black;*/
+  float:left;
+  width :790px;
+  /*height:100%;*/
+   /*border:1px solid green;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+  .DivTotal
+{
+  border:1px solid Black;
+  width :850px;
+  height:100%;
+}
+
+ .DivBreak
+{
+    clear:both;
+}
+.DivMainLable
+{
+    background-color: #0061AE;
+    color: White;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 0%;
+    font-weight: bold;
+    height: 16px;
+}
+
+.div_lblvsl
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtvsl
+{
+    width: 46%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtvsl select
+{
+    width: 100%;
+}
+
+
+.div_branch
+{
+    width: 11%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txtbranch
+{
+    width: 28%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtbranch input
+{
+    width: 100%;
+}
+
+.DivClear
+{
+    width:6.2%;
+    /*border:1px solid red;*/
+    margin-top:1.2%;
+    float:left;
+    margin-left:1%;
+    height :12pt;
+}
+
+.div_btncancel
+{
+    width: 8%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 0.5%;
+}
+.hiderow
+{
+    display :none;
+}
+
+
+ .div_Button
+{
+    float:right;
+    margin-right:1%;
+    /*margin-right:0.3%;*/
+    margin-bottom:1%;
+    
+}

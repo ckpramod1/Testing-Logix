@@ -1,0 +1,181 @@
+﻿.div_totalmain
+{
+    width:650px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 66.5%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_ddl
+{
+    width:27%;
+    float: left;
+    margin-left:1.2%;
+    margin-top: 0.5%;
+}
+.div_ddl input, Select
+{
+    width: 100%;
+}
+.div_label
+{
+    width: 9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txtyr
+{
+    width: 12.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+   
+}
+.div_txtyr input
+{
+    width: 100%;
+}
+
+.div_txt
+{
+    width: 19%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+   
+}
+.div_txt input
+{
+    width: 100%;
+}
+.div_trantype_txt
+{
+    width: 21.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_trantype_txt input
+{
+    width: 100%;
+}
+.div_datetxt
+{
+    width: 14%;
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_datetxt input, Text
+{
+    width: 100%;
+}
+
+.div_total
+{
+    width: 12%;
+    float: right;
+    margin-right:1.2%;
+    margin-top:0.5%;
+}
+.div_total input, Text
+{
+    width: 100%;
+}
+
+.div_date_label
+{
+    width: 7%;
+    float: right;
+    margin-right: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_customer
+{
+    width: 32.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_customer_txt
+{
+    width: 47%;
+    float: left;
+    margin-left: 1.3%;
+    margin-top: 0.5%;
+}
+.div_customer_txt input, Text
+{
+    width: 100%;
+}
+.div_Grid
+{
+    width: 98%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%; 
+    overflow:auto;
+}
+
+.div_GridBying {
+    /*Border: 1px solid #999997;*/
+    border:1px solid #b1b1b1;
+    height: 100px;
+    width: 100%;
+    margin-top: .2%;
+    margin-bottom: 1%;
+    margin-left:0%;
+}
+/*.div_total
+{
+    width: 73.3%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}*/
+.div_total_lbl
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_btn
+{
+   
+    float: right;
+    margin-right: 0.5%;
+    margin-top: 1%;
+    text-align: right;
+}
+
+.Text_Multi
+{
+    font-family: sans-serif;
+    font-size: 8pt;
+    font-style: normal;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 0.5px;
+    border-color: Black;
+    padding-left: 1px;
+    height:50px;
+}

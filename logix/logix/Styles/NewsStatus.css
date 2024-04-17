@@ -1,0 +1,163 @@
+﻿.div_totalnews
+{
+    
+    width:670px;    
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+
+}
+.div_lbl_header
+{
+	background-color: #333399;
+    color: White;
+    width:  100%;
+    margin-left: 0.2%;
+    margin-top:-0.2%;
+    font-weight: bold;
+}
+.div_Break
+{
+	clear:both;
+}
+.div_lbl_News
+{
+	width: 10%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.div_txt_News
+{
+	width: 20%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	
+}
+.div_txt_News input
+{
+	width: 100%;
+}
+.div_lbl_Validity
+{
+	width: 28%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 7%;
+	text-align:right;
+}
+.div_txt_Validity
+{
+	 width:11%;	
+	float: right;
+	margin-right: 2%;
+	margin-top: 0.5%;
+	   
+}
+.div_txt_Validity input
+{
+	width: 100%;
+}
+.div_lbl_Title
+{
+	width: 10%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.div_txt_Title
+{
+	width: 97.5%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_txt_Title input
+{
+	width: 100%;
+}
+.div_lbl_Details
+{
+	width: 15%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.div_txt_Details
+{
+	width: 97.5%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	
+}
+.div_txt_Details input
+{
+	width: 100%;
+	height:50px;
+}
+.div_lbl_Status
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+.div_ddl_Status
+{
+	width: 18%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;	
+}
+.div_ddl_Status select,input
+{
+	width:100%;
+}
+
+.div_grd
+{	
+	width:99%;
+    margin-top: 1%;
+	margin-left: 0.5%;
+    margin-bottom: 1%;
+}
+.div_btn
+{    
+  /*width:10%;*/
+      float: right;
+    margin-right: 0.5%;
+    /*margin-top: 1%;*/
+    /*margin-bottom: 0.5%;*/
+    text-align:right;
+}
+.btn_btns
+{
+    width:5%;
+    float:left;
+    margin-left:80%;
+    margin-top:1%;
+}
+.btn_btns
+{
+    width:5%;
+    float:right;
+    margin-right:0.5%;
+    margin-top:1%;
+}
+.GridPalICD
+{
+   
+     width:97.5%;
+     height:200px;
+    border:1px solid gray;
+    float:left;
+    margin-bottom:0.5%;
+    margin-left:1%;
+    margin-top:0.5%;
+    margin-right:0.5%;
+    overflow:auto;
+}

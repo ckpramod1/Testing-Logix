@@ -1,0 +1,151 @@
+﻿.div_Main
+{
+    /*background-color: #0061AE;*/
+    /*color: White;*/
+    width: 99%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size:15px;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_labelpermission
+{
+    float: left;
+    width: 36%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_label
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_txt
+{
+    float: left;
+    width: 26%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input,text
+{
+    width: 100%;
+}
+
+.div_txt1
+{
+    float: left;
+    width: 15%;
+    margin-left: 83%;
+    margin-top: 0.5%;
+}
+.div_txt1 input,text
+{
+    width: 100%;
+}
+
+.divTotal
+{
+   
+    width:600px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_Nametxt
+{
+    float: left;
+    width: 70%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Nametxt input,text
+{
+    width: 100%;
+}
+.div_btn
+{   
+    float: right;
+    margin-right: 1%;
+    margin-top: 2%;
+    margin-bottom:2%;
+    text-align:right;
+}
+
+.div_MainTable
+{
+    margin-top:1%;
+    width: 99%;
+    float:left;
+}
+
+.div_Right
+{
+    width: 27%;
+    margin-left:0.5%;
+    float:left;
+}
+
+.div_Left
+{
+    margin-left:1%;
+    width: 71%;
+    float:left;
+    /*height:100px;*/
+    overflow:auto;
+}
+.div_Gird
+{
+    width: 100%;
+    float:left;
+   
+}
+.div_lbl
+{
+    float: left;
+    width: 43%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.div_Minlbl
+{
+    float: left;
+    width: 28%;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.div_ddl
+{
+    float: left;
+    width: 60%;
+    margin-left: 0%!important;
+    margin-top: 0%!important;
+    margin-bottom:0!important%
+}
+.div_ddl input,select
+{
+    width: 100%;
+}
+.div_ddlsession
+{
+    float: left;
+    width: 98%;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.div_ddlsession input,select
+{
+    width: 100%;
+}

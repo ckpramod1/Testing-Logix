@@ -1,0 +1,732 @@
+﻿.div_total 
+{
+    width: 750px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.total
+{
+ width:100%;
+  /*border:1px solid red;*/
+}
+
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 100%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.Headernew
+{
+    background-color:Navy;
+width:99.5%;
+padding:3px;
+height:10%;
+/*font-weight:bold;*/
+border-bottom :1px solid black;
+/*margin-left:1%;*/
+   /*background-color:#333399; /*background-color:Gray;
+    font-size: 10%;
+    height: 18px;
+    /*font-weight: bold;
+    color: Black;
+    text-align: left;
+    padding:2px;*/
+}
+.div_Tab
+{
+    margin-left:6%;
+    margin: 1%;
+    color: White;
+    float:left;
+    width: 24%;
+    position:relative;
+}
+.div_break
+{
+    clear: both;
+}
+.div_view
+{
+    float: left;
+    width: 100%;
+    /*border:1PX solid RED;*/
+}
+.div_bl
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt
+{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt input, Text
+{
+    width: 100%;
+}
+.div_jobtype
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_jobtypetxt
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_jobtypetxt input, Text
+{
+    width: 100%;
+}
+.div_date
+{
+    width: 37%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_datefr
+{
+    width: 17%;
+    float: right;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-right:1%;
+}
+.div_datefr input, Text
+{
+    width: 100%;
+}
+.div_hbl
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_hbltxt
+{
+    width: 23%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_hbltxt input, Text
+{
+    width: 100%;
+}
+.div_issued
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_issuedtxt
+{
+    width: 38%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_issuedtxt input, Text
+{
+    width: 100%;
+}
+.div_mbl
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_mbltxt
+{
+    width: 25%;
+    float: right;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-right:1%;
+}
+.div_mbltxt input, Text
+{
+    width: 100%;
+}
+.div_mblstatustxt
+{
+    width: 42%;
+    float: left;
+    margin-top: 0.5%;
+    float:right;
+    margin-right:1%;
+}
+.div_mblstatustxt input, Text
+{
+    width: 100%;
+}
+.div_book
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_booktxt
+{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_booktxt input, Text
+{
+    width: 100%;
+}
+
+.div_booktxt1
+{
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_booktxt1 input, Text
+{
+    width: 100%;
+}
+
+.div_line
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_linetxt
+{
+    width: 48%;
+    float: right;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-right:1%;
+}
+.div_linetxt input, Text
+{
+    width: 100%;
+}
+.div_packagestxt
+{
+    width: 23.5%;
+    float: right;
+    /*margin-left: 1%;*/
+    margin-top: 0.5%;
+    margin-right:1%;
+}
+.div_packagestxt input, Text
+{
+    width: 100%;
+}
+.div_porttxt
+{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_porttxt input, Text
+{
+    width: 100%;
+}
+.div_port
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_volume
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_volumetxt
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_volumetxt input, Text
+{
+    width: 100%;
+}
+.div_kgs
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_container
+{
+    width: 23%;
+    float: right;
+    /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: center;
+    margin-right:1%;
+}
+.div_submain
+{
+    width: 74%;
+    float: left;
+    margin-top: 0.5%;
+   
+}
+.div_submaincontainer
+{
+     margin-top: 0.5%;
+    width: 25%;
+    float: left; 
+    /*height: 40px;*/
+    margin-right:1%;
+    margin-bottom:1%;
+}
+.div_containerlist
+{
+    margin-top: 0.5%;
+    width: 100%;
+    float: left;
+    font-family: sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+}
+.div_book_sub
+{
+    width: 11.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    height: 15px;
+}
+.div_porttxt_sub
+{
+    width: 31%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_porttxt_sub input, Text
+{
+    width: 100%;
+}
+.div_port_sub
+{
+    width: 9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Dodate
+{
+    width: 10%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_volumetxt_sub
+{
+    width: 34%;
+    margin-left:1%;
+    float: left;
+    margin-top: 0.5%;
+}
+.div_volumetxt_sub input, Text
+{
+    width: 100%;
+}
+.div_mark
+{
+    width: 18%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_marktxt
+{
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_marktxt input, Text
+{
+    width: 100%;
+}
+.div_vessel
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_vesseltxt
+{
+    width: 34.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_vesseltxt input, Text
+{
+    width: 100%;
+}
+.div_voyage
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_voyagetxt
+{
+    width: 13.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_voyagetxt input, Text
+{
+    width: 100%;
+}
+.div_remark
+{
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_remark input, Text
+{
+    width: 100%;
+}
+.div_cha
+{
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_cha input, Text
+{
+    width: 100%;
+}
+.div_DO
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_DOtxt
+{
+    width: 48%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_DOtxt input, Text
+{
+    width: 100%;
+}
+
+.div_Panel
+{
+    float: left;
+    width: 100%;
+}
+.div_cha_visible
+{
+    width: 90%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_cha_visible input, Text
+{
+    width: 100%;
+}
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+.div_cfstxt
+{
+    width: 53%;
+    float: left;
+    margin-left: 1%;
+     margin-top: 0.5%;
+}
+.div_Bltbn
+{
+    width: 45%;
+    float: right;
+    margin-left: 1%;
+    text-align: right;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    margin-right: 0.7%;
+}
+.div_Bltbn input, Submit
+{
+    margin-left:0.5%;
+}
+.div_book_cfs
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_cfs
+{
+    width: 73%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_cfs input
+{
+    width:100%;
+}
+
+
+
+.btn_DOsale
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;
+    color: White;
+    width:28%;
+    }
+.btn_DOsale:hover
+{
+    color: black;
+    cursor: pointer;
+}
+.btn_DO
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;
+    color: White;
+    width:20%;
+    }
+.btn_DO:hover
+{
+    color: black;
+    cursor: pointer;
+}
+.btn_print
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;
+    color: White;
+    width:15%;
+    }
+.btn_print:hover
+{
+    color: black;
+    cursor: pointer;
+}
+.btn_FBL
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;
+    color: White;
+    width:5%;
+    float:left;
+    }
+.btn_FBL:hover
+{
+    color: black;
+    cursor: pointer;
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    /*-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";*/ /* IE 5-7 */
+    /*filter: alpha(opacity=70);*/ /* Netscape */
+    /*-moz-opacity: 0.7;*/ /* Safari 1.x */
+    /*-khtml-opacity: 0.7;*/ /* Good browsers */
+    opacity: 0.7;
+}
+.div_BLPrint
+{
+    float: right;
+    margin-left: 48%;
+}
+.div_close
+{
+    cursor: pointer;
+}
+.div_popup
+{
+    float: left;
+    width: 100%;
+}
+.div_close_voucher
+{
+    cursor: pointer;
+    float: right;
+}
+.div_frame
+{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.frames
+{
+    width: 1024px;
+    height: 100%;
+}
+.div_BL__voucher
+{
+    float: left;
+    width: 100%;
+    background-color: White;
+    position: absolute;
+}
+
+.back{
+    float:right;
+    margin-right:2%;
+    text-decoration:none;
+    color:red;
+    margin-top:1%;
+}
+
+
+.div_issuedontxt
+{
+     width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_issuedontxt input, Text
+{
+    width: 100%;
+}
+
+.div_Flight
+{
+     width: 18%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Flight input, Text
+{
+    width: 100%;
+}
+
+.div_Quot
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_vesseltxt1
+{
+    width: 33.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_vesseltxt1 input, Text
+{
+    width: 100%;
+}
+
+.div_DesTxt
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_DesTxt input, Text
+{
+    width: 100%;
+}
+
+.div_otherCharges
+{
+    width: 47.5%;
+    float: left;
+    margin-left: 1.5%;
+    margin-top: 0.5%;
+}
+.div_otherCharges input, Text
+{
+    width: 100%;
+}

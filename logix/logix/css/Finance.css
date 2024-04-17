@@ -1,0 +1,3231 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body {
+  padding: 0px 0px 0px 0px;
+  margin: 0px;
+  font-family: "Segoe UI";
+  overflow-x: hidden;
+}
+
+.Header {
+  background-color: #f1f3f2;
+  width: 100%;
+  float: left;
+  border-bottom: 1px solid #cbcdcc;
+}
+
+.MRLogo {
+  width: 57px;
+  float: left;
+  margin: 3px 0px 0px 18px;
+}
+
+.MRRight {
+  float: right;
+  margin: 2px 0px 0px 0px;
+}
+
+.MRTitle {
+  float: left;
+  width: 690px;
+}
+
+.MRUserName {
+  float: left;
+  width: 350px;
+  margin: 9px 0px 0px 0px;
+}
+
+.MRUserName span {
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.Signout {
+  float: left;
+  margin: 5px 0px 0px 0px;
+}
+
+.Signout img {
+  width: 70%;
+  height: 70%;
+}
+
+.MRTitle h3 {
+  color: #fff;
+  font-family: "Segoe UI";
+  font-weight: normal;
+  font-size: 17px;
+  padding: 10px 0px 0px 0px;
+  margin: 0px;
+}
+
+.Wrapper {
+  width: 100%;
+}
+
+.MenuBg {
+  background-color: #cccc99;
+  margin: 1px 0px 0px 0px;
+  height: 50px;
+  width: 100%;
+  float: left;
+}
+
+.Clear {
+  clear: both;
+}
+
+.HomeContent {
+  width: 100%;
+  float: left;
+  min-height: 504px;
+}
+
+.HomeLeft {
+  width: 71%;
+  height: 460px;
+  overflow: auto;
+  float: left;
+  padding: 0px 5px 0px 18px;
+  margin: 10px 0px 0px 0px;
+  border-right: 1px solid #b1b1b1;
+}
+
+.HomeRight {
+  width: 340px;
+  margin: 18px 8px 0px 10px;
+  float: left;
+}
+
+.HomeHeader h3 {
+  color: #0061ae;
+  font-size: 14px;
+  font-family: "Segoe UI";
+  font-weight: bold;
+  margin: 17px 0px 7px 5px;
+  padding: 3px 3px 5px 0px;
+  border-bottom: 1px solid #cbd0ce;
+}
+
+.HomeHeader {
+  background-color: #dfdfdf;
+  width: 100%;
+}
+
+.FormGroupContent {
+  width: 100%;
+  float: left;
+  margin: 5px 0px 0px 0px;
+  padding: 0px;
+}
+
+.MT25 {
+  margin-top: 25px;
+}
+
+.FormContent {
+  width: 932px;
+  margin: 0px 0px 0px 0px;
+}
+
+.HomeCorporate {
+  width: 100%;
+  float: left;
+  min-height: 460px;
+  float: left;
+  padding: 0px 5px 0px 18px;
+  margin: 10px 0px 0px 0px;
+}
+
+.Form-ControlN {
+  height: 16px;
+  font-size: 12px;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  text-transform: uppercase;
+  padding: 1px 6px 1px 6px !important;
+  width: 100%;
+}
+
+.Form-Control1 {
+  border: 1px solid #cbd0ce;
+  padding: 4px 4px 4px 8px;
+  height: 14px;
+  width: 98.5%;
+  margin: 0px 0px 0px 0px;
+}
+
+.Form-Control3 {
+  border: 1px solid #cbd0ce;
+  padding: 4px 4px 4px 8px;
+  height: 14px;
+  width: 99%;
+  margin: 0px 0px 0px 0px;
+}
+
+.Form-Control2 {
+  border: 1px solid #cbd0ce;
+  padding: 4px 4px 4px 8px;
+  height: 14px;
+  width: 94%;
+  margin: 0px 0px 0px 0px;
+}
+
+.Save-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Save-btn input {
+  background-color: #99c794;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.Branch-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Branch-btn input {
+  background-color: #924f1b;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.Group-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Group-btn input {
+  background-color: #3794f7;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.Ledger-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Ledger-btn input {
+  background-color: #9b7206;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.Export-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Export-btn input {
+  background-color: #55b559;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.Get-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Get-btn input {
+  background-color: #f2922e;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.Next-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Next-btn input {
+  background-color: #026ca0;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.Previous-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Previous-btn input {
+  background-color: #d21126;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.Back-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.Back-btn input {
+  background-color: #5c789d;
+  border: none;
+  float: left;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.MB05 {
+  margin: 0px 0px 5px 0px;
+}
+
+.MT05 {
+  margin-top: 5px !important;
+}
+
+.MT10 {
+  margin-top: 10px !important;
+}
+
+.MB10 {
+  margin: 0px 0px 10px 0px;
+}
+
+#logix_CPH_ddl_base {
+  width: 100% !important;
+}
+
+.TXTAlign1 {
+  text-align: right !important;
+}
+
+.View-btn {
+  margin: 0px 5px 5px 0px;
+  border: 0px solid none;
+  float: left;
+  font-size: 14px;
+}
+
+.View-btn input {
+  background-color: #ec5f67;
+  border: none;
+  padding: 5px 10px 5px 10px;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.btn-ctrl {
+  float: right;
+  width: 29%;
+  margin: 15px 0px;
+}
+
+.btn-ctrl1 {
+  float: right;
+  margin: 5px 0px 0px 0px;
+}
+
+.Delete-btn input {
+  background-color: #e35d25;
+  border: none;
+  padding: 5px 10px 5px 10px;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.Delete-btn {
+  margin: 0px 5px 5px 0px;
+  float: left;
+  border: 0px solid none;
+}
+
+.Cancel-btn input {
+  background-color: #d02027;
+  border: none;
+  padding: 5px 10px 5px 10px;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.Cancel-btn {
+  margin: 0px 0px 0px 0px;
+  float: left;
+}
+
+.TblGridTh {
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+  clear: both;
+}
+
+.FooterBG {
+  background-color: #f1f3f2;
+  width: 100%;
+  float: left;
+  min-height: 44px;
+  border-top: 1px solid #b1b1b1;
+  margin: 10px 0px 0px 0px;
+}
+
+.FooterBG span {
+  color: #fe0000;
+  font-size: 12px;
+}
+
+.FooterBG img {
+  vertical-align: middle;
+  margin: 25px 0px 0px 10px;
+  float: left;
+}
+
+.FooterBG p {
+  vertical-align: middle;
+  padding: 10px 0px 10px 0px;
+  margin: 10px 0px 0px 10px;
+  padding: 0px;
+  width: 99%;
+  float: left;
+  font-size: 12px;
+}
+
+.navbar {
+  background: #184684 none repeat scroll 0 0;
+  border: medium none;
+  border-radius: 0;
+  box-shadow: none;
+  filter: none;
+  left: 0;
+  margin-bottom: 0;
+  min-height: 48px;
+  padding-left: 0;
+  padding-right: 0;
+  right: 0;
+  top: 0;
+  z-index: 9999;
+}
+
+/* Master Ledger Styles Start */
+.LedgerName {
+  width: 74.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MasterLedger {
+  width: 25%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.Groupname {
+  width: 49.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Type {
+  width: 50%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.MinAmount {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MaxAmount {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.OpBalance {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CreditCtrl {
+  width: 25%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CostYes {
+  width: 11%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Stax {
+  width: 37.7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PAN {
+  width: 50.3%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.Balance {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Curr {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Credit {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AliasName {
+  width: 25%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.TDStxt {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+/* Master Ledger Styles End */
+
+/* Invoice Voucher */
+.DateInput {
+  float: left;
+  width: 9%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherInput {
+  float: left;
+  width: 8.4%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VesselInput {
+  float: left;
+  width: 15%;
+  margin: 0px 0% 0px 0px;
+}
+
+.VesselInput1 {
+  float: left;
+  width: 24.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VesselInput2 {
+  float: left;
+  width: 10%;
+  margin: 0px;
+}
+
+.JobInput1 {
+  float: left;
+  width: 6%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BLinput1 {
+  float: left;
+  width: 34.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ShipperInput {
+  float: left;
+  width: 49.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ConsigneeInput {
+  float: left;
+  width: 50%;
+  margin: 0px 0% 0px 0px;
+}
+
+.ConsigneeInput1 {
+  float: left;
+  width: 99.5%;
+  margin: 0px 0% 0px 0px;
+}
+
+.NotifyInput {
+  float: left;
+  width: 49.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.RemarksInput {
+  float: left;
+  width: 50%;
+  margin: 0px 0% 0px 0px;
+}
+/* Invoice Voucher */
+
+#logix_CPH_ddl_Category_chzn {
+  width: 100% !important;
+}
+
+#logix_CPH_ddl_GroupType_chzn {
+  width: 100% !important;
+}
+
+.ProModule {
+  width: 20.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProCustomer {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProCustomer label {
+  display: inline-block;
+  margin: 0px 0px 0px 5px;
+}
+
+.ProAgent1 {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProAgent label {
+  display: inline-block;
+  margin: 0px 0px 0px 5px;
+}
+
+.ProRef {
+  width: 6%;
+  float: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProRefInput {
+  width: 15%;
+  float: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProYr {
+  width: 8%;
+  float: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+/* Profoma Debit Note */
+.ProModule {
+  width: 27%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProCustomer {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProAgent {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProRefP {
+  width: 4%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProRefInputP {
+  width: 11.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProYrP {
+  width: 6%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BLinput {
+  width: 16%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BLMBL {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BLMBL label {
+  display: inline-block;
+  margin: 0px 0px 0px 5px;
+}
+
+.BillTypeDrop {
+  width: 27.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CNInput {
+  width: 100%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+#logix_CPH_ddl_bill {
+  width: 100% !important;
+}
+
+.ToInput {
+  width: 63%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DateInputP {
+  width: 11.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ProLeft {
+  width: 69.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProRight {
+  width: 30%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.JobDetails {
+  width: 49.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Designation {
+  width: 50%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.Remarks2 {
+  width: 100%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.Remarks1 {
+  width: 99%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.Remarks2P {
+  width: 100%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.VendorRef {
+  width: 99%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CreditDays {
+  width: 99%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+#logix_CPH_ddl_module {
+  width: 100% !important;
+}
+
+.ChargeDes {
+  width: 30%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Curr {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.RateInput {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ExRateInput {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BaseDrop {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AmountInput {
+  width: 19.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Total {
+  float: left;
+  width: 22%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.TotalInput {
+  float: left;
+  width: 100%;
+  margin: 0px 0% 0px 0px;
+}
+
+.PB20 {
+  padding-bottom: 20px;
+}
+/* Profama Debit Note*/
+
+/* Profoma Debit Admin */
+.ProDebitCustomer {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ProDebitCustomer label {
+  display: inline-block;
+  margin: 0px 0px 0px 5px;
+}
+
+.ProDebitAgent label {
+  display: inline-block;
+  margin: 0px 0px 0px 5px;
+}
+
+.ProDebitAgent {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PDRef {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PDBillType {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PDProRef {
+  width: 44.5%;
+  float: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PDYear {
+  width: 14%;
+  float: right;
+  margin: 0px 0% 0px 0px;
+}
+
+.PDToInput1 {
+  width: 59.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PDDate {
+  width: 9%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.PDRemarks {
+  width: 79.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PDVendor {
+  width: 20%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.PDCredit {
+  width: 20%;
+  float: right;
+  margin: 0px 0% 0px 0px;
+}
+
+#logix_CPH_ddl_bltype {
+  width: 100% !important;
+}
+
+/* Profoma Debit Admin*/
+.LognbgPannel span {
+  display: inline-block;
+  float: left;
+  font-size: 12px;
+  width: 80px !important;
+}
+
+.LognbgPannel label {
+  display: inline-block;
+  float: left;
+  font-size: 12px;
+  width: 80px !important;
+}
+
+/* Contra CSS Styles */
+
+.ContraTxt {
+  width: 29.3%;
+  float: left;
+  margin: 0px;
+}
+
+.ContraDate {
+  width: 10%;
+  float: right;
+  margin: 0px 0% 0px 0px;
+}
+
+.DateLBL {
+  width: 5%;
+  float: right;
+  margin: 0px;
+}
+
+.CRSelect {
+  width: 29.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerNameC {
+  width: 39.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ContraType {
+  width: 19.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ContraAmount1 {
+  width: 10%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ContraCurency {
+  width: 29.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ContraAmount {
+  width: 25%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ContraExrate {
+  width: 38%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MRCtrl {
+  margin-right: 0px !important;
+}
+
+.TotalCLbl {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.TotalCinput {
+  width: 40%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ContratTotal {
+  width: 44%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.NarrationI {
+  width: 100%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ChequeNoContra {
+  width: 100%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ContraFavour {
+  width: 100%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+/* Contra CSS Styles*/
+
+/* Profoma Journal Styles */
+
+.JournalTxt {
+  width: 25%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalDate {
+  float: right;
+  width: 10%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalLBL {
+  float: right;
+  width: 4%;
+  margin: 0px 0% 0px 0px;
+}
+
+.JournalCR {
+  float: left;
+  width: 25%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalLedger {
+  float: left;
+  width: 30%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalType {
+  float: left;
+  width: 17.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalAmount {
+  float: left;
+  width: 17%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.TotalJLBL {
+  float: right;
+  width: 3.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.TotalJInput1 {
+  float: right;
+  width: 20%;
+  margin: 0px 0% 0px 0px;
+}
+
+.TotalJInput {
+  float: right;
+  width: 20%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.TotalNarr {
+  float: left;
+  width: 100%;
+  margin: 0px 0% 0px 0px;
+}
+
+.JouJobNo {
+  float: left;
+  width: 15%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JouReference {
+  float: left;
+  width: 25%;
+  margin: 0px 0% 0px 0px;
+}
+
+/* Profoma Journal End */
+
+/*BRS Styles Start */
+.BrsLEFT {
+  width: 497px;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BrsRight {
+  width: 400px;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.Brs_breakBank {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BRSCheque {
+  width: 87%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.USDCHK {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.USDCHK label {
+  margin: 0px 0px 0px 5px;
+}
+
+.BRSToDate {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BRSTxtbox {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BRSButton {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BRSBalance {
+  width: 40%;
+  float: left;
+  text-align: right;
+  font-size: 12px;
+  margin: 0px 1.5% 0px 0px;
+}
+
+.BRSBalancetxt {
+  width: 54%;
+  float: left;
+  text-align: right;
+  font-size: 12px;
+  margin: 0px 0% 0px 0px;
+}
+
+.CR {
+  width: 2%;
+  float: left;
+  text-align: right;
+  font-size: 12px;
+  margin: 0px 0% 0px -17px;
+}
+
+.ChkIssued {
+  width: 100%;
+  float: left;
+  text-align: left;
+  font-size: 12px;
+  margin: 0px 0% 0px 0px;
+}
+
+.ContraDetails1 {
+  width: 100%;
+  float: left;
+  text-align: left;
+  font-size: 12px;
+  margin: 0px 0% 0px 0px;
+}
+
+.Brs_breakBank span {
+  font-size: 12px;
+  display: inline-block;
+  margin: -2px 0px 0px 0px;
+}
+
+/* BRS Styles End*/
+
+/* Ledger View */
+.LedgerInput {
+  width: 71%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Ledfrom {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedFromInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedTo {
+  width: 2%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedToInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.AliasName1 {
+  width: 18%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.AliasName1 input {
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AliasName1 label {
+  margin: -5px 0px 0px 5px !important;
+  display: inline-block !important;
+}
+
+.Monthwise {
+  width: 18%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.Monthwise input {
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Monthwise label {
+  margin: -5px 0px 0px 5px !important;
+  display: inline-block !important;
+}
+
+.Daywise {
+  width: 18%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.Daywise label {
+  margin: -5px 0px 0px 5px !important;
+  display: inline-block !important;
+}
+
+.Daywise input {
+  float: left;
+  margin: 0px 0.5% 0px 5px;
+}
+
+.WithDetails {
+  width: 18%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.WithDetails input {
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.WithDetails label {
+  margin: -5px 0px 0px 5px !important;
+  display: inline-block !important;
+}
+
+.Consolidated {
+  width: 15%;
+  float: left;
+  margin: 5px 0% 0px 0px;
+}
+
+.Consolidated input {
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Consolidated label {
+  margin: -5px 0px 0px 5px !important;
+  display: inline-block !important;
+}
+
+/* Ledger View*/
+
+/* FACost Styles*/
+.FAVou {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAMISDate {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAFrom {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAFromInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FATo {
+  width: 2%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAToinput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAVou input {
+  float: left;
+  margin: 0px 5px 0px 0px;
+}
+
+.FAVou label {
+  float: left;
+  display: inline-block;
+  margin: -5px 0px 0px 0px;
+  vertical-align: top;
+}
+
+.FAMISDate input {
+  float: left;
+  margin: 0px 5px 0px 0px;
+}
+
+.FAMISDate label {
+  float: left;
+  display: inline-block;
+  margin: -5px 0px 0px 0px;
+  vertical-align: top;
+}
+
+.ProfitTxt1 {
+  font-size: 12px;
+  text-align: left;
+}
+
+.IndirectBranch {
+  float: left;
+  width: 8%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.IndirBranchDrop {
+  float: left;
+  width: 15%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FundBranch {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ALLChennai {
+  width: 25%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.SubGroupContent1 {
+  width: 29%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerInputO {
+  width: 30%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+/* FACost Styles */
+
+/* Group Of Summary */
+
+.FromGroup {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FromCal {
+  width: 7% !important;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ToGroup {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+/* Day Book Styles */
+
+.DayForm {
+  width: 5%;
+  float: left;
+  margin: 0px 0px 0.5% 0px;
+}
+
+.DayFormInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0px 0.5% 0px;
+}
+
+.DayTO {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DayTOInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DayRefInput {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VouType {
+  width: 25.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VouValue {
+  width: 27.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VouInput1 {
+  width: 20%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.VouInput1 select {
+  font-size: 12px;
+}
+
+.ToGroupCal {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+/*  Balance Sheet */
+
+.BalanceFrom {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BalanceFinput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BalanceTo {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BalanceToInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BalanceChk {
+  width: 15%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.LedgerInputO {
+  float: left;
+  margin: 0 0.5% 0 0;
+  width: 30%;
+}
+
+.SubGroupContent1O {
+  float: left;
+  margin: 0 0.5% 0 0;
+  width: 25.5%;
+}
+
+.MRRight {
+  margin-right: 5px !important;
+}
+
+/* Balance Sheet */
+
+.AmountEqual {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AmountQuery {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.NarationQuery {
+  width: 59%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ChequeQuery {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VouQuery {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerQuery {
+  width: 35%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.QueryFrom {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.QueryFinput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.QueryTo {
+  width: 2%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.QueryToUnput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CBChequeNo {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CBRec {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CBVou {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CBReceipt {
+  width: 24.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CBReceived {
+  width: 74.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CBAmount {
+  width: 25%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CBAmountN1 {
+  width: 25%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CBLeft {
+  width: 49.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CBRight {
+  width: 50%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CBCustomer {
+  width: 69.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CBAmount {
+  width: 30%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CBCustomer1 {
+  width: 69.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+  text-align: right;
+}
+
+.CBAmount1 {
+  width: 30%;
+  float: right;
+  margin: 0px 0% 0px 0px;
+}
+
+.CBRemarks {
+  width: 100%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.DISNone {
+  display: none;
+}
+
+/* On Account Style Start */
+
+.ModeAc {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ModeAcDrop {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ReceiptACInput {
+  width: 85.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.YearAc {
+  width: 14%;
+  float: left;
+  margin: 0px;
+}
+
+.DateLbl {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DateInput1 {
+  width: 7%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ReceiptAmount {
+  width: 54%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ReceivedFrom {
+  width: 45.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CustomerAC {
+  width: 20%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.TDSAmount {
+  width: 36%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.TDSAC {
+  width: 63.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.VocherTypeIV {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherDrop {
+  width: 18%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherCN {
+  width: 15.5%;
+  float: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherDate {
+  width: 4%;
+  float: right;
+  margin: 0px 0% 0px 0px;
+}
+
+.VoucherCustomer {
+  width: 79.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherAmount {
+  width: 20%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.GridTxtbox {
+  width: 15%;
+  float: right;
+  margin: 0px 0% 0px 0px;
+}
+
+.ExpenseEqual {
+  width: 2%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LegerIncome {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ExpenseIncome {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Expense1 {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherType {
+  width: 6%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherDrop1 {
+  width: 15.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.INVLbl {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.INVYear {
+  width: 6%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.InvDateLbl {
+  width: 6%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.InvLbl1 {
+  width: 19%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.InvCustomer {
+  width: 49.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.TotalInputN1 {
+  width: 5%;
+  float: right;
+  margin: 0px 0.5% 0px 0px 0px;
+}
+
+.TotalInputN2 {
+  width: 15%;
+  float: right;
+  margin: 0px 0.5% 0px 0px 0px;
+}
+
+.InvNo {
+  width: 4%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.INVNoinput {
+  width: 25%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.INVNoinput1 {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.InvShipper {
+  width: 50%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.DesDrop {
+  width: 33.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CusTypeDrop3 {
+  width: 21.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CusDrop1 {
+  width: 20.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CusPerDrop {
+  width: 23%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ChangeCusDrop {
+  width: 69.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ChangeCusLocation {
+  width: 30%;
+  float: left;
+  margin: 0px 0px 0px 0px;
+}
+
+.CusCity {
+  width: 33%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CusCountry {
+  width: 33%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CusZip {
+  width: 33%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CusPhone1 {
+  width: 33%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CusFax {
+  width: 33%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CusLedger {
+  width: 33%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.DuplicateLN {
+  width: 100%;
+  float: left;
+  margin: 0px;
+}
+
+.CorrectLN {
+  width: 100%;
+  float: left;
+  margin: 0px;
+}
+
+.MISBranch {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISBranchDrop {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISModule {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISModuleDrop {
+  width: 14%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISFromMonth {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISFromDrop {
+  width: 10.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISYear {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISYearDrop2 {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+#logix_CPH_ddl_fromyear_chzn {
+  width: 100% !important;
+}
+
+.MISToLBL {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISToDrop {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISYear1 {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MISYearDrop1 {
+  width: 8%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.VFromLBL {
+  width: 5%;
+  font-size: 12px;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VfromCal {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VtoLbl {
+  width: 3%;
+  font-size: 12px;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VtoCal {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VBranch {
+  width: 5%;
+  font-size: 12px;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VBranchDrop {
+  width: 15%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CollectBranch {
+  width: 25%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BranchLBL {
+  width: 4%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MR0 {
+  margin-right: 0px !important;
+}
+
+.OnCusAmount {
+  width: 49.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.OnMode {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.OnYear {
+  width: 4%;
+  float: right;
+  margin: 0px 0% 0px 0px;
+}
+
+.OnReceipt {
+  width: 15.5%;
+  float: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.OnDate {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.OnDateInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ReceiptOn {
+  width: 20%;
+  float: right;
+  margin: 0px 0% 0px 0px;
+}
+
+.ReceivedFrInput {
+  width: 100%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.OnCusAmount {
+  width: 49.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.OnTdsCus {
+  width: 50%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.PaymentsFrom {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Payinput {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Payto {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PaytoInput {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+/* On Accounts Style End */
+/* Payments*/
+
+.PayFrom {
+  width: 4%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Payinputbox {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PaytoLBL {
+  width: 4%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PayInput1 {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAVoucher {
+  width: 30%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAFrom1 {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAFrom2 {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FATo1 {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FATo2 {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAMonth {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAMonth1 {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAReference {
+  width: 13.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.FANarration1 {
+  width: 30%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+#logix_CPH_ddl_narration_chzn {
+  width: 100% !important;
+}
+
+#logix_CPH_ddl_referen_chzn {
+  width: 100% !important;
+}
+
+.Vouyear {
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+  width: 25%;
+}
+
+.BranchDrop7 {
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+  width: 15%;
+}
+
+.Grid5 {
+  border: 1px solid #b1b1b1;
+  height: 82px;
+  margin: 0;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  width: 100%;
+}
+
+/* Payments*/
+
+/* Corporate Syles Start */
+
+.CHKRApproval {
+  width: 25%;
+}
+
+input {
+  cursor: default !important;
+}
+
+.FormGroupContent4 label {
+  display: inline-block !important;
+  float: left !important;
+  margin: 0 0 0 5px;
+  width: auto !important;
+}
+
+.DNCNVoucher {
+  float: left;
+  width: 15%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNDateInput {
+  float: right;
+  width: 13%;
+  margin: 0px 0px 0px 0px;
+}
+
+.DNCNDate {
+  float: right;
+  width: 5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNCr {
+  float: left;
+  width: 15%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNLedgername {
+  float: left;
+  width: 50%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNType {
+  float: left;
+  width: 15%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNAmount {
+  float: left;
+  width: 18%;
+  text-align: right;
+  margin: 0px 0% 0px 0px;
+}
+
+.DNCNRef {
+  float: left;
+  width: 62.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNCurrency {
+  float: left;
+  width: 10%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNAmount1 {
+  float: left;
+  width: 10%;
+  text-align: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNExrate {
+  float: left;
+  width: 10%;
+  text-align: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNTotal {
+  float: right;
+  width: 38%;
+  margin: 0px 0% 0px 0px;
+}
+
+.DNCNTotal1 {
+  float: right;
+  width: 38%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DNCNTotal2 {
+  float: right;
+  width: 10%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BranchPayment {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ChequeNo {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ChequeDate {
+  width: 13%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ChequeAmount1 {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ChequeBranch {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ChequeReceipt {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ChequeBank {
+  width: 19.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.FloatLeft {
+  width: 49.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FloatRight {
+  width: 50%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ChequeParty {
+  width: 79.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ChequeAmount {
+  width: 19.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ChequeStatus {
+  width: 6%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FromTrial {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FromTriInput {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ToTrial {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.TotrialInput {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerTrial {
+  width: 6%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AmountTrial {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ConsolTrial {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AliasTrial {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerLbl {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BranchTrial {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MR5 {
+  margin-right: 5px !important;
+}
+
+.ContainerLeft {
+  width: 69.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AgentCost {
+  width: 100%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MLOCost {
+  width: 100%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BranchCost {
+  width: 35%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BranchModule {
+  width: 25%;
+  float: right;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JobBranch {
+  width: 4%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JobBranchInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VSLVoy {
+  width: 23.5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.MBLCost {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ShipmentCost {
+  width: 43%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.POLCost {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ETDCost {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.PODCost {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ETACost {
+  width: 43%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ContainerLeft {
+  width: 56%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ContainerRight {
+  width: 43.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.MLOCost {
+  width: 100%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AgentCost {
+  width: 100%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.FromPay {
+  width: 5%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.FromPayInput {
+  width: 8%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.ToPay {
+  width: 3%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.ToPayInput {
+  width: 8%;
+  float: left;
+  margin: 5px 0.5% 0px 0px;
+}
+
+.TotalInputNew1 {
+  float: left;
+  width: 54.5%;
+  margin: 0px 0% 0px 0px;
+}
+
+.FromIncome {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FromIncomeInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ToIncome {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ToIncomeInput {
+  width: 7%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.Branchwise {
+  width: 6%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DropIncome {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FromService {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.fromServiceInput {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ToService {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ToServiceInput {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ServiceConsolidate {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgernameBlock {
+  width: 25%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BlockedLedger {
+  width: 25%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BalanceChk input {
+  float: left;
+  width: 15%;
+  margin: 4px 0.5% 0px 0px;
+}
+
+.JournalEmpName {
+  float: left;
+  width: 19.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalEmpBranch {
+  float: left;
+  width: 19.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalDivision {
+  float: left;
+  width: 19.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalBranch {
+  float: left;
+  width: 19.5%;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.JournalMonths {
+  float: left;
+  width: 20%;
+  margin: 0px 0% 0px 0px;
+}
+
+.ModeAcc {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.ModeAcc span {
+  font-size: 12px;
+}
+
+.AccCustomer span {
+  font-size: 12px;
+}
+
+.FormGroupContent4 span {
+  font-size: 12px;
+}
+
+.AccDate1 {
+  width: 4%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AccDate1 span {
+  font-size: 12px;
+}
+
+.AccDate {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AccRecepit {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AccYear {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AccCustomer {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AccRecpt {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AccRecpt1 {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.AccRecpt2 {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherNo {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VouType {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CustomerAmountACC {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CustomerAmountACC1 {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.BankACC {
+  width: 20%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+/* Corporate Styles End */
+.div_Grid {
+  margin: 50px 20px 0px 0px;
+  height: 550px;
+  overflow: auto;
+}
+
+/* FA Receipt CSS Styles Start */
+.VoucherRecepit {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.VoucherInput1 {
+  width: 20%;
+  float: left;
+  margin: 0px;
+}
+
+.DateLBL1 {
+  width: 17%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.DateInput2 {
+  width: 82%;
+  float: left;
+  margin: 0px;
+}
+
+.FAFromLBL {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FADemoCustomer {
+  width: 35%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FACheque {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAChequeInput {
+  width: 61%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAChequeDD {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FADDInput {
+  width: 20.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.FADDInput1 {
+  width: 16%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FABank {
+  width: 5%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FABank1 {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAClearLBL {
+  width: 8%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAClearInput {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FANarration {
+  width: 9%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FANInput {
+  width: 37%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAAgainist {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.FAAgainistInput {
+  width: 42.5%;
+  float: left;
+  margin: 0px;
+}
+
+.ShipperLeft {
+  width: 84%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.ShipperRight {
+  width: 16%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.FAChequeInput1 {
+  width: 20.5%;
+  float: left;
+  margin: 0px;
+}
+
+.Textalign1 {
+  text-align: right !important;
+}
+
+.DNNo {
+  float: left;
+}
+
+/* FA Receipt CSS Styles End */
+
+/* Admin Purchase Invoice Styles Start */
+
+.CreditVoucherNo {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CreditVoucherInput {
+  width: 12%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CreditReference {
+  width: 34%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CreditTDS {
+  width: 65%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CreditDate {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CreditInput {
+  width: 15%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CreditTo {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CreditDemo {
+  width: 89.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.CreditRemarks {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.CreditRemarksInput {
+  width: 89.5%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+/* Admin Purchase Invoice Styles End */
+
+/* Trial Balance CSS Styles Start */
+
+.LedgerFrom {
+  width: 4%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerFromInput {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerTo {
+  width: 3%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerToInput {
+  width: 10%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerChk {
+  width: 15%;
+  float: left;
+  margin: 0px 0.5% 0px 0px;
+}
+
+.LedgerAmount {
+  width: 10%;
+  float: left;
+  margin: 0px 0% 0px 0px;
+}
+
+.LedgerChk input {
+  margin: 5px 5px 0px 0px;
+}
+
+.LedgerChk label {
+  display: inline-block;
+  margin: 1px 0px 0px 0px;
+}
+
+.LedgerAmount input {
+  margin: 5px 5px 0px 0px;
+}
+
+.PopGrid {
+  width: 1317px;
+  height: 404px;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+.CreditNoteOper label {
+  display: inline-block;
+  float: left;
+  width: 140px !important;
+}
+
+.CHKRApproval input {
+  float: left;
+}
+
+.CHKRApproval label {
+  width: 140px !important;
+}
+
+/* Trial Balance CSS Styles End */

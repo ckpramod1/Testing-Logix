@@ -1,0 +1,201 @@
+﻿.div_total 
+{
+    width: 750px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+    text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 90.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+}
+
+.div_grd_BL
+{
+    width:97%; 
+
+	margin-top: 1%;	
+	margin-left:1%;
+	float:left; 
+}
+.div_grd_BL input
+{
+    width: 100%;
+}
+
+
+.div_grd_BL1
+{
+    width:97.8%; 
+	
+	margin-top: 1%;	
+	margin-left:1%;
+	float:left; 
+}
+.div_grd_BL1 input
+{
+    width: 100%;
+}
+.div_Break
+{
+    clear: both;
+}
+
+.div_btn    
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right: 2%;
+    margin-top:0.5%;
+    text-align: right;
+    margin-bottom:0.5%;
+    /*padding-left:10%;*/
+}
+
+.div_eventsddl{
+     width: 28%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+
+.div_eventsddl input,select{
+     width: 100%;
+}
+
+.lbl_Header1 {
+    font-size: 12pt;
+    font-family: sans-serif;
+    text-align: left;
+    color: navy;
+    margin-left: 1%;
+}
+
+.div_cfstxt{
+     width: 27.5%;
+    float: left;
+    margin-left: 41.5%;
+    margin-top: 0.5%;
+}
+
+.div_cfstxt input,Text{
+      width: 100%;
+}
+
+.div_cargopickedontxt{
+     width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_cargopickedontxt input,Text{
+     width: 100%;
+}
+
+.div_grd
+{
+    width: 97%;
+    /*margin-left: 1%;*/
+    margin-top:1%;
+    /*margin-bottom:1%;*/
+    margin-left:1%;
+    /*height:400px;*/
+    overflow:auto;
+    /*border:1px solid gray;*/
+}
+.div_grd input
+{
+    width: 98%;
+}
+
+.div_jobtxt{
+     width: 28%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_jobtxt input,Text{
+    width: 100%;
+}
+
+.div_Etatxt{
+     width: 27.5%;
+    float: left;
+    margin-left: 41.5%;
+    margin-top: 0.5%;
+}
+
+
+.div_Etatxt input,Text{
+     width: 100%;
+}
+
+.div_Containertxt{
+      width: 28%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_Containertxt input,Text{
+    width: 100%;
+}
+
+.div_sizetxt{
+     width: 16%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_sizetxt input,Text{
+     width: 100%;
+}
+.div_sealtxt{
+    width: 22.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_sealtxt input,Text {
+     width: 100%;
+}
+
+.div_Destufftxt{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_Destufftxt input,Text {
+     width: 100%;
+}
+
+.div_btnUpdate{
+     width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+

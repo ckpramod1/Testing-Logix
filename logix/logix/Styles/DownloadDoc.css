@@ -1,0 +1,84 @@
+﻿.div_total
+{
+      width :750px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_division
+{
+    width: 95%;
+    
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_division input, select
+{
+    width: 100%;
+}
+.div_branch
+{
+    width: 31%;
+   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_branch input, Select
+{
+    width: 100%;
+}
+.div_ddlproduct
+{
+	width: 31%;
+	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_ddlproduct input, select
+{
+	width: 100%;
+}
+.div_lnkjob
+{
+    
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;   
+}
+.div_txtjob
+{
+    width: 18.25%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtjob input, Text
+{
+    width: 100%;
+}
+.div_Grid
+{
+    width: 97%;  
+	margin-top:0.1%;   
+    margin-left: 0.5%;
+      margin-bottom:1%;
+    /*height:200px;*/
+}
+.div_Grid1
+{
+    width: 100%;  
+	margin-top:0.1%;   
+    margin-left: 0%;
+    height:200px;
+    border:1px solid gray;
+    margin-bottom:1%;
+}
+/*.div_panel
+{
+    width: 735px;
+    height:350px;
+}*/

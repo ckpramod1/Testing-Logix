@@ -1,0 +1,118 @@
+﻿.div_total 
+{
+    width: 950px;
+    /*height:100%;*/
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 90%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 100%;
+    float: left;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom:0.5%;
+    padding-bottom:2px;
+    border-bottom:1px dotted #b1b1b1;  
+    font-weight:bold;
+}
+.div_txt
+{
+    float: left;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    min-height: 100%;
+    height: 370px;
+}
+.div_txt input, text
+{
+    width: 100%;
+}
+
+.div_txt_Mission
+{
+    float: left;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    min-height: 100%;
+    height: 129px;
+}
+
+
+
+
+.Tab_Text_Multiline1 ul { padding:3px 3px 3px 3px; margin:0px;
+}
+
+    .Tab_Text_Multiline1 ul li {
+    color: #000 !important;
+    font-family: sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    margin: 0;
+    padding: 3px;
+}
+
+
+.div_txt_Mission input, text
+{
+    width: 100%;
+}
+.div_btn
+{
+    width: 89%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_btn input, submit
+{
+    width: 8%;
+}
+.div_Head
+{
+    background-color: #ffffff;
+    width: 100%;
+    margin-top: 0.5%;
+    font-weight: bold;
+    float: left;
+}
+
+.Tab_Text_Multiline
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    font-style: normal;
+   
+    margin-left: 0px;
+    border:none;
+   
+    width:100% ;
+    height:100%;
+    resize:none;
+    
+}
+input[type="text"], input[type="file"], textarea {
+    border: 0px solid #b1b1b1;
+}

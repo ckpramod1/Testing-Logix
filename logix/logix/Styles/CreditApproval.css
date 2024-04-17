@@ -1,0 +1,781 @@
+﻿
+.div_total
+{
+  /*border:1px solid black;*/
+  float:left;
+  width :720px;
+  /*height:100%;*/
+   /*border:1px solid green;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_sub1
+{
+    /*border:1px solid red;*/
+    float:left;
+    width:70%;
+  /*height:560px;*/
+}
+.div_total2
+{   
+    
+    
+    width:255px;
+    /*width:25%;*/
+    float:left;
+      background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+    /*display:none;*/
+}
+.DivNew_gr2
+{
+   
+   height:363px!important;
+   float:left;
+   margin-top:1.5%;
+ /* Height:100%;*/
+     /*width:65%;*/
+  /*width:255px;*/
+  width:100%;
+  float:left;
+ overflow:auto;
+      background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_Main
+{
+background-color:#333399;
+width:100%;
+height:12%;
+border-bottom :1px solid black;
+}
+
+.div_label
+{
+    width:7%;
+    height:13px;
+    float:left;
+    margin-left:4.3%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:left;
+
+}
+
+.div_TB
+{
+    width:73.3%;   
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.Branchlbl
+{
+    width:6%;
+    height:13px;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+
+}
+
+.BranchText
+{
+    width:24%;    
+    float:left;	
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+
+.BranchText input, Text
+  {
+        width: 100%;
+    }
+
+
+.DSODayslbl
+{
+    width:8%;
+    height:13px;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+
+}
+
+.DSODaysText
+{
+    width:20%;
+   
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.DSODaysText input, Text
+  {
+        width: 100%;
+        text-align:right;
+  }
+
+.InvoiceAmtLbl
+{
+    width:22%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+
+}
+
+.InvoiceAmtText
+{
+    width:26%;
+   text-align:right;
+    float:left;	
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+.InvoiceAmtText input, Text
+{
+     width: 100%;
+     text-align:right;
+}
+
+.AverageDivLbl
+{
+    width:6%;
+    height:13px;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+
+}
+
+.AverageDivText
+{
+    width:26.1%;
+     text-align:right;
+    float:left;	
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+.AverageDivText input, Text
+{
+     width: 100%;
+     text-align:right;
+}
+ 
+.ApdCreditAmtDivlbl
+{
+    /*width:25%;*/
+   
+    float:right;
+    margin-right:1%; 
+    text-align:right;
+    margin-top:1%;
+}
+.ApdCreditAmtDivlbl input
+{
+    width:100%;
+    text-align:right;
+}
+
+.ApdCreditAmtDivText
+{
+    width:24.2%;
+    text-align:right;
+    float:left;	
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+
+.ApdCreditAmtDivText input, Text
+{
+    text-align:right;
+     width: 100%;
+}
+
+.Outstandinglbl
+{
+    width:22%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+.Outstandinglbl input, Text
+{
+     width: 100%;
+}
+
+.OutstandingText
+{
+    width:34%;
+    text-align:right;
+    float:left;	
+    margin-left:1%;
+    /*margin-top:0.5%;*/
+}
+.OutstandingText input, Text
+{
+     width: 100%;
+     text-align:right;
+}
+
+.LessDivlbl
+{
+    width:6%;
+    height:13px;
+    float:left;
+    color:Red;
+    margin-left:0.5%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.LessDivText
+{
+    width:34%;
+    text-align:right;
+    float:left;	
+    margin-left:0.5%;
+    /*margin-top:0.5%;*/
+}
+.LessDivText input,text
+{
+    width:100%;
+    text-align:right;
+}
+.ActualLbl
+{
+    width:20%;
+    height:13px;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.ActualText
+{
+    width:28.8%;
+    text-align:right;
+    float:left;	
+    margin-left:0.5%;
+    /*margin-top:0.5%;*/
+}
+.ActualText input, Text
+{
+     width: 100%;
+     text-align:right;
+}
+
+
+.DivSubFrist
+{
+    width:100%;
+    height:13px;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:center;
+}
+
+.CustomerLable
+{
+    /*width:12%;*/
+    
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:left;
+}
+.CustomerLable input,text
+{
+    width:100%;
+}
+.CustomerText
+{
+    width:69%;
+   
+    float:left;	
+   margin-left:0.5%;
+    /*margin-top:0.5%;*/
+}
+
+.Pendingckechbox
+{
+    width:20%;
+    margin-left:1%;
+    float:left;
+    /*margin-top:0.5%;*/    	
+    color:Darkblue;
+    text-align:left;
+}
+.Pendingckechbo input,text
+{
+    width:100%;
+}
+.div_close
+{
+    width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:98%;
+            margin-top:-2.5%;
+            border-radius: 90px 90px 90px 90px;
+}
+.DivTextArea
+{
+    width:42.3%;
+   
+    float:left;	
+    margin-left:12%;
+    margin-top:0.5%;
+}
+
+.DivTextAreaSecond
+{
+     width:42.3%;
+     
+    float:left;	
+    margin-left:1.5%;
+    margin-top:0.5%;
+}
+
+.docreceivedDivlbl
+{
+    width:17%;
+    height:13px;
+    float:left;
+    margin-left:4%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:left;
+}
+
+.docreceivedDivText
+{
+    width:87%;    
+    float:left;	
+    margin-left:12%;
+    margin-top:0.5%;
+}
+.docreceivedDivText input,text
+{
+   width:100%;
+}
+
+.divptclbl
+{
+    width:10.6%;
+    height:13px;
+    float:left;
+    margin-left:0.3%;
+    margin-right:1%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.divptctext
+{
+    width:86.3%;    
+    float:left;	
+    margin-left:12%;
+    margin-top:0.5%;
+}
+.divptctext input,text
+{
+    width:100%;
+}
+.abouttext
+{
+    width:87%;    
+    float:left;	
+    margin-left:12%;
+    margin-top:0.5%;
+}
+
+.CategoryText
+{
+    width:22.5%;
+  
+    float:left;	
+    margin-left:12%;
+    margin-top:0.5%;
+}
+.CategoryText input,text
+{
+    width:100%;
+}
+.Credittypelbl
+{
+    width:9%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.CredittypeText
+{
+    width:20.5%;
+   
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.CredittypeText input,text
+{
+    width:100%;
+}
+.CreditDaylbl
+{
+    width:9%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.CreditDaytext
+{
+    width:20.5%;
+  
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.CreditAmtlbl
+{
+    width:12%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.CreditAmttext
+{
+    width:20.5%;
+   
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.CreditApprovallbl
+{
+    width:13%;
+    height:13px;
+    float:left;
+    margin-left:4.3%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:left;
+}
+
+.CreditApprovalText
+{
+    width:14%;
+ 
+    float:left;	
+    margin-left:1%;
+    /*margin-top:0.5%;*/
+}
+.CreditApprovalText input
+{
+       text-align:right;
+    width:100%;
+}
+.CreditRequestdatelbl
+{
+    width:15%;
+    height:13px;
+    float:left;
+    margin-left:35.4%;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.CreditRequestdateText
+{
+    width:12.8%;
+  
+    float:left;	
+    margin-left:0.5%;
+    /*margin-top:0.5%;*/
+    /*margin-right:1%;*/
+}
+
+.Approvedtext
+{
+    width:21%;
+     height:20px;
+    float:left;	
+   margin-left:0.5%;
+    /*margin-top:0.5%;*/
+}
+
+.ApprovedDayslbl
+{
+    width:12%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.ApprovedDaysText
+{
+     width:11.5%;
+    
+    float:left;	
+    margin-left:0.5%;
+    /*margin-top:0.5%;*/
+}
+.ApprovedDaysText input
+{
+    width:100%;
+     text-align:right;
+}
+
+.ApprovedAmountlbl
+{
+    width:13%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;    	
+    color:Darkblue;
+    text-align:right;
+}
+
+.ApprovedAmountText
+{
+    width:20%;
+     
+    float:left;	
+    margin-left:0.5%;
+    /*margin-top:0.5%;*/
+}
+.ApprovedAmountText input
+{
+    text-align:right;
+    width:100%;
+}
+
+
+.AppTypelbl
+{
+    width:8%;
+  
+    float:left;
+    margin-top:0.5%;    	
+    color:Darkblue;
+   
+}
+.AppTypelbl input
+{
+     width:100%;
+ text-align:right;
+}
+
+.AppTypelblText
+{
+    width:16%;
+   
+    float:left;	
+    margin-left:0.5%;
+    /*margin-top:0.3%;*/
+}
+
+.divcheckCancel
+{
+    float:left;
+    color:Red;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.div_Button
+{
+    float:right;
+    margin-right:1%;
+    margin-bottom:0.5%;
+    /*margin-top:1%;*/
+}
+
+.div_Break
+{
+    clear:both;
+}
+
+.FootrDaylbl
+{
+    width:5%;
+    height:13px;
+    float:left;
+    margin-top:0.5%; 
+    margin-left:2%;   	
+    color:Darkblue;
+    text-align:left;
+}
+
+.FootrDayText
+{
+    width:25%;    
+    float:left;	
+    margin-left:1.5%;   	
+    margin-top:0.5%;
+}
+
+.FootrAmountlbl
+{
+    width:6%;
+    height:13px;
+    float:left;
+    margin-top:0.5%; 
+    margin-left:1%;    	
+    color:Darkblue;
+    text-align:left;
+}
+
+.FootrAmountText
+{
+     width:25%;   
+   
+    float:left;	
+    margin-left:1.5%;
+    margin-top:0.5%;
+}
+
+.FootrItemslbl
+{
+    width:19%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%; 
+    color:Darkblue;
+    text-align:left;
+}
+
+.FootrItemsText
+{
+     width:25%;   
+ 
+    float:left;
+    margin-left:1.5%;	
+    margin-top:0.5%;
+    
+}
+
+.FootrCFOlbl
+{
+    width:6.5%;
+    height:13px;
+    float:left;
+    margin-top:0.5%; 
+    margin-left:1%;  	
+    color:Darkblue;
+    text-align:left;
+}
+
+.FootrCFOText
+{
+     width:7%;   
+    
+    float:left;	
+    margin-left:1.5%;
+    margin-top:0.5%;
+}
+
+.FootrApTypelbl
+{
+    width:8%;
+    height:13px;
+    float:left;
+    margin-top:0.5%; 
+    margin-left:1%;  	
+    color:Darkblue;
+    text-align:left;
+}
+
+.FootrApTypeText
+{
+     width:12%;
+     float:left;	
+     margin-left:1.5%;
+     margin-top:0.5%;
+}
+.myGridHeader3
+{
+
+
+     background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.8%;
+    margin-bottom: 0px;
+    position :absolute ;
+    margin-top:-2%;
+    width:840px;
+
+} 
+
+.txt_exemptions
+{
+    width:25%;   
+ 
+    float:left;
+    margin-left:1%;	
+    margin-top:0.5%;
+}
+
+.ddl_perannual 
+{
+    width:12%;   
+ 
+    float:left;
+    margin-left:0.8%;	
+    margin-top:0.5%;
+}
+.txt_overdue
+{
+    width:25%;   
+ 
+    float:left;
+    margin-left:0.5%;	
+    margin-top:0.5%;
+}
+

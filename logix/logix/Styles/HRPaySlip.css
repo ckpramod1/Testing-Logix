@@ -1,0 +1,143 @@
+﻿.divTotal 
+{
+    width: 400px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{  
+    width: 99%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size:15px;
+}
+.div_break
+{
+    clear: both;
+}
+.div_lnk
+{
+    float: left;  
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_lnk input,text
+{
+    width: 100%;
+}
+.div_txt
+{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input,text
+{
+    width: 100%;
+}
+.div_txtt
+{
+    float: left;
+    width: 45%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtt input,text
+{
+    width: 100%;
+}
+.div_txt1
+{
+    float: left;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt1 input,text
+{
+    width: 100%;
+}
+.div_txt2
+{
+    float: left;
+    width: 20%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt2 input,text
+{
+    width: 100%;
+}
+.div_txt3
+{
+    float: left;
+    width: 17%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt3 input,text
+{
+    width: 100%;
+    text-align:right;
+}
+.div_txt_mon
+{
+    float: left;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_mon input,text
+{
+    width: 100%;
+}
+.div_Nametxt
+{
+    float: left;
+    width: 55.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Nametxt input,text
+{
+    width: 100%;
+}
+.div_Nametxtt
+{
+    float: left;
+    width: 51%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Nametxtt input,text
+{
+    width: 100%;
+}
+.div_btn
+{
+    width: 30%;
+    float: left;
+    margin-left: 70%;
+    margin-top: 0.5%;   
+}
+.div_btn1 
+{
+    float: right;
+    margin-right: 1.2%;
+    margin-bottom:1%;
+}
+.div_Reasonddl
+{
+    float: left;
+    width: 97%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Reasonddl input,select
+{   
+    width: 100%;
+}

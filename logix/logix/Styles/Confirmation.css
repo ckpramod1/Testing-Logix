@@ -1,0 +1,80 @@
+﻿.div_Main
+{
+  
+    width: 99%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size:15px;
+}
+.divTotal
+{
+   
+    width:500px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt
+{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input,text
+{
+    width: 100%;
+}
+.div_Nametxt
+{
+    float: left;
+    width: 71%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Nametxt input,text
+{
+    width: 100%;
+}
+.div_btn
+{
+    width: 30%;
+    float: left;
+    margin-left: 70%;
+    margin-top: 0.5%;
+   
+}
+.div_btn1
+{
+    width: 20%;
+    float: left;
+    margin-left: 54%;
+    margin-top: 0.5%;
+   
+}
+
+.div_Reasonddl
+{
+    float: left;
+    width: 97.4%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Reasonddl input,select
+{
+    width: 100%;
+}

@@ -1,0 +1,399 @@
+﻿.div_total
+{
+  /*border:1px solid black;*/
+  width :700px;
+  /*height:100%;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.3%;
+   /*margin-top:10px;*/
+}
+.exemption
+{
+     border:1px solid black;
+   
+    width:600px;
+}
+
+.div_Main
+{
+background-color:#333399;
+width:100%;
+height:12%;
+border-bottom :1px solid black;
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 100%; /*margin-left: 1%;*/  
+    
+    color: White;
+}
+
+.div_break
+{
+    clear: both;
+}
+
+.div_lbl_center
+{
+    width: 98%;
+    height: 13px;
+    float: left;
+    text-align: center;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 0.6%;
+    margin-bottom:2%;
+   
+}
+.div_Grid {width:100%; height:467px; overflow:auto; padding:0px; margin:0px;
+}
+.div_lbl_name
+{
+    width: 6.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 0.8%;
+   /* border:1px solid red;*/
+    margin-left:0.5%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_name1
+{
+    width: 8.9%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1.5%;
+   /* border:1px solid red;*/
+    margin-left:0.5%;
+    margin-right:0.6%; 
+}
+.div_lbl_name12
+{
+    width: 10.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1.5%;
+   /* border:1px solid red;*/
+    margin-left:1%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_limit
+{
+    width: 15.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1.5%;
+   /* border:1px solid red;*/
+    margin-left:1%;
+    margin-right:0.6%; 
+}
+
+
+.div_lbl_left
+{
+    width: 3.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1.5%;
+   /* border:1px solid red;*/
+    margin-left:0.5%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_date
+{
+    width: 10.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:5%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_date1
+{
+    width: 12%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:5%;
+    margin-right:0.6%; 
+}
+.div_lbl_chk
+{
+    width: 6.7%;   
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:0.5%;
+    margin-right:0.6%; 
+}
+.div_txt_name
+{
+    width: 45%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.7%;  
+    border: 1px solid #999997;  
+}
+.div_txt_name input
+{
+    width:100%;
+}
+
+.div_txt_name1
+{
+    width: 25.5%;    
+    float: right;
+    margin-top: 0.5%;
+    margin-right:0.7%;  
+    border: 1px solid #999997;    
+}
+.div_txt_name1 input
+{
+    width:100%;
+    text-align:right;
+}
+
+.div_txt_txt
+{
+    width: 45%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.7%;    
+}
+.div_txt_txt input
+{
+    width:100%;
+}
+
+.div_txt_txt1
+{
+    width: 33.5%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.7%;  
+}
+.div_txt_txt1 input
+{
+    width:100%;
+}
+
+.div_txt_txt2
+{
+    width: 34%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.5%;  
+}
+.div_txt_txt2 input
+{
+    width:100%;
+}
+
+.div_txt_small
+{
+    width: 15%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.5%;    
+}
+.div_txt_small input
+{
+    width:100%;
+}
+
+.div_txt_small1
+{
+    width: 16.8%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.5%;    
+}
+.div_txt_small1 input
+{
+    width:100%;
+}
+
+.Div_Chk
+{
+   float:left;
+    margin-top:0.8%;
+    margin-left:2%;
+    
+}
+
+.div_Button
+{
+    float:right;
+    margin-right:0.7%;    
+}
+
+.grid_1 
+{
+    height: 100px;
+    width: 100%;
+    margin-left: 0%;
+    border: 1px solid #999997;
+    margin-top: 0.5%;
+}
+
+.grid_12
+{
+    height: 100px;
+    width: 100%;
+    margin-left: 0%;
+    border: 1px solid #999997;
+    margin-top: 0.5%;    
+    margin-bottom:0%;
+}
+
+.div_txt_medium
+{
+    width: 20%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left:0.5%;    
+}
+.div_txt_medium input
+{
+    width:100%;
+    text-align:right;
+}
+
+.div_txt_medium1
+{
+    width: 29.75%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left:0.5%;   
+}
+.div_txt_medium1 input
+{
+    width:100%;
+    text-align:right;
+}
+
+.div_txt_appro
+{
+    width: 29.75%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left:0.5%;        
+}
+.div_txt_appro input
+{
+    width:100%;
+}
+
+.div_txt_large
+{
+    width: 98.3%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left:0.7%;    
+}
+.div_txt_large input
+{
+    width:100%;
+}
+
+.div_txt_large1
+{
+    width: 97.8%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left:0.7%;    
+}
+.div_txt_large1 input
+{
+    width:100%;
+}
+
+
+.div_txt_shipper
+{
+    width: 49%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.7%; 
+}
+.div_txt_shipper input
+{
+    width:100%;
+}
+
+.div_txt_shipper1 
+{
+    width: 48.8%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_txt_shipper1 input
+{
+    width:100%;
+}
+
+.div_txt_remarks
+{
+    width: 63.9%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left:0.7%;    
+}
+.div_txt_remarks input
+{
+    width:100%;
+}
+.div_txt_remarks1
+{
+    width: 68%;    
+    float: left;
+    margin-top:0.5%;
+    margin-left:0.7%;    
+}
+.div_txt_remarks1 input
+{
+    width:100%;
+}
+
+.div_txt_remark
+{
+    width: 98%;
+    height: 17px;
+    float: left;
+    margin-top:1%;
+    margin-left:1%;
+    
+}
+.div_txt_remark input
+{
+    width:100%;
+}

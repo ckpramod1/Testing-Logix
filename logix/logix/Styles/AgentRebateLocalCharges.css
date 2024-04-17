@@ -1,0 +1,350 @@
+﻿.AgentRebateLocalCharges
+ {
+    border:1.5px solid black;
+    height:100%;
+    width:55%;
+}
+.lbl_Header 
+{
+     width: 100%; 
+    font-weight: bold;
+    color: white;
+    height:4%;
+}
+.lbl_agentname 
+{
+     width: 14%;   
+    height: 17px;
+    float: left;
+    text-align: right;
+    margin-top: 1%;
+   /* border:1px solid red;
+  margin-left:1%;*/
+    margin-right:0.6%;
+    margin-bottom:0.6%;
+}
+
+.DivFaxlbl
+{
+    width: 8%;   
+    height: 17px;
+    float: left;
+    text-align: right;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:1.5%;
+   
+}
+
+
+.txtagentname 
+{
+    width: 84.4%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+    margin-left:0.5%;
+    margin-bottom:0.6%;
+}
+    .txtagentname input
+     {
+        width:100%;
+    }
+
+.DivAgentText
+{
+    width: 83.9%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+    margin-left:0.5%;
+    margin-bottom:0.6%;
+}
+
+.DivPtcText
+{ 
+    width: 83.9%;
+    height: 17px;
+    float: left;
+    margin-top: 1.5%;
+    margin-left:0.5%;
+    margin-bottom:0.6%;
+}
+
+
+.txtagent 
+{
+    width: 83.3%;
+    height: 50px;
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.5%;
+   
+}
+.txtagent textarea
+{
+        width:100%;
+        height:100%;
+}
+.txtagentphone
+{
+     width: 37%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+    margin-left:0.5%;
+    /*margin-bottom:0.6%;*/
+
+}    
+.txtagentphone input
+{
+    width:100%;
+}
+.lbl_port
+{
+     width: 9.5%;   
+    height: 17px;
+    float: left;
+    text-align: right;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:1%;
+    margin-right:0.6%;
+}
+
+.lbl_toport
+{
+     width: 14.3%;   
+    height: 17px;
+    float: left;
+    text-align: right;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:1%;
+    /*margin-right:0.6%;*/
+}
+
+.txtport
+{
+     width: 17.3%;
+    float: left;
+    margin-top: 1%;
+    margin-left:1.8%;
+    margin-bottom:0.6%;
+
+}    
+.txtport input
+{
+    width:100%;
+    height: 20px;
+}
+.div_BtnGroup
+{
+float:right;
+margin-right:0.9%;
+margin-top:0.6%;
+}
+
+.div_BtnGroup1
+{
+float:right;
+margin-right:1%;
+}
+.lbl_agentname1 
+{
+     width: 16%;   
+    height: 17px;
+    float: left;
+    text-align: right;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:1%;
+   
+}
+.txtagentphone1
+{
+     width: 30%;
+    height: 17px;
+    float: left;
+  /*  margin-top: 1%;*/
+    margin-left:2%;
+
+}    
+.txtagentphone1 input
+{
+    width:100%;
+}
+.div_Grid
+{
+width:98%;
+margin-top:1%;
+margin-left:1%;
+margin-bottom:2%;
+font-family:sans-serif; 
+    font-size:8pt;
+    color:Black;
+   
+ 
+}
+.GrdAltRow
+{
+    background-color:#FFF8DC;
+    font-family:sans-serif;
+    font-size:8pt;
+    color:Black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}
+.GridHeader
+{
+    background-color:Navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: 4px;
+    margin-bottom: 0px;
+  
+}
+.DDL_Custtype 
+{
+   font-family:sans-serif;
+    font-size:8pt;
+    font-style:normal;
+    height: 19px;
+    width:initial;
+    margin-left:1.9%;
+
+}
+.DDL_Custtype1
+{
+     width: 17.4%;
+    height: 20.5px;
+    float: left;
+    margin-top: 1%;
+    margin-left:1.5%;
+    margin-bottom:0.6%;
+}
+    .DDL_Custtype1 select 
+    {
+        width:100%;
+    }
+
+
+.DDL_CargoType
+{
+     width: 17.3%;
+    height: 20.5px;
+    float: left;
+    margin-top: 1%;
+    margin-left:2.4%;
+    /*margin-bottom:0.6%;*/
+}
+    .DDL_CargoType select 
+    {
+        width:100%;
+    }
+
+.DDL_collectpaid
+{
+     width: 20%;
+    height: 20.5px;
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left:2%;
+
+}    
+.DDL_collectpaid select
+{
+    width:100%;
+}
+
+.DivCurrlbl
+{
+     width: 10%;   
+    height: 17px;
+    float: left;
+    text-align: left;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:2%;
+    margin-right:0.6%;
+}
+
+.DivCurrText
+{
+    width: 10%;
+    height: 17px;
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left:2%;
+    margin-bottom:0.6%;
+}
+
+.DivBaselbl
+{
+    width: 8%;   
+    height: 17px;
+    float: left;
+    text-align: left;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:1.2%;
+   
+}
+
+.DivBaseDDLText
+{
+    width: 13%;
+    height: 17px;
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left:2%;
+    margin-bottom:0.6%;
+}
+
+.DivAmountlbl
+{
+     width: 12%;   
+    height: 17px;
+    float: left;
+    text-align: left;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:6.4%;
+   
+}
+
+.DivAmountText
+{
+    width: 16%;
+    height: 17px;
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left:2%;
+    margin-bottom:0.6%;
+}
+
+.DivChargelbl
+{
+    width: 28%;   
+    height: 17px;
+    float: left;
+    text-align: left;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:2%;
+
+}
+
+.DivCollectToPaidlbl
+{
+    width: 20%;   
+    height: 17px;
+    float: left;
+    text-align: left;
+    margin-top: 1%;
+   /* border:1px solid red;*/
+    margin-left:4%;
+   
+}

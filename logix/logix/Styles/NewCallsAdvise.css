@@ -1,0 +1,46 @@
+﻿ 
+.DivTotal
+{
+  border:1px solid black;
+  width :70%;
+  height:100%
+}
+
+.DivBreak
+{
+    clear:both;
+}
+
+.DivMainLable
+{
+background-color:#333399;
+width:100%;
+height:12%;
+border-bottom :1px solid black;
+}
+
+.DivHeaderlbl
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:0.5%;
+    margin-top:0.5%;
+   
+}
+
+.GridPalTele
+{
+    width:98.8%;
+    height:415px;
+    border:1px solid black;
+   margin-bottom:0.5%;
+    margin-top:0.8%;
+    margin-left:0.5%;
+}
+
+.Hide
+{
+    display:none;
+}

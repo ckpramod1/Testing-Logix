@@ -1,0 +1,14 @@
+﻿.Main_div
+{
+   /* border:1px solid red;*/
+    height: 500px;
+    width:100%;
+}
+.center_div
+{
+  /* border:1px solid red;*/
+   margin-left :20%;
+   margin-top :10%; 
+   width:60%;
+   height:50%;
+}

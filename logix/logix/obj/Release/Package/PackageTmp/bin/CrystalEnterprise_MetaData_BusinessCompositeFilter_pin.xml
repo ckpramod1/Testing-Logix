@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin xmlns="http://www.crystaldecisions.com/CrystalEnterprise_pin.xsd">
+	<propertybag name="CrystalEnterprise.MetaData.BusinessCompositeFilter" type="Infoobject" flags="0">
+		<property name="SI_PROGID" type="String" flags="0">CrystalEnterprise.MetaData.BusinessCompositeFilter</property>
+		<property name="SI_NAME" type="String" flags="0">CrystalEnterprise.MetaData.BusinessCompositeFilter</property>
+		<property name="SI_PLUGIN_CLASSID" type="String" flags="0">{67BA583A-5080-46d1-ADD0-DEB5D300D721}</property>
+		<property name="SI_PLUGIN_PINFILE" type="String" flags="0">CrystalEnterprise_MetaData_BusinessCompositeFilter_pin.xml</property>
+		<property name="SI_PARENTID" type="Long" flags="0">27</property>
+		<property name="SI_PLUGIN_VERSION" type="String" flags="0">10.0.0.0</property>
+		<property name="SI_PLUGIN_MUSTCREATEUNDERROOTFOLDER" type="Bool" flags="0">True</property>
+		<property name="SI_PLUGIN_ROOTFOLDERID" type="Long" flags="0">98</property>
+		<property name="SI_PLUGIN_LEVEL" type="Long" flags="0">3</property>
+		<propertybag name="SI_PLUGIN_RIGHTS" type="Array" flags="0">
+			<property name="SI_TOTAL" type="Long" flags="0">1</property>
+			<propertybag name="1" type="Bag" flags="0">
+				<property name="SI_ID" type="Long" flags="0">7</property>
+				<property name="SI_DESCRIPTION" type="Long" flags="0">0</property> <!-- data access right -->
+			</propertybag>
+		</propertybag>
+	</propertybag>
+</plugin>

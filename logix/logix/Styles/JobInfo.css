@@ -1,0 +1,647 @@
+﻿/*.div_total
+{
+    float:left;
+  width :750px;
+ 
+}
+.total
+{
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}*/
+.div_body{
+        width:950px;
+         margin-top :1%;
+         margin-bottom:1%;
+        background-color:#F8F8F8;
+       -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+       -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+       box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+        height:100%;
+        /*overflow:hidden;*/
+        /*border:1px solid black;*/
+        }
+.div_sub1 
+{
+    float: left;
+    width: 72%;
+}
+.div_total2
+{
+    float:left;
+    width:25%;
+height:100%;
+  /*background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);*/
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.35%;
+   /*margin-top:10px;*/
+}
+.div_btn1
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right:4%;
+    margin-top:4%;
+    text-align: right;
+}
+
+.div_Break
+{
+    clear: both;
+}
+.div_lnkjob
+{
+    /*width: 5%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    }
+.div_txtjob
+{
+    width: 18.25%;
+    float: left;
+    margin-left: 3.5%;
+    margin-top: 0.5%;
+}
+.div_txtjob input, Text
+{
+    width: 100%;
+}
+.div_date
+{
+    width: 55%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+    text-align: right;
+    font-family:sans-serif;
+    font-size:10pt;
+   
+}
+.div_txtdate
+{
+    width: 13.8%;
+    float: right;
+    margin-right: 0.85%;
+    margin-top: 0.5%;
+}
+.div_txtdate input, Text
+{
+    width: 100%;
+}
+.div_txtdate1 
+{
+    width: 10%;
+    float: left;
+    margin-left: 0.5%;
+}
+.div_txtdate1 input, Text
+{
+    width: 100%;
+}
+.div_lnkvessel  
+{
+    /*width: 10%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+
+}
+.div_lnkvessel input, Text
+{
+    width: 100%;
+}
+
+.div_txt_lnkvessel
+{
+    width: 27.3%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+ .div_txt_lnkvessel input, Text
+  {
+        width: 100%;
+    }
+ .div_txt_lnkvessel1
+{
+    width: 33.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+ .div_txt_lnkvessel1 input, Text
+  {
+        width: 100%;
+  }
+ .div_txt_lnkvessel2
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+ .div_txt_lnkvessel2 input, Text
+  {
+        width: 100%;
+  } 
+.div_voyage
+{
+    width: 25%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_voyage input, Text
+{
+    width: 100%;
+}
+.div_mbl
+{
+    width: 22.2%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+
+.div_mbl1
+{
+    width: 35%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_mbl input, Text
+{
+    width: 100%;
+}
+.div_mbl1 input, Text
+{
+    width: 100%;
+}
+.div_mbl2
+{
+    width: 19.93%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_mbl2 input, Text
+{
+    width: 100%;
+}
+.div_mblstatusddl
+{
+    /*width: 20.4%;*/
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_mblstatusddl Select
+{
+    width: 100%;
+}
+.div_mblstatus
+{
+    width: 20%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_mblstatus input, Text
+{
+    width: 100%;
+}
+.div_em
+{
+    width: 7.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_em input, Text
+{
+    width: 100%;
+}
+.div_emdate
+{
+    width: 14.2%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_emdate input, Text
+{
+    width: 100%;
+}
+.div_emdate1
+{
+    width: 13.6%;
+    float: left;
+    margin-left: 0.6%;
+    margin-top: 0.5%;
+}
+.div_emdate1 input, Text
+{
+    width: 100%;
+}
+.div_emdate2
+{
+    width: 13.8%;
+    float: left;
+    margin-left: 0.6%;
+    margin-top: 0.6%;
+}
+.div_emdate2 input, Text
+{
+    width: 100%;
+}
+.div_contra
+{
+    /*width: 31%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_contra Select
+{
+    width: 100%;
+}
+.div_mlo
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_txtmlo
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtmlo input, select
+{
+    width: 100%;
+}
+.div_txtmlo1
+{
+    width: 49%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtmlo1 input, select
+{
+    width: 100%;
+}
+.div_agent
+{
+    width: 8%;
+    float: left;
+    margin-right: 1%;
+    margin-top: 1.5%;
+    text-align: right;
+}
+.div_ship
+{
+    width: 22%;
+    float: left;
+    margin-left: 1.5%;
+      margin-top: 2.5%;
+    height: 23px;
+    font-family:sans-serif;
+    font-size:10pt;
+   
+}
+.panel
+{
+    width:100%;
+    margin-left:0%;
+    margin-top: 0.5%;
+    /*padding-left:1%;*/
+     /*background-color:#b8d3e6;*/
+}
+.div_radio
+{
+    width:70%;
+    float: left;
+    margin-left: 1%;
+    margin-right: 0.5%;
+    margin-top: 0.5%;
+    font-family:sans-serif;
+    /*font-size:10pt;*/   
+}
+.div_radio input, radio
+{
+   /*width: 20%;*/  
+}
+
+.div_remark
+{
+    width: 8.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_txtremark
+{
+    width: 66.7%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.6%;
+}
+.div_txtremark input, text
+{
+    width: 100%;
+}
+.div_mblbtn
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_btn
+{    
+    float:right;
+    margin-right: 0.6%;   
+    text-align: right;    
+}
+.div_confirm
+{    
+    float:right;
+    margin-right: 0.6%;   
+    text-align: right;    
+}
+.div_btnLeft 
+{
+    float: left;
+    margin-left: 0.7%;
+    text-align: center;
+}
+.div_container 
+{
+    width: 28%;
+    float: left;
+    margin-left: 0.7%;
+}
+.div_container input, text
+{
+    width: 100%;
+}
+.div_size
+{    
+    width:7%;
+    float: left;
+    margin-left: 0.6%;
+    margin-top: -0.1%;
+}
+.div_size input, select
+{
+    width: 100%;
+}
+.div_seal
+{
+    width: 16%;
+    float: left;
+    margin-left: 0.4%;
+}
+.div_seal input, text
+{
+    width: 100%;
+}
+.div_seal1
+{
+    width:12%;
+    float: left;
+    margin-left: 0.5%;   
+}
+.div_seal1 input, text
+{
+    width: 100%;
+}
+.div_wt
+{
+    width: 14%;
+    float: left;
+    margin-left: 0.5%;
+}
+.div_txt_wt
+{
+    width: 15%;
+    float: left;
+    margin-left: 0.5%;
+}
+.div_txt_wt input, text
+{
+    width: 100%;
+}
+.div_btn_add
+{    
+    float: right;
+    margin-right: 0.6%;
+    margin-top:-0.3%;    
+}
+
+.div_Grid
+{
+    width: 98%;
+    float: left;    
+    margin-left:0.6%;    
+    margin-bottom:1%;
+    height:50%;
+}
+.GridHeader_my
+{
+      /*background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: -0.3%;
+    margin-bottom: 0px;
+    position :absolute ;
+    margin-top:-2.3%;*/
+  
+
+    background-color:navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+    position :absolute ;
+    margin-top:-1.5%
+   
+}
+
+.GridHeader_my1
+{
+    
+
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+  /*position :absolute ;*/
+   margin-top:-1.5%
+   
+}
+.div_popup
+{
+    width: 100%;
+    float: left;
+}
+
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    /*width: 100%;
+    float: left;
+    text-align: right;
+    cursor: pointer;*/
+ width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:98%;
+            margin-top:-2.5%;
+            border-radius: 90px 90px 90px 90px;
+       
+
+}
+.div_Grd
+{
+    float: left;
+    width: 100%;
+    height: 95%;
+    overflow: auto;
+    margin-top: 2%;
+     font-family:sans-serif;
+     font-size:10pt;
+    /*overflow-y:scroll;*/
+}
+.div_frame
+{
+    /*width: 100%;
+    height: 90%;*/
+    width: 200px;
+     Height:305px;
+   
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}
+.GridHeader_my1
+{
+    background-color:navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:12px;
+    margin-left: -0.2%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-1.3%;
+  
+}
+.GridHeader_my2
+{
+    background-color:navy;
+    color:White;
+    font-family:sans-serif;
+   font-size: 12px;
+    margin-left: -0.8%;    
+    position :absolute ;
+    /*margin-top:-2.3%;*/
+   margin-top: -1.7%;
+     width:944px;       
+        
+  }
+.myGridHeader
+{
+    background-color:Navy;
+    color:White;
+    font-family:sans-serif;
+    font-size: 11px;
+    margin-left: 4px;
+    margin-bottom: 0px;
+   
+  
+}
+.date
+{
+    font-family:sans-serif;
+    font-size:10pt;
+    font-style:normal;
+    border-color:#999997;
+    
+    /*C9C9C9    CECFCA */
+    border: 1px solid #999997;
+    text-transform :uppercase ;
+    }
+
+.DivNew
+{
+    
+   height:300px;
+   float:left;
+ /* Height:100%;*/
+     /*width:65%;*/
+  width:200px;
+  
+}
+
+.DivNew_gr2 
+{
+    height: 214px;
+    float: left;
+    margin-top: 10%;
+    width: 247px;
+}
+.Pnl1
+{
+    height: 70px;
+    float: left;    
+    width: 283px;
+    border:1px solid #999997;
+    background-color:white;
+}
+.grid_2
+{
+    height:190px;
+    border:1px solid #999997;
+    width:99.9%;
+    /*background-color:Gray;*/
+    margin-left:0.5%;
+    margin-top:1.8%;
+    /*overflow-y: auto;*/
+    float:left;
+    /*margin-bottom:2%;*/
+}
+.div_total2
+{    margin-bottom: 0px;
+
+}

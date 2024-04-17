@@ -1,0 +1,394 @@
+﻿.div_total
+{
+    width:550px;
+    /*border:1px solid black;*/
+       background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_lbl_header
+{
+	background-color: #0061AE;
+    color: White;
+    width: 80%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_break
+{
+	clear:both;
+}
+.div_lbl_Loading
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_lbl_Loading input
+{
+	width:100%;
+}
+
+.div_lbl_BL
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_lbl_BL input
+{
+	width: 100%;
+}
+.div_txt_BL
+{
+	width: 20%;
+	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_BL input
+{
+	width: 100%;
+}
+.div_lbl_DoDate
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+	text-align:right;
+}
+.div_lbl_DoDate input
+{
+	width: 100%;
+}
+.div_txt_DoDate
+{
+	width: 15%;
+	
+	float: left;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+    margin-left:1%;
+}
+.div_txt_DoDate input
+{
+	width: 100%;
+}
+.div_lbl_VslVoy
+{
+	width: 7%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+	height: 13px;
+	text-align:left;
+}
+.div_lbl_VslVoy input
+{
+	width: 100%;
+}
+.div_txt_VslVoy
+{
+	width: 38.7%;	
+	float: left;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+    margin-left:12.3%;
+}
+.div_txt_VslVoy input
+{
+	width: 100%;
+}
+.div_lbl_Shipper
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_lbl_Shipper input
+{
+	width: 100%;
+}
+.div_txt_Shipper
+{
+	width: 40%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Shipper input
+{
+	width: 100%;
+}
+.div_lbl_Por
+{
+	width: 3%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+	text-align:left;
+	
+}
+.div_lbl_Por input
+{
+	width: 100%;
+}
+.div_txt_Por
+{
+	width: 26%;	
+	float: left;
+    margin-left:1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Por input
+{
+	width: 100%;
+}
+.div_lbl_Pol
+{
+	width: 3%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+	text-align:left;
+}
+.div_lbl_Pol input
+{
+	width: 100%;
+}
+.div_txt_Pol
+{
+	width: 30%;
+	
+	float: left;
+    margin-left:1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Pol input
+{
+	width: 100%;
+}
+.div_lbl_Consignee
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_lbl_Consignee input
+{
+	width: 100%;
+}
+.div_txt_Consignee
+{
+	width: 48%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Consignee input
+{
+	width: 100%;
+}
+.div_lbl_Pod
+{
+	width: 3%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+	text-align:left;
+}
+.div_lbl_Pod input
+{
+	width: 100%;
+}
+.div_txt_Pod
+{
+	width: 18%;	
+	float: left;
+    margin-left:1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Pod input
+{
+	width: 100%;
+}
+.div_lbl_Fd
+{
+	width: 3%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+	text-align:left;
+}
+.div_lbl_Fd input
+{
+	width: 100%;
+}
+.div_txt_Fd
+{
+	width: 30%;	
+	float: left;
+    margin-left:1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Fd input
+{
+	width: 100%;
+}
+.div_lbl_Agent
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_lbl_Agent input
+{
+	width: 100%;
+}
+.div_txt_Agent
+{
+	width: 67%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Agent input
+{
+	width: 100%;
+}
+.div_lbl_Container
+{
+	width: 7%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+	text-align:left;
+}
+.div_lbl_Container input
+{
+	width: 100%;
+}
+.div_txt_Container
+{
+	width: 30%;	
+	float: left;
+    margin-left:1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Container input
+{
+	width: 100%;
+}
+.div_lbl_Mailid
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_lbl_Mailid input
+{
+	width: 100%;
+}
+.div_txt_Mailid
+{
+	width: 57%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Mailid input
+{
+	width: 100%;
+}
+.div_check_PO
+{
+	width:19%;
+	margin-top: 0.5%;
+	margin-left: 1%;
+	float: left;
+	height: 20px;
+}
+.div_check_PO select
+{
+	width: 100%;
+}
+.div_btn
+{
+       
+    float:right;
+    margin-right: 1%;
+    /*margin-top:-%;*/
+    text-align: right;
+  
+
+}
+.div_btn_send
+{
+	width: 11%;
+	margin-top: 1%;
+	float:right;
+	text-align: right;
+	margin-right:15%;
+}
+.div_btn_send input, button
+{
+	width: 55%;
+	margin-left: 0.5%;
+	height: 20px;
+}
+.div_btn_view
+{
+	width: 6%;
+	margin-top: 1%;
+	float: right;
+	text-align: right;
+	margin-right:0.5%;
+}
+.div_btn_view input, button
+{
+	width: 100%;
+	
+	
+}
+.div_btn_cancel
+{
+	width: 6%;
+	margin-top: 1%;
+	float: right;
+	text-align: left;
+    margin-right:20%;
+}
+.div_btn_cancel input, button
+{
+	width: 100%;
+	
+	}
+
+
+
+
+
+
+
+ 
+ 

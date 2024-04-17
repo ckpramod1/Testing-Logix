@@ -1,0 +1,438 @@
+﻿.div_total
+{
+    width:850px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.div_lbl_hdr
+{
+    background-color: #0061AE;
+    color: White;
+    width: 99%;    
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbtn_jobno
+{
+    /*width:10%;*/ 
+    float: left;  
+    margin-top:0.8%; 
+    margin-left:0.7%;
+    height: 13px;
+}
+.div_txt_jobno
+{
+    width:27%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.5%;  
+}
+.div_txt_jobno input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_vessel
+{
+    width:9%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_vessel
+{
+    width:26%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.5%;  
+}
+.div_txt_vessel input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_emnodate
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_emnodate
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.5%;  
+}
+.div_txt_emnodate input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_blno
+{
+    width:9%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_blno
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.5%;  
+}
+.div_txt_blno input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_pol
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_pol
+{
+    width:31.1%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.7%;  
+}
+.div_txt_pol input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_etdsailed
+{
+    width:9%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_etdsailed
+{
+    width:26%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.4%;  
+}
+.div_txt_etdsailed input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_pod
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_pod
+{
+    width:15.1%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.5%;  
+}
+.div_txt_pod input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_etaarrvd
+{
+    width:9%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_etaarrvd
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.4%;  
+}
+.div_txt_etaarrvd input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+
+.div_lbl_MBLstatus
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_MBLstatus
+{
+    width:57.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.7%;  
+}
+.div_txt_MBLstatus input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_stuffon
+{
+    width:9%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_stuffon
+{
+    width:15.1%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.5%;  
+}
+.div_txt_stuffon input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_liner
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_liner
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.4%;  
+}
+.div_txt_liner input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_tot_sub
+{
+	width: 99%;    
+    margin-top: 1%;
+  /* border:2px solid red;*/
+}
+.div_Sub1
+{
+	width:65%;	
+    margin-top: 1%;	
+    float:left;
+    margin-right:1%;
+     /*border:1px solid green;*/
+   
+}
+.div_Sub2
+{
+	width:34%;	
+    margin-top: 1%;	
+    float:left;
+    /*border:1px solid green;*/
+}
+.div_lbl_agent
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_agent
+{
+    width:57.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.7%;  
+}
+.div_txt_agent input
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_cntnrnocl
+{
+    width:33%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_lbl_jobremarks
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_jobremarks
+{
+    width:57.4%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:0.7%;  
+}
+.div_txt_jobremarks input
+{
+	width:99%;
+
+}
+.div_lstbx_cntnrnocl 
+{
+    width: 40.8%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_grd_evnttrack
+{
+    width:100%;
+    height:150px;
+    float: left;  
+    margin-top:0.5%;
+    margin-left:0%;
+    overflow:auto;
+}
+.div_btn_exprtexcel
+{	 
+	 float:right;	 
+	 text-align:right;
+	 margin-top:0.5%;
+}
+.div_btn_exprtexcel button,input
+{
+	width:100%;
+}
+.div_btn_clear
+{	 
+	  float:right;	
+	  text-align:right;
+	  margin-top:0.5%;
+	  margin-left:0.5%;
+      margin-right:0.7%;
+}
+.div_btn_clear button,input
+{
+	width:100%;
+}
+.div_lbl_nxtflwupdate
+{
+    width:15%; 
+    float: left;  
+     margin-top:0.5%;  
+    margin-left:0.7%;      
+}
+.div_ddl_nxtflwupdate
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_ddl_nxtflwupdate select
+{
+	width:100%;
+	margin-bottom: 0px;
+}
+.div_lbl_pndngdtls
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;      
+    margin-left:0.7%;   
+    color:brown;
+}
+.div_grd_pndngevents
+{
+    width:98.6%;
+    float: left;  
+    margin-top:0.5%;
+    margin-left:0.7%;   
+}
+
+.div_btn_evntclear
+{	
+	 float:right;
+	 margin-right:0.6%;
+	 text-align:right;
+	 margin-top:0.5%;
+     margin-bottom:0.5%;
+}
+.div_btn_evntclear button,input
+{
+	width:100%;
+}
+.div_popup_job
+{
+	float: left;
+	width: 100%;
+	height: 50%;
+	background-color:White;
+}
+.div_grd_job
+{
+	width: 100%; 
+	height:400px;
+	margin-top: 1%;
+	margin-bottom: 1%;	
+	float:left;
+	overflow:auto
+}
+.div_closevoucher_job
+{
+	cursor: pointer;
+	float: right;
+}
+.modalBackground_job
+{
+	background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+	filter: alpha(opacity=70); /* Netscape */
+	-moz-opacity: 0.7; /* Safari 1.x */
+	-khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+/*.div_frame
+{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width: 100%;
+    height: 90%;
+    float: left;
+    vertical-align: top;
+}*/
+.div_frame
+{
+    /*width: 100%;
+    height: 90%;*/
+    width: 200px;
+     Height:305px;
+   
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}

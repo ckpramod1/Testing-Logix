@@ -1,0 +1,139 @@
+﻿.div_total
+{
+   width:500px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+   height:210px;
+}
+.div_lab
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+    font-size:12px;
+}
+.div_drop
+{  
+    width:21%;
+    float:right;
+    margin-right:2%;
+    margin-top:1%
+}
+.div_drop input,select{
+    width:100%;
+}
+.div_txt1
+{   
+    width:15%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+    height: 20px;
+}
+.div_txt1 input,Text
+{
+    width:100%;
+} 
+.div_txt2
+{  
+    width:45%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+} 
+.div_txt2 Input,Text
+{
+    width:100%;
+}
+.div_txt3
+{
+    width:62%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+} 
+.div_txt3 Input,Text
+{
+    width:100%;
+}
+.div_txt4
+{ 
+    width:30%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+} 
+.div_txt4 Input,Text
+{
+    width:100%;
+}
+.div_txt5
+{   
+    width:35%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+} 
+.div_txt5 Input,Text
+{
+    width:100%;
+}
+.div_txt6
+{  
+    width:30%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+} 
+.div_txt6 Input,Text
+{
+    width:100%;
+}
+.div_txt7
+{  
+    width:35%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+} 
+.div_txt7 Input,Text
+{
+    width:100%;
+}
+.div_back
+{   
+    width:10%;
+    float:right;
+    margin-right:1%;
+    margin-top:1%;
+   
+}
+.div_back Input , Text
+{
+    width:100%;
+}
+.div_view
+{ 
+    width:10%;
+    float:right;
+    margin-right:1%;
+    margin-top:1%;
+} 
+.div_view Input , Text
+{
+    width:100%;
+}
+.div_save
+{  
+    width:10%;
+    float:right;
+    margin-right:1%;
+    margin-top:1%; 
+} 
+.div_save Input , Text
+{
+    width:100%;
+}

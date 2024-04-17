@@ -1,0 +1,181 @@
+﻿.div_total
+{
+    width:750px;
+   
+   background-color:#F5F5F2;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+ 
+ -webkit-border-radius: 4px 4px 4px 4px;
+  -moz-border-radius   : 4px 4px 4px 4px;
+  border-radius        : 4px 4px 4px 4px;
+}
+
+.txtBranchcustomer
+{
+   width:51%;
+   float:left;
+   margin-top:0.5%;
+   margin-left:1.2%;
+
+}
+.txtBranchcustomer input
+{
+    width:100%;
+}
+
+.ddlbranch
+{
+      width:46%;
+   float:left;
+   margin-top:0.5%;
+   margin-left:1%;
+}
+
+.ddlbranchpdt
+{
+      width:27%;
+   float:left;
+   margin-top:0.5%;
+   margin-left:1%;
+}
+
+.ddlMonth
+{
+    width:14%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+
+.dyear
+{
+    width:8.5%;
+    float:left;
+      margin-top:0.5%;
+    margin-left:1%;
+}
+
+.dllProduct
+{
+    width:18%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.dllProductNew
+{
+    width:10%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+
+.txtRetention
+{
+    width:16.3%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+
+.divbtnsave
+{
+    width:8.7%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+
+.txtcompany
+{
+   width:40%;
+    float:left;
+    margin-left:1%;
+}
+
+.txtPort
+{
+   width:19.4%;
+   float:left;
+   margin-left:1%;
+}
+
+.txtUnit
+{
+   width:9.9%;
+   float:left;
+   margin-left:1%;
+}
+
+.txtUnittwo
+{
+     width:9%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.8%;
+}
+
+
+.txtUnittwoNew
+{
+     width:8%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.8%;
+}
+
+.txtRetentionNew
+{
+   width:16.5%;
+   float:left;
+   margin-left:1%;
+}
+
+.div_btnview
+{
+    width: 8.4%;
+    float: left;
+    text-align: left;
+    margin-left:1%;
+    margin-top:-0.1%;
+}
+.hide
+{
+ display:none;
+}
+
+.divTotal
+{
+   width:16%;
+    float:right ;
+    margin-top:0.8%;
+    margin-right :10%;
+    text-align:right;
+}
+
+.divtot2
+{
+   width:11%;
+   float:right;
+   margin-top:0.8%;
+   margin-right:1%;
+   text-align:right;
+}
+
+.divLabeltot
+{
+   width:6%;
+   float:right;
+   text-align:right;
+   margin-top:1.2%;
+   margin-right:1.5%;
+}
+.div_button
+{
+float:right;
+margin-right:0.8%;
+margin-bottom:0.8%;
+/*margin-top:1%;*/
+}

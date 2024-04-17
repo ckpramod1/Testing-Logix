@@ -1,0 +1,107 @@
+﻿.div_total 
+{
+    width: 650px;
+    /*height:100%;*/
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+    clear: both;
+}
+.div_con
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_con input 
+{
+    width: 100%;
+}
+.div_txt
+{
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input 
+{
+    width: 100%;
+}
+.div_txt2
+{
+    width: 48%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt2 input 
+{
+    width: 100%;
+}
+.div_txtt1
+{
+    width: 24.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtt1 input 
+{
+    width: 100%;
+}
+.div_txtt2
+{
+    width: 24%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtt2 input 
+{
+    width: 100%;
+}
+.div_txtt3
+{
+    width: 33%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtt3 input 
+{
+    width: 100%;
+}
+.div_txtt4
+{
+    width: 14.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtt4 input 
+{
+    width: 100%;
+}
+.div_Grid
+{
+    width:100%;
+    float: left;    
+    margin-left:0%;    
+    margin-top:0%;
+    margin-bottom:0%;
+    height:150px;
+    border:solid 1px #b1b1b1;
+}
+.div_btn
+{    
+    float:right;
+    margin-right: 0.9%;   
+    text-align: right;    
+    margin-bottom:0.5%;
+}

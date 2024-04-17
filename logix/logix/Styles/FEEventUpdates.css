@@ -1,0 +1,620 @@
+﻿.div_total
+{
+    width:450px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+
+}
+.div_lbl_hdr
+{
+    background-color: #0061AE;
+    color: White;
+    width: 83%;    
+    margin-top: 1%;
+    font-weight: bold;
+    
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbl_blno
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_blno
+{
+    width:48.5%; 
+    float: left;  
+    margin-top:1%;  
+    margin-left:1%;  
+}
+.div_txt_blno input
+{
+	width:100%;	
+}
+.div_lbl_bkngno
+{
+    width:8%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:17%;   
+}
+.div_txt_bkngno
+{
+    width:48%; 
+    float: left;  
+    margin-top:1%;  
+    margin-left:1%;  
+}
+.div_txt_bkngno input
+{
+	width:100%;	
+}
+
+.div_lbl_fdrvsl
+{
+    /*width:15%;*/ 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;    
+}
+
+.div_lbl_FVvsl
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_FVvsl
+{
+    width:48.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_FVvsl input
+{
+	width:100%;	
+}
+.div_lbl_FVstufdon
+{
+    width:8%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:17%;   
+}
+.div_txt_FVstufdon
+{
+    width:48%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_FVstufdon input
+{
+	width:100%;	
+}
+.div_lbl_FVpol
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_FVpol
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_FVpol input
+{
+	width:100%;	
+}
+.div_lbl_FVetd
+{
+    width:5%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_FVetd
+{
+    width:23%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_FVetd input
+{
+	width:100%;	
+}
+.div_lbl_FVpod
+{
+    width:5%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_FVpod
+{
+    width:26%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_FVpod input
+{
+	width:100%;	
+}
+.div_lbl_FVeta
+{
+    width:8%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_FVeta
+{
+    width:21.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_FVeta input
+{
+	width:100%;	
+}
+
+.div_lbl_MthrVsl
+{
+    /*width:15%;*/ 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+
+.div_lbl_MVvsl
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_MVvsl
+{
+    width:97.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_MVvsl input
+{
+	width:100%;	
+}
+
+.div_lbl_MVpol
+{
+    width:15%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_MVpol
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_MVpol input
+{
+	width:100%;	
+}
+.div_lbl_MVetd
+{
+    width:5%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_MVetd
+{
+    width:23%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_MVetd input
+{
+	width:100%;	
+}
+.div_lbl_MVpod
+{
+    width:5%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_MVpod
+{
+   width:26%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_MVpod input
+{
+	width:100%;	
+}
+.div_lbl_MVeta
+{
+    width:8%; 
+    float: left;  
+    margin-top:0.5%;   
+    margin-left:1%;   
+}
+.div_txt_MVeta
+{
+     width:21.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_MVeta input
+{
+	width:100%;	                                                                                                                                         
+}
+.div_lbl_stfsent
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_stfsent
+{
+    width:48.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_stfsent input
+{
+	width:100%;	
+}
+.div_lbl_sailsent
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;   
+     margin-left:1%;     
+}
+.div_txt_sailsent
+{
+    width:48%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_sailsent input
+{
+	width:100%;	
+}
+.div_lbl_prealrtsent
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_prealrtsent
+{
+    width:48.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_prealrtsent input
+{
+	width:100%;	
+}
+.div_lbl_tssent
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;   
+     margin-left:1%;     
+}
+.div_txt_tssent
+{
+    width:48%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_tssent input
+{
+	width:100%;	
+}
+.div_lbl_dconreqsent
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_dconreqsent
+{
+    width:48.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_dconreqsent input
+{
+	width:100%;	
+}
+.div_lbl_dconfrmsent
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;   
+     margin-left:1%;     
+}
+.div_ddl_dconfrmsent
+{
+    width:34%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_ddl_dconfrmsent input,select
+{
+	width:100%;	
+}
+.div_lbl_invlrcvd
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_invlrcvd
+{
+    width:13%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_invlrcvd input
+{
+	width:100%;	
+}
+.div_lbl_prealrtacknwldgd
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;   
+     margin-left:1%;     
+}
+.div_txt_dconfrmsent
+{
+    width:48%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_dconfrmsent input
+{
+	width:100%;	
+}
+.div_lbl_hblacknwldgd
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_ddl_hblacknwldgd
+{
+    width:49%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_ddl_hblacknwldgd select
+{
+	width:100%;	
+}
+.div_lbl_mblacknwldgd
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;   
+     margin-left:1%;     
+}
+.div_ddl_mblacknwldgd
+{
+      width:48%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_ddl_mblacknwldgd input,select
+{
+	width:100%;	
+}
+.div_lbl_dcmntsent
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_dcmntsent
+{
+    width:13%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_dcmntsent input
+{
+	width:100%;	
+}
+.div_lbl_trnshpmntcnfrmd
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;   
+     margin-left:1%;     
+}
+.div_ddl_trnshpmntcnfrmd
+{
+      width:35%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_ddl_trnshpmntcnfrmd input,select
+{
+	width:100%;	
+}
+.div_lbl_dbtnotesent
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;
+    height: 13px;
+}
+.div_txt_dbtnotesent
+{
+    width:13%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_dbtnotesent input
+{
+	width:100%;	
+}
+.div_lbl_dbtnoteacknwldgd
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;   
+     margin-left:1%;     
+}
+.div_ddl_dbtnoteacknwldgd
+{
+    width:34%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_ddl_dbtnoteacknwldgd input,select
+{
+	width:100%;	
+}
+.div_lbl_doconfrcvd
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_doconfrcvd
+{
+    width:13%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_doconfrcvd input
+{
+	width:100%;	
+}
+.div_lbl_hblstatus
+{
+    width:24%; 
+    float: left;  
+    margin-top:0.5%;   
+     margin-left:1%;     
+}
+.div_ddl_hblstatus
+{
+     width:35%;  
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_ddl_hblstatus input,select
+{
+	width:100%;	
+}
+.div_lbl_nxtflwupdate
+{
+    /*width:48%;*/ 
+    float: left;  
+    margin-top:1%;  
+    margin-left:1%;   
+    /*text-align:right;*/ 
+}
+.div_txt_nxtflwupdate
+{
+  width:32%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_nxtflwupdate input
+{
+	width:100%;	
+}
+.div_lbl_remarks
+{
+    width:25%; 
+    float: left;  
+    margin-top:0.5%;      
+}
+.div_txt_remarks
+{
+    width:97.5%; 
+    float: left;  
+    margin-top:0.5%;  
+    margin-left:1%;  
+}
+.div_txt_remarks input
+{
+	width:100%;	
+}
+
+.div_btn_update
+{
+	 
+	 /*float:left;	
+	  text-align:right;
+	  margin-top:0.5%;
+	  margin-left:78%;*/
+      /*width:10%;*/
+	 float:right;
+	 /*margin-left:75%;*/
+	  text-align:center;
+	  margin-top:0.5%;
+	
+}
+.div_btn_update button,input
+{
+	width:100%;
+}
+.div_btn_back
+{
+	 /*width:7%;*/
+	 float:right;	
+	  text-align:center;
+	  margin-top:0.5%;
+	  margin-left:1%;
+	margin-right:1%;
+}
+.div_btn_back button,input
+{
+	width:100%;
+}

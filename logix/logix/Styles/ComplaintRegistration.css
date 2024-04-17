@@ -1,0 +1,280 @@
+﻿.div_total
+{    
+    width:700px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_lbl_header
+{
+	background-color: #0061AE;
+    color: White;
+    width:  70%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+	clear:both;
+}
+.div_lbl_refno
+{
+	/*width: 77%;*/
+	float: left;
+	margin-top: 0.5%;
+	margin-right: 0.5%;
+   margin-left:60%;
+	text-align:right;
+}
+.div_lbl_refno input
+{
+	width:100%;
+}
+.div_txt_refno
+{
+	width: 25%;
+	float: right;
+	margin-right:1.5%;
+	margin-top: 0.5%;	   
+}
+
+.div_lbl_CustomerName
+{
+	width: 10%;
+	float: left;
+	margin-top: 1%;
+	margin-left: 0.5%;
+}
+.div_txt_CustomerName
+{
+	width: 97.5%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;	
+ 
+}
+.div_txt_CustomerName input
+{
+	width:100%;
+}
+.div_lbl_Ref 
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_ddl_Ref 
+{
+	width: 26%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.8%;
+	
+}
+.div_ddl_Ref select
+{
+	width:100%;
+}
+.div_lbl_DOC 
+{
+	width: 5%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_txt_DOC 
+{
+	width: 44%;	
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.8%;
+	
+}
+
+.div_lbl_CompType
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_ddl_CompType
+{
+	width: 27%;	
+	float: left;
+	margin-left:0.5%;
+	margin-top: 0.8%;
+	
+}
+.div_ddl_CompType select
+{
+	width:100%;
+}
+.div_lbl_CompDetails
+{
+	width: 11%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_txt_CompDetails
+{
+	width: 97.5%;
+	float: left;
+	margin-top: 0.5%;
+    margin-left:1%;
+	
+}
+.div_txt_CompDetails input
+{
+	width:100%;
+}
+.div_lbl_Recieved
+{
+	width: 11%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_txt_Recieved
+{
+	width: 15%;
+	float: left;
+	margin-top: 0.8%;	
+    margin-left:1%;
+}
+.div_txt_Recieved input
+{
+	width:100%;
+}
+.div_lbl_RecievedMode
+{
+	width: 11%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_ddl_RecievedMode
+{
+	width: 20%;
+	float: left;
+	margin-top: 0.8%;
+    margin-left:0.5%;
+	
+}
+.div_ddl_RecievedMode input
+{
+	width:100%;
+}
+.div_lbl_RecievedBy
+{
+	width: 10%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_txt_RecievedBy
+{
+	width: 61.5%;	
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.8%;
+	
+}
+
+.div_btn_Save
+{
+	/*width: 51.5%;*/
+	margin-top: 0.5%;
+	float: left;
+	text-align: right;
+	margin-left: 0.5%;
+}
+
+.div_btn_Delete
+{
+	/*width: 6%;*/
+	margin-top: 0.5%;
+	float: left;
+	text-align: left;
+	margin-left: 0.5%;
+}
+
+.div_btn_View
+{
+	/*width: 5%;*/
+	margin-top: 0.5%;
+	float: left;
+	text-align: left;
+	margin-left: 0.5%;
+}
+
+.div_btn_Cancel
+{
+	/*width: 6%;*/
+	margin-top: 0.5%;
+	float: left;
+	text-align: left;
+	margin-left: 0.5%;
+}
+.div_btn
+{    
+    float: right;
+    margin-right: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    text-align:right;
+}
+.div_grd_Complaint
+{
+	/*width: 90%;*/ /*margin-left: 1%;*/
+	margin-top: 1%;
+	margin-bottom: 1%;
+    height:70%;
+}
+.div_grd_Complaint input
+{
+	width: 100%;
+}
+.modalBackground
+{
+	background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+	filter: alpha(opacity=70); /* Netscape */
+	-moz-opacity: 0.7; /* Safari 1.x */
+	-khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+
+
+.div_close_voucher
+{
+	cursor: pointer;
+	float: right;
+}
+.div_popup
+{
+	float: left;
+	width: 100%;
+	height: 70%;
+	background-color:White;
+}
+
+.myGridHeader3
+{
+   
+
+     background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.8%;   
+    margin-bottom: 0px;  
+    position :absolute ;
+    margin-top:-2%;
+    width:944px;
+  
+}

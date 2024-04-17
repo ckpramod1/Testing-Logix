@@ -1,0 +1,87 @@
+﻿.div_total
+{
+    
+     width :650px;
+       background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_break
+{
+	clear:both;
+}
+.div_lbl_job
+{
+    float:left;
+    margin-left:1%;
+    margin-top:1.5%;
+}
+.div_txt_jobno
+{
+    width:25%;
+    float:left;
+    margin-left:1%;
+    margin-top:1.5%;
+}
+.div_txt_jobno input
+{
+    width:100%;
+}
+.div_pnl_frwd
+{
+	width:100%;
+    height:190px; 
+    border-color:solid 1px white;
+    /*float: left;  
+    margin-left:1%;   
+    margin-top:0.5%;
+    text-align:right;*/
+}
+.div_lbl_fbl
+{
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_lbl_hbl
+{
+     float:left;
+    margin-left:25%;
+    margin-top:0.5%;
+}
+
+.div_grd
+{
+    width: 100%; 
+	height:90%;
+	margin-top: 0.5%;	
+	margin-left:0%;
+	float:left; 
+}
+.div_grd input
+{
+    width: 100%;
+}
+
+.div_btn
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right: 1%;
+    margin-top:1%;
+    text-align: right;
+    margin-bottom:0.5%;
+    /*padding-left:10%;*/
+}

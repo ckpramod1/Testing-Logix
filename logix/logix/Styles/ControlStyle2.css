@@ -1,0 +1,562 @@
+﻿body {
+}
+
+.MasterResolution {
+    width: 1000px;
+    height: 600px;
+    background-color: White;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.div_bottom {
+    clear: both;
+    margin-bottom: 1%;
+}
+
+.EmptyRowStyle {
+    text-align: center;
+}
+
+.THeader {
+    width: 100%;
+    height: 10%;
+}
+
+.FrameMasForms {
+    color: Maroon;
+    background-color: White;
+    font-family: Tahoma;
+    font-size: 8;
+    width: 15%;
+    height: 85%;
+}
+
+.FCenter {
+    width: 62%;
+    height: 85%;
+}
+
+.IframeLeft {
+    width: 23%;
+    height: 85%;
+}
+
+.FFooter {
+    height: 5%;
+}
+
+.Framestyle1 {
+    background-image: url('../Image/Head.jpg');
+    background-repeat: no-repeat;
+    background-color: White;
+}
+
+.Framestyle2 {
+    height: 63px;
+}
+
+Input {
+    font-family: Tahoma;
+    /*font-size: 8pt;*/
+    font-style: normal;
+}
+/*.Text
+{
+    
+    font-family:Tahoma;
+    font-size:10pt;
+    font-style:normal;
+    border-style:solid;
+    border-width:1px;   
+    border-color :Black; 
+    text-transform :uppercase ;
+    background-color:#e2f2f8;
+   
+    }
+
+.Button
+{
+    font-family:Tahoma;
+    font-size:8pt;
+    cursor:hand;
+    height: 21px;
+}*/
+.Text {
+    font-family: Tahoma;
+    font-size: 10pt;
+    font-style: normal;
+    border-color: #999997;
+    /*C9C9C9    CECFCA */
+    border: 1px solid #999997;
+    text-transform: uppercase;
+}
+
+.txt_input {
+    font-family: Tahoma;
+    font-size: 8pt;
+    font-style: normal;
+    border-color: #999997;
+    /*C9C9C9    CECFCA */
+    border: 1px solid #999997;
+    text-transform: uppercase;
+}
+
+.Button {
+    font-family: Tahoma;
+    /*font-size: 8pt;*/
+    cursor: hand;
+    /*font-weight:bold;*/
+    background-color: navy;
+    -webkit-border-radius: 4px 4px 4px 4px;
+    -moz-border-radius: 4px 4px 4px 4px;
+    border-radius: 4px 4px 4px 4px;
+    /*-webkit-border-radius: 4px 4px 4px 4px;
+  -moz-border-radius   : 4px 4px 4px 4px;
+  border-radius        : 4px 4px 4px 4px;
+     -webkit-box-shadow: 0 4px 5px rgba(0,0,0,.15);
+  -moz-box-shadow   : 0 4px 5px rgba(0,0,0,.15);
+  box-shadow        : 0 4px 5px rgba(0,0,0,.15);*/
+    color: white;
+}
+
+.LabelValue {
+    font-family: Tahoma;
+    font-size: 12px;
+    color: #b1b1b1;
+    font-weight: normal;
+    text-align: right;
+}
+
+.Title {
+    font-family: Tahoma;
+    font-size: 8pt;
+    color: black;
+    border-style: none;
+    border-width: 0px;
+}
+
+.FrameTitle {
+    font-family: Tahoma;
+    font-size: 8pt;
+    color: Aqua;
+    vertical-align: bottom;
+}
+
+.Headermis {
+    background-color: Navy;
+    width: 99.4%;
+    padding: 3px;
+    border-bottom: 1px solid black;
+    /*background-color:#333399; /*background-color:Gray;
+    font-size: 10%;
+    height: 18px;
+    /*font-weight: bold;
+    color: Black;
+    text-align: left;
+    padding:2px;*/
+}
+
+.Header {
+    /*background-color:Navy;*/
+    width: 99.4%;
+    padding: 3px;
+    height: 10%;
+    /*border-bottom :1px solid black;*/
+    /*background-color:#333399; /*background-color:Gray;
+    font-size: 10%;
+    height: 18px;
+    /*font-weight: bold;
+    color: Black;
+    text-align: left;
+    padding:2px;*/
+}
+
+.Header1 {
+    /*background-color:Navy;*/
+    width: 99.3%;
+    padding: 3px;
+    height: 10%;
+    /*font-weight:bold;*/
+    /*border-bottom :1px solid black;*/
+    /*background-color:#333399; /*background-color:Gray;
+    font-size: 10%;
+    height: 18px;
+    /*font-weight: bold;
+    color: Black;
+    text-align: left;
+    padding:2px;*/
+}
+
+.Header2 {
+    /*background-color:Navy;*/
+    width: 99%;
+    padding: 3px;
+    /*border-bottom :1px solid black;*/
+    /*background-color:#333399; /*background-color:Gray;
+    font-size: 10%;
+    height: 18px;
+    /*font-weight: bold;
+    color: Black;
+    text-align: left;
+    padding:2px;*/
+}
+
+.Header3 {
+    /*background-color:Navy;*/
+    width: 99.5%;
+    padding: 3px;
+    /*border-bottom :1px solid black;*/
+    /*background-color:#333399; /*background-color:Gray;
+    font-size: 10%;
+    height: 18px;
+    /*font-weight: bold;
+    color: Black;
+    text-align: left;
+    padding:2px;*/
+}
+
+.Header4 {
+    /*background-color:Navy;*/
+    width: 99.5%;
+    padding: 3px;
+    /*border-bottom :1px solid black;*/
+    /*background-color:#333399; /*background-color:Gray;
+    font-size: 10%;
+    height: 18px;
+    /*font-weight: bold;
+    color: Black;
+    text-align: left;
+    padding:2px;*/
+}
+
+.Header5 {
+    /*background-color:Navy;*/
+    width: 99.5%;
+    padding: 3px;
+    /*border-bottom :1px solid black;*/
+    /*background-color:#333399; /*background-color:Gray;
+    font-size: 10%;
+    height: 18px;
+    /*font-weight: bold;
+    color: Black;
+    text-align: left;
+    padding:2px;*/
+}
+
+.lbl_Header {
+    /*font-size:10pt;    
+    font-family :Tahoma;
+    /*font-weight:bold; 
+     text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   margin-top:10px;*/
+    text-align: left;
+    color: navy;
+    margin-left: 1%;
+    font-size: 20px;
+    background-color: #F8F8F8;
+    /*text-shadow: rgb(150, 150, 150) 1px 3px 0px, rgb(171, 168, 168) 1px 13px 5px;*/
+}
+
+.lbl_Header1 {
+    /*font-size:10pt;    
+    font-family :Tahoma;
+    /*font-weight:bold;*/
+    text-align: left;
+    color: navy;
+    margin-left: 1%;
+    /*margin-top:10px;*/
+    /*font-size:10pt;
+     font-family :Tahoma;*/
+    /*color: rgb(255, 255, 255);*/
+    font-size: 20px;
+    /*background-color: rgb(220, 224, 179);*/
+    background-color: #F8F8F8;
+    /*text-shadow: rgb(150, 150, 150) 1px 3px 0px, rgb(171, 168, 168) 1px 13px 5px;*/
+}
+/*.div_header
+{
+    background-color:Navy;
+width:100%;
+height:10%;
+border-bottom :1px solid black;
+}*/
+
+.SubHead {
+    background-color: Gray;
+    font-size: 8pt;
+    height: 18px;
+    color: Black;
+    text-align: center;
+}
+
+.Grid {
+    /*cursor:hand;
+    margin-top:-1;
+     font-family:Tahoma;*/
+    font-family: Tahoma;
+    font-size: 10pt;
+    color: Black;
+    margin-top: 0px;
+}
+
+.Grid_color {
+    /*background-color:#CCCC99;*/
+}
+
+.Link {
+    font-family: Tahoma;
+    font-size: small;
+    color: Red;
+}
+
+.GrdHeader1 {
+    font-family: Tahoma;
+    background-color: #CCCC99;
+    color: Maroon;
+    font-size: 8pt;
+    text-align: center;
+}
+
+.GrdPanel {
+    background-color: #CCCC99;
+}
+
+.GrdHeader {
+    background-color: #5D7B9D;
+    color: White;
+    font-family: Tahoma;
+    font-size: 8pt;
+}
+
+.GridHeader {
+    background-color: #dbdbdb;
+    color: White;
+    font-family: Tahoma;
+    font-size: 10pt;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.OuterTable {
+    margin-left: 5px;
+    margin-top: 5px;
+    border-color: Black;
+    border-style: solid;
+    border-width: 1px;
+    background-color: White;
+    background-color: ButtonFace;
+}
+
+.GrdAltRow {
+    background-color: #d5e7f5;
+    font-family: Tahoma;
+    font-size: 10pt;
+    color: Black;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+.GrdRow {
+    font-family: Tahoma;
+    font-size: 10pt;
+    color: Black;
+    /*background-color:#e0f2dd;*/
+}
+
+.Calendar {
+    height: 19px;
+    width: 17px;
+    vertical-align: baseline;
+}
+
+.Pnl {
+    background-color: #E0E0E0;
+    border-color: #5D7B9D;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.GrdColHide {
+    background-color: #669999;
+}
+
+.ddl {
+    font-family: Tahoma;
+    font-size: 8pt;
+    font-style: normal;
+    height: 19px;
+}
+
+/*.FMasterResolution
+{
+    width:100%;
+    height:80%;
+    background-color:White;
+    border-left-style:1px;
+    border-right-style:1px;
+}*/
+
+.FHeader {
+    height: 10px;
+    width: 100px;
+}
+
+.FrameHeader {
+    background-image: url('../Image/Head.jpg');
+    background-repeat: no-repeat;
+    background-color: White;
+}
+
+.Centerleft {
+    width: 20%;
+    height: 300px;
+}
+
+.FCenterleft {
+    width: 20%;
+    height: 80px;
+}
+
+.Center {
+    width: 100%;
+    height: 70%;
+}
+
+.Fcentertr {
+    width: 100%;
+    height: 90%;
+}
+
+.CenterCenter {
+    width: 60%;
+}
+
+.CenterRight {
+    width: 20%;
+}
+
+.Footer {
+    width: 100%;
+    height: 20%;
+}
+
+.FrameFooter {
+    background-color: White;
+    vertical-align: top;
+}
+
+.FrameLink {
+    vertical-align: top;
+    background-color: #FAEBD7;
+}
+
+.FormBg {
+    /*background-color:#87CEEB;*/
+}
+
+td.off {
+    background-color: Aqua;
+}
+
+td.on {
+    background: Cyan;
+}
+
+.AlternateRow {
+    background-color: #BDB76B;
+    color: Black;
+    text-align: center;
+    vertical-align: middle;
+    cursor: default;
+}
+
+.modalBackground {
+    /*background-color:Gray;*/
+    filter: alpha(opacity=70);
+    opacity: 0.7;
+}
+
+.Bc {
+    background-color: White;
+    background-color: ButtonFace;
+}
+/*.div_close
+{
+    /*width: 100%;
+    float: left;
+    text-align: right;
+    cursor: pointer;
+ width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:98%;
+            margin-top:-2.5%;
+            border-radius: 90px 90px 90px 90px;
+
+}*/
+.div_close {
+    /*width: 100%;
+    float: left;
+    text-align: right;
+    cursor: pointer;*/
+    width: 20px;
+    Height: 20px;
+    border: 2px solid white;
+    margin-left: 98%;
+    margin-top: -7%;
+    /*margin-top:-7.5%;*/
+    border-radius: 90px 90px 90px 90px;
+}
+
+.div_Grd {
+    float: left;
+    width: 100%;
+    height: 95%;
+    overflow: auto;
+    margin-top: 1%;
+    font-family: Tahoma;
+    font-size: 10pt;
+    /*overflow-y:scroll;*/
+}
+
+.div_Break {
+    clear: both;
+}
+
+input[type="text"] {
+    border-style: solid;
+}
+
+input[type=text],
+input[type=file],
+textarea {
+    border: 0px solid var(--inputborder) !important;
+    border-bottom: 1px solid var(--inputborder) !important;
+    border-radius: 0px !important;
+    margin: 1px 0px 6px 0px !important;
+}
+
+.div_frame {
+    /*width: 100%;
+    height: 90%;*/
+    /*width: 200px;*/
+    Height: 305px;
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}
+
+.date {
+    font-family: Tahoma;
+    font-size: 10pt;
+    font-style: normal;
+    border-color: #999997;
+    /*C9C9C9    CECFCA */
+    border: 1px solid #999997;
+    text-transform: uppercase;
+}

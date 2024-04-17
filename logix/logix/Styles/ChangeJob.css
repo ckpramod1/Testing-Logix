@@ -1,0 +1,90 @@
+﻿.div_total
+{
+    width:1020px;     
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_confirm
+{
+    /*Border:1px solid red;*/
+    width: 100%;
+    float: left;
+    margin-left: 30%;
+    margin-top: 0%;
+}
+.Pnl1
+{
+    background-color:#E0E0E0;
+    border-color:#5D7B9D;
+    border-style:solid;
+    border-width:1px;
+    width:250px;
+    height:100px;
+    margin-right:1%;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.grid
+{
+    width:99%;
+    float:left;
+    margin-left:0.5%;
+    margin-bottom:1%;
+    margin-right:0.5%;
+    margin-top:1%;
+}
+
+.grid_1
+{
+   
+    width:100%;
+     height:500px;
+   margin-left:0%;
+   overflow:auto;
+    /*border: 1px solid black;*/
+    margin-top:0%;
+ /*   background-color:Gray;    */
+}
+.div_pnl
+{
+    width:98%;
+    float:left;
+    margin-left:0.5%;
+    margin-bottom:1%;
+    margin-right:0.5%;
+    margin-top:1%;
+    border:1px solid black;
+    height:250px;
+
+}
+.div_button
+{
+    float:right;
+margin-right:0.5%;
+margin-bottom:0.3%;
+margin-top:-0.5%;
+}
+ .modal
+    {
+        background-color: #FFFFFF;
+        border-width: 3px;
+        border-style: solid;
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 480px;
+        height:240px;
+        margin-left :1%;
+        margin-bottom:0.5%;
+      
+    }

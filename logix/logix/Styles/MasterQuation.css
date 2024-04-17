@@ -1,0 +1,140 @@
+﻿.div_total 
+{
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:13pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_Questontitletxt{
+     float: left;
+    width: 96.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Questontitletxt input,Text{
+    width:100%;
+}
+
+.div_ddldepartmentt{
+     float: left;
+    width: 48%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_ddldepartmentt input,select{
+    width:100%;
+}
+
+.div_txtConductedBy{
+     float: left;
+    width: 47.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtConductedBy input,Text{
+     width:100%;
+}
+
+.div_btn{
+
+    float:right;
+    margin-right:2.1%;
+    margin-top:1%;
+}
+
+.div_Quextiontxt{
+     float: left;
+    width: 96.8%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_Quextiontxt input,Text{
+     width:100%;
+}
+
+.div_optiontxt{
+     float: left;
+    width: 96.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_optiontxt input,Text{
+     width:100%;
+}
+.div_option1txt{
+     float: left;
+    width: 96.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_option1txt input,Text{
+     width:100%;
+}
+
+.div_option2txt{
+     float: left;
+    width: 96.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_option2txt input,Text{
+     width:100%;
+}
+.div_option3txt{
+     float: left;
+    width: 96.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_option3txt input,Text{
+     width:100%;
+}
+
+.div_option4txt{
+     float: left;
+    width: 96.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_option4txt input,Text{
+     width:100%;
+}
+
+.div_btn1{
+     float:right;
+    margin-right:2%;
+    margin-top:1%;
+}
+
+
+.div_grd{
+    width: 100%;
+    float: left;
+    margin-left:0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+    height:200px;
+    border: 1px solid #b1b1b1;
+}

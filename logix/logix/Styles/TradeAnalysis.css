@@ -1,0 +1,206 @@
+﻿.div_total
+{
+    /*border:1px solid black;*/
+    /*height:500px;*/
+    width:1000px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_lbl_header
+{
+	background-color: #0061AE;
+    color: White;
+    width:  90%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+	clear:both;
+}
+.div_lbl_From
+{
+	width: 15%;
+	float: left;
+	margin-top: 1%;
+	margin-left: 1.5%;
+}
+.div_lbl_Branch
+{
+	width: 5%;
+	float: left;
+	margin-top: 1%;
+	margin-left: 1%;
+}
+.div_ddl_Branch
+{
+	width: 20%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_ddl_Branch select
+{
+	width:100%;
+}
+.div_lbl_From1
+{
+	/*width: 17.5%;*/
+	float: left;
+	margin-top: 1%;
+	margin-left: 25%;
+	text-align:right;
+    /*height: 13px;*/
+}
+.div_txt_From
+{
+	width: 7%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_txt_From input
+{
+	width:100%;
+}
+.div_lbl_To
+{
+	/*width: 2%;*/
+	float: left;
+	margin-top: 1%;
+	margin-left: 1%;
+
+}
+.div_txt_To
+{
+	width: 7%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_txt_To input
+{
+	width:100%;
+}
+.div_btn_Trend
+{
+	/*width: 7.5%;*/
+	margin-top: 0.5%;
+	float: right;
+	text-align: center;
+	margin-right:0.7%;
+}
+.div_btn_Trend input, button
+{
+	width: 100%;
+	margin-left: 0.5%;
+	height: 20px;
+}
+.div_grd_Trade
+{
+	/*margin-left:1%;*/
+	margin-top: 0%;
+	width:100%;
+	margin-left: 0%;
+    height:358px;
+    border:1px solid #b1b1b1;
+    overflow:auto;
+}
+.div_lbl_Loading
+{
+	width: 15%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+
+}
+.div_btn_Bar
+{
+	/*width: 72%;*/
+	float: right;
+	text-align: right;
+	/*margin-left: 0.5%;*/ 
+    margin-right:1%;   
+}
+/*.div_btn_Bar input, button
+{
+	width: 10%;
+}*/
+.div_btn_Line
+{
+	/*width: 4%;*/
+	float: right;
+	text-align: center;
+	margin-right: 1%;
+}
+/*.div_btn_Line input, button
+{
+	width: 100%;
+}*/
+.div_btn_Pie
+{
+	/*width: 4%;*/
+	float: right;
+	text-align: center;
+	margin-right: 1%;
+}
+/*.div_btn_Pie input, button
+{
+	width: 100%;
+}*/
+.div_btn_Print
+{
+	/*width: 4%;*/
+	float: right;
+	text-align: center;
+	margin-right: 1%;
+}
+/*.div_btn_Print input, button
+{
+	width: 100%;
+}*/
+.div_btn_ExportExcel
+{
+	/*width: 12%;*/
+	float: right;
+    margin-right:0.7%;
+	text-align: center;
+    margin-bottom: 0.5%;
+}
+/*.div_btn_ExportExcel input, button
+{
+	width: 100%;
+}*/
+.div_chart
+{
+    width: 95%;
+    float: left;
+    margin-top: 1%;
+}
+.div_chart input 
+{
+    width:100%;
+}
+
+.GridPalICD
+{
+    width:100%;
+    height:280px;
+    border:1px solid #999997;
+    margin-left:0.5%;
+    /*margin-bottom:1%;*/
+    margin-top:1%;
+}

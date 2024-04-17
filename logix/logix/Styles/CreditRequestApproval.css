@@ -1,0 +1,309 @@
+﻿.total
+{
+   
+  width :1020px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+
+   
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 95%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_CNOP
+{
+    width: 16%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    white-space: nowrap;
+}
+.div_CNOP input, Radio
+{
+    width: 10%;
+    display: inline-block;
+}
+
+.div_CN
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_CN input, Radio
+{
+    width: 30%;
+    display: inline-block;
+}
+div_CNAdmin
+{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    white-space: nowrap;
+}
+.div_CNAdmin input, Radio
+{
+    width: 10%;
+    display: inline-block;
+}
+.div_lnk
+{
+    /*width: 12%;*/
+    float: right;
+    margin-right:1%;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_TDS
+{
+    /*width: 40%;*/
+    float: right;
+    /*margin-left:18%;*/
+    margin-top: 0.5%;
+    font-weight: bold;
+    color: Navy;
+}
+.div_Grid
+{
+    width: 100%;
+    height:335px;
+    float: left;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom:0%;
+    border:1px solid #b1b1b1;
+}
+.div_total
+{
+    /*width: 32%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_total_txt
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_total_txt input, Text
+{
+    width: 100%;
+}
+
+.div_btn
+{
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+    margin-bottom:1%;
+}
+.div_btn input, Text
+{
+    width: 35%;
+    margin-left: 2%;
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    float: right;
+    cursor: pointer;
+}
+
+.div_frame
+{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width: 100%;
+    height: 90%;
+    float: left;
+    vertical-align: top;
+}
+.div_Grd_popup
+{
+    float: left;
+    width: 98%;
+    height: 100%;
+    overflow: auto;
+}
+
+.Pnl
+{
+    /*position: absolute;
+    top: 5%;
+    margin-left: 20%;
+    width: 25%;
+    height: 20%;
+    background-color: CaptionText;
+    border: solid 2px black;
+    float: left;*/     
+    float: left;    
+    width: 325px;
+     height: 100px;
+    border:1px solid #999997;
+    background-color:white;
+}
+.div_lbl
+{
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl input, Text
+{
+    width: 99%;
+}
+.div_lbl_mode
+{
+    width: 28%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_mode input, Text
+{
+    width: 97%;
+}
+.div_lbl_remark
+{
+    width: 68%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 0.5%;
+}
+.div_lbl_remark input, Text
+{
+    width: 97%;
+}
+
+
+.div_add
+{
+    width: 20%;
+    float: left;
+    margin-left: 79%;
+    margin-top: 0.5%;
+}
+.div_add input, Submit
+{
+    width: 100%;
+}
+.Pnlfav
+{
+    /*position: absolute;
+    top: 5%;
+    margin-left: 20%;
+    width: 30%;
+    height: 25%;
+    background-color: CaptionText;
+    border: solid 2px black;
+    float: left;*/      
+    float: left;    
+    /*width: 283px;*/
+    width: 325px;
+     height: 100px;
+    border:1px solid #999997;
+    background-color:white;
+}
+.hidden
+{
+    width: 0%;
+    display: none;
+}
+.frames
+{
+      width: 100%;
+     Height:525px;   
+}
+.div_label
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    white-space: nowrap;
+}
+.div_labeltxt
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    white-space: nowrap;
+}
+.div_labeltxt input, Text
+{
+    width: 100%;
+}
+.div_labeltxt input, Submit
+{
+    width: 90%;
+}
+.btn_decline
+{
+    /*width: 10%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    white-space: nowrap;
+}
+.div_company
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_companyddl
+{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_companyddl input,Select
+{
+    width: 100%;
+}
+.div_branchddl
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_branchddl input,Select
+{
+    width: 100%;
+}

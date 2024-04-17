@@ -1,0 +1,441 @@
+﻿
+
+.div_total
+{
+  border:1px solid black;
+  width :55%;
+  height:100%;
+  float:left;
+}
+
+.DivTotalLeft
+{
+  /*border:1px solid Black;*/
+  width :33%;
+  float:left;
+  height:100%;
+}
+
+.DivtotalChart
+{
+  border:1px solid Black;
+  width :723px;
+  height:100%;
+  float:left;
+
+}
+
+.ChartDiv
+{
+    
+     margin-top:0.5%;
+     margin-left:0.5%;
+     margin-bottom:0.5%;
+}
+.GridPalICD
+{
+    width:98%;
+    height:515px;
+    /*border:1px solid black;*/
+    margin-bottom:1%;
+    /*margin-top:1%;*/
+    margin-right:1%;
+    margin-left:2%;
+}
+
+
+.div_Main
+{
+    background-color:#333399;
+    width:100%;
+    height:12%;
+    border-bottom :1px solid black;
+}
+
+.DivMainLable
+{
+background-color:#333399;
+width:100%;
+height:12%;
+border-bottom :1px solid black;
+}
+
+.DivHeaderlbl
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:0.5%;
+    margin-top:0.5%;
+   
+}
+
+.DivAdditional
+{
+  width :100%;
+  height:100%
+
+}
+
+
+
+.gridalign
+{
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:1%;
+    margin-top:1%;
+    
+}
+  
+.Newchklbl
+{
+width:26%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:1%;	
+color:Darkblue;
+text-align:right;
+
+}
+
+.Followupchklbl
+{
+width:26%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:1%;	
+color:Darkblue;
+text-align:right;
+
+}
+
+.Bothchklbl
+{
+width:26%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:1%;	
+color:Darkblue;
+text-align:right;
+
+}
+
+.div_Button
+{
+    float:right;
+    margin-right:0.6%;
+    margin-right:0.3%;
+    
+}
+
+.DivUpdateBtn
+{
+    float:right;
+    /*margin-right:0.6%;*/
+    margin-right:0.3%;
+   /* margin-top:1%;*/
+   margin-bottom:1%;
+    
+}
+
+.DivCustlbl
+{
+    width:14.5%;
+    height:13px;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;    	
+    color:darkblue;
+    text-align:left;
+
+}
+
+.DivCustTxt
+{
+    width:83.8%;
+    height:6%;
+    float:left;	
+    /*margin-left:1%;*/
+    margin-top:0.5%;
+}
+
+.DivPtclbl
+{
+    width:40%;
+    height:13px;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+
+}
+
+.DivPtctxt
+{
+    width:38.8%;
+    height:6%;
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.Divmbllbl
+{
+    width:24%;
+    height:13px;
+    float:left;
+    margin-left:2.7%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+
+}
+
+.Divmbltxt
+{
+    width:26%;
+    height:6%;
+    float:left;	
+    margin-left:4%;
+    margin-top:0.5%;
+}
+
+.DivLinelbl
+{
+    width:24%;
+    height:13px;
+    float:left;
+    margin-left:5%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+
+}
+
+.DivLinetxt
+{
+    width:26.5%;
+    height:6%;
+    float:left;	
+    margin-left:3%;
+    margin-top:0.5%;
+}
+
+
+.DivDesnglbl
+{
+    width:24%;
+    height:13px;
+    float:left;
+    margin-left:2.7%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+
+}
+
+.DivDesngtxt
+{
+    width:55%;
+      height:6%;
+    float:left;	
+    margin-left:4%;
+    margin-top:0.5%;
+}
+
+.DivDeptlbl
+{
+     width:40%;
+    height:13px;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+
+}
+
+.DivDepttxt
+{
+     width:38.8%;
+    height:6%;
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.DivPopupTotal
+{
+  border:1px solid black;
+  width :80%;
+  height:100%;
+  margin-top:5%;
+}
+
+.DivAddrelbl
+{
+    width:25%;
+    height:13px;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+
+}
+
+.DivPersonlbl
+{
+    width:40%;
+    height:13px;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+}
+
+.DivAddrTxt
+{
+    width:83.3%;
+    height:6%;
+    float:left;	
+    /*margin-left:1%;*/
+    margin-top:0.5%;}
+
+.GridDropdown
+{
+    font-family:sans-serif;
+    font-size:3pt;
+    font-style:normal;
+    border-style:solid;
+    border-width:1px;   
+    border-color :Black; 
+    text-transform :uppercase ;
+    }
+
+.DivTimelbl
+{
+    width:15%;
+    height:13px;
+    float:left;
+    margin-left:12.3%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+}
+
+.DivTimetxt
+{
+    width:16%;
+    height:6%;
+    float:left;	
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+
+.DivDatelbl
+{
+    width:10%;
+    height:13px;
+    float:left;
+    margin-left:18.4%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+}
+
+.DivDatetxt
+{
+    width:21.5%;
+    height:6%;
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+    margin-right:0.5%;
+}
+.DivTTolbl
+{
+    width:15%;
+    height:13px;
+    float:left;
+    margin-left:2%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+}
+
+.DivTTotxt
+{
+    width:15.5%;
+    height:6%;
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.DivBellbl
+{
+    width:25%;
+    height:13px;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+}
+
+.DivBelTxt
+{
+    width:42.4%;
+    height:6%;
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.DivMpdeplbl
+{
+    width:47%;
+    height:13px;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+}
+
+.DivMpdeptTxt
+{
+    width:47%;
+    height:6%;
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.DivMpdesgnbl
+{
+    width:50%;
+    height:13px;
+    float:left;
+    margin-left:3%;
+    margin-top:0.5%;    	
+    color:black;
+    text-align:left;
+}
+
+.DivMpdesgnTxt
+{
+    width:55.5%;
+    height:6%;
+    float:left;	
+    margin-left:4%;
+    margin-top:0.5%;
+}

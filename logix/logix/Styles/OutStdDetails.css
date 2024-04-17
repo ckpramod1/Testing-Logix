@@ -1,0 +1,66 @@
+﻿
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 65%;
+}
+
+.div_Break
+{
+    clear: both;
+}
+
+.div_branch
+{
+    float: left;
+    width: 4%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_branchddl
+{
+    float: left;
+    width: 15%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_branchddl input, Select
+{
+    width: 100%;
+}
+.div_Grid
+{
+    position:relative;
+    width: 65%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Getbtn
+{
+    width: 23%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Getbtn input,Submit
+{
+    width: 14%;
+}
+.div_btn
+{
+    width: 65%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_btn input,Submit
+{
+    width: 12%;
+    margin-left:2%;
+}

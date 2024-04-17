@@ -1,0 +1,183 @@
+﻿.div_total
+{
+  /*border:1px solid black;*/
+  width :730px;
+  /*height:520px;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+.float_left
+{
+    float:left;
+    width:79%;
+    margin-top:0.3%;
+    /*border:1px solid black;*/
+}
+.lnk_job{
+    margin-left:1%;
+    margin-top:1.5%;
+    float:left;
+}
+.txt_job
+{
+    width:11%;
+    margin-left:1%;
+    margin-top:1%;
+    float:left;
+}
+.txt_job input
+{
+    width:100%;
+}
+.txt_etd
+{
+    width:13%;
+    margin-left:0.5%;
+    margin-top:1%;
+    float:left;
+}
+.txt_etd input
+{
+    width:100%;
+}
+
+.txtvouyear
+{
+    width:5.5%;
+    margin-left:0.5%;
+    margin-top:1%;
+    float:left;
+}
+.txtvouyear input
+{
+    width:100%;
+
+}
+.txt_vsl
+{
+    width:61.3%;
+    margin-left:0.5%;
+    margin-top:1%;
+    float:left;
+}
+.txt_vsl input
+{
+    width:100%;
+}
+.txt_agent
+{
+    width:98.5%;
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;
+    margin-bottom:1%;
+}
+.txt_agent input
+{
+    width:100%;
+}
+.txt_agent1
+{
+    width:98.3%;
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;    
+}
+.txt_agent1 input
+{
+    width:100%;
+}
+.float_right{
+    float:right;
+    margin-right:0.7%;    
+    margin-top:0.5%;
+    width:20%;
+    /*border:1px solid black;*/
+}
+.lst_cont 
+{
+width: 99.5%;
+margin-left: 0%;
+margin-top: 1%;
+height:100%;
+}
+
+.txt_bl
+{
+    width:62.8%;
+    float:left;
+    margin-left:1%;   
+}
+.txt_bl input
+{
+    width:100%;
+}
+.ddl_bill
+{
+    width:35%;
+    float:left;
+    margin-left:1%;
+    margin-top:-0.2%;
+}
+.ddl_bill input 
+{
+    width:100%;
+}
+.float_right1
+{    
+    width:20%; 
+    height:66px;
+    float:right;
+    margin-right:0.7%;    
+    margin-top:0.2%;
+}
+.txt_stamp
+{
+    width:26.3%;
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    height:20px;
+    border:1px solid #999997;
+}
+.txt_stamp input
+{
+    width:100%;
+}
+
+.txt_stamp1
+{
+    width:35%;
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;
+    height:20px;
+    border:1px solid #999997;
+}
+.txt_stamp1 input
+{
+    width:100%;
+}
+.txt_stamp2
+{
+    width:35%;
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+    height:20px;
+    border:1px solid #999997;
+}
+.txt_stamp2 input
+{
+    width:100%;
+}
+.div_Button 
+{
+    float: right;
+    margin-right: 0.8%;
+    margin-bottom:1%;
+}

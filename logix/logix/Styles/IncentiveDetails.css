@@ -1,0 +1,259 @@
+﻿
+.div_total {
+    width: 800px;
+   
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width:75.3%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    float: left;
+    width: 7%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:left;
+}
+.div_Amountlabel
+{
+    float: left;
+    width: 12%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_Datelabel
+{
+    float: left;
+    width: 82%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_Datetxt
+{
+    float: left;
+    width:9%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Datetxt input, text
+{
+    width: 100%;
+}
+
+.div_txtGrade
+{
+    float: left;
+    width: 9%;
+    margin-left:0.2%;
+    margin-top: 0.5%;
+}
+.div_txtGrade input, text
+{
+    width: 100%;
+}
+
+.div_txt
+{
+    float: left;
+    width:9.3%;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt input, text
+{
+    width: 100%;
+}
+
+
+.div_txtcode
+{
+    float: left;
+    width: 20%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtcode input, text
+{
+    width: 100%;
+}
+
+
+
+.div_txtamt
+{
+    float: left;
+    width: 10%;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txtamt input, text
+{
+    width: 100%;
+}
+
+
+.div_Emptxtcomp
+{
+    float: left;
+    width: 34.5%;
+    margin-left:0.2%;
+    margin-top: 0.5%;
+}
+.div_Emptxtcomp input, text
+{
+    width:98%;
+}
+
+
+
+
+
+.div_Emptxtdesign
+{
+    float: left;
+    width:25%;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_Emptxtdesign input, text
+{
+    width: 100%;
+}
+
+.div_Emptxtdept
+{
+    float: left;
+    width: 33%;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_Emptxtdept input, text
+{
+    width: 100%;
+}
+
+
+.div_EmptxtName
+{
+    float: left;
+    width: 25.5%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_EmptxtName input, text
+{
+    width: 98%;
+}
+
+
+.div_Emptxt
+{
+    float: left;
+    width: 20%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Emptxt input, text
+{
+    width: 98%;
+}
+.div_TDStxt
+{
+    float: left;
+    width: 7%;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_TDStxt input, text
+{
+    width: 100%;
+}
+
+.div_txttdsamount
+{
+     float: left;
+    width: 10.5%;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txttdsamount input, text
+{
+    width: 100%;
+}
+
+
+.div_Grid
+{
+    float: left;
+    width: 100%;
+    height:300px;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+    overflow:auto;
+}
+.div_Getbtn
+{
+    /*width: 5%;*/
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+
+.div_btn
+{
+    /*width: 99%;*/
+    float: right;
+    margin-right:1.5%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.modalBackgroundjob
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    float: right;
+    cursor: pointer;
+}
+
+
+.div_frame
+{
+    width: 100%;
+    height: 100%;
+    float: left;
+    vertical-align: top;
+}
+.frames
+{
+    width: 100%;
+    height: 90%;
+}

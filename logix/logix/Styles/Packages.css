@@ -1,0 +1,489 @@
+﻿.divTotal
+{
+   
+    width:750px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_Main
+{
+   
+
+     background-color: #333399;
+    width: 98%;
+    margin-left: 1%;
+    margin-top:0.8%;
+    font-weight: bold;
+    color:White;
+}
+.div_break
+{
+    clear: both;
+}
+
+.div_Tab
+{
+   
+
+    padding: 3px 4px;
+    border: 0px solid #b1b1b1;
+    border-bottom: none;
+    width: 12%;
+    float: left;
+
+    
+}
+.div_Tab1
+{
+   
+
+     border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-top: 1px solid #000000;
+    padding: 3px 4px;
+    width: 20%;
+    float: left;
+    background-color:#333399;
+    border-bottom-style: none;
+    border-bottom-color: inherit;
+    border-bottom-width: medium;
+}
+
+.div_Tab1Click
+{
+    padding: 3px 4px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    color: #000;
+    border-bottom: none;
+    width: 29.5%;
+    float: left;
+}
+
+.div_Tab:hover
+{
+    background: #0077c9;
+    color: #4e4c4c;
+}
+.div_Tab a {color:#4e4c4c!important;
+}
+.div_Head
+{
+    background-color: #ffffff;
+    width: 95%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    /*background-color: #333399;
+    width: 100%;
+    margin-left: 1%;
+    margin-top:0.8%;
+    font-weight: bold;
+    color:White;*/
+}
+
+.LabelValue {
+    color: #4e4c4c !important;
+    font-family: tahoma !important;
+    font-size: 12px !important;
+    font-weight: normal !important;
+    text-align: right !important;
+}
+
+
+.Pln
+{
+    position: static;
+          background-color: #ffffff;
+    float: left;
+    margin-left: 0%;
+    margin-top:1%;
+    width: 100%;
+}
+.div_Emplabel
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_TabClick
+{
+    padding: 3px 4px;
+    border-left: 1px solid #b1b1b1;
+    border-top:1px solid #b1b1b1;
+    border-right:1px solid #b1b1b1;
+    background-color: #ffffff;
+    border-bottom: none;
+    width: 12%;
+    float: left;
+    z-index:9999;
+    position:relative;
+
+}
+    .div_TabClick a {color:#4e4c4c!important;
+    }
+.div_label
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt
+{
+    width: 31.7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, Text
+{ 
+    width: 100%;
+    text-align: right;
+}
+
+.div_txtDate
+{
+    width: 16%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtDate input, Text
+{ 
+    width: 100%;
+    text-align: right;
+}
+.div_txtDate2
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtDate2 input, Text
+{ 
+    width: 100%;
+    text-align: right;
+}
+
+.div_txtDate1
+{
+    width: 14.8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtDate1 input, Text
+{ 
+    width: 100%;
+    text-align: right;
+}
+.div_txtCont
+{
+    width: 24%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtCont input, Text
+{
+    width: 100%;
+    text-align: right;
+}
+
+.div_txtCont1
+{
+    width: 22.4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtCont1 input, Text
+{
+    width: 100%;
+    text-align: right;
+}
+
+.div_txtComp
+{
+    width: 23%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtComp input, Text
+{
+    width: 100%;
+    text-align: right;
+}
+.div_txtComp2
+{
+    width: 25.2%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtComp2 input, Text
+{
+    width: 100%;
+    text-align: right;
+}
+.div_txtComp1
+{
+    width: 19.2%;
+    float: left;
+    margin-left: 31%;
+    margin-top: 0.5%;
+}
+.div_txtComp1 input, Text
+{
+    width: 100%;
+    text-align: right;
+}
+.div_txt3
+{
+    width: 36%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt3 input, Text
+{
+    width: 100%;
+    text-align: right;
+}
+
+.div_txt1
+{
+    width: 46.3%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt1 input, Text
+{
+    width: 100%;
+    
+}
+.div_Datetxt
+{
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    height: 18px;
+}
+.div_Datetxt input, Text
+{
+    width: 100%;
+}
+
+.div_DatetxtV
+{
+    width: 31.7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    height: 18px;
+}
+.div_DatetxtV input, Text
+{
+    width: 100%;
+}
+.div_Datetxt1
+{
+    width: 39%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    height: 18px;
+}
+.div_Datetxt1 input, Text
+{
+    width: 100%;
+}
+.div_Nametxt
+{
+    width: 64.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Nametxt input, Text
+{
+    width: 100%;
+}
+.div_Arreartxt
+{
+    width: 18%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Arreartxt input, checkbox
+{
+    
+    display: inline-block;
+}
+
+.div_Arreartxt1
+{
+    width:8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Arreartxt1 input, checkbox
+{
+    display: inline-block;
+}
+.div_Appointmentbtn
+{
+    width: 20%;
+    float: left;
+    margin-left: 14.5%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_Appointmentbtn input, submit
+{
+    width: 85%;
+}
+.div_btn
+{
+    width: 28%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_btn1
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+/*.div_btn input, submit
+{
+    width: 21%;
+    margin-left: 3%;
+}*/
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0.5%;
+    /*overflow:auto;*/
+}
+.div_Complabel
+{
+    width: 8.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_CompGrid
+{
+    width:100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+    overflow:auto;
+}
+.div_ConNametxt
+{
+    width: 64.8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ConNametxt input, Text
+{
+    width: 100%;
+    
+}
+.div_ConGrid
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+     overflow:auto;
+}
+.div_AllowGrid
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    overflow:auto;
+}
+.div_AllowNametxt
+{
+    width: 64.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_AllowNametxt input, Text
+{
+    width: 100%;
+}
+.div_Allowbtn
+{
+    width:97.6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_Allowbtn input, Submit
+{
+    width: 10%;
+}
+.div_Allowlabel
+{
+    width: 11%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Loanbtn
+{
+    width: 41%;
+    float: left;
+    margin-left: 16%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_Loanbtn input, submit
+{
+    width: 18%;
+    margin-left: 3%;
+}
+.div_LoanGrid
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    overflow:auto;
+}
+.div_Loanlabel
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}

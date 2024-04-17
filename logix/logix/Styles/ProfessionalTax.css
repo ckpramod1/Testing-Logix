@@ -1,0 +1,142 @@
+﻿.divTotal {
+    width: 650px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 44%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 6%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+}
+
+.div_lbl
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt
+{
+    float: left;
+    width: 17%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt input, text
+{
+    width: 100%;
+}
+.div_txt1
+{
+    float: left;
+    width: 17%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt1 input, text
+{
+    width: 100%;
+}
+.div_txt2
+{
+    float: left;
+    width: 17%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt2 input, text
+{
+    width: 100%;
+}
+.div_ddlmonth
+{
+    float: left;
+    width: 15%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+
+}
+.div_ddlmonth input, Select
+{
+    width: 100%;
+}
+.div_Branchtxt
+{
+    float: left;
+    width: 45%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Branchtxt input, text
+{
+    width: 100%;
+}
+.div_btn
+{
+    /*width: 43.5%;*/
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+/*.div_btn input, submit
+{
+    width: 10%;
+    margin-left: 3%;
+}*/
+.div_All
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_All input, checkbox
+{
+    display: inline-block;
+}
+.div_Month
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    border:1px solid #b1b1b1;
+    margin-bottom:0%;
+    padding:5px;
+}
+    .div_Month td {vertical-align:top;
+    }
+.div_Month input, checkbox
+{
+    display: inline-block;
+}
+.div_Grid
+{
+    width:100%;
+    height:220px;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+}

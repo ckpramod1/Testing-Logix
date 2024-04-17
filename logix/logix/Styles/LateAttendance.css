@@ -1,0 +1,180 @@
+﻿.div_Main {
+    /*background-color: #0061AE;
+    color: White;*/
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 99%;
+    font-size: 17px;
+}
+
+.div_break {
+    clear: both;
+}
+
+.div_label {
+    float: left;
+    width: 7%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    font-size: 11px;
+}
+
+.div_lbl {
+    float: left;
+    width: 3%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_labelTitle {
+    float: left;
+    width: 20%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    font-size: 13px;
+}
+
+.div_leavelbl {
+    float: left;
+    width: 3%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_txt {
+    float: left;
+    width: 20%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_txt input, text {
+        width: 100%;
+    }
+
+.div_txt1 {
+    float: left;
+    width: 28%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_txt1 input, text {
+        width: 100%;
+    }
+
+.div_Dojtxt {
+    float: left;
+    width: 27%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_Dojtxt input, text {
+        width: 100%;
+    }
+
+.divTotal {
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_Nametxt {
+    float: left;
+    width: 40%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_Nametxt input, text {
+        width: 100%;
+    }
+
+.div_Leavetxt {
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_Leavetxt input, text {
+        width: 100%;
+    }
+
+.div_ddltxt {
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_ddltxt input, Select {
+        width: 100%;
+    }
+
+.div_lblDay {
+    float: left;
+    width: 20%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_Remarktxt {
+    float: left;
+    width: 97%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+    .div_Remarktxt input, text {
+        width: 100%;
+    }
+
+.div_btn {
+    float: right;
+    margin-bottom: 1%;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+
+.div_Grid {
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    height: 150px;
+    border: 1px solid #b1b1b1;
+}
+
+.modalBackgroundjob {
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close {
+    float: right;
+    cursor: pointer;
+}
+
+
+.div_frame {
+    width: 100%;
+    height: 100%;
+    float: left;
+    vertical-align: top;
+}
+
+.frames {
+    width: 100%;
+    height: 90%;
+}

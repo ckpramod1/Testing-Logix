@@ -1,0 +1,58 @@
+﻿.div_total
+{
+    width:1024px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 80%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_ddl
+{
+    width:15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddl input, Select
+{
+    width: 100%;
+}
+.div_Grid
+{
+    width: 98.5%;
+    height:450px;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+    overflow-y:auto;
+}
+.div_Button
+        {
+        float:right;
+        /*height:6%;*/
+        /*margin-right:0.1%;*/
+        margin-right:1%;
+        margin-top :1%;
+        }

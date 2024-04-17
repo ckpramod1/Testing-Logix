@@ -1,0 +1,122 @@
+﻿.div_Main
+{
+    /*background-color: #0061AE;
+    color: White;*/
+    width: 99%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size:15px;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_labeltitle
+{
+    float: left;
+    width: 99%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:center;
+    color:Maroon;
+    font-weight:bolder;
+    font-size:13px;
+}
+
+.divTotal
+{
+   
+    width:500px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_label
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_txt
+{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input,text
+{
+    width: 100%;
+}
+.div_Nametxt
+{
+    float: left;
+    width: 72%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Nametxt input,text
+{
+    width: 98%;
+}
+.div_btn
+{
+   float:right;
+   margin-right:2%;
+   margin-top:0.5%;
+   margin-bottom:1%;
+}
+/*.div_btn input, submit
+{
+    width: 10%;
+    margin-left: 3%;
+}*/
+.div_txtCL
+{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+      margin-bottom:1%;
+}
+.div_txtCL input,text
+{
+    width: 100%;
+}
+.div_txtCL1
+{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+      margin-bottom:1%;
+}
+.div_txtCL1 input,text
+{
+    width: 100%;
+}
+.div_txtCL2
+{
+    float: left;
+    width: 24%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+      margin-bottom:1%;
+}
+.div_txtCL2 input,text
+{
+    width: 100%;
+}
+.div_lblCL
+{
+    float: left;
+    width: 2%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}

@@ -1,0 +1,41 @@
+﻿.div_total
+{    
+    height:503px;
+    /*border:1px solid black;*/
+     /*background-color: #0061AE;*/   
+    /*margin-left: 1%;
+    margin-top: 1%;*/
+    /*font-weight: bold;*/
+    width: 930px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+.div_from
+{
+    margin-left:1%;
+    margin-top:2%;
+    float:left;
+}
+.txt_from
+{
+    margin-left:1%;
+    margin-top:1%;
+    float:left;
+    width:10%;
+}
+.txt_from input
+{
+    width:100%;
+}
+
+.div_button
+{
+    /*width:100%;*/
+    margin-left:1%;
+    margin-top:1%;
+    float:left;
+}

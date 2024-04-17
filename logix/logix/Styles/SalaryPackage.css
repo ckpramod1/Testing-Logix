@@ -1,0 +1,160 @@
+﻿.div_Main
+{
+    /*background-color: #0061AE;
+    color: White;*/
+    width: 98%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size:15px;
+}
+.div_break
+{
+    clear: both;
+}
+
+.divTotal
+{
+   
+    width:700px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_label
+{
+    width: 13%;
+    height: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: center;
+}
+.div_Emptxt
+{
+    float: left;
+    width: 39.7%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Emptxt input, Text
+{
+    width: 100%;
+}
+.div_Emplbl
+{
+    width: 6%;
+    height: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_lbl
+{
+    width: 8%;
+    height: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt
+{
+    float: left;
+    width: 9.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, Text
+{
+    width: 100%;
+   
+}
+
+.div_txt1
+{
+    float: left;
+    width: 19%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt1 input, Text
+{
+    width: 100%;
+    text-align: right;
+}
+.div_txt2
+{
+    float: left;
+    width: 17.9%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt2 input, Text
+{
+    width: 100%;
+    text-align: right;
+}
+.div_btn
+{
+    width: 31%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 14%;
+    text-align: right;
+}
+
+.modalBackgroundjob
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    float: right;
+    cursor: pointer;
+}
+
+
+.div_frame
+{
+    width: 100%;
+    height: 100%;
+    float: left;
+    vertical-align: top;
+}
+.frames
+{
+    width: 100%;
+    height: 90%;
+}
+.div_Grid
+{
+    width: 98%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    height:200px;
+}
+
+.GridPalICD
+{
+   
+     width:100%;
+     height:200px;
+    border:1px solid #b1b1b1;
+    float:left;
+    margin-bottom:0.5%;
+    margin-left:0%;
+    margin-top:0%;
+    margin-right:0%;
+    overflow:auto;
+}

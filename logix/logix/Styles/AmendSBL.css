@@ -1,0 +1,74 @@
+﻿.div_total
+{
+    width:550px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+
+.div_lable
+{
+    width:99%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_lbl
+{
+    width:25%;
+    float:left ;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_txt
+{
+    width:25%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+}
+.div_txt input
+{
+    width:100%;
+}
+.div_ddl
+{
+     width:35%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+}
+.div_ddl select
+{
+    width:100%;
+}
+.div_txtamend
+{
+    width:36%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+}
+.div_txtamend input
+{
+    width:100%;
+}
+.div_button
+{
+    float:right;
+margin-right:1%;
+margin-bottom:0.5%;
+margin-top:-0.5%;
+}

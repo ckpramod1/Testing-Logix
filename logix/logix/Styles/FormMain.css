@@ -1,0 +1,366 @@
+﻿.total {
+    /* width:100%;*/
+    width: 100%;
+}
+
+.top_align {
+    position: fixed;
+    margin-top: 0%;
+    height: 6%;
+    width: 1350px;
+    left: 0;
+    /*background: #6699FF;*/
+    /*background:#3B5998;*/
+    background: #3b5998;
+    text-align: center;
+    margin-left: 0%;
+    margin-right: 0.5%;
+    /* background:-webkit-linear-gradient(top,rgb(23,53,255) 0%,rgb(255,255,255) 100%);*/
+}
+
+.top_align_Main {
+    position: fixed;
+    margin-top: 0%;
+    height: 6%;
+    width: 99%;
+    left: 0;
+    /*background: #6699FF;*/
+    /*background:#3B5998;*/
+    /*Border :1px solid red;*/
+    text-align: center;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    /* background:-webkit-linear-gradient(top,rgb(23,53,255) 0%,rgb(255,255,255) 100%);*/
+}
+
+
+
+.bottom_align {
+    /*border: 1px solid black;*/
+    margin-top: 0%;
+    width: 99%;
+    height: 12%;
+    position: absolute;
+    bottom: 0px;
+    left: 0; /* background:#858566;*/
+    background: #6699FF;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+.main_frame {
+    margin-top: 0.2%;
+    /* float:left;
+       width:100%;
+       height:97%;*/
+    /*B margin-left :0%;
+       margin-right :0%;*/
+    height: 100%;
+    min-height: 100%;
+    /*background :RED;*/
+    border-style: groove;
+    border-width: 1px;
+    float: left;
+    width: 99.5%;
+    /*height:481px;*/
+    padding: 5px 0px 0px 5px;
+    /* background-color:Gray ;*/
+}
+
+.span_header {
+    /* border:1px solid pink;*/
+    /*  text-align :center;*/
+
+    margin-right: 90%;
+    margin-top: 5%;
+    font-size: 38pt;
+    height: 10%;
+    /*font-weight :bold;*/
+    font-family: Calibri;
+    color: white;
+}
+
+.span_sub {
+    width: 98%;
+    float: left;
+    /* border:1px solid red;*/
+    /*margin-right :59%;*/
+    text-align: left;
+    font-size: 15pt;
+    font-family: Times New Roman;
+    font-style: italic;
+    color: white;
+}
+
+.div_clear {
+    clear: both;
+}
+
+.div_log {
+    width: 98.9%;
+    height: 3%;
+    position: fixed;
+    bottom: 0%;
+    /* bottom:21.5%;*/
+    left: 0;
+    background: #E8E8E1;
+    margin-left: 0.5%;
+    margin-right: 0.1%;
+    /*position:absolute;*/
+    /* bottom:2%;*/
+    left: 0;
+}
+
+.span_logo {
+    text-align: left;
+    font-size: 10pt;
+    margin-top: 0.3%;
+    /*margin-bottom :1%;
+        font-weight :bold;*/
+    font-family: Tahoma;
+    font-size: 8pt;
+    float: left;
+}
+
+.div_span_logo {
+    /*float:right; 
+        margin-top :0.4%; 
+        margin-right :71.5%;*/
+    Height: 3%;
+    float: left;
+    width: 94.9%;
+}
+
+.div_img_bottom_logo {
+    height: 18px;
+    width: 45px;
+    background-color: Red;
+    float: left;
+}
+
+.div_ImpExp {
+    float: left;
+    /*B margin-left :1%;
+ margin-right :1%;*/
+    margin-top: 22%;
+    text-align: center;
+}
+
+.div_consol {
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.div_airExpImp {
+    text-align: center;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    margin-top: 18%;
+    float: left;
+}
+
+.span_div_ImpExp {
+    font-family: Agency FB;
+    font-size: 13pt;
+    color: Black;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.div_agencyImpExp {
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-right: 1%;
+    color: Aqua;
+    z-index: 100;
+}
+
+.div_text_bottom {
+    margin-left: 0.2%;
+    margin-top: 0%;
+    margin-right: 0%;
+    /* background-color :Aqua ;*/
+    height: 73%;
+    width: 9.78%;
+    float: left;
+    color: #333399;
+    font-weight: bold;
+}
+
+.div_Menu1 {
+    float: left;
+    margin-top: 3%;
+    width: 19.5%;
+    background-color: White;
+    margin-left: 0.5%;
+    /*margin-right :0.8%;*/
+    height: 100%;
+    /*Border:1px solid red;*/
+}
+
+.div_Menu2 {
+    float: left;
+    margin-top: 3%;
+    /*width :79%;*/
+    /*width :99%;*/
+    width: 1350px;
+    background-color: White;
+    margin-left: 0.5%;
+    /*margin-right :1%;*/
+
+    height: 580px;
+}
+
+
+.Maindiv {
+    float: left;
+    margin-top: 7.3%;
+    width: 99.9%;
+    height: 485px;
+    /* border :1px solid black;*/
+    background-color: pink;
+}
+
+.box1 {
+    /*  border: 1px solid black;*/
+    margin-left: 2%;
+    height: 5%;
+    width: 5%;
+}
+
+.div_logout {
+    /*border:1px solid black;*/
+    margin-left: 97%;
+    margin-top: -1.5%;
+}
+
+.div_Exp_btn {
+    bottom: 0%;
+    margin-top: 0%;
+    margin-left: 97.6%;
+    height: 2%;
+    width: 3%;
+    /* border:1px solid black;*/
+    border-radius: 80px 80px 80px 80px;
+}
+
+.div_btn_gt {
+    border-radius: 80px 80px 80px 80px;
+    /* border:1px solid black;*/
+}
+
+.div_footer {
+    Height: 78%;
+    width: 99.8%;
+    /* border-left :1px solid black; 
+       border-right :1px solid black;  
+       border-bottom :1px solid black; 
+       border-top:1px solid black;*/
+}
+
+.span_div_ImpExpOc {
+    font-family: Agency FB;
+    font-size: 13pt;
+    color: Black;
+    font-weight: lighter;
+}
+
+
+.div_cname {
+    font-family: Arial;
+    font-size: 8.7pt;
+    color: white;
+    /*Border:1px solid red;*/
+    margin-left: 0.5%;
+    Width: 33%;
+    Height: 50%;
+    margin-top: 0.7%;
+    text-align: left;
+    font-weight: bold;
+    float: left;
+}
+
+.top_Clogo {
+    float: left;
+    margin-top: 0.6%;
+    height: 23px;
+    width: 1.4%;
+    margin-left: 1.5%;
+    /*Border :1px solid red ;*/
+}
+
+.top_Cname {
+    float: left;
+    font-family: Arial;
+    font-size: 8.7pt;
+    color: white;
+    /*margin-left :58%;*/
+    /*margin-left :17%;*/
+    margin-left: 16%;
+    Width: 28%;
+    Height: 50%;
+    /* margin-top :-1.4%;*/
+    text-align: right;
+    margin-top: 0.7%;
+    font-weight: bold;
+    /*bORDER :1PX solid RED;*/
+    /*margin-right:0.2%;*/
+}
+
+.top_Home {
+    float: left;
+    Width: 3.5%;
+    color: white;
+    font-family: Arial;
+    font-size: 8.7pt;
+    margin-top: 0.7%;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 1%;
+}
+
+.top_arrow {
+    float: left;
+    width: 3%;
+    margin-top: 0.8%;
+    margin-left: 0%;
+}
+
+.top_ClogoNew {
+    float: left;
+    margin-top: 0.8%;
+    width: 1.8%;
+    height: 27px;
+    margin-left: 0.8%;
+    /*Border :1px solid red ;*/
+}
+
+.top_FndNew {
+    float: left;
+    margin-top: 0.7%;
+    /*height: 100%;*/
+    height: 60%;
+    width: 2%;
+    /*margin-left :52.5%;*/
+    margin-left: -2%;
+    /*Border :1px solid red ;*/
+}
+
+.top_ClogoMsg {
+    float: left;
+    margin-top: 0.7%;
+    height: 26px;
+    width: 1.8%;
+    margin-left: 0.2%;
+    background: #3b5998;
+}
+
+.round-box {
+    border-radius: 20px;
+    -moz-border-radius: 80px;
+    -webkit-border-radius: 80px;
+    behavior: url(PIE.htc);
+    cursor: pointer;
+}

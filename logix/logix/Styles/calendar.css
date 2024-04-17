@@ -1,0 +1,546 @@
+
+
+/**                  {margin:0;padding:0;}
+body                {font:1em/1.4 Verdana, Arial, Helvetica, sans-serif; 
+					 background: url(images)  no-repeat #d47d1b
+                     ;}
+
+
+
+body *              {display:inline;}*/
+
+
+
+
+ol.calendar         {width:623px; margin:0 auto; display:block; min-height: 200px; 
+					 padding: 12px 0 0 20px;}
+li                  {list-style:none; text-align:right;}
+p.link              {text-align:left;display: block;}
+
+
+
+li li               {width:5em;height:4.4em;float:left;margin:.2em; padding:.2em;
+                     /*overflow:auto;*/   /*overflow:scroll;*/
+					 background: url(images) bottom right no-repeat #EDDA9D; }
+
+
+li li p             {font-size:.7em;display:block;}
+li li ol            {width:auto;}
+li li ul li,
+li li ol li         {font-size:.7em;display:block;height:auto;width:auto; background: none;
+					 margin:0;padding:.2em 0;float:none;}
+
+
+
+li li.holiday       {  }
+
+
+
+
+li#lastmonth li,
+li#nextmonth li     { background: url(images/day-bg-inactive.png);}
+
+ /*.div_Span
+    {
+        float:none;
+        text-align:center;
+        margin-left :43%;
+    }
+
+  .span_div
+    {
+        font-family :Agency FB ;
+        font-size : 13pt;
+        font-family: Arial; 
+        font-size: 40pt; 
+        font-weight: bold; color: #5e0887;
+        color :Black;
+        text-align :center;  
+        font-weight :lighter ;
+    }*/
+
+ /*---------------------------------------------------------------------------------*/
+
+ .GridPalICD
+{
+    background-color:white;
+}
+
+ .EmptyRowStyle
+{
+    text-align:left;
+}
+
+ .GridHeader
+{
+    background-color:#0B3861;
+    color:White;
+    font-family:Arial;
+    /*margin-left: 4px;*/
+    margin-bottom: 0px;
+   /*Height:2px;*/
+}
+
+ .GrdAltRow
+{
+    background-color:#DAE5E8;
+    width:50px;
+    Height:2px;
+    font-family:Arial;
+    color:black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}
+
+ .GrdRow
+{
+    font-family:Arial;
+    color:Black;
+    /*width:50px;*/
+    Height:2px;
+}
+
+ .litagcss
+ {
+     /*background-color:lightblue;*/
+ }
+
+  .litagcssNew
+ {
+     background-color:yellow;
+ }
+
+.div_totalelaa
+{
+  /*border:1px solid black;*/
+  width :61%;
+  height:100%;
+  float:left;
+  margin-top:0.3%;
+}
+
+
+.div_totaldashboard
+{
+  width :25%;
+  height:520px;
+  float:left;
+    margin-left:1%;
+ margin-right:0%;
+ margin-top:-1.7%;
+}
+
+.div_DashboardUp
+{
+  width :100%;
+  height:260px;
+  float:left;
+  margin-top:1%;
+}
+
+.div_DashboardDown
+{
+  width :100%;
+  height:260px;
+  float:left;
+ margin-top:1%;
+   /*background-color:#F5F5F2;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15); */
+}
+
+ .div_total
+{
+/*background-color:#F5F5F2;*/
+   /*-webkit-box-shadow: 8px 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px 8px  rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px  8px  rgba(0,0,0,.15);*/ 
+  width :800px;
+  height:100%;
+  float:left;
+-webkit-border-radius: 5px 5px 5px 5px; 
+  -moz-border-radius   : 5px 5px 5px 5px ;
+  border-radius        : 5px 5px 5px 5px ;
+}
+
+
+ .dropdownMonth
+ {
+     width:15%;
+    height:13px;
+    float:left;
+    margin-left:4.5%;
+    margin-top:1%;    	
+    color:black;
+font-size:20pt;
+    /*text-align:left;*/
+ }
+
+ .dropdownYear
+ {
+     width:14%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;    	
+    color:black;
+    /*text-align:left;*/
+ }
+
+ .divBk
+ {
+     clear:both;
+ }
+
+ .div_Main
+{
+    background-color:#333399;
+    width:100%;
+    height:14%;
+    border-bottom :1px solid black;
+}
+
+.DivMainLable
+{
+background-color:#333399;
+width:100%;
+height:12%;
+border-bottom :1px solid black;
+}
+
+.DivHeaderlbl
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:0.5%;
+    margin-top:0.5%;
+   
+}
+
+.Hide
+{
+    display:none;
+}
+
+.modalBackground { 
+            background-color:#333333; 
+            filter:alpha(opacity=70); 
+            opacity:0.7; 
+        } 
+
+        .modalPopup { 
+            background-color:#FFFFFF; 
+            border-width:1px; 
+            border-style:solid; 
+            border-color:#CCCCCC; 
+            margin-left:-4%;
+            padding:1px; 
+            width:600px; 
+            Height:300px; 
+        } 
+
+        .divRoated
+        {
+           width:603px; 
+            Height:303px;
+            /*width:100%; 
+            Height:100%;*/ 
+            border:3px solid black;
+            margin-left:-1%;
+            margin-top:-1%;
+        }
+
+         .DivSecPanel
+        {
+            width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:98%;
+            margin-top:-2.5%;
+            border-radius: 90px 90px 90px 90px;
+        }
+        
+         .Gridpnl   
+         {
+            width:600px; 
+            Height:296px;
+            margin-left:0.2%;
+            margin-top:-1%;
+         }
+
+
+.GridHeaderpopup
+{
+    background-color:#084B8A;
+    color:White;
+    font-family:Arial;
+    /*margin-left: 4px;*/
+    margin-bottom: 0px;
+   /*Height:2px;*/
+}
+
+ .GrdAltRowpopup
+{
+    background-color:#A9D0F5;
+    width:50px;
+    Height:2px;
+    font-family:Arial;
+    color:Black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}
+
+ .GrdRowpopup
+{
+    font-family:Arial;
+    color:Black;
+    /*width:50px;*/
+    Height:2px;
+}
+
+ .LabelValue1
+{
+    font-family:sans-serif;
+    font-size:3pt;
+    color:black;
+    /*font-weight:bold;*/
+    text-align:right;
+}
+
+  .LabelValueNew
+{
+    font-family:sans-serif;
+    font-size:3pt;
+    color:#149ab2;
+    /*font-weight:bold;*/
+    text-align:right;
+}
+
+ .DivWeeks
+ {
+     width:46.5%;
+     height:20px;
+     /*border:1px solid red;*/
+     margin-left:3.5%;
+     /*margin-bottom:-10%;*/
+     margin-top:2%;
+ }
+
+
+ .DivSunday
+ {
+     width:5%;
+     float:left;
+     margin-left:3.5%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+     /*margin-top:1%;*/
+     
+ }
+
+  .DivMon
+ {
+     width:10%;
+     float:left;
+     margin-left:9%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+   .DivTues
+ {
+     width:13%;
+     float:left;
+     margin-left:4.5%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+ .DivWed
+ {
+     width:12%;
+     float:left;
+     margin-left:1%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+   .DivThus
+ {
+     width:13%;
+     float:left;
+     margin-left:2.5%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+  .DivFri
+ {
+     width:8%;
+     float:left;
+     margin-left:3%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+  .DivSatu
+ {
+     width:5%;
+     float:left;
+     margin-left:6%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+  /*------------------------------------MonthAll-------------------------*/
+   .DivWeeks1
+ {
+     width:755px;
+     height:20px;
+     /*border:1px solid red;*/
+     margin-left:1.7%;
+     margin-top:1%;
+     /*margin-bottom:-1%;*/
+ }
+
+
+ .DivSunday1
+ {
+     width:5%;
+     float:left;
+     margin-left:7%;
+    /*margin-bottom:-1%;*/
+     font-weight:bold;
+     /*margin-top:1%;*/
+     
+ }
+
+  .DivMon1
+ {
+     width:5%;
+     float:left;
+     margin-left:9%;
+      /*margin-bottom:-1%;*/
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+   .DivTues1
+ {
+     width:5%;
+     float:left;
+     margin-left:8.5%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+ .DivWed1
+ {
+     width:5%;
+     float:left;
+     margin-left:8.5%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+   .DivThus1
+ {
+     width:5%;
+     float:left;
+     margin-left:10.5%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+  .DivFri1
+ {
+     width:5%;
+     float:left;
+     margin-left:10%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+  .DivSatu1
+ {
+     width:5%;
+     float:left;
+     margin-left:8%;
+     /*border:1px solid red;*/
+     font-weight:bold;
+ }
+
+ .Divapplbl
+ {
+     width:40%;
+     float:left;
+     margin-left:35%;
+     font-weight:bold;
+   color:#149ab2;
+ }
+
+.Header
+{
+   /*background-color:#333399; background-color:Gray;*/
+
+    font-size: 8pt;
+    height: 18px;
+    font-weight: bold;
+    color: Black;
+/*border:1px solid #333399;*/
+    text-align: left;
+    margin-top:0.5%;
+margin-left:1%;
+float:left;
+}
+
+.lbl_Header
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:#333399;
+    margin-top:1%;
+ margin-left:1%;
+}
+
+.imgHelp
+{
+    width:2%;
+float:right;
+    margin-right:0.5%;
+text-align:right;
+margin-top:0.5%;
+background-color:#F5F5F2;
+}
+
+.btngetcss
+ {
+     width:5%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;    	
+    color:black;
+    text-align:left;
+color:black;
+}
+
+.Button
+{
+    font-family:sans-serif;
+    font-size:9pt;
+    cursor:hand;
+/*font-weight:bold;*/
+    background-color: #B5B5B1;
+ /*-webkit-border-radius: 4px 4px 4px 4px;
+  -moz-border-radius   : 4px 4px 4px 4px;
+  border-radius        : 4px 4px 4px 4px;
+     -webkit-box-shadow: 0 4px 5px rgba(0,0,0,.15);
+  -moz-box-shadow   : 0 4px 5px rgba(0,0,0,.15);
+  box-shadow        : 0 4px 5px rgba(0,0,0,.15);*/ 
+color:black;
+    }

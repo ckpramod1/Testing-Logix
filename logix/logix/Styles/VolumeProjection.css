@@ -1,0 +1,162 @@
+﻿.div_total
+{
+     /*width:850px;
+     height:500px;
+     margin-left: 1%;
+    margin-top: 1%;
+  border:1px solid black;*/
+     width :850px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+	background-color: #0061AE;
+    color: White;
+    width: 99.5%;
+    /*margin-left: 0.1%;*/
+    /*margin-top: -0.1%;*/
+    /*font-weight: bold;*/
+    padding:2px;
+    font-size:10pt;
+}
+
+
+.div_label
+{
+	width: 6%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+
+
+
+.div_ddlmonth
+{
+	width: 20%;
+	/*height: 12%;*/
+	float: left;
+	margin-left:0.5%;
+	margin-top: 1.5%;
+}
+.div_ddlmonth input, select
+{
+	width: 100%;
+}
+
+
+.div_lblyear
+{
+	width: 5%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 2%;
+}
+
+.div_ddlyear
+{
+	width: 15%;
+	/*height: 12%;*/
+	float: left;
+	margin-left:1%;
+	margin-top: 1.5%;
+}
+.div_ddlyear input, select
+{
+	width: 100%;
+}
+
+
+.div_lblmonth
+{
+	width: 6%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+
+.div_lbltoyear
+{
+	width: 5%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+
+.div_ddltoyear
+{
+	width: 15%;
+	float: left;
+	margin-left:1%;
+	margin-top: 1.5%;
+}
+.div_ddltoyear input, select
+{
+	width: 100%;
+}
+
+
+.div_Break
+{
+	clear:both;
+}
+
+.div_ButtonView
+{
+	width: 8%;
+	float: left; 
+	margin-top: 1.5%;
+	margin-left: 9.5%;
+	
+}
+
+.div_ButtonView input,button
+{
+	width: 100%;
+	margin-left:1%;
+}
+
+.div_Button
+{
+	width: 8%;
+	float: left; 
+	margin-top: 1.5%;
+	margin-left: 0.5%;
+}
+.div_Button input,button
+{
+	width: 100%;
+	
+}
+.div_Grid
+{
+	width: 100%;
+	margin: 0% 0% 0%;
+    height:300px;
+
+}
+.div_panel
+{
+    width:833px;
+    height:380px;
+}
+.div_ButtonExport
+{
+	width: 10%;
+	float:right;
+    margin-right:1.5%;
+	margin-top: 1.5%;
+    margin-bottom:1%;	
+}
+.div_ButtonExport input,button
+{
+	width: 100%;
+}
+

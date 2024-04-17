@@ -1,0 +1,118 @@
+﻿
+.div_total
+{
+  /*border:1px solid black;*/
+  width :700px;
+  /*height:100%;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.MasterRDS
+{
+    border:1px solid black;
+    height:190px;
+    width:400px;
+}
+
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 100%; /*margin-left: 1%;*/   
+    font-weight: bold;
+    color: White;
+}
+
+.div_break
+{
+    clear: both;
+}
+
+.div_lbl_name
+{
+    width: 8.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1.5%;    
+    margin-left:1%;
+    margin-right:0.6%;
+ 
+}
+
+.div_txt_name
+{
+    width: 98.5%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+    margin-left: 0.5%;
+}
+.div_txt_name input
+{
+    width:100%;
+}
+    .div_txt_cc
+    {
+        width: 48.8%;
+        height: 17px;
+        float: left;
+        margin-top: 1%;
+        margin-left: 0.5%;
+    }
+    .div_txt_cc input
+    {
+        width:100%;
+    }
+    .div_txt_cc1
+    {
+        width: 48.8%;
+        height: 17px;
+        float: left;
+        margin-top: 1%;
+        margin-left: 1%;
+    }
+    .div_txt_cc1 input
+    {
+        width:100%;
+    }
+.div_txt_address
+{
+    width: 98%;
+    height: 50px;
+    float: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 0.5%;   
+}
+.div_txt_address textarea
+{
+    width:100%;
+    height:100%;
+    resize:none;
+}
+.space
+{
+    margin-top:1.5%;
+}
+
+.div_Button
+{
+    float:right;
+    margin-right:1%;    
+   }
+
+.div_txt_rds
+{
+    width: 98.5%;
+    height: 17px;
+    float: left;    
+    margin-top :1%;
+    margin-left: 0.5%;
+}
+.div_txt_rds input
+{
+    width:100%;
+}

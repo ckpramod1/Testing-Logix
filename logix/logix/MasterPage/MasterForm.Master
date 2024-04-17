@@ -1,0 +1,116 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterForm.Master.cs" Inherits="logix.MasterPage.MasterForm" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <%--<link href="../Styles/ControlStyle.css" rel="stylesheet" type="text/css" />--%>
+    <script src="../Scripts/Validation.js" type="text/javascript"></script>
+    <script src="../Scripts/jquery.min.js" type="text/javascript"></script>
+    <script src="../Scripts/jquery-ui.min.js" type="text/javascript"></script>
+    <link href="../Styles/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <link href="../Styles/ControlStyle2.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/png" sizes="36x21" href="Theme/assets/img/favicon.png">
+
+
+
+    
+    <link href="../Alertify/alertify.min.css" rel="stylesheet" />
+
+    <script src="../Alertify/alertify.min.js"></script>
+    <link href="../Alertify/alertify.rtl.min.css" rel="stylesheet" />
+
+    <link href="../Alertify/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Alertify/bootstrap.rtl.min.css" rel="stylesheet" />
+    <link href="../Alertify/default.min.css" rel="stylesheet" />
+    <link href="../Alertify/default.rtl.min.css" rel="stylesheet" />
+    <link href="../Alertify/semantic.min.css" rel="stylesheet" />
+    <link href="../Alertify/semantic.rtl.min.css" rel="stylesheet" />
+    <style type="text/css">
+        /*.body
+            {
+                width:90%;margin:auto;min-width:600px;max-width:2000px;
+            }*/
+    </style>
+
+    <script type="text/javascript">
+        function InrAmount() {
+            $(".currency-inr").each(function () {
+                var monetary_value =
+                  $(this).text().split(",").join("") ||
+                  $(this).val().split(",").join("");
+                var i = new Intl.NumberFormat("en-IN", {
+                    currency: "INR",
+                    minimumFractionDigits: 2,
+                }).format(monetary_value);
+                $(this).text(i);
+                $(this).val(i);
+            });
+
+            $("tr").each(function () {
+                // right align any numeric columns
+                $(this)
+                  .children("td:gt(0)")
+                  .filter(function () {
+                      return this.innerHTML.match(/^[-0-9\s\.,]+$/);
+                  })
+                  .css("text-align", "right");
+
+            });
+        }
+    </script>
+
+    <script type="text/javascript">
+        function EndRequestHandler(sender, args) {
+            if (args.get_error() != undefined) {
+                //alertify.alert('Time Out ');
+                //args.set_errorHandled(true);
+                //location.reload(true);
+            }
+        }
+        history.forward(0);
+        document.oncontextmenu = function () { return false };
+
+        window.ondragstart = function () { return false; }
+
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="PageHeight">
+            <asp:ScriptManager ID="ScriptManager1" runat="server" AsyncPostBackTimeout="600">
+            </asp:ScriptManager>
+            <noscript>
+                <div class="scriptblock">
+                    <img src="../images/error.gif" alt="Alert" />
+                    Javascript is disabled in your browser.
+                </div>
+            </noscript>
+            <div style="position: absolute; z-index: 999999999;">
+                <asp:UpdateProgress ID="UpdateProgress1" runat="server">
+                    <ProgressTemplate>
+                        <asp:Panel ID="Panel1" runat="server" Width="330" HorizontalAlign="Center" style="width: 1280px;text-align: center; display: flex;justify-content: center;align-items: center;" >
+                            <div id="IMGDIV" align="center" valign="middle" runat="server" style="border: 0px solid #f00;vertical-align: middle;z-index: 99999 ;position: absolute; height:508px ;width: 100%;">
+                                <asp:Image ID="Image1" runat="server"  CssClass="loadinganim"  ImageUrl="~/images/Loading.gif" />
+                            </div>
+                        </asp:Panel>
+
+                    </ProgressTemplate>
+                </asp:UpdateProgress>
+
+            </div>
+
+            <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                <ContentTemplate>
+                    <asp:ContentPlaceHolder ID="logix_CPH" runat="server">
+                    </asp:ContentPlaceHolder>
+
+                </ContentTemplate>
+            </asp:UpdatePanel>
+
+        </div>
+    </form>
+</body>
+</html>

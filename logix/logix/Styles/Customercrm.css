@@ -1,0 +1,330 @@
+﻿.div_total
+{
+    width:100%;
+    height:100%;
+   background-color:#F5F5F2;
+  /* -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+ 
+ -webkit-border-radius: 4px 4px 4px 4px;
+  -moz-border-radius   : 4px 4px 4px 4px;
+  border-radius        : 4px 4px 4px 4px;*/
+
+}
+
+.txtcustomer
+{
+    width:97.9%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+.txtcustomer input
+{
+    width:100%;
+}
+.ddltype
+{
+ width:98.4%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+.ddltype select
+{width:99.75%;
+
+}
+.txtunit
+{
+    width:10%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+.txtunit input
+{
+    width:100%;
+}
+.txtbuilding
+{
+     width:37%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.txtbuilding input
+{
+    width:100%;
+}
+.txtdoor
+{
+    width:10%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+
+}
+.txtdoor input
+{
+    width:100%;
+}
+.txtstreet
+{
+     width:37.9%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+  .txtstreet input {
+        width: 100%;
+ }
+.txtcity {
+     width:25%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+.txtcity input
+{
+    width:100%;
+}
+.txtcity select 
+{
+    width:100%;
+}
+.txtcity1 {
+     width:24%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+   
+
+}
+.txtcity1 input
+{
+    width:100%;
+}
+.txtcity1 select 
+{
+    width:100%;
+}
+.txtdistrict {
+     width:24.1%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.8%;
+    
+}
+.txtdistrict input 
+{
+    width:100%;
+}
+
+.txtdistrict1 {
+     width:23.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+
+.txtZIP
+{
+     width:22%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.txtZIP input
+{
+    width:100%;
+}
+
+.txtisd
+{
+    width:6.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+   
+}
+.txtisd input
+{
+    width:100%;
+}
+
+
+.txtfaxisd
+{
+    width:5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+   
+}
+.txtfaxisd input
+{
+    width:100%;
+}
+.txtstd
+
+{
+     width:8%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.25%;
+}
+.txtstd input
+
+{
+    width:100%;
+}
+.txtlandline
+
+{
+      width:31.1%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+
+.txtlandlinefax
+
+{
+      width:33.7%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+
+}
+
+.txtlandlinefax input {
+     width:100%;
+}
+
+
+.txtlandline input
+{
+    width:100%;
+}
+.txtmobile
+{
+     width:40.2%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.25%;
+}
+.txtmobile input
+{
+    width:100%;
+}
+
+.txtpannoabove {
+     width:48%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+.txtpannoabove input
+{
+    width:100%;
+}
+
+.txtpanno {
+     width:48.5%;
+     Height:6%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.2%;
+
+}
+.txtpanno input
+{
+    width:100%;
+}
+.txtstno {
+     width:48.7%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.txt_name
+{
+    width:40.5%;
+    height:6%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.ddl_mr
+{
+    /*width:6.5%;
+    /*height:50px;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.25%;
+   
+    /*height:10%;*/
+   width:6.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+.ddl_mr select
+
+{
+    width:100%;
+}
+.txtstno input
+{
+    width:100%;
+}
+.txtemail {
+     width:48.9%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+
+}
+.txtemail input
+{
+    width:100%;
+}
+
+ .div_Button
+{
+    float:right;
+    margin-right:0.8%;
+    /*margin-right:0.3%;*/
+    margin-bottom:1%;
+    
+}
+
+.chk_list
+{
+    float:left;
+    width:30%;
+    margin-left:2%;
+    height:100%;
+}
+
+.Divhelpelaa
+{
+    width:1.5%;
+position:absolute;
+top:17.5%;
+left:53.5%;
+}
+
+.Divhelpmsg
+{
+    float:left;
+    width:100%;
+    margin-right:1%;olid green;
+color:Darkblue;
+font-size:8pt;
+}

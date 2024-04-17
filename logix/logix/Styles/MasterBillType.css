@@ -1,0 +1,40 @@
+﻿.div_body{
+    width:300px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.txt_bl
+{
+    width:97%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.txt_bl input
+{
+    width: 100%;
+}
+.txt_bll
+{
+    width:97.7%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.txt_bll input
+{
+    width: 100%;
+}
+.btn_back
+{
+    float:right;
+    /*width:8%;*/
+    text-align:center;
+    margin-right:1%;
+    margin-bottom:1%;
+    margin-top:1%;    
+}

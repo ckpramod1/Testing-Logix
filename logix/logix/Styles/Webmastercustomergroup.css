@@ -1,0 +1,236 @@
+﻿.div_total
+{
+    width:550px;
+    /*border:1px solid black;*/
+           background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+   height :100%;
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 76.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+    height: 14px;
+}
+.div_lbl_com
+{
+    width: 7%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_txt_company
+{
+    width: 97%; 
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_company INPUT
+{
+    width: 100%;
+}
+.div_lbl_city
+{
+    width: 7%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_loc
+{
+    width: 7%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+    margin-left: 2%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_lbl_custype
+{
+    width: 12%;
+    height: 14px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_address
+{
+    width: 7%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_txt_Address
+{
+    width: 96.3%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_Address INPUT
+{
+    width: 100%;
+}
+.div_lbl_city
+{
+    width: 7%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_city
+{  
+  
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+     width: 32%;
+}
+.div_txt_city INPUT
+{
+    width: 100%;
+}
+.div_lbl_zip
+{
+    width: 5%;
+    height: 13px;
+    float: left; 
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_zip
+{
+    width: 32%;    
+    float: left;
+    margin-top: 0.5%;
+    margin-left :0.5%;
+}
+.div_txt_zip INPUT
+{
+    width: 100%;
+}
+.div_lbl_conper
+{
+    width: 12%;
+    height: 13px;
+    float: left; 
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_contact
+{
+    width: 32%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :0.5%;
+}
+.div_txt_contact INPUT
+{
+    width: 100%;
+}
+.div_lbl_phone
+{
+    width: 7%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_fax
+{
+    /*width: 18%;*/  
+    float: left;
+    margin-top: 0.5%;
+    margin-left :0.5%;
+     width: 32%;
+}
+.div_txt_fax INPUT
+{
+    width: 100%;
+}
+
+.div_lbl_mail
+{
+    width: 5%;
+    height: 13px;
+    float: left; 
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_email
+{
+    /*width: 22%;*/   
+    float: left;
+    margin-top: 0.5%;
+       margin-left :0.5%;
+     width: 32%;
+}
+.div_txt_email INPUT
+{
+    width: 100%;
+}
+.buy_btn
+{
+ 
+    /*width :10%;*/
+    float: right;
+    margin-right:2%;
+     /*margin-top: 1%;*/ /*margin-left:1%;*/ /*margin-right:17%;*/
+    text-align: right;
+    /*margin-bottom:1%;*/
+}
+
+.div_lbl_search
+{
+    width: 7%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_txt_search
+{
+    width: 97%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left :1%;
+}
+.div_txt_search INPUT
+{
+    width: 100%;
+}
+.div_grd_BL
+{
+    width: 100%; 
+	margin-bottom: 1%;
+	text-align:center;
+	margin-top:1%;
+	float:left; 
+    margin-left :0%;
+    height :160px;
+    border :1px solid #999997;
+}
+.div_grd_BL input
+{
+    width: 100%;
+}

@@ -1,0 +1,161 @@
+﻿
+.div_total 
+{
+    width: 990px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_eventsddl{
+      width:50%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_eventsddl input,select{
+     width:100%;
+}
+
+
+.div_pickedontxt{
+      width:12%;
+    float:left;
+    margin-left:35.8%;
+    margin-top:0.5%;
+}
+
+.div_pickedontxt input,Text{
+    width:100%;
+}
+
+.div_booknotxt{
+      width:12%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_booknotxt input,Text{
+    width:100%;
+}
+
+
+.div_railouttxt{
+      width:12%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_railouttxt input,Text{
+    width:100%;
+}
+
+.div_txtcargorecvon{
+      width:12%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_txtcargorecvon input,Text{
+    width:100%;
+}
+
+.div_DtCRcvontxt{
+      width:12%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_DtCRcvontxt input,Text{
+    width:100%;
+}
+.div_DtRailOutdttxt{
+      width:12%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_DtRailOutdttxt input,Text{
+    width:100%;
+}
+
+.div_DtRecvOntxt{
+      width:12%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_DtRecvOntxt input,Text{
+    width:100%;
+}
+
+.div_grd{
+      width:98%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.div_grdView{
+      width:98%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.div_grddeStuff{
+      width:98%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.div_grdBook{
+      width:100%;
+      height:450px;
+    float:left;
+    margin-left:0%;
+    margin-top:1%;
+    overflow:auto;
+}
+
+.div_btn{
+       width:12%;
+    float:left;
+    margin-left:9.5%;
+    margin-top:0.5%;
+}
+
+.div_grdLate{
+     width:98%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.div_grdmbl{
+     width:98%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}

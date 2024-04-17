@@ -1,0 +1,63 @@
+﻿.Total
+{
+   
+    width: 450px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_close
+{
+    width:40%;
+    float: left;
+    margin-top: 1%;
+    margin-left:2%;
+}
+.div_close input, Radio
+{
+    /*width: 100%;*/
+    display: inline-block;
+}
+.from
+{
+    margin-top:1%;
+    margin-left:1%;
+    float:left;
+}
+.txt_from
+{
+    float:left;
+    width:15%;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.txt_from input
+{
+    width:100%;
+}
+.div_ddl
+{
+    width:30%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.btn
+{
+    margin-top:0.5%;
+    margin-left:1%;
+    float:left;
+    margin-bottom:1%;
+}
+
+ .grd_panel
+ {
+     width:98.5%;
+     margin-left:0.5%;
+     margin-top:0.5%;
+     height:120px;
+     margin-bottom:1%;
+     /*border:1px solid Gray;*/
+ }

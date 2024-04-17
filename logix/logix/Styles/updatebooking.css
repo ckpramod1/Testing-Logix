@@ -1,0 +1,139 @@
+﻿.div_total
+{
+   width:950px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);    
+}
+.div_Break {
+    clear: both;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.6%;
+   /*margin-top:10px;*/
+}
+.div_lnk_Job
+{	
+	float: left;
+	margin-top: 0.8%;	
+	text-align:right;
+    margin-left:0.8%;
+}
+.div_txt_Job
+{
+	width: 13%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Job input
+{
+	width:100%;
+}
+
+.div_txt_vsl
+{
+	width: 40%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_vsl input
+{
+	width:100%;
+}
+.div_txt_agent
+{
+	width: 40%;
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_agent input
+{
+	width:100%;
+}
+.div_grd_BL
+{
+    width:98.2%;   
+    height:400px;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    margin-left:1%;
+    float:left; 
+    overflow:auto;
+}
+.div_grd_BL input
+{
+    width: 100%;
+}
+.div_Break
+{
+    clear: both;
+}
+
+.div_btn
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right: 1%;   
+    text-align: right;
+    margin-bottom:1%;
+    /*padding-left:10%;*/
+}
+.div_frame
+{
+    /*width: 100%;
+    height: 90%;*/
+    width: 200px;
+     Height:305px;
+   
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}
+
+.div_close
+{
+    /*width: 100%;
+    float: left;
+    text-align: right;
+    cursor: pointer;*/
+     width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:98%;
+            margin-top:-7%;
+            /*margin-top:-7.5%;*/
+            border-radius: 90px 90px 90px 90px;
+       
+
+}
+.div_Grd
+{
+    float: left;
+    width: 100%;
+    height: 95%;
+    overflow: auto;
+    margin-top: 1%;
+     font-family:sans-serif;
+     font-size:10pt;
+    /*overflow-y:scroll;*/
+}
+.div_popup
+{
+	float: left;
+	width: 100%;
+	height: 70%;
+	background-color:White;
+}

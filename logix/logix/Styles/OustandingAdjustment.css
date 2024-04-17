@@ -1,0 +1,62 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 66%;
+}
+
+.div_Break
+{
+    clear: both;
+}
+.div_label
+{
+    float: left;
+    width: 5%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_customertxt
+{
+    float: left;
+    width: 60%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_customertxt input, Text
+{
+    width: 99.5%;
+}
+
+
+.div_Grid
+{
+    width: 66%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_btn
+{
+    width: 13%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_btn input, Submit
+{
+    width: 42%;
+    margin-left:3%;
+}
+.div_detail
+{
+    width: 53%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    color:Red;
+    text-align:left;
+}

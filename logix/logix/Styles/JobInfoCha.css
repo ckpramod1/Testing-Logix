@@ -1,0 +1,314 @@
+﻿
+.div_total 
+{
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:12pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_jobtxt{
+
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+
+
+}
+
+.div_jobtxt input,Text{
+
+    width:100%;
+}
+
+.div_jobdatetxt{
+     width:24.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_jobdatetxt input,Text{
+      width:100%;
+}
+
+.div_doctxt{
+     width:20%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_doctxt input,Text{
+      width:100%;
+}
+
+.div_Docdatetxt{
+     width:19%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_Docdatetxt input,Text{
+      width:100%;
+}
+
+.div_jobTypeddl{
+     width:14.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+.div_jobTypeddl input,select{
+      width:100%;
+}
+
+.div_Mdoctxt{
+      width:48.1%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_Mdoctxt input,Text{
+     width:100%;
+}
+
+.div_vesselFliTrucktxt{
+      width:48.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_vesselFliTrucktxt input,Text{
+     width:100%;
+}
+
+.div_customertxt{
+          width:48.2%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_customertxt input,Text{
+    width:100%;
+}
+
+.div_shippertxt{
+          width:48.4%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_shippertxt input,Text{
+    width:100%;
+}
+
+.div_consigneetxt{
+          width:48.1%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_consigneetxt input,Text{
+    width:100%;
+}
+
+.div_NotifyPartytxt{
+          width:48.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_NotifyPartytxt input,Text{
+    width:100%;
+}
+
+.div_principaltxt{
+           width:48.1%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_principaltxt input,Text{
+    width:100%;
+}
+
+.div_Pictxt{
+           width:48.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_Pictxt input,Text{
+    width:100%;
+}
+
+.div_Poltxt{
+          width:31.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_Poltxt input,Text{
+    width:100%;
+}
+
+.div_podtxt{
+          width:32%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_podtxt input,Text{
+    width:100%;
+}
+
+.div_Fdtxt{
+          width:32.1%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_Fdtxt input,Text{
+    width:100%;
+}
+
+.div_carcotxt{
+          width:97.6%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_carcotxt input,Text{
+    width:100%;
+}
+
+.div_documentstxt{
+            width:97.6%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%
+}
+
+.div_documentstxt input,Text{
+    width:100%;
+}
+
+.div_packagestxt{
+               width:15%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_packagestxt input,Text{
+    width:100%;
+}
+
+.div_Packagesddl{
+              width:15%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Packagesddl input,select{
+        width:100%;
+}
+
+.div_volumetxt{
+              width:16%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_volumetxt input,Text{
+    width:100%;
+}
+
+.div_volume1txt{
+               width:16%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_volume1txt input,Text{
+    width:100%;
+}
+
+.div_grossweighttxt{
+                width:15%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_grossweighttxt input,Text{
+     width:100%;
+}
+
+.div_NetWeighttxt{
+                width:15.6%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_NetWeighttxt input,Text{
+     width:100%;
+}
+
+.div_btn{
+
+    float:right;
+
+  margin-right:2%;
+
+  margin-top:1%;
+}
+
+.div_lnkJob{
+
+    width:5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    border-color:red;
+}
+
+.div_grdView{
+
+    width:98%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}

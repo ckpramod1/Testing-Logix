@@ -1,0 +1,96 @@
+﻿
+.div_total
+{
+  width :450px;
+height:100%;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_Main
+{
+ /*background-color:Navy;*/
+width:98.8%;
+height:10%;
+/*border-bottom :1px solid black;*/
+padding:3px;
+}
+
+.div_label
+{
+width:11%;
+height:13px;
+float:left;
+margin-left:0.5%;
+margin-top:1%;	
+color:Darkblue;
+text-align:right;
+
+}
+
+.div_TB
+{
+width:97.6%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:1%;
+margin-right:0.2%;
+}
+
+.div_TB input
+{
+width:100%;
+}
+
+.div_Break
+{
+    clear:both;
+}
+
+.div_Button
+{
+float:right;
+margin-right:1%;
+}
+
+.dldesign
+{
+margin-left:74%; 
+margin-right:2%;              
+ }
+.div_grd2
+{
+   
+    
+  
+    width:97%;
+   Height:205px;
+    border:1px solid gray;
+    margin-left:1%;
+    margin-bottom:1%;
+    margin-top:1%;
+
+}
+
+.gridalign
+{
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:1%;
+    overflow:hidden;      
+}
+  .GridHeader_my
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-1.5%
+   
+}

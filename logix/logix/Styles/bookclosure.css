@@ -1,0 +1,24 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 68%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.btn_close
+{
+    width:8%;
+    float:left;
+    margin-left:5%;
+    margin-top:1%;
+}
+.btn_close input, Text
+{
+    width: 99%;
+} 

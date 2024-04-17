@@ -1,0 +1,113 @@
+﻿
+
+.div_total
+{
+  /*border:1px solid black;*/
+  width :800px;
+  /*height:500px;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+/*.outstanding
+{
+     border:1px solid black;
+    height:500px;
+    width:750px;
+}*/
+
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 100%; /*margin-left: 1%;*/
+   
+    font-weight: bold;
+    color: White;
+}
+
+.div_break
+{
+    clear: both;
+}
+
+.div_lbl_center
+{
+    width: 98%;
+    /*height: 13px;*/
+    float: left;
+    text-align: center;
+    /*margin-top: 1%;*/
+    margin-left: 1%;
+    margin-right: 0.6%;
+    /*margin-bottom:2%;*/
+   
+}
+
+.div_lbl_name
+{
+    width: 6.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 0.8%;
+   /* border:1px solid red;*/
+    margin-left:0.5%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_name1
+{
+    float: left;
+    text-align: Right;
+    margin-left:0.5%;
+}
+
+.div_lbl_ecs
+{
+    float: left;
+    text-align: Right;
+}
+.div_lbl_chk
+{
+    float: left;
+    text-align: left;
+    margin-left:0.5%;
+}
+.div_txt_name
+{
+    width: 55%;
+    height: 17px;
+    float: left;
+    /*margin-top: 0.5%;*/
+    margin-left:0.5%;
+}
+.div_txt_name input
+{
+    width:97%;
+}
+
+.Div_Chk
+{
+   float:left;
+    
+}
+
+.div_Button
+{
+    float:right;
+    margin-right:0.4%;
+}
+
+.grid_1
+{
+    height:310px;
+    width:100%;
+   margin-left:0%;
+    border: 1px solid #999997;
+    margin-top:0%;
+    margin-bottom:1%;
+ /*   background-color:Gray;    */
+}

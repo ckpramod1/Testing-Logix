@@ -1,0 +1,187 @@
+﻿.div_total
+{    
+    width:500px;
+    height:100%;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 55.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+    height: 14px;
+}
+.div_lbl_divis
+{
+    width: 9%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_branch
+{
+    width: 9%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_new
+{
+    width: 12%;
+    height: 13px;
+    float: left;
+    margin-left: 31%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_ddl_cmbDivision
+{
+    width: 97.8%;    
+    float: left;
+    margin-left: 1%;
+    margin-top:0.5%;
+    /*margin-top:0.8%;*/
+}
+.div_ddl_cmbDivision select
+{
+    width: 100%;
+}
+.div_txt_dtNewClose
+{
+    width: 17%;
+    float: right;
+ margin-right:2%;
+    margin-top: 0.5%;
+}
+.div_txt_dtNewClose INPUT
+{
+    width: 100%;
+}
+.div_ddl_cmbBranch
+{
+    width:50%;   
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_ddl_cmbBranch select
+{
+    width: 100%;
+}
+.div_lbl_modu
+{
+    width: 7%;
+    height: 13px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_ddl_cmbModule
+{
+    width:47%;  
+    float: left;
+margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddl_cmbModule select
+{
+    width: 100%;
+}
+.div_lbl_reques
+{
+    width: 9%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_user
+{
+    width:97.3%; 
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%
+}
+.div_txt_user INPUT
+{
+    width: 100%;
+}
+.div_lbl_closed
+{
+    width: 9%;
+    height: 13px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_dtpYear
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_txt_dtpYear INPUT
+{
+    width: 100%;
+}
+.div_lbl_closemon
+{
+    width: 10%;
+    height: 13px;
+    float: left;
+    margin-left: 11%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_ddl_cmbMonth
+{
+    width: 12.5%;    
+    float: right;
+margin-right:1.2%;
+    margin-top:0.5%;
+margin-bottom:1.5%;
+}
+.div_ddl_cmbMonth select
+{
+    width: 100%;
+}
+.div_grd_change
+{
+width:98%;
+
+    margin-top: 0%;
+margin-left: 1%;
+   /*border:1px solid red;*/
+    text-align: center;
+    float: left;
+}
+.div_grd_changed_change input
+{
+    width: 100%;
+}
+
+
+
+.div_Button
+{
+  /*border: 1px solid red;*/
+    float:right;
+    margin-right:1.5%;
+   /*margin-top:0.5%;*/
+ margin-bottom: 1%;
+   }

@@ -1,0 +1,147 @@
+﻿.div_total
+{    
+    width:500px;
+    /*height:100%;*/
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+
+.div_lbl_header
+{
+	background-color: #0061AE;
+    color: White;
+    width:  32.5%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_lbl_job
+{
+	width: 7%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_txt_job
+{
+	width: 48.5%;
+	/*height: 17px;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.8%;
+	/*margin-bottom: 1%;*/
+}
+.div_txt_job input
+{
+	width:100%;
+}
+.div_lbl_inv
+{
+	width: 7%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_ddl_inv
+{
+	width: 48.8%;
+	float: left;
+	margin-left: 0.8%;
+	margin-top: 0.5%;
+	
+}
+.div_ddl_inv input,select
+{
+	width:100%;
+}
+.div_Break
+{
+	clear:both;
+}
+.div_lbl_Bl
+{
+	width: 5%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_txt_Bl
+{
+	width: 97.5%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;	
+}
+.div_txt_Bl input
+{
+	width:100%;
+}
+.div_lbl_curr
+{
+	width: 5%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_ddl_curr
+{
+	width: 49%;	
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.8%;	
+}
+.div_ddl_curr input,select
+{
+	width:100%;
+}
+.div_lbl_ExRate
+{
+	width: 8.5%;
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 1%;
+}
+.div_txt_ExRate
+{
+	width: 48%;	
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 0.8%;	
+}
+.div_txt_ExRate input
+{
+	width:100%;
+}
+.div_btn
+{    
+    float: right;
+    margin-right: 1%;
+    margin-top: -0.2%;
+    margin-bottom: 0.7%;
+    text-align:right;
+}
+.div_txt_Curr
+{
+	width: 8%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
+.div_txt_Curr input
+{
+	width:100%;
+}

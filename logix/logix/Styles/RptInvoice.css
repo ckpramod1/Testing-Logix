@@ -1,0 +1,216 @@
+﻿.Div_total
+{
+    width:750px;
+    /*height:300px;*/
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 66.5%;
+     /*width: 98.5%;*/
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt
+{
+    width: 23.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, Text
+{
+    width: 100%;
+}
+.div_txtyr
+{
+    width: 7.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtyr input, Text
+{
+    width: 100%;
+}
+
+.div_trantype_txt
+{
+    width: 16.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_trantype_txt input, Text
+{
+    width: 100%;
+}
+.div_datetxt
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_datetxt input, Text
+{
+    width: 100%;
+}
+
+.div_total
+{
+    width: 60%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_total input, Text
+{
+    width: 100%;
+}
+
+
+.div_date_label
+{
+    width: 23%;
+    float: left;
+    margin-left: 15.5%;
+    margin-top: 1%;
+    text-align: right;
+}
+.div_customer
+{
+    width: 32.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.grid_3
+{
+    height:340px;
+    /*border:1px solid #999997;*/   
+    width:735px;
+    margin-left:1%;
+    margin-top:1%;
+    overflow-y :scroll;
+}
+
+.div_customer_txt
+{
+    width:48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    resize:none;
+}
+.div_customer_txt input, Text
+{
+    width:100%;
+    resize:none;
+}
+
+.div_Shipper_txt
+{
+    width:49.1%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    resize:none;
+}
+.div_Shipper_txt input, Text
+{
+    width:100%;
+    resize:none;
+}
+.div_Grid
+{
+    width: 99.5%;
+    float: left;
+    /*margin-top: 0.5%;
+    margin-left: 0%;*/
+}
+.div_pnlGrid
+        {
+   
+       width:97%;
+       height:150px;
+       margin-left :1%;
+       margin-top:0.5%;
+       Border :1px solid  #999997;
+        }
+
+.div_total1
+{
+    width: 12%;
+     float:right;       
+        margin-right:1.2%;
+        margin-top :1%;
+    /*float: left;
+    margin-left:13%;
+    margin-top: 0.5%;*/
+}
+.div_total1  input.Text
+{
+    width:100%;
+}
+.div_total_lbl
+{
+    width: 5.5%;
+    float: left;
+    margin-left: 4.3%;
+    margin-top: 0.5%;
+}
+.div_btn
+{
+    width: 97%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_btn input, Submit
+{
+    width: 9%;
+    margin-left: 2%;
+}
+
+
+        .div_Button
+        {
+        float:right;
+        /*height:6%;*/
+        /*margin-right:0.1%;*/
+        margin-right:1%;
+        margin-top :1%;
+        }
+.Text_Multi
+{
+    font-family: sans-serif;
+    font-size: 8pt;
+    font-style: normal;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 0.5px;
+    border-color: Black;
+    padding-left: 1px;
+    height:50px;
+}

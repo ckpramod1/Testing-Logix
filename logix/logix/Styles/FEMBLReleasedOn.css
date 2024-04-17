@@ -1,0 +1,137 @@
+﻿.divTotal
+{
+    width: 1020px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.DivBreak
+{
+    clear:both;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.DivMain
+{
+background-color:darkblue;
+width:100%;
+height:21px;
+border-bottom :1px solid black;
+}
+
+.DivSub
+{
+    width:98%;
+    height:100%;
+    margin-left:1%;
+    /*border:1px solid red;*/
+    margin-top:0.5%;
+
+}
+
+.GridPalICD
+{
+    width:1000px;
+    height:410px;
+    /*border:1px solid black;*/
+    /*margin-bottom:3%;*/
+    margin-top:0.5%;
+    margin-right:0.5%;
+    margin-left:1%;
+}
+
+.DivHeaderlbl
+{
+    font-size:12pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:0.5%;
+    margin-top:0.5%;
+   
+}
+
+.DivButton
+{
+    float:right;
+    /*margin-right:0.5%;*/
+    margin-right:0.5%;
+    margin-top:0.3%;
+}
+
+.DivContlbl
+{
+width:13%;
+height:13px;
+float:left;
+margin-top:0.5%;
+margin-left:1%;	
+color:darkblue;
+text-align:right;
+}
+
+.DivContTxt
+{
+width:8.5%;
+/*height:6%;*/
+float:left;	
+margin-left:1%;
+margin-top:0.5%;	
+/*margin-right:0.2%;*/
+}
+
+.DivVessellbl
+{
+width:6%;
+height:13px;
+float:left;
+margin-top:0.5%;	
+color:darkblue;
+text-align:right;
+
+}
+
+.DivVesseltTxt
+{
+width:30%;
+/*height:6%;*/
+float:left;	
+margin-left:0.5%;
+margin-top:0.5%;
+/*margin-right:0.2%;*/
+}
+
+.DivMbllbl
+{
+width:5.2%;
+height:13px;
+float:left;
+margin-top:0.5%;
+color:darkblue;
+text-align:right;
+
+}
+
+.DivMblTxt
+{
+width:49.5%;
+/*height:6%;*/
+float:left;	
+margin-top:0.5%;
+margin-left:0.5%;
+/*margin-right:0.2%;*/
+}
+
+.Hide
+{
+    display:none;
+}

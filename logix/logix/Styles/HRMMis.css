@@ -1,0 +1,120 @@
+﻿.div_total 
+{
+    width: 800px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:15px;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_rbtnEList{
+    width:15%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_rbtnEmployee{
+    width:20%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_rbtnCtc{
+    width:7%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_rbtnPendingConformation{
+    width:21%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_rbtnLoyality{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_cboxPack{
+    width:11%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_rbtnSalary{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_rbtnCompensation{
+    width:15%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_rbtnContribution{
+    width:14%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_rbtnAllowances{
+    width:13%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_Fromtxt{
+     width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Fromtxt input,Text{
+     width:100%;
+}
+
+.div_Totxt{
+     width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Totxt input,Text{
+     width:100%;
+}
+
+.div_btn
+{
+      width:12%;
+    float:right;
+    margin-right:1%;
+    margin-top:0.5%;
+}
+
+
+

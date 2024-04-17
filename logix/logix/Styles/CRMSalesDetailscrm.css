@@ -1,0 +1,988 @@
+﻿.div_total
+{
+    width:830px;
+    height:100%;
+    /*border:1px solid black;*/
+    float:left ;
+background-color:#F5F5F2;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15); 
+
+-webkit-border-radius: 5px 5px 5px 5px; 
+  -moz-border-radius   : 5px 5px 5px 5px ;
+  border-radius        : 5px 5px 5px 5px ;
+
+}
+
+.div_break
+{
+    clear:both;
+    width: 878px;
+}
+.div_lable
+{
+    width:15%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+    text-align:right;
+   
+}
+.div_txtcustomer
+{
+    /*width:26.5%;*/
+    width:98%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+    /*border:1px solid red;*/
+   
+}
+.div_txtcustomer input
+{
+    width:100%;
+}
+.div_txtDate
+{
+    /*width:26.5%;*/
+    width:52%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+    
+   
+}
+.div_txtDate input
+{
+    width:100%;
+}
+.div_txtSpoken
+{
+     width:45%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+ }
+ .div_txtSpoken input
+ {
+     width:100%;
+ }
+ .div_txtDate
+{
+     width:16%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+    
+ }
+ .div_txtDate input
+ {
+     width:100%;
+ }
+
+ .div_Button
+{
+    float:right;
+    margin-right:0.8%;
+    margin-bottom:1%;
+ margin-top:0.5%;       
+}
+
+.div_lableforrequirement
+{
+    width:50%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;   
+}
+
+.div_txtrequirement
+{
+      width:23.7%;
+      float:left;	  
+    margin-left:0.8%;
+ }
+
+.div_txtrequirement input {
+        width:100%;
+    }
+
+
+.div_othertxtrequirement
+{
+      width:32%;
+      float:left;	  
+    margin-left:1%;
+ }
+
+.div_ddlFrieght
+{
+    width:23.8%;
+    float:left;
+     margin-left:0.8%;        
+}
+
+.div_ddlFollowup
+{
+    width:41%;
+    float:left;
+     margin-left:0.8%;         
+}
+
+
+ .div_KeyPerso_Total
+ {
+     width:100%;
+     height:100%;
+    /* border:1px solid Black;*/
+     color:White;
+   background:#333399;
+    
+ }
+ .div_lable_key
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    text-align:right;
+}
+ 
+ .div_txtKeydesgn
+{
+    width:28%;
+    float:left;
+     margin-left:0.7%;
+    margin-top:1.2%;    
+}
+
+.keydept
+{
+    width:31.8%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:1.2%;      
+}
+
+.div_txtKeyTitle
+{
+width:36.7%;
+    float:left;
+    margin-top:0.5%;  
+  margin-left:1%;  
+}
+
+.div_txtKeylandline
+{
+width:28%;
+    float:left;
+    margin-top:0.5%;  
+  margin-left:0.8%;  
+}
+
+
+.div_txtKeyName
+{
+   width:30%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:1.2%;      
+}
+
+
+.div_ddlFrieght
+{
+    width:23.8%;
+    float:left;
+     margin-left:0.8%;        
+}
+
+.div_ddltitle
+{
+    width:6%;
+    float:left;
+     margin-left:1%;
+    margin-top:1%;    
+}
+
+
+.div_ddlcollect
+{
+    /*width:26.5%;*/
+    width:24.1%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.12%;
+     height :23px;
+
+       
+}
+    .div_ddlcollect select {
+        width:100%;
+        height:100%;
+    }
+
+.div_txtmail
+{
+    width:26%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:0.5%;  
+}
+
+.div_txtmail input
+{
+    width:100%;
+}
+
+.div_txtexrate
+{
+    width:12.9%;
+    float:left ;  
+     margin-left:0.8%;
+     margin-top:0.5%;
+}
+.div_txtexrate input
+{
+    width:100%;
+}
+.div_txtexrateCurr
+{
+    width:10%;
+    float:left ;
+     margin-top:0.5%;
+     margin-left:0.8%;
+    
+}
+.div_txtexrateCurr input
+{
+    width:100%;
+}
+
+.div_radioBtn
+{
+    width:10%;
+    float:left;
+   /* border:1px solid red;*/
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_lbl_rdb
+{
+    width:8%;
+   /* border:1px solid red;*/
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_txtrdb
+{
+    width:10%;
+    float:left ;
+     margin-top:0.5%;
+     margin-left:1%;
+}
+.div_txtrdb input
+{
+    width:100%;
+}
+.div_total_bottom
+ {
+    width:99%;
+  /*   border:1px solid red;*/
+     float:left;
+}
+
+.div_btm_right
+{
+    width:9%;
+    float:left;
+font-size:8pt;
+color:red;
+/*margin-left:0.2%;*/
+margin-top:0.5%;
+font-family:Arial;
+/*border:1px solid red;*/
+ text-align:right;
+}
+
+.divdropdownleft
+{
+    width:98.2%;
+    float:left; 
+/*border:1px solid red;*/
+    font-size:8pt;
+    color:Navy;
+margin-left:0.8%;
+/*border:1px solid red;*/
+
+}
+
+.div_lable_port
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    text-align:right;
+   
+}
+.div_txtKeyport
+{
+    width:24%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:0.55%;
+       
+}
+.div_txtKeyport input
+{
+    width:100%;
+}
+.div_txtKeyportfd
+{
+    /*width:26.5%;*/
+    width:25%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+    /*border:1px solid red;*/
+       
+}
+.div_txtKeyportfd input
+{
+    width:100%;
+}
+.div_txtKeyport1
+{
+    /*width:26.5%;*/
+    width:27%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+       
+}
+.div_txtKeyport1 input
+{
+    width:100%;
+}
+.div_lable_por
+{
+    width:7%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    text-align:right;
+   
+}
+.div_txtKeyCrrDesc
+{
+    width:49%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:0.55%;
+       
+}
+.div_txtKeyCrrDesc input
+{
+    width:100%;
+}
+.div_lable_inco
+{
+    width:9%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    text-align:right;
+   
+}
+.div_txtKey_Incotrms
+{
+    /*width:26.5%;*/
+    width:20%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+       
+}
+.div_txtKey_Incotrms input
+{
+    width:100%;
+}
+.div_txt_competitor
+{
+    /*width:26.5%;*/
+    width:30%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+    
+   
+}
+.div_txt_competitor input
+{
+    width:100%;
+}
+.div_txt_imcodtls
+{
+    width:11%;
+    float:left ;
+     margin-top:0.5%;
+     margin-left:1.2%;
+}
+.div_txt_imcodtls input
+{
+    width:100%;
+}
+.div_lable_imcodtls
+{
+    width:11%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    text-align:right;
+   
+}
+.div_lable_pck
+{
+    width:10.5%;
+    float:left;
+   /* margin-left:0.5%;*/
+    margin-top:0.5%;
+    text-align:right;
+    height: 15px;
+}
+.div_lablefrom
+{
+    width:13%;
+    float:left ;
+    margin-top:0.6%;
+    text-align:left;
+    height: 15px;
+/*border:1px solid red;*/
+    margin-left:0.5%;
+    text-align:right;
+}
+
+.div_lableTo
+{
+  width:2%;
+    float:left;
+    margin-top:0.6%;
+    text-align:right;
+    height: 15px;
+    /*border:1px solid red;*/
+}
+
+.div_txt_PKG
+{
+    /*width:26.5%;
+    width:13.5%;*/
+    width:24%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+      margin-bottom:0.5%;
+   
+
+}
+.div_txt_PKG input
+{
+    width:100%;
+}
+
+.div_txt_INCO
+{
+    width:48.8%;
+    float:left;
+     margin-left:0.8%;
+  margin-top:0.12%;
+
+}
+.div_txt_INCO input
+{
+    width:100%;
+}
+
+
+.div_txt_date
+{
+    /*width:26.5%;
+    width:13.5%;*/
+    width:12%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+      margin-bottom:0.5%;
+   
+
+}
+.div_txt_date input
+{
+    width:100%;
+}
+.div_txt_UN
+{
+    /*width:26.5%;
+  
+     margin-left:0.5%;*/
+       width:11%;
+    float:left;
+    margin-top:0.5%;
+      margin-bottom:0.5%;
+
+   
+}
+.div_txt_UN input
+{
+    width:100%;
+}
+.div_lable_UN
+{
+    width:8%;
+    float:left;
+   /* margin-left:0.5%;*/
+    margin-top:0.5%;
+    text-align:right;
+   /* border:1px solid red;*/
+   
+}
+.div_lable_fri
+{
+    width:8.6%;
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;
+    text-align:right;
+   
+}
+
+.div_txt_remarks
+{
+    width:67.2%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.6%; 
+}
+
+.div_txt_remarks input
+{
+    width:100%;
+}
+
+
+ .div_button_port
+{
+     width:6%;
+    float:left ;
+margin-top:0.4%;
+margin-left:0.6%;
+/*border:1px solid red;*/
+}
+
+ .div_button_Key
+{
+     width:5.4%;
+    float:left;  
+margin-top:0.4%;
+margin-left:0.5%;
+/*border:1px solid red;*/
+}
+ .div_button_Product
+{
+    float:right ;
+     margin-top:22%;
+     margin-left:5.5%;
+     width:10%;
+
+}
+ 
+.divCkeckbox
+{
+    width:50%;
+    margin-top:5%;
+    margin-left:3%;
+    float:left;
+   
+}
+
+.LabelValuechk
+{
+    font-family:Arial;
+    font-size:8.6pt;
+    color:DarkBlue;
+    font-weight:normal;
+    text-align:right;
+}
+
+.divCkeckbox1
+{
+    width:100%;
+   /*
+    overflow-y:scroll;*/
+   /* height:100px;*/
+    margin-top:1%;
+    margin-left:9%;
+    float:left;
+    
+}
+.div_lableComm
+{
+    width:8%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    text-align:right;
+   
+}
+.div_txt_Inco
+{
+    /*width:26.5%;*/
+    width:13.8%;
+    float:left;
+     margin-left:0.3%;
+    margin-top:0.5%;
+    height: 20px;
+    margin-bottom:0.5%;
+    margin-right:0.3%;
+}
+.div_txt_Inco input
+{
+    width:100%;
+}
+.div_Total_Right
+{
+    width:20%;
+    height:100%;
+    border:1px solid Blue;
+}
+.div_lable_Incodtls
+{
+    width:9.9%;
+    float:left;
+   margin-left:5.5%;
+    margin-top:1%;
+    text-align:left;
+/* border:1px solid red;*/
+   
+}
+.div_txt_Compt
+{
+    width:24%;
+    float:left;
+     margin-left:1%;
+     margin-top:0.12%;
+    
+
+}
+.div_txt_Compt input
+{
+    width:100%;
+}
+.div_txt_PKGroup
+{
+    /*width:26.5%;
+    width:13.5%;*/
+    width:49%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+      margin-bottom:0.5%;
+
+}
+.div_txt_PKGroup input
+{
+    width:100%;
+}
+.div_txt_UNcode
+{
+    /*width:26.5%;
+    width:13.5%;*/
+    width:23%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+      margin-bottom:0.5%;
+
+}
+.div_txt_UNcode input
+{
+    width:100%;
+}
+
+
+.grid
+{
+    width:99%;
+    float:left;
+
+}
+.DivTotalLeft
+{
+  width :31%;
+  float:left ;
+  margin-left:1%;
+   height:100%;
+ 
+}
+.Div
+{
+  
+  width :25%;
+  float:left;
+  margin-left:1%;
+   height:100%;
+   border:1px solid red;
+  
+}
+
+.GridPalICD
+{
+    height:527px;
+    border:1px solid black;
+    margin-bottom:1%;
+    /*margin-top:1%;*/
+    margin-right:1%;
+    margin-left:1%;
+  
+    float:left ;
+ 
+}
+
+
+
+.DivDllbtnTTFrom
+{
+    width:6.3%;
+    float:left;	
+   margin-left:0.8%;
+   margin-top:0.3%;
+    
+}
+.DivDllbtnTTFrom select 
+{
+    width:100%;
+    height:100%;
+}
+/*.DivDllbtnTTFrom select
+{
+    width:100%;
+}*/
+.DivDllbtnMinitesFrom
+{
+    width:7%;
+    height:7%;
+    float:left;	
+  margin-left1%;
+    margin-top:0.5%;
+    /*margin-right:0.5%;*/
+        margin-right:0.5%;
+    margin-bottom:0.5%;
+}
+/*.DivDllbtnMinitesFrom select
+{
+    width:100%;
+}*/
+.DivDllbtnAMPMFrom
+{
+    width:7%;
+    height:6%;
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+  margin-right:0.5%;
+  margin-bottom:0.5%;
+
+   
+}
+/*.DivDllbtnAMPMFrom select
+{
+    width:100%;
+}*/
+
+
+.DivDllbtnTTTo
+{
+    width:6%;
+    float:left;	
+    margin-left:0.8%;
+    margin-top:0.3%;
+}
+.DivDllbtnTTTo select
+{
+    width:100%;
+}
+/*.DivDllbtnTTTo select
+{
+    width:100%;
+}*/
+.DivDllbtnMiniteTo
+{
+    width:7%;
+    height:6%;
+    float:left;	
+    margin-left:0.3%;
+    margin-top:0.5%;
+   margin-bottom:0.5%;
+    /*margin-right:0.5%;*/
+}
+/*.DivDllbtnMiniteTo select
+{
+    width:100%;
+}*/
+.DivDllbtnAMPMTo
+{
+    width:7%;
+    height:6%;
+    float:left;	
+    margin-left:1%;
+    margin-top:0.5%;
+    margin-bottom:0.5%;
+   
+}
+/*.DivDllbtnAMPMTo select
+{
+    width:100%;
+}*/
+
+
+.div_txt_PKG_new
+{
+    /*width:26.5%;
+    width:13.5%;*/
+    width:11.5%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:0.5%;
+      margin-bottom:0.5%;
+   
+
+}
+.div_txt_PKG_new input
+
+{
+    width :100%;
+}
+.div_txt_PKG_newddf
+{
+    /*width:26.5%;
+    width:13.5%;*/
+    width:24%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:0.5%;
+      margin-bottom:0.5%;
+   
+
+}
+.div_txt_PKG_newddf input
+
+{
+    width:100%;
+}
+.ddl_PKG_new
+{
+    width:24.1%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:0.5%;
+  }
+.ddl_PKG_new select 
+{
+    width:100%;
+    height:100%;
+}
+
+.unit_txt
+{
+   height :24px; 
+    width:5%;
+    float:left;
+     margin-left:0.6%;
+    margin-top:0.6%;
+  }
+
+.unit_txttype
+{
+    width:6.2%;
+    float:left;
+     margin-left:0.6%;
+    margin-top:0.6%;
+  }
+
+
+.unit_txt input
+{
+    width:100%;
+}
+
+.div_txtdatae
+{ width:10%;
+    float:left ;
+     margin-top:0.3%;
+     margin-left:0.8%;
+}
+.div_txtdatae input
+{
+    width:100%;
+}
+   
+  .div_link
+  
+  {
+      width:4.5%;
+      float:left;
+      margin-top:1%;
+      margin-left:1%;
+      color:maroon;
+    height: 13px;
+  /*border:1px solid red;*/
+}  
+
+  .div_txtcustomerNew
+{ 
+    width:85.8%;
+    float:left;
+     margin-left:0.8%;
+    margin-top:0.5%; 
+}
+  .div_txtcustomerNew input
+
+  {
+      width:100%;
+  }
+
+  .div_txtcrmid
+{
+    width:7%;
+    float:left;
+     /*margin-left:0.5%;*/
+    margin-top:0.5%;
+    /*border:1px solid red;*/   
+}
+
+  .div_txtcrmid input
+  {
+      width:100%;
+  }
+
+.DivDllbtnMinitesFrom
+{
+     width:6.3%;
+    float:left;	
+  margin-left:0.9%;
+    margin-top:0.3%;
+    /*margin-right:0.5%;*/
+}
+
+.DivDllbtnMiniteTo
+{
+    width:6.3%;
+    float:left;	
+    margin-left:0.8%;
+    margin-top:0.3%;
+    /*margin-right:0.5%;*/
+}
+

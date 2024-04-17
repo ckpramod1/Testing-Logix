@@ -1,0 +1,106 @@
+﻿.div_total
+{
+    width:1050px;
+    /*height:500px;*/
+     background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    margin-right: 0px;
+}
+.div_header
+{
+    width:100%;
+    border:1px solid black;
+    background-color:#333399;
+}
+.div_Grid
+{    
+    width:100%;
+    float:left;
+    margin-top:1%;
+    margin-left:0.5%;
+    margin-bottom:0.5%;       
+}
+.div_break
+{
+    clear:both;
+}
+
+.lbl_Header1
+{
+    /*font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+   /*font-size:10pt;
+     font-family :sans-serif;*/
+  /*color: rgb(255, 255, 255);*/
+font-size: 20px;
+/*background-color: rgb(220, 224, 179);*/
+  background-color: #F8F8F8;
+text-shadow: rgb(150, 150, 150) 1px 3px 0px, rgb(171, 168, 168) 1px 13px 5px;
+ 
+}
+.GridPalICD
+{
+    /*width:99%;
+    height:400px;
+    /*border:1px solid black;*/
+    /*margin-left:0.5%;*/
+    /*margin-bottom:1%;
+    margin-top:1%;*/
+
+     width:97.5%;
+     height:380px;
+ 
+    float:left;
+    margin-bottom:0.5%;
+    margin-left:0.5%;
+    margin-top:0.5%;
+    margin-right:0.5%;
+    overflow:auto;
+}
+
+.div_btnview
+{
+	/*width: 94%;*/
+	margin-top: 0.5%;
+	float: right;
+	text-align: right;
+	margin-right: 0%;
+     margin-bottom:0%;
+}
+
+.div_btn_Cancel
+{
+	
+	margin-top: 0.5%;
+	float: right;
+	text-align: right;
+	margin-left: 0.5%;
+    margin-right:0.5%;
+    margin-bottom:0%;
+}
+.div_btn_ExportExcel
+{
+	/*width: 12%;*/
+	margin-top: 0.5%;
+	float: right;
+	text-align: right;
+	margin-left: 0.5%;
+}
+
+.div_btn_Export
+{
+	/*width: 45%;*/
+	margin-top: 0.5%;
+	float: right;
+	text-align: right;
+	margin-left: 2%;
+    margin-right:2%;
+    width: 165px;
+}

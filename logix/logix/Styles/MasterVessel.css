@@ -1,0 +1,115 @@
+﻿
+.div_total
+{
+background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+  width:470px;
+}
+
+.div_Main
+{
+background-color:Navy;
+width:100%;
+height:10%;
+border-bottom :1px solid black;
+
+}
+
+.div_label
+{
+width:15%;
+height:13px;
+float:left;
+text-align:right;
+margin-left:0.5%;
+margin-top:1%;	
+color:Darkblue;
+
+}
+
+.div_TB
+{
+width:97.5%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:1%;
+margin-right:0.5%;
+
+}
+.div_txt_Search
+{
+    width: 97.5%;  
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+    
+}
+.div_txt_Search input,Text
+{
+    width:100%;
+}
+.div_grd1
+{
+    /*width: 100%;
+    margin-top:2%;
+    margin-bottom:1%;*/   
+    width:97%;
+   height:250px;
+    border:1px solid gray;
+    margin-left:1%;
+    margin-bottom:2%;
+    margin-top:1%;
+}
+
+.div_TB input
+{
+width:100%;
+}
+
+
+.div_Button
+{
+    
+/*border:1px solid black;*/
+float:right;
+margin-right:1%;
+}
+.ddl
+ {
+     border:5px;
+     padding:5px; 
+ }
+  
+.dldesign
+{    
+  margin-left:75%;
+  margin-right:2%
+}
+
+.gridalign
+{
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:1.5%;
+     /*overflow-y :scroll;*/
+  margin-top:1%;
+   
+}
+.GridHeader_my
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.05%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-1.5%
+   
+}
+
+  
+

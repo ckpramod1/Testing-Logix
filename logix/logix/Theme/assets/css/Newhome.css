@@ -1,0 +1,270 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body {margin:0px auto 0px auto!important;
+}
+
+
+
+
+.HomeLink{width:100%; float:left; margin:20px 0px 0px 0px; min-height:546px;}
+.DocHomeLeft{width:655px; float:left; margin:0px 20px 0px 25px;}
+.DocHomeRight{ width:638px; float:left; margin:0px;}
+.CRMBox{width:118px; float:left; background-color:#0077c9; min-height:94px; margin:0px 10px 0px 0px;}
+.CRMBox a{ color:#fffffc; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none; }
+.CRMIC{ background:url(../img/icons/crm_ic.png) no-repeat center top; width:52px; height:52px; margin:10px 33px 4px 33px;}
+.CRMBox a:hover {color:#ffffff!important; text-decoration:underline;
+}
+.OECSBox{width:118px; float:left; background-color:#042a4c; min-height:94px; margin:1px 10px 0px 0px;}
+
+.OECSBox a{ color:#ffffff; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+.OECSBox a:hover {color:#ffffff!important; text-decoration:underline;
+}
+.IConbox1{ width:50px; float:left; height:52px; margin:10px 12px 4px 36px; color:#ffffff; float:left; background:url(../img/icons/customer_Support_ic.png) no-repeat center top;}
+
+.IConBox4{ width:53px; color:#ffffff; padding:5px 0px 0px 0px; height:53px; float:left; background:url(../img/icons/ops_ic.png) no-repeat center top; 
+margin:10px 33px 4px 32px; text-align:center;}
+
+
+.OECSBox1{width:118px; float:left; background-color:#d02027; min-height:94px; margin:1px 0px 0px 0px;}
+
+.OECSBox1 a{ color:#ffffff; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+
+.OECSBox1 a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+.OECSBox2{width:258px; float:left; background-color:#433d27; min-height:94px; margin:10px 10px 0px 0px;}
+
+.OECSBox2 a{ color:#ffffff; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+
+.OECSBox2 a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+.OECSBox3{width:258px; float:left; background-color:#413b61; min-height:94px; margin:10px 0px 0px 0px;}
+
+.OECSBox3 a{ color:#ffffff; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+
+.OECSBox3 a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+.OECSBox4{width:258px; float:left; background-color:#433d27; min-height:94px; margin:10px 10px 0px 0px;}
+
+.OECSBox4 a{ color:#ffffff; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+
+.OECSBox4 a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+
+
+
+
+
+.OECSBox5{width:258px; float:left; background-color:#413b61; min-height:94px; margin:10px 10px 0px 0px;}
+
+.OECSBox5 a{ color:#ffffff; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+
+.OECSBox5 a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+.OECSBox6{width:258px; float:left; background-color:#d02027; min-height:94px; margin:10px 10px 0px 0px;}
+
+.OECSBox6 a{ color:#ffffff; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+
+.OECSBox6 a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+
+.OECSBox7{width:258px; float:left; background-color:#042a4c; min-height:94px; margin:10px 10px 0px 0px;}
+
+.OECSBox7 a{ color:#ffffff; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+
+.OECSBox7 a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+
+.IConbox5{ width:116px; float:left; height:23px; padding:57px 0px 0px 0px; color:#ffffff; float:left; background:url(../images/airexports_ic.png) no-repeat center top; margin:6px 0px 3px 0px;}
+.IConBox6{ width:142px; color:#ffffff; padding:57px 0px 0px 0px; height:23px; float:left; background:url(../images/cs_ic_1.png) no-repeat center top; 
+margin:6px 0px 3px 0px;}
+.IConbox7{ width:116px; float:left; height:23px; padding:60px 0px 0px 0px; color:#ffffff; float:left; background:url(../images/airimports_ic.png) no-repeat center top; margin:6px 0px 3px 0px;}
+.IConBox8{ width:142px; color:#ffffff; padding:60px 0px 0px 0px; height:23px; float:left; background:url(../images/cs_ic_1.png) no-repeat center top; 
+margin:6px 0px 3px 0px;}
+
+
+
+.SalesBox{width:118px; float:left; background-color:#86a845; min-height:94px; margin:0px 10px 0px 0px;}
+.SalesBox a{ color:#fffffc; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none }
+
+.SalesBox a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+.SalesIC{ background:url(../img/icons/sales_ic.png) no-repeat center top; text-align:center; width:23px; height:53px; margin:10px 33px 4px 49px;}
+
+
+
+.CHA{width:118px; float:left; background-color:#0a4e29; min-height:94px; margin:1px 10px 0px 0px;}
+.CHA a{ color:#fffffc; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none }
+
+.CHA a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+
+
+
+
+.CHAIC{ background:url(../img/icons/cha_ic.png) no-repeat center top; width:76px; height:62px; text-align:center; margin:10px 33px -1px 22px;}
+
+.BT{width:118px; float:left; background-color:#433d27; min-height:94px; margin:1px 10px 0px 0px;}
+.BT a{ color:#fffffc; font-size:14px; line-height:16px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;
+    height: 77px;
+}
+
+.BT a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+.BTIC{ background:url(../img/icons/bondedtrucking_ic.png) no-repeat center top; width:52px; height:52px; margin:10px 33px 9px 34px; text-align:center;}
+
+
+
+
+
+
+.IConbox9{ width:116px; float:left; height:23px; padding:57px 0px 0px 0px; color:#ffffff; float:left; background:url(../images/airexports_ic.png) no-repeat center top; margin:6px 0px 3px 0px;}
+.IConBox10{ width:142px; color:#ffffff; padding:57px 0px 0px 0px; height:23px; float:left; background:url(../images/docs_1.png) no-repeat center top; 
+margin:6px 0px 3px 0px;}
+.IConbox11{ width:116px; float:left; height:23px; padding:57px 0px 0px 0px; color:#ffffff; float:left; background:url(../images/oe_docs_ic.png) no-repeat center top; margin:6px 0px 3px 0px;}
+.IConBox12{ width:142px; color:#ffffff; padding:57px 0px 0px 0px; height:23px; float:left; background:url(../images/docs_2.png) no-repeat center top; margin:6px 0px 3px 0px;}
+
+
+.IConbox13{ width:116px; float:left; height:23px; padding:57px 0px 0px 0px; color:#ffffff; float:left; background:url(../images/ae_docs.png) no-repeat center top; margin:6px 0px 3px 0px;}
+.IConBox14{ width:142px; color:#ffffff; padding:57px 0px 0px 0px; height:23px; float:left; background:url(../images/docs_1.png) no-repeat center top; 
+margin:6px 0px 3px 0px;}
+.IConbox15{ width:116px; float:left; height:23px; padding:57px 0px 0px 0px; color:#ffffff; float:left; background:url(../images/airimport_docs.png) no-repeat center top; margin:6px 0px 3px 0px;}
+.IConBox16{ width:142px; color:#ffffff; padding:57px 0px 0px 0px; height:23px; float:left; background:url(../images/docs_4.png) no-repeat center top; margin:6px 0px 3px 0px;}
+
+.Clear{clear:both;}
+
+
+.OICSBox{width:258px; float:left; background-color:#0077c9; min-height:94px; margin:0px;}
+
+
+
+.OperatingAC{width:156px; float:left; background-color:#042a4c; min-height:94px; margin:10px 10px 0px 0px;}
+.OperatingAC a{ color:#fffffc; font-size:16px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none }
+.OperatingIC{ background:url(../images/operating_ac.png) no-repeat center top; width:70px; height:49px; margin:6px 6px 6px 45px;}
+
+
+.MIS{width:118px; float:left; background-color:#185074; min-height:94px; margin:1px 10px 0px 0px;}
+.MIS a{ color:#fffffc; font-size:14px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none }
+
+
+.MIS a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+.MISIC{ background:url(../img/icons/mis_ic.png) no-repeat center top; width:74px; text-align:center; height:49px; margin:6px 9px 7px 25px;}
+
+.Maitenance{width:156px; float:left; background-color:#d02027; min-height:94px; margin:10px 10px 0px 0px;}
+.Maitenance a{ color:#fffffc; font-size:16px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none }
+.MainIC{ background:url(../images/maintenance_ic.png) no-repeat center top; width:70px; height:52px; margin: 6px 3px 2px 45px; padding: 0 0 3px;}
+.Maitenance a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+
+
+
+
+
+.HRIC{ background:url(../img/icons/hr_ic.png) no-repeat center top; width:52px; height:42px; margin:6px 6px 4px 33px;}
+
+.OpsAccounts{width:118px; float:left; background-color:#990000; min-height:94px; margin:1px 0px 0px 0px;}
+.OpsAccounts a{color:#fffffc; font-size:14px; line-height:17px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none;}
+
+
+.OpsAccounts a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+.OpsAcc {  background:url(../img/icons/operating_accounts_ic.png) no-repeat center top; width:65px; height:46px; margin:5px 6px 3px 26px;
+}
+
+.ToggleBtn a {display:inline-block; padding:5px; margin:5px 20px 0px 0px; width:auto; float:left;
+}
+
+    .ToggleBtn a:last-child {margin:5px 0px 0px 0px!important;
+    }
+
+
+    .ToggleBtn a.OExport {background:#0077c9 url(../img/icons/oe_ic.png) no-repeat 5% 7px; font-family:'Segoe UI'; float:left; font-size:12px;  padding:10px 5px 5px 32px; text-align:center; width:132px; height:40px; color:#fff;
+    }
+
+    .ToggleBtn a.OImport {background:#042b4c url(../img/icons/oi_ic.png) no-repeat  5% 9px; font-family:'Segoe UI'; float:left; font-size:12px; padding:10px 0px 5px 33px;  text-align:center; width:132px; height:40px;  color:#fff;
+    }
+      .ToggleBtn a.AExport {background:#413b61 url(../img/icons/ae_ic.png) no-repeat  5% 6px; float:left; font-family:'Segoe UI'; font-size:12px; padding:10px 5px 5px 31px;  text-align:center; width:132px; height:40px;  color:#fff;
+    }
+        .ToggleBtn a.AImport {background:#433d27 url(../img/icons/ai_ic.png) no-repeat  5% 6px; float:left; font-family:'Segoe UI'; font-size:12px; padding:10px 5px 5px 31px; text-align:center; width:132px; height:40px;  color:#fff;}
+
+ .ToggleBtn a.OExport1 {background:#d02027 url(../img/icons/oe_ic.png) no-repeat 2% 7px; float:left; font-size:12px;  padding:10px 5px 5px 32px; text-align:center; width:118px; height:40px; color:#fff;
+    }
+
+    .ToggleBtn a.OImport1 {background:#a23135 url(../img/icons/oi_ic.png) no-repeat  1% 9px; float:left; font-size:12px; padding:10px 0px 5px 33px;  text-align:center; width:118px; height:40px;  color:#fff;
+    }
+      .ToggleBtn a.AExport1 {background:#86a845 url(../img/icons/ae_ic.png) no-repeat  3% 3px; float:left; font-size:12px; padding:10px 5px 5px 31px;  text-align:center; width:118px; height:40px;  color:#fff;
+    }
+  
+       .ToggleBtn a.AImport1 {background:#185074 url(../img/icons/ai_ic.png) no-repeat  3% 6px; float:left; font-size:12px; padding:10px 5px 5px 31px; text-align:center; width:118px; height:40px;  color:#fff;}
+
+
+
+/* Corporate Home Page CSS Styles Start */
+
+.MenuOE{ background-color:#042a4c; width:118px; height:94px; float:left; text-align:center; padding:6px 0px 0px 0px; margin:0px 10px 1px 0px;}
+.MenuOI{ background-color:#0077c9; width:118px; height:94px; float:left; text-align:center; padding:6px 0px 0px 0px; margin:0px 10px 1px 0px;}
+.MenuAE{ background-color:#433d27; width:118px; height:94px; float:left; text-align:center;  padding:6px 0px 0px 0px; margin:0px 10px 1px 0px;}
+.MenuAI{ background-color:#413b61; width:118px; height:94px; float:left; text-align:center;  padding:6px 0px 0px 0px; margin:0px 10px 1px 0px;}
+.MenuME{ background-color:#d02027; width:118px; height:94px; float:left; text-align:center;  padding:6px 0px 0px 0px; margin:0px 10px 1px 0px;}
+   
+.HR{width:118px;  height: 94px; float:left; text-align: center; background-color:#413b61; min-height:94px; margin:0px 10px 1px 0px;}
+
+.HR a{ color:#fffffc; font-size:16px; font-family:"Segoe UI"; display:block; text-align:center; text-decoration:none; }
+
+.HR a:hover {color:#ffffff!important; text-decoration:underline;
+}
+
+ .HomeGroup {
+    width: 258px;
+    float: left;
+    margin: 55px 20px 36px 15px;
+}
+    .TabMenu {
+    float: left;
+    width: 1045px;
+    margin: 55px 0px 36px 0px;
+}
+    .tab-content {
+    padding: 10px 15px;
+    border-radius: 0px;
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.15);
+    background: #fff;
+    border: 0px solid #b1b1b1;
+    min-height: 419px;
+    margin: -10px 0px 0px 0px;
+}
+
+
+/* Corporate Home Page CSS Styles End */

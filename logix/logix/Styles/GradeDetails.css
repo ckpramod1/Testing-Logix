@@ -1,0 +1,104 @@
+﻿.div_Main
+{
+    /*background-color: #0061AE;
+    color: White;*/
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width:99%;
+}
+
+.div_break
+{
+    clear: both;
+}
+
+.divTotal
+{
+   
+    width:500px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_label
+{
+    float: left;
+    width: 8%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right
+}
+.div_lbl
+{
+    float: left;
+    width: 11%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right
+}
+.div_txt
+{
+    float: left;
+    width: 31.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, text
+{
+    width: 100%;
+}
+.div_btn
+{
+   
+    float:right;
+    margin-right:2%;
+    margin-top:1%;
+    /*text-align: right;*/
+}
+
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0.5%;
+    height:150px;
+    border: 1px solid #b1b1b1;
+    margin-bottom:0.5%;
+}
+.modalBackground
+{
+    background-color: Gray;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; 
+    filter: alpha(opacity=70); 
+    -moz-opacity: 0.7; 
+    -khtml-opacity: 0.7; 
+    opacity: 0.7;
+}
+.Pnl
+{
+    position: absolute;
+    top: 10%;
+    margin-left:15%;
+    width: 30%;
+    height: 15%;
+    text-align: center;
+    background-color: White;
+    border: solid 3px black;
+    float:left;
+}
+.div_confirm
+{
+    width: 88%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_confirm input, Submit
+{
+    width: 15%;
+    margin-left: 4%;
+}

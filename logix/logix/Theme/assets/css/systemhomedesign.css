@@ -1,0 +1,3051 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body {
+    padding: 0px 0px 0px 0px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin: 0px 0px 0px 0px;
+}
+
+/*@media(max-width: 1280px) {
+
+    .HomeMenuBox {
+        width: 1280px;
+    }
+
+    .MISAE {
+        width: 13.3%;
+    }
+
+    .MISAI {
+        width: 13.3%;
+    }
+
+    .MISBT {
+        width: 13.3%;
+    }
+
+    .MISCustomerB {
+        width: 13.3%;
+    }
+
+    .MISOE {
+        width: 13.3%;
+    }
+
+    .MISOI {
+        width: 13.3%;
+    }
+
+    .MISTotalRen {
+        width: 13.9%;
+    }
+
+    .OutStandingBox1 {
+        width: 13.3%;
+    }
+
+    .OutStandingBox2 {
+        width: 13.3%;
+    }
+
+    .OutStandingBox3 {
+        width: 13.3%;
+    }
+
+    .OutStandingBox4 {
+        width: 13.3%;
+    }
+
+    .OutStandingBox5 {
+        width: 13.3%;
+    }
+
+    .OutStandingBox6 {
+        width: 13.3%;
+    }
+
+    .OutStandingBox7 {
+        width: 13.9%;
+    }
+
+    .OutstandingBox {
+        width: 100%;
+    }
+
+    .PerformBox {
+        width: 182px;
+    }
+
+    .OutStandingBox {
+        width: 182px !important;
+    }
+
+    .BookingBox {
+        width: 182px !important;
+    }
+
+    .QuotationBox {
+        width: 182px !important;
+    }
+
+    .QuotationBox1 {
+        width: 182px !important;
+    }
+
+    .CreditRequest {
+        width: 182px !important;
+    }
+
+    .CreditExemptions {
+        width: 183px !important;
+    }
+
+    .CusQuotation {
+        width: 13.3%;
+    }
+
+    .CusBooking {
+        width: 13.3%;
+    }
+
+    .CusStuffing {
+        width: 13.3%;
+    }
+
+    .CusSailing {
+        width: 13.3%;
+    }
+
+    .CusTranship {
+        width: 13.3%;
+    }
+
+    .CusDoconfirmationR {
+        width: 13.3%;
+    }
+
+    .CusDOconri {
+        width: 13.9%;
+    }
+
+    .CustomerQuot {
+        width: 13.3%;
+    }
+
+    .CustomerBook {
+        width: 13.3%;
+    }
+
+    .CustomerPreAlert {
+        width: 13.3%;
+    }
+
+    .CustomerCAN {
+        width: 13.3%;
+    }
+
+    .CustomerReminder {
+        width: 14.3%;
+    }
+
+    .CustomerPending {
+        width: 13.3%;
+    }
+
+    .CustomerCargo {
+        width: 12.9%;
+    }
+
+    .floatleftcon {
+        width: 79%;
+        float: left;
+    }
+
+    .Unclosed2 {
+        float: left;
+        margin: 0px;
+        width: 185px;
+    }
+
+    .BandRight {
+        float: right;
+        margin: 0px 75px 0px 0px !important;
+    }
+
+    .BookingBL {
+        width: 13.3%;
+    }
+
+    .BookingJobs {
+        width: 13.3%;
+    }
+
+    .ProfomaInvoice {
+        width: 13.3%;
+    }
+
+    .ProfomaCNOps {
+        width: 13.3%;
+    }
+
+    .ProfomaOSDNCN {
+        width: 13.3%;
+    }
+
+    .BLRelease {
+        width: 13.3%;
+    }
+
+    .UnclosedJobs {
+        width: 13.9%;
+    }
+
+    .PendingRightnew1Chart {
+        width: 570px;
+    }
+
+    .Unclosed h3 {
+        margin: 5px 0px 0px 46px;
+    }
+
+    .PendingTbl2 {
+        margin: 5px 0px 0px 46px;
+        width: 219px;
+    }
+
+    .TDS {
+        width: 13.3%;
+    }
+
+    .Deposits {
+        width: 13.3%;
+    }
+
+    .ChequeRequest {
+        width: 13.3%;
+    }
+
+    .Collection {
+        width: 13.3%;
+    }
+
+    .Other {
+        width: 13.3%;
+    }
+
+    .Admin {
+        width: 13.3%;
+    }
+
+    .UnclosedJobs1 {
+        width: 13.9%;
+    }
+}*/
+
+.Header {
+    width: 100%;
+    float: left;
+}
+
+.HomeMenuBox {
+    width: 100%;
+    float: left;
+    margin: 0px 0px 0px 0px;
+}
+
+    .HomeMenuBox a {
+        text-decoration: none;
+    }
+
+.MISAE {
+    width: 14.3%;
+    min-height: 117px;
+    background-color: #16365c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .MISAE h3 {
+        color: #c5d9f1;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .MISAE img {
+        text-align: center;
+        margin: 10px 15px 0px 0px;
+        float: right;
+    }
+
+    .MISAE span {
+        color: #c5d9f1;
+        display: block;
+        float: right;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .MISAE label {
+        color: #c5d9f1;
+        display: block;
+        float: left;
+        margin: 0px 10px 0px 10px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.BLjobs {
+    float: left;
+    width: 30px;
+    margin: 5px 0px 0px 10px;
+    font-size: 11px;
+    color: #c5d9f1;
+}
+
+.BL1 {
+    float: right;
+    width: 28px;
+    font-size: 11px;
+    margin: 5px 0px 0px 0px;
+    color: #c5d9f1;
+}
+
+.MISAI {
+    width: 14.3%;
+    min-height: 117px;
+    background-color: #963634;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .MISAI h3 {
+        color: #f2dcdb;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .MISAI span {
+        color: #f2dcdb;
+        display: block;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .MISAI img {
+        text-align: center;
+        float: right;
+        margin: 10px 15px 0px 0px;
+    }
+
+.MISBT {
+    width: 14.3%;
+    min-height: 117px;
+    float: left;
+    background-color: #8a933c;
+    margin: 0px 0px 0px 0px;
+}
+
+    .MISBT h3 {
+        color: #ebf1de;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .MISBT span {
+        color: #ebf1de;
+        display: block;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .MISBT img {
+        text-align: center;
+        float: right;
+        margin: 10px 15px 0px 0px;
+    }
+
+.MISCustomerB {
+    width: 14.3%;
+    min-height: 117px;
+    float: left;
+    background-color: #60497a;
+    margin: 0px 0px 0px 0px;
+}
+
+    .MISCustomerB h3 {
+        color: #e4dfec;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .MISCustomerB img {
+        text-align: center;
+        float: right;
+        margin: 10px 15px 0px 0px;
+    }
+
+    .MISCustomerB label.Approved {
+        color: #ffffff;
+        width: 65px;
+        float: left;
+        display: block;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 10px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .MISCustomerB span {
+        color: #e4dfec;
+        display: block;
+        margin: 0px 5px 0px 15px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: 'Segoe UI';
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+        .MISCustomerB span.AppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 22px 0px 0px 15px;
+            text-align: left;
+            width: 35px;
+            float: left;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .MISCustomerB span.UnAppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 22px 33px 0px 0px;
+            text-align: right;
+            width: 35px;
+            float: right;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+    .MISCustomerB label.Unapproved {
+        color: #ffffff;
+        display: block;
+        width: 85px;
+        float: right;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 5px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+.MISOE {
+    width: 14.3%;
+    min-height: 117px;
+    float: left;
+    background-color: #974706;
+    margin: 0px 0px 0px 0px;
+}
+
+    .MISOE h3 {
+        color: #fde9d9;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+        .MISOE h3 label {
+            color: #ffffff;
+            display: block;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+    .MISOE span {
+        color: #fde9d9;
+        display: block;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .MISOE img {
+        text-align: center;
+        float: right;
+        margin: 10px 15px 0px 0px;
+    }
+
+.MISOI {
+    width: 14.3%;
+    min-height: 117px;
+    float: left;
+    background-color: #215967;
+    margin: 0px 0px 0px 0px;
+}
+
+    .MISOI h3 {
+        color: #daeef3;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .MISOI span {
+        color: #daeef3;
+        display: block;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .MISOI img {
+        text-align: center;
+        float: right;
+        margin: -5px 15px 0px 0px;
+    }
+
+.MISTotalRen {
+    width: 14.2%;
+    min-height: 117px;
+    float: left;
+    background-color: #7b8d8e;
+    margin: 0px 0px 0px 0px;
+}
+
+    .MISTotalRen h3 {
+        color: #ecf7f8;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .MISTotalRen span {
+        color: #ecf7f8;
+        display: block;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .MISTotalRen img {
+        text-align: center;
+        float: right;
+        margin: 10px 15px 0px 0px;
+    }
+
+/*.OutstandingBox {
+        float: left;
+        width: 100%;
+        margin: 0px 0px 10px 0px;
+    }*/
+
+.OutStandingBox1 {
+    width: 14.3%;
+    min-height: 68px;
+    background-color: #16365c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .OutStandingBox1 img {
+        float: right;
+        margin: 5px 10px 0px 0px;
+    }
+
+.OutstandingBox h3 {
+    font-weight: bold;
+    font-size: 11px;
+    font-family: sans-serif;
+    padding: 2px 5px 10px 10px;
+    color: #4e4c4c;
+    width: 350px;
+    margin: 0px;
+}
+
+.OutStandingBox2 {
+    width: 14.3%;
+    min-height: 68px;
+    background-color: #963634;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .OutStandingBox2 img {
+        float: right;
+        margin: 5px 10px 0px 0px;
+    }
+
+.OutStandingBox3 {
+    width: 14.3%;
+    min-height: 68px;
+    background-color: #8a933c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .OutStandingBox3 img {
+        float: right;
+        margin: 5px 10px 0px 0px;
+    }
+
+.OutStandingBox4 {
+    width: 14.3%;
+    min-height: 68px;
+    background-color: #60497a;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .OutStandingBox4 img {
+        float: right;
+        margin: 5px 10px 0px 0px;
+    }
+
+.OutStandingBox5 {
+    width: 14.3%;
+    min-height: 84px;
+    background-color: #974706;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .OutStandingBox5 img {
+        float: right;
+        margin: 5px 10px 0px 0px;
+    }
+
+.OutStandingBox6 {
+    width: 14.3%;
+    min-height: 84px;
+    background-color: #215967;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .OutStandingBox6 img {
+        float: right;
+        margin: 5px 10px 0px 0px;
+    }
+
+.OutStandingBox7 {
+    width: 14.2%;
+    min-height: 84px;
+    background-color: #7b8d8e;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .OutStandingBox7 img {
+        float: right;
+        margin: 5px 10px 0px 0px;
+    }
+
+.OutStandingBox1 span {
+    color: #c5d9f1;
+    display: block;
+    float: right;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 15px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OutStandingBox2 span {
+    color: #f2dcdb;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 15px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OutStandingBox3 span {
+    color: #ebf1de;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 15px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OutStandingBox4 span {
+    color: #e4dfec;
+    display: block;
+    margin: 0px 5px 0px 15px;
+    text-align: right;
+    padding: 0px 0px 15px 0px;
+    font-family: 'Segoe UI';
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OutStandingBox5 span {
+    color: #fde9d9;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 5px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OutStandingBox6 span {
+    color: #daeef3;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 5px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OutStandingBox7 span {
+    color: #ecf7f8;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 5px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* MIS Analytics CSS Styles END */
+
+.BookingBL {
+    width: 14.3%;
+    min-height: 91px;
+    background-color: #16365c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .BookingBL h3 {
+        color: #c5d9f1;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .BookingBL img {
+        text-align: center;
+        margin: 10px 10px 0px 85px;
+        float: right;
+    }
+
+    .BookingBL span {
+        color: #c5d9f1;
+        display: block;
+        float: right;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .BookingBL label {
+        color: #c5d9f1;
+        display: block;
+        float: left;
+        margin: 0px 10px 0px 10px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.BLjobs {
+    float: left;
+    width: 30px;
+    margin: 5px 0px 0px 10px;
+    font-size: 11px;
+    color: #c5d9f1;
+}
+
+.BL1 {
+    float: right;
+    width: 28px;
+    font-size: 11px;
+    margin: 5px 0px 0px 0px;
+    color: #c5d9f1;
+}
+
+.BookingJobs {
+    width: 14.3%;
+    min-height: 102px;
+    background-color: #963634;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .BookingJobs h3 {
+        color: #f2dcdb;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .BookingJobs span {
+        color: #f2dcdb;
+        display: block;
+        margin: 52px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .BookingJobs img {
+        text-align: center;
+        float: right;
+        margin: 10px 10px 0px 85px;
+    }
+
+.ProfomaInvoice {
+    width: 14.3%;
+    min-height: 102px;
+    float: left;
+    background-color: #8a933c;
+    margin: 0px 0px 0px 0px;
+}
+
+    .ProfomaInvoice h3 {
+        color: #ebf1de;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .ProfomaInvoice span {
+        color: #ebf1de;
+        display: block;
+        margin: 52px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.ProfomaCNOps {
+    width: 14.3%;
+    min-height: 102px;
+    float: left;
+    background-color: #60497a;
+    margin: 0px 0px 0px 0px;
+}
+
+    .ProfomaCNOps h3 {
+        color: #e4dfec;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .ProfomaCNOps label.Approved {
+        color: #ffffff;
+        width: 65px;
+        float: left;
+        display: block;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 10px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .ProfomaCNOps span {
+        color: #e4dfec;
+        display: block;
+        margin: 52px 5px 0px 15px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: 'Segoe UI';
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+        .ProfomaCNOps span.AppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 22px 0px 0px 15px;
+            text-align: left;
+            width: 35px;
+            float: left;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .ProfomaCNOps span.UnAppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 22px 33px 0px 0px;
+            text-align: right;
+            width: 35px;
+            float: right;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+    .ProfomaCNOps label.Unapproved {
+        color: #ffffff;
+        display: block;
+        width: 85px;
+        float: right;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 5px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+.ProfomaOSDNCN {
+    width: 14.3%;
+    min-height: 102px;
+    float: left;
+    background-color: #974706;
+    margin: 0px 0px 0px 0px;
+}
+
+    .ProfomaOSDNCN h3 {
+        color: #fde9d9;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+        .ProfomaOSDNCN h3 label {
+            color: #ffffff;
+            display: block;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+    .ProfomaOSDNCN span {
+        color: #fde9d9;
+        display: block;
+        margin: 52px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.BLRelease {
+    width: 14.3%;
+    min-height: 102px;
+    float: left;
+    background-color: #215967;
+    margin: 0px 0px 0px 0px;
+}
+
+    .BLRelease h3 {
+        color: #daeef3;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .BLRelease span {
+        color: #daeef3;
+        display: block;
+        margin: 52px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.UnclosedJobs {
+    width: 14.2%;
+    min-height: 102px;
+    float: left;
+    background-color: #7b8d8e;
+    margin: 0px 0px 0px 0px;
+}
+
+    .UnclosedJobs h3 {
+        color: #ecf7f8;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .UnclosedJobs span {
+        color: #ecf7f8;
+        display: block;
+        margin: 52px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.PerformBox {
+    width: 14.3%;
+    min-height: 91px;
+    background-color: #16365c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .PerformBox h3 {
+        color: #c5d9f1;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .PerformBox img {
+        text-align: center;
+        margin: 0px 10px 0px 85px;
+        float: right;
+    }
+
+    .PerformBox span {
+        color: #c5d9f1;
+        display: block;
+        margin: 8px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OutStandingBox {
+    width: 14.3% !important;
+    min-height: 114px;
+    background-color: #963634;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .OutStandingBox h3 {
+        color: #f2dcdb;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OutStandingBox span {
+        color: #f2dcdb;
+        display: block;
+        margin: 8px 10px 0px 0px;
+        float: right;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .OutStandingBox img {
+        text-align: center;
+        float: right;
+        margin: 0px 10px 0px 85px;
+    }
+
+.BookingBox {
+    width: 14.3% !important;
+    min-height: 114px;
+    float: left;
+    background-color: #8a933c;
+    margin: 0px 0px 0px 0px;
+}
+
+    .BookingBox h3 {
+        color: #ebf1de;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .BookingBox span {
+        color: #ebf1de;
+        display: block;
+        margin: 76px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 4px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.QuotationBox {
+    width: 14.3% !important;
+    min-height: 103px;
+    float: left;
+    background-color: #60497a;
+    margin: 0px 0px 0px 0px;
+}
+
+    .QuotationBox h3 {
+        color: #e4dfec;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .QuotationBox label.Approved {
+        color: #ffffff;
+        width: 65px;
+        float: left;
+        display: block;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 10px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .QuotationBox span.AppCount {
+        color: #e4dfec;
+        display: block;
+        margin: 7px 0px 0px 15px;
+        text-align: left;
+        width: 35px;
+        float: left;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .QuotationBox span.UnAppCount {
+        color: #e4dfec;
+        display: block;
+        margin: 7px 33px 0px 0px;
+        text-align: right;
+        width: 35px;
+        float: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .QuotationBox label.Unapproved {
+        color: #ffffff;
+        display: block;
+        width: 85px;
+        float: right;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 5px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+a.AppLink {
+    cursor: pointer;
+}
+
+a.UnAppLink {
+    cursor: pointer;
+    display: none;
+}
+
+.QuotationBox1 {
+    width: 14.3% !important;
+    min-height: 114px;
+    float: left;
+    background-color: #974706;
+    margin: 0px 0px 0px 0px;
+}
+
+    .QuotationBox1 h3 {
+        color: #fde9d9;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+        .QuotationBox1 h3 label {
+            color: #ffffff;
+            display: block;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+    .QuotationBox1 span {
+        color: #fde9d9;
+        display: block;
+        margin: 75px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CreditRequest {
+    width: 14.3% !important;
+    min-height: 114px;
+    float: left;
+    background-color: #215967;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CreditRequest h3 {
+        color: #daeef3;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CreditRequest span {
+        color: #daeef3;
+        display: block;
+        margin: 75px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CreditExemptions {
+    width: 14.2% !important;
+    min-height: 114px;
+    float: left;
+    background-color: #7b8d8e;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CreditExemptions h3 {
+        color: #ecf7f8;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CreditExemptions span {
+        color: #ecf7f8;
+        display: block;
+        margin: 75px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.Clear {
+    clear: both;
+}
+
+.CustomerLeft {
+    width: 281px;
+    float: left;
+    margin: 22px 20px 0px 15px;
+}
+
+.CustomerTbl {
+    width: 281px;
+    float: left;
+    border: 1px solid #055997;
+    border-collapse: collapse;
+}
+
+    .CustomerTbl th {
+        background-color: #003a65;
+        padding: 5px;
+        font-family: "Segoe UI";
+        font-size: 11px;
+        color: #ffffff;
+        border-right: 1px solid #edf8ff;
+    }
+
+        .CustomerTbl th:last-child {
+            border-right: 0px solid #edf8ff;
+        }
+
+    .CustomerTbl td {
+        padding: 5px;
+        border-right: 1px solid #055997;
+        font-size: 11px;
+        color: #2c2c2b;
+        font-family: sans-serif, Geneva, sans-serif;
+        padding: 2px 2px 2px 2px;
+        border-bottom: 1px solid #055997;
+    }
+
+    .CustomerTbl tr.CustomerAlt1 {
+        background-color: #cee9fd;
+    }
+
+    .CustomerTbl tr.CustomerAlt2 {
+        background-color: #eef8fe;
+    }
+
+.CustomerRight {
+    width: 1032px;
+    float: left;
+    margin: 22px 0px 0px 0px;
+}
+
+.CustomerTblRight {
+    width: 100%;
+    float: left;
+    border: 1px solid #055997;
+    border-collapse: collapse;
+}
+
+    .CustomerTblRight th {
+        background-color: #003a65;
+        padding: 5px;
+        font-family: "Segoe UI";
+        font-size: 11px;
+        color: #ffffff;
+        border-right: 1px solid #edf8ff;
+    }
+
+        .CustomerTblRight th:last-child {
+            border-right: 0px solid #edf8ff;
+        }
+
+    .CustomerTblRight td {
+        padding: 5px;
+        border-right: 1px solid #055997;
+        color: #2c2c2b;
+        font-size: 11px;
+        font-family: sans-serif, Geneva, sans-serif;
+        padding: 2px 2px 2px 2px;
+        border-bottom: 1px solid #055997;
+    }
+
+    .CustomerTblRight tr.CustomerAlt1 {
+        background-color: #cee9fd;
+    }
+
+    .CustomerTblRight tr.CustomerAlt2 {
+        background-color: #eef8fe;
+    }
+
+.TxtAlignR {
+    text-align: right;
+}
+
+.CustomerRight1 {
+    width: 516px;
+    float: left;
+    margin: 22px 5px 0px 0px;
+}
+
+.CustomerRight2 {
+    width: 511px;
+    float: left;
+    margin: 22px 0px 0px 0px;
+}
+
+.Fromtobox {
+    float: right;
+    margin: 5px -5px 0px 0px;
+}
+
+.formbox {
+    border: 1px solid #b1b1b1;
+    padding: 5px;
+    width: 80px;
+    float: left;
+    height: 12px;
+    font-size: 11px;
+    font-family: sans-serif, Geneva, sans-serif;
+    margin: 0px 5px 0px 0px;
+}
+
+.formbox1 {
+    border: 1px solid #b1b1b1;
+    padding: 5px;
+    width: 80px;
+    float: left;
+    height: 12px;
+    font-size: 11px;
+    font-family: sans-serif, Geneva, sans-serif;
+    margin: 0px 5px 0px 0px;
+}
+
+#Wrapper {
+    width: 100%;
+}
+
+.Exportbtn {
+    background: #13a05b url(../img/export_ic.png) no-repeat 3px 6px;
+    border: 0px solid #fff;
+    padding: 4px 4px 4px 20px;
+    color: #ffffff;
+    font-size: 11px;
+    font-family: "Segoe UI";
+    cursor: pointer;
+}
+
+.Viewbtn {
+    background-color: #18a2f3;
+    border: 0px solid #fff;
+    padding: 5px 5px 5px 5px;
+    color: #ffffff;
+    font-size: 11px;
+    font-family: "Segoe UI";
+    cursor: pointer;
+}
+
+.Btnfloat {
+    float: right;
+    margin: 5px 5px 5px 0px;
+}
+
+.OEBookingBox1 {
+    width: 158px;
+    min-height: 121px;
+    background-color: #c5d9f1;
+    margin: 0px 8px 0px 0px;
+    float: left;
+}
+
+    .OEBookingBox1 h3 {
+        color: #16365c;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OEBookingBox1 span {
+        color: #16365c;
+        display: block;
+        margin: 43px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OEBookingBox2 {
+    width: 158px;
+    min-height: 121px;
+    background-color: #f2dcdb;
+    margin: 0px 8px 0px 0px;
+    float: left;
+}
+
+    .OEBookingBox2 h3 {
+        color: #963634;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OEBookingBox2 span {
+        color: #963634;
+        display: block;
+        margin: 43px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OEBookingBox3 {
+    width: 158px;
+    min-height: 121px;
+    background-color: #ebf1de;
+    margin: 0px 8px 0px 0px;
+    float: left;
+}
+
+    .OEBookingBox3 h3 {
+        color: #8a933c;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OEBookingBox3 span {
+        color: #8a933c;
+        display: block;
+        margin: 43px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OEBookingBox4 {
+    width: 158px;
+    min-height: 121px;
+    background-color: #e4dfec;
+    margin: 0px 8px 0px 0px;
+    float: left;
+}
+
+    .OEBookingBox4 h3 {
+        color: #321c56;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OEBookingBox4 span {
+        color: #321c56;
+        display: block;
+        margin: 43px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OEBookingBox5 {
+    width: 158px;
+    min-height: 121px;
+    background-color: #fde9d9;
+    margin: 0px 8px 0px 0px;
+    float: left;
+}
+
+    .OEBookingBox5 h3 {
+        color: #7d3903;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OEBookingBox5 span {
+        color: #7d3903;
+        display: block;
+        margin: 43px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OEBookingBox6 {
+    width: 158px;
+    min-height: 121px;
+    background-color: #daeef3;
+    margin: 0px 8px 0px 0px;
+    float: left;
+}
+
+    .OEBookingBox6 h3 {
+        color: #134957;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OEBookingBox6 span {
+        color: #134957;
+        display: block;
+        margin: 43px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OEBookingBox7 {
+    width: 158px;
+    min-height: 121px;
+    background-color: #d9d9d9;
+    margin: 0px 8px 0px 0px;
+    float: left;
+}
+
+    .OEBookingBox7 h3 {
+        color: #322f2f;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OEBookingBox7 span {
+        color: #322f2f;
+        display: block;
+        margin: 43px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OEBookingBox8 {
+    width: 158px;
+    min-height: 121px;
+    background-color: #cee9fd;
+    margin: 0px 8px 0px 0px;
+    float: left;
+}
+
+    .OEBookingBox8 h3 {
+        color: #0b395c;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .OEBookingBox8 span {
+        color: #0b395c;
+        display: block;
+        margin: 43px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OEBookingTbl {
+    width: 100%;
+    float: left;
+    border: 1px solid #055997;
+    border-collapse: collapse;
+}
+
+    .OEBookingTbl th {
+        background-color: #003a65;
+        padding: 5px;
+        font-family: "Segoe UI";
+        font-size: 11px;
+        color: #ffffff;
+        border-right: 1px solid #edf8ff;
+    }
+
+        .OEBookingTbl th:last-child {
+            border-right: 0px solid #edf8ff;
+        }
+
+    .OEBookingTbl td {
+        padding: 5px;
+        border-right: 1px solid #055997;
+        color: #2c2c2b;
+        font-size: 11px;
+        font-family: sans-serif, Geneva, sans-serif;
+        padding: 2px 2px 2px 2px;
+        border-bottom: 1px solid #055997;
+    }
+
+    .OEBookingTbl tr.OEBookingAlt1 {
+        background-color: #cee9fd;
+    }
+
+    .OEBookingTbl tr.OEBookingAlt2 {
+        background-color: #eef8fe;
+    }
+
+.OEBookingGrid {
+    width: 1320px;
+    float: left;
+    margin: 15px 15px 0px 15px;
+}
+
+.canvasjs-chart-credit {
+    display: none;
+}
+
+.BandMiddle {
+    background-color: #98AFC7;
+    float: left;
+    min-height: 25px;
+    padding: 2px 2px 2px 5px;
+    margin: 0px 0px 0px 0px;
+    width: 1366px;
+}
+
+.BreadLabel {
+    width: 15%;
+    float: left;
+    margin: 0px 0.5% 0px 40px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    color: var(--labelblue) !important;
+    display:none;
+}
+
+/* Customer Support CSS Styles Start */
+
+.CusQuotation {
+    width: 14.3%;
+    min-height: 96px;
+    background-color: #16365c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .CusQuotation h3 {
+        color: #c5d9f1;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CusQuotation span {
+        color: #c5d9f1;
+        display: block;
+        float: right;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .CusQuotation label {
+        color: #c5d9f1;
+        display: block;
+        float: left;
+        margin: 0px 10px 0px 10px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+        .CusQuotation label.Unapproved {
+            color: #ffffff;
+            display: block;
+            width: 85px;
+            float: right;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px 0px 0px 5px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .CusQuotation label.Approved {
+            color: #ffffff;
+            width: 65px;
+            float: left;
+            display: block;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px 0px 0px 10px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+    .CusQuotation span.AppCount {
+        color: #e4dfec;
+        display: block;
+        margin: 2px 0px 0px 15px;
+        text-align: left;
+        width: 35px;
+        float: left;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .CusQuotation span.UnAppCount {
+        color: #e4dfec;
+        display: block;
+        margin: 2px 33px 0px 0px;
+        text-align: right;
+        width: 35px;
+        float: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.BLjobs {
+    float: left;
+    width: 30px;
+    margin: 5px 0px 0px 10px;
+    font-size: 11px;
+    color: #c5d9f1;
+}
+
+.BL1 {
+    float: right;
+    width: 28px;
+    font-size: 11px;
+    margin: 5px 0px 0px 0px;
+    color: #c5d9f1;
+}
+
+.CusBooking {
+    width: 14.3%;
+    min-height: 91px;
+    background-color: #963634;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .CusBooking h3 {
+        color: #f2dcdb;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CusBooking span {
+        color: #f2dcdb;
+        display: block;
+        margin: 23px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CusStuffing {
+    width: 14.3%;
+    min-height: 91px;
+    float: left;
+    background-color: #8a933c;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CusStuffing h3 {
+        color: #ebf1de;
+        padding: 0px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CusStuffing span {
+        color: #ebf1de;
+        display: block;
+        margin: 23px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CusSailing {
+    width: 14.3%;
+    min-height: 91px;
+    float: left;
+    background-color: #60497a;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CusSailing h3 {
+        color: #e4dfec;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CusSailing label.Approved {
+        color: #ffffff;
+        width: 65px;
+        float: left;
+        display: block;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 10px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CusSailing span {
+        color: #e4dfec;
+        display: block;
+        margin: 23px 5px 0px 15px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: 'Segoe UI';
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+        .CusSailing span.AppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 22px 0px 0px 15px;
+            text-align: left;
+            width: 35px;
+            float: left;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .CusSailing span.UnAppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 22px 33px 0px 0px;
+            text-align: right;
+            width: 35px;
+            float: right;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+    .CusSailing label.Unapproved {
+        color: #ffffff;
+        display: block;
+        width: 85px;
+        float: right;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 5px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+.CusTranship {
+    width: 14.3%;
+    min-height: 114px;
+    float: left;
+    background-color: #974706;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CusTranship h3 {
+        color: #fde9d9;
+        padding: 0px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+        .CusTranship h3 label {
+            color: #ffffff;
+            display: block;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+    .CusTranship span {
+        color: #fde9d9;
+        display: block;
+        margin: 23px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CusDoconfirmationR {
+    width: 14.3%;
+    min-height: 97px;
+    float: left;
+    background-color: #215967;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CusDoconfirmationR h3 {
+        color: #daeef3;
+        padding: 0px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CusDoconfirmationR span {
+        color: #daeef3;
+        display: block;
+        margin: 23px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CusDOconri {
+    width: 14.2%;
+    min-height: 97px;
+    float: left;
+    background-color: #7b8d8e;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CusDOconri h3 {
+        color: #ecf7f8;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CusDOconri span {
+        color: #ecf7f8;
+        display: block;
+        margin: 23px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CustomerQuot {
+    width: 14.3%;
+    min-height: 123px;
+    background-color: #16365c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .CustomerQuot h3 {
+        color: #c5d9f1;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CustomerQuot span {
+        color: #c5d9f1;
+        display: block;
+        float: right;
+        margin: 0px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .CustomerQuot label {
+        color: #c5d9f1;
+        display: block;
+        float: left;
+        margin: 0px 10px 0px 10px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+        .CustomerQuot label.Unapproved {
+            color: #ffffff;
+            display: block;
+            width: 85px;
+            float: right;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px 0px 0px 5px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .CustomerQuot label.Approved {
+            color: #ffffff;
+            width: 65px;
+            float: left;
+            display: block;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px 0px 0px 10px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+    .CustomerQuot span.AppCount {
+        color: #e4dfec;
+        display: block;
+        margin: 12px 0px 0px 15px;
+        text-align: left;
+        width: 35px;
+        float: left;
+        padding: 0px 0px 4px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .CustomerQuot span.UnAppCount {
+        color: #e4dfec;
+        display: block;
+        margin: 12px 33px 0px 0px;
+        text-align: right;
+        width: 35px;
+        float: right;
+        padding: 0px 0px 4px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.BLjobs {
+    float: left;
+    width: 30px;
+    margin: 5px 0px 0px 10px;
+    font-size: 11px;
+    color: #c5d9f1;
+}
+
+.BL1 {
+    float: right;
+    width: 28px;
+    font-size: 11px;
+    margin: 5px 0px 0px 0px;
+    color: #c5d9f1;
+}
+
+.CustomerBook {
+    width: 14.3%;
+    min-height: 97px;
+    background-color: #963634;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .CustomerBook h3 {
+        color: #f2dcdb;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CustomerBook span {
+        color: #f2dcdb;
+        display: block;
+        margin: 33px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 4px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CustomerPreAlert {
+    width: 14.3%;
+    min-height: 97px;
+    float: left;
+    background-color: #8a933c;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CustomerPreAlert h3 {
+        color: #ebf1de;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CustomerPreAlert span {
+        color: #ebf1de;
+        display: block;
+        margin: 33px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 4px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CustomerCAN {
+    width: 14.3%;
+    min-height: 97px;
+    float: left;
+    background-color: #60497a;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CustomerCAN h3 {
+        color: #e4dfec;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CustomerCAN label.Approved {
+        color: #ffffff;
+        width: 65px;
+        float: left;
+        display: block;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 10px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CustomerCAN span {
+        color: #e4dfec;
+        display: block;
+        margin: 33px 5px 0px 15px;
+        text-align: right;
+        padding: 0px 0px 4px 0px;
+        font-family: 'Segoe UI';
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+        .CustomerCAN span.AppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 22px 0px 0px 15px;
+            text-align: left;
+            width: 35px;
+            float: left;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .CustomerCAN span.UnAppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 22px 33px 0px 0px;
+            text-align: right;
+            width: 35px;
+            float: right;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+    .CustomerCAN label.Unapproved {
+        color: #ffffff;
+        display: block;
+        width: 85px;
+        float: right;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 5px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+.CustomerReminder {
+    width: 15.3%;
+    min-height: 97px;
+    float: left;
+    background-color: #974706;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CustomerReminder h3 {
+        color: #fde9d9;
+        float: left;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+        .CustomerReminder h3 label {
+            color: #ffffff;
+            display: block;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+    .CustomerReminder span {
+        color: #fde9d9;
+        display: block;
+        float: left;
+        margin: 5px 0px 0px 13px;
+        text-align: left;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+        width: 70px;
+    }
+
+        .CustomerReminder span.Final {
+            color: #fde9d9;
+            display: block;
+            float: right;
+            margin: -39px 10px 0px 23px;
+            text-align: right;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+    .CustomerReminder a {
+        /*display: inline-block;
+            float: left;
+            width: 108px;
+            margin: 1px 0px 5px 0px;*/
+    }
+
+        .CustomerReminder a.FinNotice {
+            display: inline-block;
+            float: left;
+            width: 83px;
+            margin: 1px 0px 5px 0px;
+        }
+
+.CustomerPending {
+    width: 14.3%;
+    min-height: 97px;
+    float: left;
+    background-color: #215967;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CustomerPending h3 {
+        color: #daeef3;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CustomerPending span {
+        color: #daeef3;
+        display: block;
+        margin: 33px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 4px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.CustomerCargo {
+    width: 13.2%;
+    min-height: 123px;
+    float: left;
+    background-color: #7b8d8e;
+    margin: 0px 0px 0px 0px;
+}
+
+    .CustomerCargo h3 {
+        color: #ecf7f8;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .CustomerCargo span {
+        color: #ecf7f8;
+        display: block;
+        margin: 84px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 4px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.TDS {
+    width: 14.3%;
+    min-height: 113px;
+    background-color: #16365c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .TDS h3 {
+        color: #c5d9f1;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .TDS img {
+        text-align: center;
+        margin: 10px 10px 0px 85px;
+        float: right;
+    }
+
+    .TDS span {
+        color: #c5d9f1;
+        display: block;
+        float: right;
+        margin: 27px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 1px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .TDS label {
+        color: #c5d9f1;
+        display: block;
+        float: left;
+        margin: 0px 10px 0px 10px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.BLjobs {
+    float: left;
+    width: 30px;
+    margin: 5px 0px 0px 10px;
+    font-size: 11px;
+    color: #c5d9f1;
+}
+
+.BL1 {
+    float: right;
+    width: 28px;
+    font-size: 11px;
+    margin: 5px 0px 0px 0px;
+    color: #c5d9f1;
+}
+
+.Deposits {
+    width: 14.3%;
+    min-height: 113px;
+    background-color: #963634;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+    .Deposits h3 {
+        color: #f2dcdb;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .Deposits span {
+        color: #f2dcdb;
+        display: block;
+        margin: 12px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 0px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .Deposits img {
+        text-align: center;
+        float: right;
+        margin: 5px 10px 0px 85px;
+    }
+
+.ChequeRequest {
+    width: 14.3%;
+    min-height: 91px;
+    float: left;
+    background-color: #8a933c;
+    margin: 0px 0px 0px 0px;
+}
+
+    .ChequeRequest h3 {
+        color: #ebf1de;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .ChequeRequest span {
+        color: #ebf1de;
+        display: block;
+        margin: 22px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 15px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.Collection {
+    width: 14.3%;
+    min-height: 113px;
+    float: left;
+    background-color: #60497a;
+    margin: 0px 0px 0px 0px;
+}
+
+    .Collection h3 {
+        color: #e4dfec;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .Collection label.Approved {
+        color: #ffffff;
+        width: 65px;
+        float: left;
+        display: block;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 10px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .Collection span {
+        color: #e4dfec;
+        display: block;
+        margin: 15px 5px 0px 15px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: 'Segoe UI';
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+        .Collection span.AppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 5px 0px 0px 15px;
+            text-align: left;
+            width: 35px;
+            float: left;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .Collection span.UnAppCount {
+            color: #e4dfec;
+            display: block;
+            margin: 5px 33px 0px 0px;
+            text-align: right;
+            width: 35px;
+            float: right;
+            padding: 0px 0px 5px 0px;
+            font-family: "Segoe UI";
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+    .Collection label.Unapproved {
+        color: #ffffff;
+        display: block;
+        width: 85px;
+        float: right;
+        padding: 1px 0px 0px 0px;
+        text-align: left;
+        margin: 0px 0px 0px 5px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .Collection img {
+        float: right;
+        margin: 2px 5px 0px 0px;
+    }
+
+.Other {
+    width: 14.3%;
+    min-height: 113px;
+    float: left;
+    background-color: #974706;
+    margin: 0px 0px 0px 0px;
+}
+
+    .Other h3 {
+        color: #fde9d9;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+        .Other h3 label {
+            color: #ffffff;
+            display: block;
+            padding: 1px 0px 0px 0px;
+            text-align: left;
+            margin: 0px;
+            font-family: "Segoe UI";
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+    .Other span {
+        color: #fde9d9;
+        display: block;
+        margin: 21px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.Admin {
+    width: 14.3%;
+    min-height: 113px;
+    float: left;
+    background-color: #215967;
+    margin: 0px 0px 0px 0px;
+}
+
+    .Admin h3 {
+        color: #daeef3;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .Admin span {
+        color: #daeef3;
+        display: block;
+        margin: 20px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.UnclosedJobs1 {
+    width: 14.2%;
+}
+
+    .UnclosedJobs1 h3 {
+        color: #ecf7f8;
+        padding: 10px 0px 0px 9px;
+        margin: 0px;
+        font-family: "Segoe UI";
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .UnclosedJobs1 span {
+        color: #ecf7f8;
+        display: block;
+        margin: 25px 10px 0px 0px;
+        text-align: right;
+        padding: 0px 0px 5px 0px;
+        font-family: "Segoe UI";
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.OPAccts {
+    float: left;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+}
+
+.OPAccts1 {
+    width: 14.3%;
+    min-height: 50px;
+    background-color: #16365c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.OPAccts h3 {
+    font-weight: bold;
+    font-size: 11px;
+    font-family: sans-serif;
+    padding: 2px 5px 10px 10px;
+    color: #16365c;
+    width: 350px;
+    margin: -32px 0px 0px 0px;
+}
+
+.OPAccts a label {
+    font-weight: normal;
+    font-size: 11px;
+    font-family: 'Segoe UI';
+    padding: 9px 5px 10px 10px;
+    color: #fff;
+}
+
+.OPAccts2 {
+    width: 14.3%;
+    min-height: 50px;
+    background-color: #963634;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.OPAccts3 {
+    width: 14.3%;
+    min-height: 50px;
+    background-color: #8a933c;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.OPAccts4 {
+    width: 14.3%;
+    min-height: 50px;
+    background-color: #60497a;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.OPAccts5 {
+    width: 14.3%;
+    min-height: 85px;
+    background-color: #974706;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.OPAccts6 {
+    width: 14.3%;
+    min-height: 85px;
+    background-color: #215967;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.OPAccts7 {
+    width: 14.2%;
+    min-height: 85px;
+    background-color: #7b8d8e;
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+
+.OPAccts1 span {
+    color: #c5d9f1;
+    display: block;
+    float: right;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 15px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OPAccts2 span {
+    color: #f2dcdb;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 15px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OPAccts3 span {
+    color: #ebf1de;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 15px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OPAccts4 span {
+    color: #e4dfec;
+    display: block;
+    margin: 0px 5px 0px 15px;
+    text-align: right;
+    padding: 0px 0px 15px 0px;
+    font-family: 'Segoe UI';
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OPAccts5 span {
+    color: #fde9d9;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 5px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OPAccts6 span {
+    color: #daeef3;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 5px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.OPAccts7 span {
+    color: #ecf7f8;
+    display: block;
+    margin: 0px 10px 0px 0px;
+    text-align: right;
+    padding: 0px 0px 5px 0px;
+    font-family: "Segoe UI";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Operating Accounts Styles End */
+
+/*MIS AND Analytics Added ICON Images*/
+.AirExports {
+    float: left;
+    width: 42px;
+    margin: -4px 0px 0px 22px;
+}
+
+.AirImports {
+    float: left;
+    width: 42px;
+    margin: -4px 0px 0px 22px;
+}
+
+.BondedTrucking {
+    float: left;
+    width: 42px;
+    margin: -4px 0px 0px 22px;
+}
+
+.CustomsBroking {
+    float: left;
+    width: 42px;
+    margin: -4px 0px 0px 22px;
+}
+
+.OceanExports {
+    float: left;
+    width: 42px;
+    margin: -4px 0px 0px 22px;
+}
+
+.OceanImports {
+    float: left;
+    width: 42px;
+    margin: 5px 0px 0px 10px;
+}
+
+    .OceanImports img {
+        vertical-align: middle;
+        margin: 0px 0px 0px 0px !important;
+    }
+
+.OceanImports1 {
+    float: left;
+    width: 30px;
+    margin: 5px 0px 0px 10px;
+}
+
+    .OceanImports1 img {
+        vertical-align: middle;
+        margin: 0px 0px 0px 0px !important;
+    }
+
+.OceanTxt {
+    width: 125px;
+    float: left;
+    margin: 5px 0px 0px 0px;
+}
+
+.TotalIcon {
+    float: left;
+    width: 42px;
+    margin: -4px 0px 0px 22px;
+}
+/*MIS AND Analytics Added ICON Images*/
+
+.AirRupees {
+    float: right;
+    margin: 9px 12px 0px 0px;
+}
+
+.floatleftcon {
+    float: left;
+    width: 85%;
+}

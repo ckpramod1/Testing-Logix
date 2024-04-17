@@ -1,0 +1,76 @@
+﻿
+.div_total
+{    
+    width:600px;
+  
+       background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+  
+}
+.div_lblheader
+{
+    background-color: #0061AE;
+    width: 46.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+    height: 14px;
+}
+.div_lbl_cate
+{
+    width: 8%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_des
+{
+    width: 8%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Category
+{
+    width: 48%;
+  
+    float: left;
+    margin-left:1%;
+    margin-top: 1%;
+}
+.div_txt_Category INPUT
+{
+    width: 100%;
+}
+
+.div_break
+{
+    clear: both;
+}
+
+.buy_btn
+{
+    width: 97%;
+    float: left;
+    margin-top: 2%;
+    text-align: right;
+    margin-bottom:1%;
+}
+
+
+.div_txt_desc
+{
+    width: 48%;
+   
+    float: left;
+    margin-left:0.5%;
+    margin-top: 1%;
+}
+.div_txt_desc INPUT
+{
+    width: 100%;
+}

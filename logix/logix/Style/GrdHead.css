@@ -1,0 +1,155 @@
+﻿.div_GrdInvoice
+{
+    width: 121px;
+    float: left;
+    border: 1px solid Gray;
+}
+
+.div_GrdBranch
+{
+    width: 101px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdBL
+{
+    width: 121px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdBLdate
+{
+    width: 100px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdFeeder
+{
+    width: 100px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdPOL_FE
+{
+    width: 121px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdPOD_FE
+{
+    width: 121px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdETD
+{
+    width: 73px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdETA
+{
+    width: 60px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdCargodate
+{
+    width: 92px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdReceiveddate
+{
+    width: 95px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdCustomdate
+{
+    width: 130px;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdBranchFI
+{
+    width: 13.8%;
+    float: left;
+    border: 1px solid Gray;
+}
+.div_GrdBLFI
+{
+    width: 13.2%;
+    float: left;
+    border: 1px solid;
+    border-color: Gray;
+    text-align: center;
+}
+.div_GrdBLdateFI
+{
+    width: 8.3%;
+    float: left;
+    border: 1px solid;
+    border-color: Gray;
+    text-align: center;
+}
+.div_GrdFeederFI
+{
+    width: 20.9%;
+    float: left;
+    border: 1px solid;
+    border-color: Gray;
+    text-align: center;
+}
+.div_GrdPOLFI
+{
+    width: 13%;
+    float: left;
+    border: 1px solid;
+    border-color: Gray;
+    text-align: center;
+}
+.div_GrdETAFI
+{
+    width: 7.5%;
+    float: left;
+    border: 1px solid;
+    border-color: Gray;
+    text-align: center;
+}
+
+.div_Column
+{
+    width: 99px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.div_ColumnBL
+{
+    width: 119px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+}
+.div_ColumnDate
+{
+    width: 90px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+}
+.div_ColumnEDate
+{
+    width: 70px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+}
+.div_ColumnETADate
+{
+    width: 61px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+}

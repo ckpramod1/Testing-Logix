@@ -1,0 +1,114 @@
+﻿.div_total 
+{
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+    clear:both;
+}
+.Label1cs {    
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    text-align: left;
+}
+.txtcurpercs {
+    width:32%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: left;
+}
+.txtcurpercs input{
+    width:100%;
+    text-align:right;
+}
+.txtcureducesscs {
+    width:32%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+    text-align: left;
+}
+.txtcureducesscs input{
+    width:100%;
+    text-align:right;
+}
+.txtcurhigheredupercs {
+    width:32%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+    text-align: left;
+}
+.txtcurhigheredupercs input{
+    width:100%;
+    text-align:right;
+}
+.Label2cs {
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    text-align: left;
+}
+.txtPercentcs {
+    width:32%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: left;
+}
+.txtPercentcs input{
+    width:100%;
+    text-align:right;
+}
+.txtEduPercs {
+     width:32%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+    text-align: left;
+}
+.txtEduPercs input{
+    width:100%;
+    text-align:right;
+}
+.txtHighEduPercs {
+    width:32%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+    text-align: left;
+}
+.txtHighEduPercs input{
+    width:100%;
+    text-align:right;
+}
+.div_Grid {
+    width: 97.7%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    margin-top: 5%;
+    height: 300px;
+    Border: 1px solid Black;
+    float: left;
+}
+.div_Button {
+    float: right;
+    margin-right: 0.9%;
+    margin-bottom:1%;
+}
+.GridHeader1 {
+    background-color: navy;
+    color: White;
+    font-family: sans-serif;
+    font-size: 11px;
+    margin-left: -0.15%;
+    margin-top: -1.7%;
+    position: absolute;
+    width: 588px;
+}

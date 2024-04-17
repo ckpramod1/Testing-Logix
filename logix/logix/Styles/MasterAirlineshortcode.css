@@ -1,0 +1,146 @@
+﻿.div_total
+{    
+    width:450px;
+    /*height:100%;*/
+    /*border:1px solid black;*/ 
+
+      background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 44.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+    height:14px;
+}
+.div_lbl_cust
+{
+    width: 7%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_break
+{
+    clear:both;
+}
+.div_txt_Customer
+{
+    margin-left :1%;
+    width: 97%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+}
+.div_txt_Customer INPUT
+{
+    width: 100%;
+}
+.div_lbl_add
+{
+    width: 7%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Address
+{
+       margin-left :1%;
+    width: 96%;
+    /*width: 37%;*/
+    height: 80%;
+    float: left;
+    margin-top: 1.5%;
+}
+.div_txt_Address INPUT
+{
+    width:100%;
+}
+.div_lbl_city
+{
+     width: 7%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_City
+{
+    margin-left :1%;
+    width: 48%;
+    height: 80%;
+    float: left;
+    margin-top: 1%;
+
+   
+}
+.div_txt_City INPUT
+{
+    width:100%;
+}
+.div_lbl_count
+{
+    width: 6%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Country
+{
+    margin-left :1%;
+    width: 48%;
+    height: 80%;
+    float: left;
+    margin-top: 1%;
+}
+.div_txt_Country INPUT
+{
+    width:100%;
+}
+.div_lbl_shortcode
+{
+      margin-left :1%;
+    width: 48%;
+     /*width: 7%;*/
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_SC
+{
+      margin-left :1%;
+    width: 48%;
+     /*width: 10%;*/
+    height: 80%;
+    float: left;
+    margin-top: 0.5%;
+}
+.div_txt_SC INPUT
+{
+    width:100%;
+}
+.buy_btn
+{
+       width: 98.5%;
+    float: left;
+  
+    text-align: right;
+    height: 20px;
+    margin-bottom :2%;
+}
+.buy_btn input, button
+{
+    width: 18%;
+    margin-left: 0.5%;
+}

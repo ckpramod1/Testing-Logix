@@ -1,0 +1,605 @@
+﻿.div_total
+{
+  width :800px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_lbl_header
+{
+    background-color: #0061AE;
+    color: White;
+    width: 83%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+
+.div_lbl_job
+{
+    /*width: 4%;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:1%;
+}
+.div_lbl_vvoy
+{
+    width: 13%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_pol
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_etd
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_pod
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_eta
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_booking
+{
+    
+    float: left;
+    margin-left: 30%;
+    margin-top: 0.5%;
+}
+.div_txt_job
+{
+    width:12%;
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_job input
+{
+    width: 100%;
+}
+
+.div_txt_vvoy
+{
+    width: 17%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_vvoy input
+{
+    width: 100%;
+}
+.div_txt_pol
+{
+    width: 17%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_pol input
+{
+    width: 100%;
+}
+.div_txt_etd
+{
+    width: 10%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_etd input
+{
+    width: 100%;
+}
+.div_txt_pod
+{
+    width: 15%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_pod input
+{
+    width: 100%;
+}
+.div_txt_eta
+{
+    width: 10%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_eta input
+{
+    width: 100%;
+}
+.div_txt_booking
+{
+    width: 25.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_booking input
+{
+    width: 100%;
+}
+.div_lbl_bl
+{
+    width: 6%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_bl
+{
+    width: 42%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_bl input
+{
+    width: 100%;
+}
+.div_lbl_stuffedon
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_stuffedon
+{
+    width: 10%;
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_stuffedon input
+{
+    width: 100%;
+}
+.div_lbl_mvessel
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_mvessel
+{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_mvessel input
+{
+    width: 100%;
+}
+
+.div_lbl_BLandbldate
+{
+    width: 16%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+
+.div_lbl_containers
+{
+    width: 16%;
+    float: left;
+    margin-left: 22%;
+    margin-top: 0.5%;
+}
+
+.div_lbl_sbdate
+{
+    width: 15%;
+    float: left;
+    margin-left: 11%;
+    margin-top: 0.5%;
+}
+.div_txt_bldate
+{
+   float: left;
+   margin-left: 0.9%;
+    margin-top: 1%;
+    height: 70px;
+    overflow: auto;
+    border: 1px solid grey;
+    width:316px;
+}
+.div_txt_body
+{
+    width: 98%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_sca
+{
+    width: 83%;
+}
+.div_lbl_shipper
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_shipper
+{
+    width: 97%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_shipper input
+{
+    width: 100%;
+}
+.div_lbl_consignee
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_consignee
+{
+    width: 97%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_consignee input
+{
+    width: 100%;
+}
+.div_lbl_agent
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_agent
+{
+    width: 97%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_agent input
+{
+    width: 100%;
+}
+
+.div_lbl_sca
+{
+    width: 50%;
+    float: left;
+    margin-top: 0.5%;
+}
+.div_chk_containers
+{
+   
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 1%;
+   border: 1px solid grey;
+    height: 70px;
+    overflow: auto;
+    width:230px;
+}
+.lst_cont 
+{
+width: 100%;
+/*margin-left: 2%;
+margin-top: 2%;*/
+height:100%;
+}
+.div_chk_containers input, checkbox
+{
+    display: inline-block;
+}
+.div_lst_sbdate
+{    
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    height: 70px;
+    overflow: auto;
+    border: 1px solid grey;
+    width:228px;
+}
+.div_lbl_status
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_status
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_status input, TextArea
+{
+    width: 100%;
+}
+.div_btn_save
+{
+    width: 5%;
+    float: left;
+    margin-left: 82%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_btn_back
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_lbl_cmailid
+{
+    width: 41%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_imailid
+{
+    width: 40.5%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 0.5%;
+}
+.div_txt_cmailid
+{
+    width: 44.9%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_cmailid input, TextArea
+{
+    width: 100%;
+}
+.div_btn_plus
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_btn_plus input, Button
+{
+    width: 100%;
+}
+.div_txt_imailid
+{
+    width: 47.7%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_imailid input, TextArea
+{
+    width: 100%;
+}
+.div_grd_cmail
+{
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    border:1px solid grey;
+}
+.div_grd_imail
+{
+    width: 47.8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    border:1px solid grey;
+}
+.div_lbl_subject
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+   
+}
+.div_txt_subject
+{
+    width: 98%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_subject input
+{
+    width: 100%;
+}
+
+.div_lbl_attachment
+{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    
+}
+.div_txt_attachment
+{
+    width: 72%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_attachment input
+{
+    width: 100%;
+}
+.div_lbl_Body
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+   
+}
+.div_txt_Body
+{
+    width: 21%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+.div_txt_Body input
+{
+    width: 100%;
+}
+
+.div_btn_dot
+{
+    width: 2%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_fu_attachment
+{
+    width: 99%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_btn_send
+{   
+    float:right;
+    margin-right: 0.6%;
+    margin-bottom:0.5%;
+    text-align: right;  
+}
+.div_btn_cancel
+{
+    width: 5%;
+    float: left;
+    margin-left: 90%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_job_popup
+{
+    float: left;
+    width: 100%;
+ height: 70%;   
+  background-color: White;
+}
+.div_Grid
+{
+    float: left;
+    width: 100%;
+    height: 95%;
+    overflow: auto;
+    margin-top: 1%;
+     font-family:sans-serif;
+     font-size:10pt;
+    /*overflow-y:scroll;*/
+}
+.div_close_qutation
+{
+    cursor: pointer;
+    float: right;
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.modalBackground_cancel
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.modalBackground_qutation
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.modalBackground_byngdetails
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.div_close
+{
+    /*width: 100%;
+    float: left;
+    text-align: right;
+    cursor: pointer;*/
+     width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:98%;
+            margin-top:-7%;
+            /*margin-top:-7.5%;*/
+            border-radius: 90px 90px 90px 90px;
+       
+
+}
+ 

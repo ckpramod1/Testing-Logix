@@ -1,0 +1,205 @@
+﻿.div_total
+{
+    width:750px;
+      background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 77.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+    height: 14px;
+}
+.div_lbl_pro
+{
+    width: 7%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_branch
+{
+    width: 9%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_new
+{
+    width: 7%;
+    height: 13px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_break
+{
+    clear: both;
+}
+.div_ddl_cmbDivision
+{
+    width: 62%;    
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddl_cmbDivision select
+{
+    width: 100%;
+    height: 18px;
+}
+.div_lbl_branch
+{
+    width: 7%;
+    height: 13px;
+    float: left;
+    margin-top: 1%;
+    margin-left:2%;
+    text-align: left;
+}
+.div_ddl_cmbbranch
+{
+    width: 35%;   
+    float: left;
+    margin-top: 0.5%;
+margin-left:1%;
+}
+.div_ddl_cmbbranch select
+{
+    width: 100%;
+}
+.div_ddl_cmbTrantype
+{
+    width: 35%;    
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddl_cmbTrantype select
+{
+    width: 100%;
+}
+.div_lbl_menu
+{
+    width: 4%;
+    height: 14px;
+    float: left; 
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_ddl_cmbmenu
+{
+    width: 26%;   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddl_cmbmenu select
+{
+    width: 100%;
+}
+.div_lbl_screen
+{
+    width: 7%;
+    height: 13px;
+    float: left;
+    margin-top: 1%;
+    margin-left:2%;
+    text-align: left;
+}
+.div_ddl_cmbscreen
+{
+    width: 35%;   
+    float: left;
+   margin-left:1%;
+    margin-top:0.5%;
+}
+.div_ddl_cmbscreen select
+{
+    width: 100%;
+}
+.div_lbl_name
+{
+    width: 7%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+ .div_txt_emp
+{
+    width: 61.8%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+}
+
+
+.div_Button
+{
+  /*border: 1px solid red;*/
+    float:right;
+    margin-right:1%;
+   margin-top: 0.5%;
+   }   
+.div_btn_button INPUT
+{
+    width: 100%;
+}
+.div_grd
+{
+margin-left:1%;
+    margin-top:1%;
+    margin-bottom:1%;
+    width:97.5%;
+    height:350px;
+    border:1px solid gray;
+}
+.div_grd input
+{
+    width: 98%;
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+.grid_1
+{
+    /*Width:"694px";*/
+    margin-left:0.9%;
+    border: 1px solid black;
+    margin-top:1%;
+ /*   background-color:Gray;    */
+}
+.Pnl1
+{
+    background-color:#E0E0E0;
+    border-color:#5D7B9D;
+    border-style:solid;
+    border-width:1px;
+    width:250px;
+    height:100px;
+    margin-right:1%;
+}
+.div_confirm
+{
+    /*Border:1px solid red;*/
+    width: 100%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 0%;
+}

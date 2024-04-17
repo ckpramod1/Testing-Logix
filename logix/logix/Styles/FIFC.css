@@ -1,0 +1,170 @@
+﻿.div_total
+{  
+    width :500px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_lbl_hdr
+{
+    background-color: #0061AE;
+    color: White;
+    width: 80%;    
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbl_blno
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%; 
+ 
+}
+.div_txt_blno
+{
+	width:50%; 
+    float: left; 
+    margin-top:1%;
+    margin-left:1%;
+}
+.div_txt_blno input 
+{
+	width:100%;
+}
+.div_lbl_date
+{
+    width:4%; 
+    float: left;  
+    margin-top:0.5%;
+    margin-left:1%;
+ 
+}
+.div_txt_date
+{
+	width:46.5%; 
+    float: left; 
+    margin-top:1%;
+    margin-left:1%;
+}
+.div_txt_date input
+{
+	width:100%;
+}
+.div_lbl_vessel
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%; 
+ 
+}
+.div_txt_vessel
+{
+	width:50%; 
+    float: left; 
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.div_txt_vessel input 
+{
+	width:100%;
+}
+.div_lbl_pol
+{
+    width:4%; 
+    float: left;  
+    margin-top:0.5%;
+    margin-left:1%;
+ 
+}
+.div_txt_pol
+{
+	width:46.5%; 
+    float: left; 
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.div_txt_pol input
+{
+	width:100%;
+}
+.div_btn_frghtcertfcte
+{
+	 width:13.5%;
+	 float:left;
+	 margin-left:59%;
+	 text-align:right;
+	  margin-top:0.5%;
+}
+.div_btn_frghtcertfcte button
+{
+	width:100%;
+}
+.div_btn_cancel
+{
+	 width:6%;
+	 float:left;
+	 margin-left:1%;
+	 text-align:right;
+	  margin-top:0.5%;
+}
+.div_btn_cancel button
+{
+	width:100%;
+}
+.div_lbl_shipper
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;  
+}
+.div_txt_shipper
+{
+	width:97.5%; 
+    float: left; 
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.div_txt_shipper input 
+{
+	width:100%;
+}
+.div_lbl_consignee
+{
+    width:10%; 
+    float: left;  
+    margin-top:0.5%;  
+}
+.div_txt_consignee
+{
+	width:97.5%; 
+    float: left; 
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.div_txt_consignee input 
+{
+	width:100%;
+}
+.div_grd_fifc
+{
+	width:97.7%; 
+	height:100px;
+	margin-left: 0.9%;
+	margin-bottom: 1%;	
+	float:left;
+    border:1px solid;
+}
+.div_btn
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right:1.1%;  
+    text-align: right;
+    margin-bottom:1%;
+    /*padding-left:10%;*/
+}

@@ -1,0 +1,94 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/* Change the white to any color */ input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+body {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    overflow-x: hidden;
+}
+
+
+
+/*.LoginUserName {
+       width: 16.5%;
+    padding: 0px;
+    position: absolute;
+    left: 57.7%;
+    top: 40%;
+}*/
+
+/*adjusted background image in loginpage-29May2023 Praveen */
+.LoginUserName {
+    width: 16.5%;
+    padding: 0px;
+    position: absolute;
+    left: 60.7%;
+    top: 40%;
+}
+
+
+    .LoginUserName .txtboxuser {
+        width: 202px;
+        height: 29px;
+        background-color: #ffffff !important;
+        border: 1px solid #083378;
+        font-family: "Segoe UI";
+        font-size: 12px;
+        color: #044d8a;
+        padding: 9px 9px 9px 7px;
+        margin: 0px 0px 15px 45px;
+    }
+
+    .LoginUserName .txtboxpass {
+        width: 202px;
+        height: 29px;
+        background-color: #ffffff !important;
+        border: 1px solid #083378;
+        font-family: "Segoe UI";
+        font-size: 12px;
+        color: #044d8a;
+        padding: 9px 9px 9px 7px;
+        margin: 0px 0px 15px 45px;
+    }
+
+    .LoginUserName .Login {
+        cursor: pointer;
+        background-color: #4f81bd;
+        float: right;
+        color: #eaf2fc;
+        font-size: 12px;
+        border: 1px solid #8eb4e3;
+        margin: 0px 13px 0px 0px;
+        padding: 8px;
+    }
+
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    /*.LoginContainerBG {
+        position: relative;
+        background: url(../img/loginbackground/LoginPage.png);
+        width: 100% !important;
+        background-size: contain;
+        height: 100vh;
+        background-position: center;
+       top: 0;
+    }*/
+
+    /*adjusted background image in loginpage-29May2023 Praveen*/
+
+    .LoginContainerBG {
+    position: relative;
+    background: url(../img/loginbackground/LoginPage.png);
+    width: 960px !important;
+    height: 600px;
+    background-position: center;
+    background-size: contain;
+}
+}

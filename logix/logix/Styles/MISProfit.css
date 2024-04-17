@@ -1,0 +1,175 @@
+﻿.div_total
+{
+    width :900px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color : White ;
+    width: 100%;    
+    font-size:10pt;
+}
+.div_frm
+{
+    width: 4%;
+    /*height: 10%;*/
+    float: left;
+    margin-left:1%;
+    margin-top: 2.5%;
+}
+.div_fromcal
+{
+    width: 12%;
+    /*height: 10%;*/
+    float: left;
+    margin-left: 4.5%;
+    margin-top: 2.5%;
+}
+.div_to
+{
+    width: 1%;
+    /*height: 10%;*/
+    float: left;
+    margin-left: 9.5%;
+    margin-top: 2.5%;
+}
+.div_tocal
+{
+    width: 12%;
+    /*height: 10%;*/
+    float: left;
+    margin-left: 4.5%;
+    margin-top: 2.5%;
+}
+.div_get
+{
+    width: 10%;
+    float: left;
+    margin-top: 2.5%;
+    margin-left: 30%;
+}
+.div_get input, button
+{
+    width: 100%;
+}
+.div_Button
+{
+    width: 10%;
+    float: left;
+    margin-top: 2.5%;
+    margin-left: 0.5%;
+}
+.div_Button input, button
+{
+    width: 100%;
+}
+
+.div_Grid
+{
+    /*width: 57%;     margin-left: 0.5%;     margin-top: 0.5%;     float:left;*/
+    width:100%;
+    float: left;
+}
+
+.div_Break
+{
+    clear: both;
+}
+.Grd_LeftTemplate
+{
+    border-left: none;
+}
+.Grd_RightTemplate
+{
+    border-right: none;
+}
+.div_Gridjob
+{
+    /* width: 30%;     margin-left:60%;     margin-top: 0.5%;     vertical-align:top;     vertical-align:text-top;     float:left;     position:absolute;*/
+    width: 34%;
+    float: left;
+    margin-left: 0.5%;
+    margin-bottom:1%;
+}
+.div_popup
+{
+    float: left;
+}
+.div_grdmain
+{
+    width: 100%;
+    margin-top: 0.5%;
+    margin-left:0%;
+    margin-bottom:0%;
+}
+.div_panel
+{
+    width:100%;
+    height:250px;   
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+.div_BL
+{
+    float: right;
+    margin-left: 48%;
+}
+.div_close
+{
+    cursor: pointer;
+}
+.div_popup_voucher
+{
+    float: left;
+    width: 90%;
+}
+.div_close_voucher
+{
+    cursor: pointer;
+    float: right;
+}
+.div_frame
+{
+   /* float: left;
+    width: 95%;
+    height: 90%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    position: absolute;*/
+    border-left:1px solid black;
+border-right:1px solid black;
+width:100%;
+height:100%;
+float:left;
+}
+.frames
+{
+width:100%;
+height:90%;	
+}
+.div_BL__voucher
+{
+    float: left;
+    width: 100%;
+    background-color: White;
+    position: absolute;
+}
+/*.div_frame
+{
+    float: left;
+    width: 100%;
+    height:100%;
+}*/

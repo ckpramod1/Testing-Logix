@@ -1,0 +1,106 @@
+﻿
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 68%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbl 
+{
+    width:6%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_lbl1 
+{
+    width:6%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_lbl2 
+{
+    width:6%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_lbl3 
+{
+    width:2%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtleger
+{
+    width:63%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtleger input, Text
+{
+    width: 99%;
+} 
+.div_txtincome
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txtincome input, Text
+{
+    width: 99%;
+} 
+.div_expense
+{
+   width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_expense input, Text
+{
+    width: 99%;
+} 
+.div_exp
+{
+   width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_exp input, Text
+{
+    width: 99%;
+} 
+.div_gridview
+{
+    /*width:1024px;*/
+    float: left;
+    margin-top:1%;
+    margin-left:1%;
+    height: 280px;
+    overflow: auto;
+}
+.btn_save
+{
+    width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.btn_save input, button
+{
+   width:99%;
+}

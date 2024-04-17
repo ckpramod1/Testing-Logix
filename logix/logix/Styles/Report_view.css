@@ -1,0 +1,22 @@
+﻿.Panelcss {
+    background-color: #E0E0E0;
+    border-color: #5D7B9D;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.div_closes {
+    width: 20px;
+    Height: 20px;
+    border: 2px solid white;
+    margin-left: 98%;
+    margin-top: -19%;    
+    border-radius: 90px 90px 90px 90px;
+}
+
+.div_confirm {
+    float: left;
+    margin-left: 35%;
+    margin-top: 0.5%;
+}
+    

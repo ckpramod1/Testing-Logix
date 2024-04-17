@@ -1,0 +1,1126 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body {
+    font-family: "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #777777;
+    font-size: 13px;
+}
+@font-face {
+    font-family: 'OpenSansLight';
+    src: url('font/opensans-light_0.eot');
+    src: url('font/opensans-light_0.eot') format('embedded-opentype'), url('font/opensans-light_0.woff') format('woff'), url('font/opensans-light_0.ttf') format('truetype'), url('font/opensans-light_0.svg#OpenSansLight') format('svg');
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('font/opensans-regular_0.eot');
+    src: url('font/opensans-regular_0.eot') format('embedded-opentype'), url('../../assets/css/font/opensans-regular_0.woff') format('woff'), url('../../assets/css/font/opensans-regular_0.ttf') format('truetype'), url('../../assets/css/font/opensans-regular_0.svg#OpenSansRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'OpenSansSemibold';
+    src: url('font/opensans-semibold_0.eot');
+    src: url('font/opensans-semibold_0.eot') format('embedded-opentype'), url('../../assets/css/font/opensans-semibold_0.woff') format('woff'), url('../../assets/css/font/opensans-semibold_0.ttf') format('truetype'), url('../../assets/css/font/opensans-semibold_0.svg#OpenSansSemibold') format('svg');
+}
+
+.attendance_tb_container {
+    width: 100%;
+    height: auto;
+    display: block;
+    overflow: auto;
+    border: 1px #658cb3 solid;
+    background-color: #fff;
+    padding: 1px;
+   }
+
+.at_tbheader_bg {
+    background-color: #658cb3;
+    height: 31px;
+    color: #fff;
+}
+
+.at_tbheader_bg2 {
+    background-color: #658cb3;
+    height: 31px;
+    color: #fff;
+    text-align: center;
+}
+
+.at_dates_box {
+    font-size: 14px;
+    font-family: 'OpenSansSemibold';
+    color: #fff;
+    text-align: center;
+    border-right: 1px #96bbdd solid;
+    width: 36px;
+}
+
+.at_daynames_box {
+    font-size: 14px;
+    font-family: 'OpenSansSemibold';
+    color: #555;
+    text-align: center;
+    border-right: 1px #dddddd solid;
+    width: 36px;
+}
+
+.at_shift_box_all {
+    font-size: 14px;
+    font-family: 'OpenSansSemibold';
+    color: #555;
+    text-align: center;
+    border-right: 1px #dddddd solid;
+    width: 36px;
+}
+/* shift boxes starts */
+.at_shift_green_box {
+    width: 35px;
+    height: 31px;
+    display: block;
+    background-color: #94b86e;
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    line-height: 29px;
+    cursor: pointer;
+}
+
+.at_shift_red_box {
+    width: 35px;
+    height: 31px;
+    display: block;
+    background-color: #e25856;
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    line-height: 29px;
+    cursor: pointer;
+}
+
+.at_shift_orange_box {
+    width: 35px;
+    height: 31px;
+    display: block;
+    background-color: #ffb848;
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    line-height: 29px;
+    cursor: pointer;
+}
+
+.at_shift_blue_box {
+    width: 35px;
+    height: 31px;
+    display: block;
+    background-color: #619fbd;
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    line-height: 29px;
+    cursor: pointer;
+}
+
+.at_shift_ua_box {
+    width: 35px;
+    height: 31px;
+    display: block;
+    background-color: #555555;
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    line-height: 29px;
+}
+
+.at_shift_al_box {
+    width: 35px;
+    height: 31px;
+    display: block;
+    background-color: #aa6cb7;
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    line-height: 29px;
+}
+
+.at_shift_la_box {
+    width: 35px;
+    height: 31px;
+    display: block;
+    background-color: #888888;
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    line-height: 29px;
+}
+/* shift boxes ends */
+
+.at_hours_head_txt {
+    font-size: 13px;
+    color: #0c6666;
+    text-align: left;
+    font-family: 'OpenSansSemibold';
+    text-indent: 6px;
+}
+
+.at_header_list_box {
+    width: 170px;
+    background-color: #658cb3;
+    border: 0 none;
+    font-size: 13px;
+    text-indent: 5px;
+    color: #fff;
+    background: url(../img/attendance/at_list_arrow.jpg) 113px 8px no-repeat;
+}
+
+.at_total_txt {
+    text-align: center;
+    font-size: 13px;
+    font-family: 'OpenSansSemibold';
+    color: #ffffff;
+}
+
+.popup_search_input_box2 {
+    /*border-bottom: 1px solid #D9D9D9 !important;*/
+    margin: 0 5px 2px;
+    padding-top: 5px;
+}
+
+/* table inner table starts */
+.at_inner_table {
+    width: 1636px;
+    height: auto;
+    display: block;
+   /* overflow: auto;*/
+}
+/* table inner table ends */
+
+.standard_hours_txt {
+    font-size: 13px;
+    color: #202020;
+    text-indent: 9px;
+    border-bottom: 1px #ddd solid;
+    border-right: 1px #ddd solid;
+}
+
+.standard_hours_ot_txt {
+    font-size: 13px;
+    color: #e25856;
+    text-indent: 9px;
+    border-bottom: 1px #ddd solid;
+    border-right: 1px #ddd solid;
+}
+
+.standard_hours_leave_txt {
+    font-size: 13px;
+    color: #e25856;
+    text-indent: 9px;
+    border-bottom: 1px #ddd solid;
+    border-right: 1px #ddd solid;
+    font-family: 'OpenSansSemibold';
+}
+
+.at_weekend_red_box {
+    width: 34px;
+    height: 31px;
+    display: block;
+    background-color: #fff;
+    font-size: 13px;
+    color: #555;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto;
+    line-height: 29px;
+    border: 1px #e25856 solid;
+}
+
+.at_top_band {
+    width: 100%;
+    height: 30px;
+    border-bottom: 1px #ddd solid;
+    margin-bottom: 10px;
+}
+
+.at_top_heading_txt {
+    font-size: 13px;
+    color: #777;
+    text-indent: 5px;
+}
+
+.at_top_value_txt {
+    font-size: 14px;
+    color: #eba331;
+    font-family: 'OpenSansSemibold';
+}
+
+.at_top_b1 {
+    width: 20%;
+    height: auto;
+    float: left;
+}
+
+.at_top_b2 {
+    width: 20%;
+    height: auto;
+    float: left;
+}
+
+.at_top_b3 {
+    width: 60%;
+    height: auto;
+    float: left;
+}
+
+.attop_search_box {
+    width: 100%;
+    height: 30px;
+    display: block;
+}
+
+.at_legend_main {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.at_shift_legend_main {
+    width: 40%;
+    height: 100px;
+    display: block;
+    border-right: 1px #658db3 solid;
+    float: left;
+}
+
+.at_absent_legend_main {
+    width: 60%;
+    height: 100px;
+    display: block;
+    float: left;
+}
+
+.at_shift_legend_header {
+    width: 161px;
+    height: 28px;
+    background-color: #24c1c6;
+    font-size: 13px;
+    color: #fff;
+    margin: 11px 0 10px 1px;
+    display: inline-block;
+    line-height: 27px;
+    text-indent: 10px;
+    font-family: 'OpenSansSemibold';
+}
+
+.at_codes_main_box {
+    width: 99%;
+    height: 33px;
+    background-color: #f5f5f5;
+}
+
+.at_leg_box_main {
+    height: 28px;
+    border-right: 1px #d7dbdf solid;
+    display: inline-block;
+    margin-top: 2px;
+    float: left;
+    padding-right: 20px;
+    margin-right: 6px;
+}
+
+.at_leg_es_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #94b86e solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_fs_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #a96bb8 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_codes_txt {
+    font-size: 13px;
+    color: #000;
+    margin-left: 9px;
+}
+
+.at_leg_ls_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #ffb848 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_ms_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #619fbd solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_ns_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #e25856 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_ua_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #555555 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_a_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #a5a5a5 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_la_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #a63a93 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_al_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #a96ab7 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_av_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #d5d5d5 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.at_leg_ah_main {
+    width: 27px;
+    height: 25px;
+    border: 2px #24c1c8 solid;
+    background: #FFF;
+    font-size: 13px;
+    color: #000;
+    font-family: 'OpenSansSemibold';
+    display: inline-block;
+    margin: 2px 0 0 4px;
+    text-align: center;
+    line-height: 20px;
+}
+
+
+/* attendance day view */
+
+.at_timeicons_box {
+    font-size: 14px;
+    font-family: 'OpenSansSemibold';
+    color: #555;
+    text-align: center;
+    /*border-right:1px #ddd solid;*/
+    width: 47px;
+}
+
+.at_dv_es_box {
+    width: 441px;
+    height: 30px;
+    background-color: #e1f2ce;
+    border-left: 15px #94b86e solid;
+    border-right: 15px #94b86e solid;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.at_dv_ls_box {
+    width: 441px;
+    height: 30px;
+    background-color: #fff4e0;
+    border-left: 15px #ffb849 solid;
+    border-right: 15px #ffb849 solid;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.at_dv_ms_box {
+    width: 441px;
+    height: 30px;
+    background-color: #b3d2ef;
+    border-left: 15px #629fbe solid;
+    border-right: 15px #629fbe solid;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.at_dv_fs_box {
+    width: 441px;
+    height: 30px;
+    background-color: #f0caf8;
+    border-left: 15px #a96bb8 solid;
+    border-right: 15px #a96bb8 solid;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.at_dv_ns_box {
+    width: 198px;
+    height: 30px;
+    background-color: #f9e5e6;
+    border-left: 15px #e25856 solid;
+    /*border-right:15px #a96bb8 solid;*/
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.at_dv_ns_box2 {
+    width: 290px;
+    height: 30px;
+    background-color: #f9e5e6;
+    border-right: 15px #e25856 solid;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.at_dv_time_box_all {
+    font-size: 14px;
+    font-family: 'OpenSansSemibold';
+    color: #555;
+    text-align: center;
+    border-right: 1px #dddddd solid;
+    width: 47px;
+}
+
+.at_dv_box_borders {
+    border-right: 1px #ededed solid;
+    border-bottom: 1px #ededed solid;
+}
+
+.at_dv_box_intxt1 {
+    font-size: 13px;
+    color: #000;
+    float: left;
+    width: 33%;
+    line-height: 30px;
+    text-indent: 5px;
+    text-align: left;
+}
+
+.at_dv_box_intxt2 {
+    font-size: 13px;
+    color: #000;
+    float: left;
+    width: 33%;
+    line-height: 30px;
+    text-indent: 10px;
+    text-align: center;
+    font-family: 'OpenSansSemibold';
+}
+.at_dv_box_intxtR {
+    font-size: 13px;
+    color: #000;
+    float: left;
+    width: 50%;
+    line-height: 30px;
+    text-indent: 10px;
+    text-align: center;
+    font-family: 'OpenSansSemibold';
+}
+
+.at_dv_box_intxt3 {
+    font-size: 13px;
+    color: #000;
+    float: left;
+    width: 33%;
+    line-height: 30px;
+    text-indent: 10px;
+    text-align: right;
+}
+
+.LS1 {
+}
+
+.LS2 {
+    color: red;
+}
+
+.at_dv_box_intxt3_ns {
+    font-size: 13px;
+    color: #000;
+    float: left;
+    width: 98%;
+    line-height: 30px;
+    text-indent: 10px;
+    text-align: right;
+}
+
+.at_dv_box_intxt_leave {
+    font-size: 13px;
+    color: #000;
+    float: left;
+    width: 99%;
+    line-height: 30px;
+    text-indent: 10px;
+    text-align: center;
+    font-family: 'OpenSansSemibold';
+}
+
+.at_dv_ah_box {
+    width: 46px;
+    height: 30px;
+    background-color: #8be7ea;
+    border-left: 4px #24c1c6 solid;
+    border-right: 4px #24c1c6 solid;
+    margin: 0 auto;
+}
+
+/* fingerprint Template starts here */
+
+.ft_header_txt {
+    font-size: 13px;
+    color: #fff;
+    font-family: 'OpenSansSemibold';
+    text-indent: 10px;
+}
+
+.ft_empinfo_div {
+    border-bottom: 1px solid #97BBDD;
+    float: left;
+    height: auto;
+    padding: 10px 0 0 10px;
+    width: 100%;
+}
+
+.ft_userlist_div {
+    background-color: #FEFDF9;
+    border-bottom: 1px solid #97BBDD;
+    float: left;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 0;
+    width: 100%;
+}
+
+.ft_emp_info_view_first {
+    color: #000000;
+    float: left;
+    margin: 4px 0 0 5px;
+    width: 25%;
+}
+
+.ft_emp_info_view_next {
+    border-left: 1px solid #DFE6EC;
+    border-right: 1px solid #DFE6EC;
+    color: #000000;
+    float: left;
+    margin: 4px 0 0;
+    width: 25%;
+}
+
+.ft_emp_info_view_last {
+    float: left;
+    margin: 4px 0 0 10px;
+    width: 40%;
+}
+
+.ft_empinfo_lbl {
+    color: #065E82;
+    float: left;
+    font-size: 12px !important;
+    font-weight: normal;
+    line-height: 25px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 0 0 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.ft_search_small_input {
+    background-color: #F9F9F9 !important;
+    border: 0 none;
+    box-shadow: none;
+    color: #777777;
+    margin: 0;
+}
+
+.ft_empinfo_input {
+    border: 1px solid #AABAC9;
+    float: left;
+    font-size: 12px !important;
+    height: 28px;
+    margin-bottom: 4px;
+    width: 99.5%;
+}
+
+.ft_empinfo_input_small {
+    border: 1px solid #AABAC9;
+    float: left;
+    font-size: 12px !important;
+    height: 28px;
+    margin-bottom: 4px;
+    width: 86.5%;
+}
+
+.ft_input_btn {
+    float: left;
+    padding-left: 10px;
+}
+
+.ft_up_arrow_btn {
+    background: url("../img/attendance/ft_up_arrow.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    height: 8px;
+    margin: 0 20px;
+    position: absolute;
+    top: 13px;
+    width: 6px;
+}
+
+.ft_down_arrow_btn {
+    background: url(../img/attendance/ft_down_arrow.png) top left no-repeat;
+    border: medium none;
+    height: 8px;
+    margin: 0 40px;
+    position: absolute;
+    top: 13px;
+    width: 6px;
+}
+
+.ft_pop_right_btn {
+    float: right;
+    margin: 5px 10px;
+}
+
+.ft_empinfo_name_txt {
+    color: #3A3A3A;
+    font-size: 18px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    text-indent: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.ft_empinfo_subtext {
+    color: #13467B;
+    font-size: 13px;
+    line-height: 28px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    text-indent: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.ft_info_coltxt {
+    color: #065E82;
+    float: left;
+    font-size: 11px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 10px 0 0;
+    text-align: right;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 40%;
+}
+
+.ft_userlist_view_first {
+    color: #000000;
+    float: left;
+    margin: 0;
+    width: 33.33%;
+}
+
+.ft_userlist_view_next {
+    border-left: 1px solid #DFE6EC;
+    border-right: 1px solid #DFE6EC;
+    color: #000000;
+    float: left;
+    margin: 0;
+    width: 33.33%;
+}
+
+.ft_finger_container {
+    border-right: 1px solid #97BBDD;
+    float: left;
+    margin-right: 1px;
+    width: 810px;
+}
+
+.ft_h_txtlbl {
+    background-color: #24C1C6;
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    font-family: 'OpenSansSemibold';
+    margin: 4px 0;
+    padding: 5px 20px 5px 10px;
+    clear: both;
+}
+
+.ft_fingerimg_div {
+    float: left;
+    padding: 20px;
+    width: 100%;
+}
+
+.ft_template_div {
+    float: left;
+    padding: 10px;
+    width: 100%;
+}
+
+.ft_checkbox_div_scroller {
+    border: 1px solid #a3bacc;
+}
+
+.ft_pop_sec_first {
+    width: 60%;
+    float: left;
+}
+
+.ft_pop_sec_second {
+    border-left: 1px solid #D9D9D9;
+    float: left;
+    padding-left: 10px;
+    width: 40%;
+}
+
+.ft_form_row {
+    background-color: #fafafa;
+    color: #000000;
+    line-height: 28px;
+    padding: 5px 15px;
+}
+
+.ft_form_row_alt {
+    background-color: #fff;
+    color: #000000;
+    line-height: 28px;
+    padding: 5px 15px;
+}
+
+.ft_checkbox_container {
+    border: 1px solid #A3BACC;
+    float: left;
+    width: 100%;
+}
+
+.ft_select {
+    float: right !important;
+    width: 50% !important;
+}
+
+.ft_add {
+    color: #458900;
+    font-size: 13px;
+}
+
+.ft_scanner_txt {
+    color: #EE3602;
+    float: right;
+    font-size: 13px;
+    font-style: italic;
+    margin: 0 9px 0 0;
+    text-decoration: none;
+}
+
+    .ft_scanner_txt:hover {
+        color: #EE3602;
+    }
+
+.ft_empinfo_sideinput {
+    border: 1px solid #AABAC9;
+    float: left;
+    font-size: 12px !important;
+    height: 28px;
+    margin-bottom: 4px;
+    margin-left: 10px;
+    width: 93.5%;
+}
+
+.ft_f_div_inner {
+    width: 772px;
+    height: 388px;
+    background: url(../img/attendance/fingers.jpg) top left no-repeat;
+    display: block;
+    overflow: auto;
+}
+
+    .ft_f_div_inner ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+    }
+
+        .ft_f_div_inner ul li {
+            float: left;
+        }
+
+            .ft_f_div_inner ul li a {
+                display: block;
+            }
+
+                .ft_f_div_inner ul li a.l_babyfinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 101px 0 0 119px;
+                    background: url(../img/attendance/pink.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.l_babyfinger:hover {
+                        background: url(../img/attendance/gray.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.l_ringfinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 68px 0 0 17px;
+                    background: url(../img/attendance/pink.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.l_ringfinger:hover {
+                        background: url(../img/attendance/gray.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.l_middlefinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 52px 0 0 17px;
+                    background: url(../img/attendance/pink.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.l_middlefinger:hover {
+                        background: url(../img/attendance/gray.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.l_indexfinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 68px 0 0 20px;
+                    background: url(../img/attendance/gray.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.l_indexfinger:hover {
+                        background: url(../img/attendance/pink.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.l_thumbfinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 157px 0 0 28px;
+                    background: url(../img/attendance/pink.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.l_thumbfinger:hover {
+                        width: 26px;
+                        height: 26px;
+                        margin: 157px 0 0 28px;
+                        background: url(../img/attendance/gray.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.r_thumbfinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 156px 0 0 102px;
+                    background: url(../img/attendance/gray.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.r_thumbfinger:hover {
+                        background: url(../img/attendance/pink.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.r_indexfinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 68px 0 0 28px;
+                    background: url(../img/attendance/pink.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.r_indexfinger:hover {
+                        background: url(../img/attendance/gray.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.r_middlefinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 53px 0 0 20px;
+                    background: url(../img/attendance/pink.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.r_middlefinger:hover {
+                        background: url(../img/attendance/gray.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.r_ringfinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 68px 0 0 16px;
+                    background: url(../img/attendance/gray.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.r_ringfinger:hover {
+                        background: url(../img/attendance/pink.jpg) no-repeat;
+                    }
+
+                .ft_f_div_inner ul li a.r_babyfinger {
+                    width: 26px;
+                    height: 26px;
+                    margin: 102px 0 0 13px;
+                    background: url(../img/attendance/pink.jpg) no-repeat;
+                }
+
+                    .ft_f_div_inner ul li a.r_babyfinger:hover {
+                        background: url(../img/attendance/gray.jpg) no-repeat;
+                    }
+/* fingerprint Template ends here */
+
+.fk_container {
+    background-color: #FFFFFF;
+    border: 1px solid #658CB3;
+    display: block;
+    height: auto;
+    overflow: auto;
+    padding: 1px 1px 10%;
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.fk_gridheader_txt {
+    background-color: #719BC1;
+    color: #FFFFFF;
+    font-family: 'OpenSansSemibold';
+    font-size: 13px;
+    height: 35px;
+    text-indent: 3px;
+    width: 100%;
+}
+
+.fk_radio {
+    margin-bottom: 3px;
+    margin-top: 5px !important;
+}
+
+.fk_lft_div {
+    border-right: 1px solid #FFFFFF;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.fk_rt_div {
+    padding-left: 0 !important;
+    padding-right: 10px !important;
+}
+
+.ft_firstline {
+    border-bottom: 1px solid #658db0;
+    padding: 0 5px;
+}
+
+.fk_addbtn {
+   background-color: transparent;
+    border: medium none;
+    color: #FFFFFF;
+    float: right;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 5px 15px 0 0;
+}
+
+    .fk_addbtn:hover {
+        color: #e9eff4;
+    }

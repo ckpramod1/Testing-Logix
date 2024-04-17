@@ -1,0 +1,71 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 65%;
+}
+
+.div_Break
+{
+    clear: both;
+}
+.div_customer
+{
+    float: left;
+    width: 20%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_slab
+{
+    float: left;
+    width: 10%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    text-align:center;
+}
+.div_slabtxt
+{
+    float: left;
+    width: 4%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    color:Maroon;
+    white-space:nowrap;
+}
+.div_slabtxt_Last
+{
+    float: left;
+    width: 8%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    color:Maroon;
+}
+.div_slabddl
+{
+    float: left;
+    width: 5%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_branchddl input, Select
+{
+    width: 100%;
+}
+
+.div_btn
+{
+    width: 65%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_btn input,Submit
+{
+    width: 8%;
+    margin-left:2%;
+}

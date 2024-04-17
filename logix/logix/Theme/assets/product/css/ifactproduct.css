@@ -1,0 +1,551 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px; /*background-color:#ffffff;*/
+}
+
+#Wrapper {
+    width: 100%;
+}
+
+.Head {
+    width: 100%;
+}
+
+.ProductBG {
+    width: 1280px;
+    margin: -19px auto 0px auto;
+    height: 100vh;
+    /*background: url(../../img/pic1.jpg) no-repeat left top;*/
+}
+
+.LightHouse {
+    margin: 129px 0px 0px 18px;
+    float: left;
+}
+
+.CRMBox {
+    width: 132px;
+    height: 92px;
+    margin: 0px 20px 0px 0px;
+    background: #0077c9 url(../img/product_crm_ic.png) no-repeat center 9px;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+    float: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+.CRMBox p {
+    text-align: center;
+    padding: 66px 0px 0px 0px;
+    font-size: 14px !important;
+}
+
+.SalesBox {
+    background: #86a845 url(../img/product_sales_ic.png) no-repeat center 9px;
+    width: 132px;
+    height: 92px;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+    .SalesBox p {
+        text-align: center;
+        padding: 66px 0px 0px 0px;
+        font-size: 14px !important;
+    }
+
+.ModuleBox {
+    width: 1130px;
+    float: left;
+    margin: 195px 0px 0px 30px;
+}
+
+.CustomerBox {
+    width: 132px;
+    height: 92px;
+    margin: 0px 20px 0px 0px;
+    background: #042a4c url(../img/product_cs_ic.png) no-repeat center 9px;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+    float: left;
+}
+
+    .CustomerBox p {
+        text-align: center;
+        padding: 66px 0px 0px 0px;
+        font-size: 14px !important;
+    }
+
+.OpsDocsBox {
+    background: #d02027 url(../img/product_opsdocs_ic.png) no-repeat center 9px;
+    float: left;
+    margin: 0px 0px 0px 0px;
+    width: 132px;
+    height: 92px;
+    color: #fff;
+    font-size: 14px;
+    float: left;
+}
+
+    .OpsDocsBox p {
+        text-align: center;
+        padding: 66px 0px 0px 0px;
+        font-size: 14px !important;
+        font-family: 'Segoe UI';
+    }
+
+.BTBox {
+    width: 132px;
+    height: 92px;
+    background: #433d27 url(../img/product_BT_ic.png) no-repeat center 9px;
+    margin: 30px 20px 0px 0px;
+    color: #fff;
+    font-size: 14px;
+    float: left;
+    font-family: "Segoe UI";
+}
+
+    .BTBox p {
+        text-align: center;
+        padding: 66px 0px 0px 0px;
+        font-size: 14px !important;
+    }
+
+.CHABox {
+    width: 132px;
+    height: 92px;
+    margin: 30px 20px 0px 0px;
+    background: #0a4e29 url(../img/product_cha_ic.png) no-repeat center 9px;
+    color: #fff;
+    font-size: 14px;
+    float: left;
+    font-family: "Segoe UI";
+}
+
+    .CHABox p {
+        text-align: center;
+        padding: 66px 0px 0px 0px;
+        font-size: 14px !important;
+    }
+
+.MISBox {
+    width: 132px;
+    height: 92px;
+    margin: 30px 20px 0px 0px;
+    background: #185074 url(../img/product_misanalytics_ic.png) no-repeat center 9px;
+    font-size: 14px;
+    float: left;
+    font-family: "Segoe UI";
+}
+
+    .MISBox p {
+        text-align: center;
+        padding: 66px 0px 0px 0px;
+        color: #ffffff;
+        font-size: 14px !important;
+    }
+
+.OperatingAC {
+    width: 132px;
+    height: 92px;
+    margin: 30px 0px 0px 0px;
+    background: #990000 url(../img/productop_ic.png) no-repeat center 9px;
+    float: left;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+}
+
+    .OperatingAC p {
+        text-align: center;
+        color: #fff;
+        padding: 66px 0px 0px 0px;
+        font-size: 14px !important;
+    }
+
+.RightSideMenu {
+    float: right;
+    width: 50px;
+    background-color: #e2572d;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    min-height: 117px;
+}
+
+#push_sidebar ul {
+    padding: 0px 0px 0px 0px;
+    margin: 16px 0px 0px 0px;
+}
+
+    #push_sidebar ul li {
+        list-style: none;
+        border-bottom: none;
+        width: 90%;
+        border-bottom: 1px solid #accbe0;
+        text-align: center;
+        padding: 0px 0px 5px 0px;
+        margin: 0px 0px 5px 7px;
+    }
+
+        #push_sidebar ul li a {
+            color: #fff;
+            border-bottom: none;
+        }
+
+            #push_sidebar ul li a:hover {
+                color: #e2572d;
+            }
+
+            #push_sidebar ul li a.ComapnyIc {
+                display: inline-block;
+                padding: 44px 0px 0px 0px;
+                background: url(../img/companyprofile_ic.png) no-repeat center top;
+            }
+
+            #push_sidebar ul li a.ITPolicyIc {
+                display: inline-block;
+                padding: 44px 0px 0px 0px;
+                background: url(../img/itpolicy_ic.png) no-repeat center top;
+            }
+
+            #push_sidebar ul li a.EBIC {
+                display: inline-block;
+                padding: 44px 0px 0px 0px;
+                background: url(../img/employeebenefits_ic.png) no-repeat center top;
+            }
+
+            #push_sidebar ul li a.ITIC {
+                display: inline-block;
+                padding: 44px 0px 0px 0px;
+                background: url(../img/incometax_ic.png) no-repeat center top;
+            }
+
+            #push_sidebar ul li a.AppraisalIc {
+                display: inline-block;
+                padding: 44px 0px 0px 0px;
+                background: url(../img/appraisal_ic.png) no-repeat center top;
+            }
+
+            #push_sidebar ul li a.OtherIC {
+                display: inline-block;
+                padding: 44px 0px 0px 0px;
+                background: url(../img/otherpolicies_ic.png) no-repeat center top;
+            }
+
+.NewsBg {
+    width: 95%;
+    float: left;
+    margin: 10px 0px 10px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+.Clear {
+    clear: both;
+}
+
+/* Popup CSS Styles Start */
+.popup {
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: rgba(0,0,0,0.75);
+    z-index: 9999999;
+}
+
+/* Inner */
+.popup-inner {
+    max-width: 960px;
+    width: 90%;
+    padding: 20px;
+    position: absolute;
+    top: 47.5%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 2px 6px rgba(0,0,0,1);
+    border-radius: 3px;
+    background: #fff;
+    height: 475px;
+    z-index: 99999999;
+}
+
+.ajax__tab_body.ajax__scroll_none {
+    height: 400px !important;
+}
+
+/* Close Button */
+.popup-close {
+    width: 30px;
+    height: 30px;
+    padding-top: 4px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    transition: ease 0.25s all;
+    -webkit-transform: translate(50%, -50%);
+    transform: translate(50%, -50%);
+    border-radius: 1000px;
+    background: rgba(0,0,0,0.8);
+    font-family: Arial, Sans-Serif;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100%;
+    color: #fff;
+}
+
+    .popup-close:hover {
+        -webkit-transform: translate(50%, -50%) rotate(180deg);
+        transform: translate(50%, -50%) rotate(180deg);
+        background: rgba(0,0,0,1);
+        text-decoration: none;
+    }
+/* Popup CSS Styles End */
+
+/* Tab CSS Styles Start */
+/*----- Tabs -----*/
+.tabs {
+    width: 100%;
+    display: inline-block;
+}
+
+    .tabs ul {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
+        border-bottom: 1px solid #cfcfcf;
+    }
+
+/*----- Tab Links -----*/
+/* Clearfix */
+.tab-links:after {
+    display: block;
+    clear: both;
+    content: '';
+}
+
+.tab-links li {
+    margin: 0px 9px 0px 0px;
+    float: left;
+    list-style: none;
+}
+
+.tab-links a {
+    padding: 5px 5px;
+    display: inline-block;
+    border-radius: 3px 3px 0px 0px;
+    background: #cfcfcf;
+    font-size: 12px;
+    font-weight: 500;
+    color: #4c4c4c;
+    transition: all linear 0.15s;
+}
+
+    .tab-links a:hover {
+        background: #a7cce5;
+        text-decoration: none;
+    }
+
+li.active a, li.active a:hover {
+    background: #2b6ba7;
+    color: #fff;
+}
+
+/*----- Content of Tabs -----*/
+.tab-content {
+    padding: 15px;
+    border-radius: 3px;
+    box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.15);
+    background: #fff;
+}
+
+.tab {
+    display: none;
+}
+
+    .tab.active {
+        display: block;
+    }
+/* Tab CSS Styles End */
+
+/* Corporate Home CSS Styles Start */
+.AccountsBox {
+    width: 142px;
+    height: 102px;
+    margin: 0px 20px 0px 0px;
+    background: #042a4c url(../img/financecor_ic.png) no-repeat center 3px;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+    float: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+.AccountsBox p {
+    text-align: center;
+    padding: 56px 0px 0px 0px;
+    line-height: 15px;
+    font-size: 14px;
+}
+
+.CreditBox {
+    background: #0077c9 url(../img/creditcontrol_ic.png) no-repeat center 9px;
+    width: 142px;
+    height: 102px;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+    .CreditBox p {
+        text-align: center;
+        padding: 76px 0px 0px 0px;
+        font-size: 14px;
+    }
+
+.BudgetBox {
+    width: 142px;
+    height: 102px;
+    margin: 0px 20px 0px 0px;
+    background: #433d27 url(../img/budjet_ic.png) no-repeat center 9px;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+    float: left;
+}
+
+    .BudgetBox p {
+        text-align: center;
+        padding: 76px 0px 0px 0px;
+        font-size: 14px;
+    }
+
+.MISBox1 {
+    background: #413b61 url(../img/misanalyticscor_ic.png) no-repeat center 9px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+    width: 142px;
+    height: 102px;
+    color: #fff;
+    font-size: 14px;
+    float: left;
+}
+
+    .MISBox1 p {
+        text-align: center;
+        padding: 76px 0px 0px 0px;
+        font-size: 14px;
+        font-family: 'Segoe UI';
+    }
+
+.UtilityBox {
+    width: 142px;
+    height: 102px;
+    margin: 0px 20px 0px 0px;
+    background: #d75a20 url(../img/utility_ic.png) no-repeat center 9px;
+    color: #fff;
+    font-size: 14px;
+    float: left;
+    font-family: "Segoe UI";
+}
+
+    .UtilityBox p {
+        text-align: center;
+        padding: 76px 0px 0px 0px;
+        font-size: 14px;
+    }
+
+.CRMBox1 {
+    width: 142px;
+    height: 102px;
+    margin: 0px 20px 0px 0px;
+    background: #74828f url(../img/crm_ic.png) no-repeat center 9px;
+    color: #fff;
+    font-size: 14px;
+    float: left;
+    font-family: "Segoe UI";
+}
+
+    .CRMBox1 p {
+        text-align: center;
+        padding: 76px 0px 0px 0px;
+        font-size: 14px;
+    }
+
+.MainBox {
+    width: 142px;
+    height: 102px;
+    margin: 0px 0px 0px 0px;
+    background: #d02027 url(../img/maintenance_ic.png) no-repeat center 9px;
+    font-size: 14px;
+    float: left;
+    font-family: "Segoe UI";
+}
+
+    .MainBox p {
+        text-align: center;
+        padding: 76px 0px 0px 0px;
+        color: #ffffff;
+        font-size: 14px;
+    }
+
+.HumanBox {
+    width: 142px;
+    height: 102px;
+    margin: 30px 0px 0px 0px;
+    background: #990000 url(../img/hr_ic.png) no-repeat center 9px;
+    float: left;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+}
+
+    .HumanBox p {
+        text-align: center;
+        color: #fff;
+        padding: 76px 0px 0px 0px;
+        font-size: 14px;
+    }
+
+.FinancialAc {
+    width: 170px;
+    height: 215px;
+    margin: 150px 10px 0px 20px;
+    background: #043a70 url(../../img/homeimg/operatingacc_ic.png) no-repeat center 49px;
+    float: left;
+    font-family: "Segoe UI";
+    color: #ffffff;
+    font-size: 14px;
+}
+
+    .FinancialAc p {
+        text-align: center;
+        color: #fff;
+        padding: 145px 0px 0px 0px;
+        font-size: 14px !important;
+    }
+
+.Clear {
+    clear: both;
+}
+/* Corporate Home CSS Styles End */
+.navbar {
+    min-height: 54px !important;
+}

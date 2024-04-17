@@ -1,0 +1,147 @@
+﻿.div_total 
+{
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+ 
+.div_ddlVouchtype{
+      width:30%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_ddlVouchtype input,select{
+    width:100%;
+}
+
+.div_cboxBcUs{
+     width:30%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_lblJob{
+     width:6%;
+    float:left;
+    margin-left:16%;
+    margin-top:1%;
+}
+
+.div_txtJob{
+    width:13%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_txtJob input,Text{
+     width:100%;
+}
+
+.div_txtCharge{
+     width:30%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_txtCharge input,Text{
+     width:100%;
+}
+
+.div_txtCur{
+     width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_txtCur input,Text{
+    width:100%;
+}
+
+.div_txtExRate{
+     width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_txtExRate input,Text{
+    width:100%;
+}
+
+.div_txtRate{
+     width:10%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_txtRate input,Text{
+    width:100%;
+}
+
+.div_ddlbaseAmt{
+     width:15%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.div_baseAmt input,select{
+    width:100%;
+}
+
+.div_txtAmount{
+    width:10.5%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_txtAmount input,Text{
+    width:100%;
+}
+
+.div_btnAdd{
+     width:6%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_grd{
+     width:97%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+    height:176px;
+    border:1px solid gray;
+}
+
+.div_grd1 {
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_btn{
+float:right;
+margin-right:1.5%;
+margin-top:1%;
+}

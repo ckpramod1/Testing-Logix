@@ -1,0 +1,89 @@
+﻿.div_total
+{    
+    width:500px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_rbt
+{
+    width: 68.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_by
+{
+	width: 6%;
+	float: left;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.div_lbl_from
+{
+	/*width: 10%;*/
+	float: left;
+	margin-top: 2%;
+	margin-left: 3%;
+}
+.div_lbl_to
+{
+	/*width: 9%;*/
+	float: left;
+	margin-top: 2%;
+	margin-left: 2%;
+    text-align:right;
+}
+.div_by
+{
+    width: 20.4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_by Select
+{
+    width: 100%;
+}
+.div_fromdate
+{
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_fromdate input
+{
+    width: 100%;
+}
+.div_todate
+{
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_todate input
+{
+    width: 100%;
+}
+.div_btn
+{    
+    float: right;
+    margin-right: 1.3%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    text-align:right;
+}

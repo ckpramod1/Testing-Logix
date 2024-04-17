@@ -1,0 +1,71 @@
+﻿
+ .Maindiv
+       {
+        float:left; 
+      /*margin-top :7.3%;*/
+        width :99.9%; 
+        height :460px;
+       /* border :1px solid black;*/
+       /* background-color:pink;  */
+       }
+       .submenu
+       {
+          margin-left :2%;
+          margin-right :2%;
+          margin-top :2%;
+         /* border :1px solid  black;*/
+          height :420px;
+       }
+       .sidemenu_top
+       {
+           margin-top :0.1%;
+           margin-right :0.1%;
+           margin-left :0.1%;
+         /* border  :1px solid  black;*/
+         height: 48%;
+       }
+       .sidemenu_bottom
+       {
+           
+          margin-top :0.5%;
+          margin-right :0.1%;
+           margin-left :0.1%;
+       /*   border  :1px solid  black;*/
+         height: 48%;
+       }
+     .box1
+     {
+       border: 1px solid black;
+       width:12%;
+       height:78%;
+       float:left ;
+       margin-left :5%;
+       border-radius: 80px 80px 80px 80px;
+     }
+    
+     .div_img
+     {
+       border: 1px solid black;
+       width:100%;
+       height:100%;
+       border-radius: 80px 80px 80px 80px;
+     }
+  
+     /*.div_img:hover
+     {
+        cursor: pointer;
+        border: solid 2px white;
+        border-color: White;
+        background-color: #B0B0B0 ;
+        opacity: 0.4;
+        filter: alpha(opacity=40);
+     }*/
+        
+  /*   .box1:hover
+     {
+       border: 2px solid White;
+       background-color: #B0B0B0 ;
+         opacity: 0.4;
+        filter: alpha(opacity=40);
+   
+     }*/

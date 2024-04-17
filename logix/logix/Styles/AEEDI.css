@@ -1,0 +1,252 @@
+﻿.div_total 
+{
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    width:100%;
+    background:#333399;
+    margin-bottom:0.2%;
+    color:white;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_Break
+{
+    clear: both;
+}
+.div_bl
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt
+{
+    width:30.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt input, Text
+{
+    width: 100%;
+}
+.div_job
+{
+    width:40%;
+    float: left;
+     margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_jobtxt
+{
+    width: 13.5%;
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_jobtxt input, Text
+{
+    width: 100%;
+}
+.div_jobDetails
+{
+    width:52.5%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+}
+.div_jobDetails input, Text
+{
+    width: 100%;
+}
+.div_ship
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_ship_left
+{
+    width: 7.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_contract
+{
+    width: 5.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_shiptxt
+{
+    width:  30.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_shiptxt input, Text
+{
+    width: 100%;
+}
+.div_shiptxt1
+{
+    width:  28%;
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_shiptxt1 input, Text
+{
+    width: 100%;
+}
+.div_shiptxt2
+{
+    width:  16%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+}
+.div_shiptxt2 input, Text
+{
+    width: 100%;
+}
+.div_shiptxt3
+{
+    width:  23.1%;
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_shiptxt3 input, Text
+{
+    width: 100%;
+}
+.div_shiptxt4
+{
+    width:  22.6%;
+    float: left;
+    margin-left: 1.3%;
+    margin-top: 0.5%;
+}
+.div_shiptxt4 input, Text
+{
+    width: 100%;
+}
+.div_contracttxt1
+{
+    width: 30.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_contracttxt input, Text
+{
+    width: 100%;
+}
+.div_contracttxt
+{
+    width: 38.5%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+}
+.div_contracttxt1 input, Text
+{
+    width: 100%;
+}
+.div_shipddl1
+{
+    width: 28%;
+    float: left;
+    margin-left: 0.4%;
+    margin-top: 0.5%;
+}
+.div_shipddl1 input, Select
+{
+    width: 100%;
+}
+.div_shipddl2
+{
+    width: 22.1%;
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_shipddl2 input, Select
+{
+    width: 100%;
+}
+.div_shipddl3
+{
+    width: 72.5%;
+    float: left;
+    margin-left: 0.6%;
+    margin-top: 0.5%;
+}
+.div_shipddl3 input, Select
+{
+    width: 100%;
+}
+.div_shipddl
+{
+    width: 24.8%;
+    float: left;
+    margin-left: 0.6%;
+    margin-top: 0.5%;
+}
+.div_shipddl input, Select
+{
+    width: 100%;
+}
+.div_contractddl
+{
+    width: 22.9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_contractddl input, Select
+{
+    width: 100%;
+}
+.div_shipnametxt
+{
+    width: 66.5%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+}
+.div_shipnametxt input, Text
+{
+    width: 100%;
+}
+.div_btn
+{
+    /*width: 31.5%;*/
+    float: Right;
+    margin-right: 1.2%;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    text-align:right;
+    width: 251px;
+}

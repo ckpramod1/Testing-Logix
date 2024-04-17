@@ -1,0 +1,75 @@
+﻿.divTotal {
+    width: 450px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 35%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 6%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+}
+.div_txt
+{
+    float: left;
+    width: 15%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, text
+{
+    width: 100%;
+}
+.div_Branchtxt
+{
+    float: left;
+    width: 75%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Branchtxt input, text
+{
+    width: 100%;
+}
+.div_btn
+{
+    /*width: 20%;*/
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_Grid
+{
+    width: 100%;
+    height:200px;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0.5%;
+    overflow:auto;
+}
+.div_BranchColumn
+{
+    width: 170px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

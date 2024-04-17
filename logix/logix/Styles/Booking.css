@@ -1,0 +1,1276 @@
+﻿.div_total
+{
+  /*border:1px solid black;*/
+  width :800px;
+  /*height:500px;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+
+.bookingMain
+{
+    /*border:1px solid black;*/
+   /*height:500px;*/
+    float:left;
+ /* Height:100%;*/
+     /*width:65%;*/
+  width:1050px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.booking
+{
+    /*border:1px solid blue;*/
+   height:209px;
+    float:left;
+ /* Height:100%;*/
+     /*width:65%;*/
+  width:780px;
+}
+
+.DivNew
+{
+    /*border:1px solid red;*/
+   /*height:160px;*/
+   float:left;
+ /* Height:100%;*/
+     /*width:65%;*/
+  width:265px;
+  
+}
+
+.DivHeaderlblBooking
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+   
+}
+
+.div_txt_tran
+{
+    /*width:87.5%;*/
+    Height :6%;
+    width:34.2%;
+    float:left;
+     margin-top:0.8%;
+     margin-left:0.8%;
+       height:23px;
+}
+ .div_txt_tran select 
+    {
+        width :100%;
+        /*Height  :100%;*/
+    }
+
+.div_lblheader
+{
+  background-color:#333399;     
+    width:100%;
+    height:20.8px;
+    color:white;
+    /*border :1px solid red;*/
+
+}
+
+.div_break
+{
+    clear: both;
+    width: 604px;
+}
+
+
+/* --------------------------------------------Label----------------------------------------------- */
+.div_lbl_Qut
+{
+    width: 9.5%;
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top:1%;    
+    margin-left:0.8%;
+    
+   
+}
+
+.div_lbl_Qut1
+{
+    /*width: 8.8%;*/
+    /*height: 13px;*/
+    float: left;
+    text-align: left;
+    margin-top:1%;    
+    margin-left:0.8%;
+   
+}
+.div_confirm{
+    float:left;
+    margin-left:30%;
+    margin-bottom:1%;
+    margin-top:1%;
+}
+
+
+.div_lbl_name
+{
+    width: 7%;  
+    
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top: 0.7%;
+    margin-left:2%;
+    margin-right:0.6%; 
+}
+.div_lbl_nameinside
+{
+    width: 12.7%;   
+    height: 13px;
+    float: left;
+    text-align: Left;
+    margin-top: 1.5%;
+    margin-left:3.1%;
+    margin-right:0%; 
+}
+.div_lbl_nameinsidediv
+{
+    /*width: 15%;*/   
+    /*height: 13px;*/
+    float: left;
+    text-align: left;
+    margin-top: 1%;
+    margin-left:1%;
+    /*margin-right:0.2%; */
+    
+  
+   
+}
+.div_lbl_nameinsidediv1
+{
+    width: 3.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 2%;
+    margin-left:2%;
+    margin-right:0.5%; 
+   
+}
+
+.div_lbl_inco
+{
+     width: 3.7%;   
+    /*height: 13px;*/
+    float: left;
+    text-align: Right;
+    margin-top: 2%;
+    margin-left:1.5%;
+    margin-right:0.2%; 
+}
+
+
+.div_lbl_nameinsidedivdiv
+{
+    width: 54%;
+    
+    /*height: 13px;*/
+    float: left;
+    text-align: Right;
+    margin-top: 2%;
+    margin-left:7.5%;
+    margin-right:0.2%; 
+}
+.div_lbl_nameinsidedivdi
+{
+    width: 7%;  
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top: 2%;
+    margin-left:1.5%;
+    margin-right:0.2%; 
+}
+
+.div_lbl_namecus
+{
+    float: left;
+    text-align: left ;
+    /*margin-top: 1%;*/
+    margin-left:0.9%;
+    margin-right:0.5%;     
+}
+.div_lbl_namecus1
+{
+    float: left;
+    text-align: left ;   
+    margin-left:0.2%;   
+}
+.div_lbl_namecuss
+{
+    width: 10%;   
+    height: 13px;
+    float: left;
+    text-align: Left;
+    margin-top:2.5%;
+    margin-left:0.8%;
+    /*margin-right:0.6%;*/ 
+    /*border:1px solid red;*/
+}
+
+.div_lbl_cancelbkng
+{
+    width: 15%;   
+    height: 13px;
+    float: left;
+    text-align: Left;
+    margin-top: 1.5%;
+    margin-left:2%;
+    margin-right:0.6%; 
+  /*  border:1px solid red;*/
+}
+
+
+.div_lbl_consignee
+{
+    width: 8.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1%;
+    margin-left:41.5%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_quot
+{
+    width: 9.3%;   
+    height: 13px;
+    float: left;
+    text-align: Left;
+    margin-top: 2%;
+   margin-left:2%;
+    margin-right:0%; 
+   /* border:1px solid red;*/
+}
+
+.div_lbl_shipment
+{
+    width: 9.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 2%;
+    margin-left:1%;
+    margin-right:0.6%; 
+}
+.div_lbl_quot1
+{
+    /*width: 7%;*/   
+    /*height: 13px;*/
+    float: left;
+    text-align: left;
+      margin-top:1%;   
+    margin-left:1%;
+    /*Border:1px solid red;*/
+    /*margin-right:0.6%;*/ 
+}
+
+.div_lbl_booking
+{
+    /*width:7.5%;*/   
+    /*height: 15px;*/
+    float: left;
+    text-align: left;
+    margin-top:1.7%;
+    margin-left:0.5%;
+   
+    /*Border:1px solid red;*/
+}
+
+/* --------------------------------------------TextBox  & DropDown----------------------------------------------- */
+.div_txt_name
+{
+    width: 15.5%;
+    float: left;
+    margin-top: 0.5%;
+    text-align :right ;
+    margin-left :1%;
+    /*height: 20px;*/
+  
+
+}
+
+.div_txt_name input
+{
+    width:100%;
+   /*height: 100%;*/
+}
+ .div_txt_name1
+{
+    width: 21.1%;
+    float: left;
+    margin-top: 1.2%;
+    text-align :right;
+    margin-left:1%;
+    /*height :18px;*/
+  
+   
+}
+.div_txt_name1 input
+{
+    width:100%;
+   /*height:100%;*/
+}
+
+
+.div_txt_vol
+{
+    width: 15%;
+    /*height: 20px;*/
+    float: left;
+    margin-left:1%;
+    margin-top: 1%;
+   
+   /*border :1px solid blue;*/
+}
+
+.div_txt_vol input
+{
+    width:100%;
+    /*height :100%;*/
+}
+
+.div_txt_por
+{
+    width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 1.5%;
+    /*margin-left:1.7%;*/
+    /*height :18px;*/
+   
+}
+
+.div_txt_por input
+{
+    /*height :100%;*/
+    width:100%;
+}
+.div_txt_pol
+{
+    width: 50.8%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 1.5%;
+    margin-left:0.8%;
+    /*height :18px;*/
+    /*border :1px solid green;*/
+}
+
+.div_txt_pol input
+{
+    /*height:100%;*/
+    width:100%;
+}
+.div_txt_pod
+{
+    width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 0.5%;
+    /*margin-left:1.7%;*/
+    /*border :1px solid green;*/
+    /*height :18px;*/
+}
+
+.div_txt_pod input
+{
+    width:100%;
+     /*height:100%;*/
+}
+
+.div_txt_fd
+{
+    width: 50.7%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.8%;
+    /*height :18px;*/
+    /*border :1px solid green;*/
+}
+
+.div_txt_fd input
+{
+    width:100%;
+}
+
+.div_txt_shipment 
+{
+    width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 0.5%;
+}
+.div_txt_shipment input
+{
+    width:100%;
+    /*height :100%;*/
+}
+.div_txt_flight 
+{
+    width: 50.7%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.8%;
+}
+
+.div_txt_flight input
+{
+    width: 100%;
+}
+
+.div_txt_porsmall
+{
+    width: 48.2%;
+    /*height: 17px;*/
+    float: left;
+    margin-top: 1.5%;
+    margin-left:1.2%;
+}
+
+.div_txt_porsmall input
+{
+    width:100%;
+}
+.div_txt_porsmal
+{
+    width: 18%;
+    /*height: 20px;*/
+    float: left;
+
+    margin-left:1%;
+    margin-top:0.5%;
+  
+}
+.div_txt_porsmal1
+{
+    width: 7%;
+    /*height: 17px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:1.2%;
+}
+.div_txt_porsmal1 input
+{
+    width:100%;
+}
+.div_txt_porsmal input
+{
+    width:100%;
+    /*height :100%;*/
+}
+.div_txt_porsmalll
+{
+    width: 99%;    
+    float: left;
+    margin-top: 0.5%;    
+}
+
+.div_txt_porsmalll input
+{
+    width:100%;
+    /*height :100%;*/
+}
+
+.div_txt_shiper
+{
+    width: 47.4%;
+    /*height: 17px;*/
+    float: left;
+    margin-left:1.2%;
+    margin-top:1.2%;
+    /*height: 15.5px;*/
+}
+
+.div_txt_shiper input
+{
+    width:100%;
+}
+.div_txt_consignee
+{
+    width: 50%;
+    /*height: 17px;*/
+    float: left;
+    margin-left:0.7%;
+    margin-top: 1.2%;
+    /*height: 15.5px;*/
+  
+}
+
+.div_txt_consignee input
+{
+    width:100%;
+}
+.div_txt_shiperqcus
+{
+    width: 99%;
+    /*height: 17px;*/
+    float: left;
+    /*margin-left:0.5%;*/
+    margin-top: 1.3%;
+    /*height :18px;*/
+  
+}
+
+.div_txt_shiperqcus input
+{
+    width:100%;
+    /*height:100%;*/
+}
+
+.div_txt_shipermail
+{
+    width: 83%;
+    /*height: 17px;*/
+    float: left;
+    margin-left:2%;
+    margin-top: 2.8%;
+    
+}
+
+.div_txt_shipermailNext
+{
+   width: 83%;
+    /*height: 17px;*/
+    float: left;
+    margin-left:2%;
+   margin-top: 4%;
+    
+}
+
+.div_txt_shipermailNextDown
+{
+    width: 83%;
+    /*height: 17px;*/
+    float: left;
+    margin-left:2%;
+    margin-top: 4%;
+    
+}
+
+
+.div_txt_shipermail input
+{
+    width:100%;
+}
+
+.div_txt_shiperinside
+{
+    width: 96%;
+    /*height: 18px;*/
+    float: left;
+    margin-left:2%;    
+  /*height :20px ;*/
+}
+
+.div_txt_shiperinsideNext
+{
+    width: 96%;   
+    float: left;
+    margin-left:2%;    
+    margin-top:1.5%;
+}
+
+.div_txt_shiperinside input
+{
+    width:100%;
+    /*height :100%;*/
+}
+
+.div_txt_shiperinsideNext input
+{
+    width:100%;
+     /*height :100%;*/
+}
+
+.div_txt_shipermulti
+{
+    width: 47.3%;
+    /*height: 42px;*/
+    float: left;
+    margin-left:1.2%;
+    margin-top: 0.8%;
+}
+
+.div_txt_shipermulti textarea
+{
+    width:98.3%;
+    /*Height :100%;*/    
+}
+
+.div_txt_condigneemulti
+{
+    width: 50.1%;
+    /*height: 42px;*/
+    float: left;
+    margin-left:0.7%;
+    margin-top:0.8%; 
+}
+
+.div_txt_condigneemulti textarea
+{
+    width:98.3%;
+    /*Height :100%;*/    
+}
+.div_txt_remarks
+{
+    width: 30.7%;
+    /*height: 68;*/
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.7%;
+}
+
+.div_txt_remarks input
+{
+    width:100%;  
+    /*height :100%;*/  
+}
+
+.div_lblshop{
+     width: 5%;
+    /*height: 68;*/
+    float: left;
+    margin-left:0.5%;
+    margin-top: 1%;
+}
+.div_chkbtn{
+     width: 45%;
+    /*height: 68;*/
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.7%;
+}
+
+.div_lblfunsop{
+
+}
+
+.div_txtFactory{
+    width: 58%;
+    /*height:98.4 30px;*/
+    float: left;
+    margin-left:1%;
+    margin-top: 0.5%;
+}
+
+.div_txtFactory input,Text{
+     width:100%;
+}
+
+.div_txt_remarks_qu
+{
+    width: 39.4%;
+    /*height:98.4 30px;*/
+    float: left;
+    margin-left:1.2%;
+    margin-top: 0.5%;
+}
+.div_txt_remarks_qu input 
+
+{
+     width:100%;  
+    /*height :100%;*/ 
+}
+.div_txt_agentmulti
+{
+    width: 100%;
+    /*height: 60px;*/
+    float: left;
+    margin-left:-0.2%;
+    margin-top: 2%;
+}
+
+.div_txt_agentmulti textarea
+{
+    width:100%;
+    height: 37px;
+}
+
+.div_txt_datedrop
+{
+    width: 12.8%;
+    /*height: 15.5px;*/
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+    font-family :sans-serif ;
+    font-size :10pt;
+    /*height :20px;*/
+    
+}
+.div_txt_datedrop input
+{
+    width:100%;
+    /*height :100%;*/
+}
+
+.DivMarketby
+{
+    width: 57.9%;
+    /*height: 15.5px;*/
+    float: left;
+    margin-left:0.8%;
+    margin-top: 1.2%;
+    font-family :sans-serif ;
+    font-size :10pt;
+    /*height :20px;*/
+    border:1px solid #999997;
+   enable-background:accumulate;
+}
+.DivMarketby input
+{
+    width:98%;
+    
+}
+
+
+.div_txt_datedrop1
+{
+    width: 11%;
+    /*height: 15.5px;*/
+    float: left;
+    margin-left:0.4%;
+    margin-top: 1.2%;
+    font-family :sans-serif ;
+    font-size :10pt;
+  /*height :18px;*/
+}
+.div_txt_datedrop1 input
+{
+    width:100%;
+    /*height :100%;*/
+}
+/* --------------------------------------------Div Inside dIV----------------------------------------------- */
+
+.div_div1
+{
+    /*border-style: none solid none none;
+    border-width: 1px;*/
+    /*border-top:1px solid black;*/
+    /*border:1px solid black;*/
+    /*border-color: #000000;*/
+    /*height: 135px;*/
+    height :144px;
+    /*height :21.5%;*/
+    width: 59%;
+    float: left;
+    margin-top :-0.2%;
+  
+}
+
+.div_right_one
+{ 
+    /*height :20.5%;*/
+    border: 1px none #000000;
+    width: 41%;
+    float:left;
+    /*border :1px solid blue;*/
+     margin-top :-0.1%;
+}
+
+.agent_div
+{
+    height:50px;
+    width:58%;
+    float:left;    
+}
+
+.div_div2
+{
+    /*border-style: none solid none none;
+    border-width: 1px;
+    border-color: #999997;*/
+    height:170px;
+    width: 51%;
+    float: left;
+     margin-top :-2.5%;
+
+    
+}
+
+.div_right_two
+{
+    /*border-style: none none none none;
+    border-width: 1px;
+    border-color: #000000;*/
+    height: 175px;
+    width: 48.6%;
+    float:left;
+    margin-top:0.2%;
+    
+}
+
+.grid_1
+{
+    height:100px;
+    border:1px solid #999997 ;
+    /*width:97.6%;*/
+    width:527px;
+    margin-left:1.2%;
+    margin-top:1%;
+   overflow-y :scroll ;
+}
+.grid_3
+{
+    height:100px;
+    border:1px solid #999997;   
+    width:504px;
+    margin-left:0.5%;
+    margin-top:1%;
+    overflow-y :scroll ;
+}
+.GridHeader_my
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+    position :absolute ;
+    margin-top:-0.1%;   
+}
+.GridHeader_my1
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: -0.2%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-2.2%;
+
+}
+.GridHeader_my2
+{
+     /*background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: 4px;
+    margin-bottom: 0px;*/
+   
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+     margin-left:-0.2%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-2.5%;
+
+}
+.GridHeader_my3
+{
+     /*background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: 4px;
+    margin-bottom: 0px;*/
+   
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+     margin-left:-0.2%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-2.5%;
+
+}
+
+.grid_1  input
+{
+width:100%;
+height:100%;
+}
+
+.grid_2
+{
+    height:89px;
+    border:1px solid #999997;
+    width:98.5%;
+    /*background-color:Gray;*/
+    margin-left:0.5%;
+    margin-top:0.5%;
+    overflow-y: auto;
+    float:left;
+    /*margin-bottom:2%;*/
+}
+
+.div_Button
+{
+    float:right  ;
+    margin-right:0.5%;
+    margin-top :-1%;
+    /*margin-bottom:0.5%;*/
+   }
+   .div_Button1
+{
+    float:right;
+    margin-right:0.5%;
+    margin-top :0.2%;
+    /*margin-bottom:0.5%;*/
+   }
+   .btn1
+   {
+       float:Right;
+      margin-top:5%;
+      margin-right :1.8%;
+      height: 17px;
+       
+   }
+
+     .btn2
+   {
+       float:Right;
+      margin-top:4%;
+      margin-right :1.8%;
+      margin-left:0.5%;
+      height: 17px;
+       
+   }
+
+      .btn
+   {
+      /*float:Right;
+      margin-top:3.5%;
+      margin-right :1.8%;
+      height: 17px;*/
+       
+   }
+      .div_Grid1
+        {
+   
+       width:100%;
+       margin-right :0%;
+        margin-top:0.8%;
+        margin-bottom :-3%;
+         Height:294px;
+        
+        }
+        
+        .div_lbl_markededby
+        {
+            width:45%;     
+            font-weight :bold;
+            font-family :sans-serif ;
+            font-size :8pt;
+            margin-left :0.5%;
+            margin-top :-0.5%;
+            float:left;
+            
+        }
+
+.div_Top_first
+{  
+    width:100%;
+    height :28px;
+   /*Border:1px solid black;*/
+    /*border-style: none  none solid none;*/
+    Border-top :none;
+    border-left :none ;
+    border-right :none;
+    border-bottom :1px solid #999997;
+   
+}
+
+.agent_div_twoRight
+{
+    width:49%;
+    height:100%;
+    /*border:1px solid red;*/
+    float:left;
+    margin-top:0.8%;
+    margin-left:0.4%;
+    
+}
+
+.agent_div_two
+{
+   width:49.2%;
+   height:100%;
+   float:left;
+   /*margin-top:1.5%;*/
+   margin-left:-0.1%;
+   /*border:1px solid blue;*/
+}
+
+.lnl_book
+{
+    float:left;
+    margin-left:8%;
+    margin-top:1%;
+}
+.div_txt_lnkvessel
+{
+    width: 15%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+}
+ .div_txt_lnkvessel input, Text
+  {
+        width: 100%;
+    }
+ .div_vslsize
+{    
+    width:7%;
+    float: left;
+    margin-left: 0.6%;
+    margin-top:0.5%;
+}
+.div_vslsize input, select
+{
+    width: 100%;
+}
+ .txt_voyage
+ {
+     
+     width: 12.5%;
+    float: left;
+    margin-left: 0.3%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+ }
+ .txt_voyage input, Text
+ {
+     width:100%;
+ }
+ .txt_etd
+ {
+     width:7.9%;
+     float:left;
+     margin-left: 0.3%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+ }
+ .txt_etd input, Text
+ {
+     width:100%;
+ }
+
+  .txt_cutoff
+ {
+     width:12.9%;
+     float:left;
+     margin-left: 0.3%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+ }
+ .txt_cutoff input, Text
+ {
+     width:100%;
+ }
+  .txt_eta
+ {
+     width:10%;
+     float:left;
+     margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+ }
+ .txt_eta input, Text
+ {
+     width:100%;
+ }
+   .txt_vslpol
+ {
+     width:13%;
+     float:left;
+     margin-left: 0.3%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+ }
+ .txt_vslpol input, Text
+ {
+     width:100%;
+ }
+    .txt_vslpod
+ {
+     width:13%;
+     float:left;
+     margin-left: 0.3%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+ }
+ .txt_vslpod input, Text
+ {
+     width:100%;
+ }
+ .grd_panel_vessel
+ {
+     width:98.5%;
+     margin-left:0.5%;
+     margin-top:0.5%;
+     height:68px;
+     /*border:1px solid black;*/
+ }
+ .txt_shipmail
+ {
+     margin-top:1.9%;
+     width:89.6%;
+     margin-left:0.5%;
+     float:left;
+ }
+ .txt_shipmail input
+ {
+     width:100%;
+ }
+ .btn_ship
+ {
+     margin-left:0.8%;
+     float:left;
+     margin-top:1.3%;
+ }
+ .txt_othermail
+ {
+     margin-top:0.8%;
+     width:89.6%;
+     margin-left:0.5%;
+     float:left;
+ }
+ .txt_othermail input
+ {
+     width:100%;
+ }
+ .btn_cons
+ {
+     margin-left:0.8%;
+     float:left;
+     margin-top:0.2%;
+ }
+  .txt_consmail
+ {
+     margin-top:0.8%;
+     width:89.6%;
+     margin-left:0.5%;
+     float:left;
+ }
+ .txt_consmail input
+ {
+     width:100%;
+ }
+ .btn_othermail
+ {
+     margin-left:0.8%;
+     float:left;
+     margin-top:0.1%;
+ }
+
+ .Pnl1
+{
+    position: absolute;
+    /*top: 165%;*/
+    /*margin-left:1%;*/
+    width: 30%;
+    /*height: 15%;*/
+    text-align: center;
+    background-color: White;
+    border: solid 3px black;
+    float:left;
+    /*left: 160px;*/
+
+    background-color: #FFFFFF;
+        border-width: 3px;
+        border-style: solid;
+        padding-top: 10px;
+        padding-left: 10px;
+        /*width: 30%;
+        height: 15%;*/
+        margin-left :1%;
+    top: 548px;
+    /*left: 413px;*/
+}
+ .Pnl2
+{
+    position: absolute;
+    /*margin-left:1%;*/
+    width: 75%;
+    /*height: 15%;*/
+    text-align: center;
+    background-color: White;
+    border: solid 3px black;
+    float:left;
+    /*left: 160px;*/
+
+    background-color: #FFFFFF;
+        border-width: 3px;
+        border-style: solid;
+        padding-top: 10px;
+        padding-left: 10px;
+        /*width: 30%;
+        height: 15%;*/
+        margin-left :1%;
+        top:279px!important;
+
+    top: 548px;
+    /*left: 413px;*/
+}
+.div_confirm
+{
+    /*Border:1px solid red;*/
+    width: 100%;
+    float: left;
+    margin-left: 3%;
+    margin-bottom: 1%;
+}
+.txt_valid{
+     width:12.7%;
+     float:left;
+     margin-left:0.5%;
+     margin-top:0.5%;
+ }
+.txt_valid input
+{
+    width:100%;
+}
+
+.div_dataGrid{
+
+    width:50%;
+}
+ .txt_sop
+ {
+     width:75%;
+     float:left;
+     margin-left: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+ }
+    .txt_sop input, Text {
+        width: 100%;
+    }
+
+    .btn_sop{
+    float:Right;
+    margin-Right:2%;
+    margin-bottom:1%;
+    margin-top:1%;
+}

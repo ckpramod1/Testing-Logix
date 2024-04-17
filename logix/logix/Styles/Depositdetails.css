@@ -1,0 +1,74 @@
+﻿.div_total
+{
+  
+  float:left;
+  width :790px;
+  
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_Main
+{
+	background-color: #0061AE;
+    color : White ;
+	width: 90%;
+	margin-left: 1%;
+    margin-bottom: 1%;
+	margin-top: 1%;
+	font-weight: bold;
+}
+.div_label
+{
+	width: 4%;
+	float: left;
+	margin-left: 1%;
+
+}
+.div_text
+{
+	width: 12%;
+	float: left;
+	margin-left: 1%;
+	
+}
+.div_text input,text
+{
+	width: 100%;
+	
+}
+.div_Get
+{
+	width: 10%;
+	float: left;
+	margin-left: 1%;
+	text-align:right;
+}
+.div_Get input,button
+{
+    width: 80%;
+}
+.div_Grid
+{
+    float:left;
+	width: 43%;
+	margin-left:1%;
+	margin-top:0.5%;
+}
+.div_Break
+{
+	clear:both;
+}
+.div_view
+{
+	float:right;
+	text-align:right;	
+	margin-right: 1.5%;
+
+
+}
+.div_view input,button
+{
+}

@@ -1,0 +1,252 @@
+﻿ .top_align
+{
+    position: absolute;
+    margin-top: 0%;
+    /*height: 11%;*/
+    height:40px;
+    width:99.5%;
+    left: 0;
+    background: #3b5998; /*Bmargin-left :0%;*/ /*margin-right :0%;*/
+    text-align: center;
+    margin-left: 0.2%;
+    margin-right: 0.5%;
+    top: 5px;
+}
+    .bottom_align
+{
+    /*border: 1px solid black;*/
+    margin-top: 0%;
+    width: 99%;
+    height: 12%;
+    position: absolute;
+    bottom: 0px;
+    left: 0; /* background:#858566;*/
+    background: #6699FF;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+    .main_frame
+    {
+       margin-top :0.2%; 
+      /* float:left;
+       width:100%;
+       height:97%;*/
+      /*B margin-left :0%;
+       margin-right :0%;*/
+     height:100%; 
+     min-height:100%;
+      
+      
+       /*background :RED;*/
+        border-style: groove;
+	    border-width: 1px;
+	    float:left;
+        width:99.5%;
+        /*height:481px;*/
+        padding:5px 0px 0px 5px;
+       /* background-color:Gray ;*/
+       
+    }
+    .span_header
+    {
+       /* border:1px solid pink;*/
+      /*  text-align :center;*/
+     float :left;
+     margin-right :98%;
+
+         margin-top :5%;
+         font-size : 15pt;
+         height :5%;
+         /*font-weight :bold;*/
+         font-family :Calibri ;
+         color:red;
+    }
+    .span_sub
+    {
+     width:98%;
+     float :left;
+      /* border:1px solid red;*/
+      /*margin-right :59%;*/
+      text-align :left ;
+      font-size : 15pt;
+      font-family : Times New Roman;
+      font-style :italic ;
+      color:white;
+    
+    }
+    .div_clear
+    {
+    clear :both;
+    }
+    .div_log
+    {
+        display: block;
+        clear: both;
+        width:98.9%;
+	    height:3%;
+        position:fixed;
+   left:0%;
+   bottom:0%;
+	  background :#E8E8E1;
+	  margin-left :0.5%;
+        margin-right :0.1%;   
+   
+       
+    }
+    .span_logo
+    {
+        text-align :left;
+        font-size : 10pt;
+        margin-top :0.3%;
+        /*margin-bottom :1%;
+        font-weight :bold;*/
+        font-family :sans-serif ;
+        font-size :8pt;
+        float:left;
+    }
+    .div_span_logo
+    {
+       /*float:right; 
+        margin-top :0.4%; 
+        margin-right :71.5%;*/
+        Height:3%;
+        float:left;
+        width :94.9%;
+        }
+    .div_img_bottom_logo
+    {
+        height:18px;
+        width:45px;  
+        background-color :Red; 
+        float:left;
+    }
+    .div_ImpExp
+    {
+        float:left ;
+       /*B margin-left :1%;
+ margin-right :1%;*/
+        margin-top :22%;
+       
+        text-align:center;
+        
+    }
+    .div_consol
+    {
+        text-align:center;
+        margin-left :0%;
+        margin-top :5%;
+        margin-bottom :2%;
+    }
+    .div_airExpImp
+    {
+        text-align:center;
+        margin-left :5%;
+        margin-bottom :0%;
+        margin-top :18%;
+        float :left;
+    }
+    .span_div_ImpExp
+    {
+        font-family :Agency FB ;
+        font-size : 13pt;
+        color :Black ;
+        text-align :center;  
+        font-weight :lighter ;
+    }
+    .div_agencyImpExp
+    {
+       
+        margin-left :1%;
+        margin-top :0.5%;
+        margin-right :1%;
+        color :Aqua ;
+        z-index :100;
+        
+    }
+    .div_text_bottom
+    {
+        margin-left :0.2%;
+        margin-top :0%;
+        margin-right :0%;
+      /* background-color :Aqua ;*/
+       height: 73%;
+       width:9.78%;
+       float: left ;
+       color:#333399;
+       font-weight:bold;
+    }
+    .div_Menu
+    {
+        float:left; 
+        margin-top :5.5%; 
+        width :99.9%; 
+        background-color:White;
+height:87.5%;
+    }
+
+.total
+{
+   /* width:100%;*/
+   width:100%; 
+
+}
+
+      .Maindiv
+       {
+        float:left; 
+        margin-top :7.3%; 
+        width :99.9%; 
+        height :485px;
+       /* border :1px solid black;*/
+        background-color:pink;
+            
+       }
+     .box1
+     {
+     /*  border: 1px solid black;*/
+       margin-left :2%;
+       height: 5%;
+       width:5%;
+         
+     }
+     .div_logout
+     {
+        /*border:1px solid black;*/
+         margin-left :97%;
+		 margin-top:-1.5%;
+         }
+     .div_Exp_btn
+     {
+        bottom :0%;
+        margin-top :0%;
+        margin-left :97.6%;
+        height:2%;
+        width:3%;
+        /* border:1px solid black;*/
+         border-radius: 80px 80px 80px 80px;
+         
+     }
+     .div_btn_gt
+     {
+         border-radius: 80px 80px 80px 80px;
+        /* border:1px solid black;*/
+     }
+     .div_footer
+     {
+       Height:78%;
+       width:99.8%;
+      /* border-left :1px solid black; 
+       border-right :1px solid black;  
+       border-bottom :1px solid black; 
+       border-top:1px solid black;*/
+       
+     }
+
+.span_div_ImpExpOc
+    {
+        font-family :Agency FB ;
+        font-size : 13pt;
+        color :Black ;
+       
+        font-weight :lighter ;
+    }

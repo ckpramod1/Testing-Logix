@@ -1,0 +1,197 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 99%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+
+.div_break
+{
+    clear: both;
+}
+.divTotal
+{
+   
+    width:1000px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+
+.div_Month
+{
+    float: left;
+    width: 5%;
+    margin-left: 8%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_Monthddl
+{
+    float: left;
+    width: 15%;
+    margin-left: 6.5%;
+    margin-top: 0.5%;
+    text-align:left;
+}
+.div_Monthddl input,Select
+{
+    width: 100%;
+}
+
+.div_Fromtxt{
+ float: left;
+    width: 10%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_Fromtxt input,Text{
+     width: 100%;
+}
+
+.div_Totxt{
+    float: left;
+    width: 10%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_Totxt input,Text{
+      width: 100%;
+}
+
+.div_ddlMonthYarn{
+    float: left;
+    width: 15%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_ddlMonthYarn input,select{
+     width: 100%;
+}
+
+.div_btnGet{
+     float: left;
+    width: 5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_label
+{
+    float: left;
+    width: 3%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt
+{
+    float: left;
+    width: 4%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input,Text
+{
+    width: 100%;
+}
+.div_lbl
+{
+    float: left;
+    width: 48.9%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Grid
+{
+    float: left;
+    width: 100%;
+    overflow: auto;
+    margin-left: 0%;
+    margin-top:0%;
+    margin-bottom:0%;
+    height:100px;
+}
+.div_Grd
+{
+    float: left;
+    width: 100%;
+    overflow: auto;
+    margin-left:0%;
+    margin-bottom:0%;
+    margin-top:0.5%;
+    height:100px;
+    border:1px solid #b1b1b1;
+    
+}
+.div_btn
+{
+    width: 21%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_Company_Header
+{
+    width: 33%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.div_Company_Header_Name
+{
+    width: 33%;
+    float: left;
+    margin-top: 0.5%;
+    font-weight: bold;
+    border-right: 1px solid white;
+}
+.div_Company_Header_Emp
+{
+    width: 22%;
+    float: left;
+    margin-top: 0.5%;
+    font-weight: bold;
+    border-right: 1px solid white;
+}
+.div_Company_Header_Month
+{
+    width: 20%;
+    float: left;
+    margin-top: 0.5%;
+    font-weight: bold;
+    border-right: 1px solid white;
+}
+.div_Grd_Header_Annum
+{
+    width: 22%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.3%;
+    font-weight: bold;
+}
+.div_Company_Header_EmpName
+{
+    width: 55%;
+    float: left;
+    margin-top: 0.5%;
+    font-weight: bold;
+    border-right: 1px solid white;
+}
+.div_Grd_Column
+{
+    width: 150px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

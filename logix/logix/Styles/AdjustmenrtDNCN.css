@@ -1,0 +1,239 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 61.2%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Date_lbl
+{
+    width: 37%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_lbl
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, Text
+{
+    width: 100%;
+}
+.div_txt_Date
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_Date input, Text
+{
+    width: 100%;
+}
+.div_txt_To
+{
+    width: 57%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_To input, Text
+{
+    width: 100%;
+}
+.div_CrDr
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_CrDr input, select
+{
+    width: 100%;
+}
+.div_Type
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Type input, select
+{
+    width: 100%;
+}
+.div_Ledger
+{
+    width: 33%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Ledger input, text
+{
+    width: 100%;
+}
+.div_Amount
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Amount input, text
+{
+    width: 100%;
+}
+.div_Ref
+{
+    width: 33%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Ref input, text
+{
+    width: 100%;
+}
+.div_Currency
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Currency input, text
+{
+    width: 100%;
+}
+.div_ExRate
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ExRate input, text
+{
+    width: 100%;
+}
+.div_Add_btn
+{
+    width: 4.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Add_btn input, submit
+{
+    width: 100%;
+
+}
+.div_Particular
+{
+    width: 60%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:center;
+    color:Navy;
+    font-weight:bold;
+}
+.div_Narration
+{
+    width: 35%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Total
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_Total_txt
+{
+    width: 7.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Total_txt input, submit
+{
+    width: 100%;
+    text-align:right;
+}
+.div_Narration_txt
+{
+    width: 60%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Narration_txt input, submit
+{
+    width: 100%;
+}
+.div_txt_Referance
+{
+    width: 51%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_Referance input, Text
+{
+    width: 100%;
+}
+.div_btn
+{
+    width: 60.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_btn input, submit
+{
+    width: 8%;
+    margin-left:3%;
+}
+.div_Grid
+{
+    width: 60.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    overflow:auto;
+}
+
+

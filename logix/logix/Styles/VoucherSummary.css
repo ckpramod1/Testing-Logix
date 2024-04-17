@@ -1,0 +1,74 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 95%;
+}
+.div_total
+{    
+    width:950px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+    clear: both;
+}
+
+.div_date
+{    
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_date input, Text
+{
+    width: 100%;
+}
+
+.div_date1
+{    
+    width:8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_date1 input, Text
+{
+    width: 100%;
+}
+
+.div_ddl
+{
+    width: 27%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+    margin-bottom: 0px;
+}
+.div_ddl input, Select
+{
+    width: 100%;
+}
+.div_Grid
+{
+    width: 100%;
+    height:412px;
+    float: left;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom:1%;
+}
+.div_btn_Export
+{    
+    float: right;
+    margin-right: 0.65%;
+    margin-top: 1%;
+    margin-bottom: 0.5%;
+    text-align:right;
+}

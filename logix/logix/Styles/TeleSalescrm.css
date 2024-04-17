@@ -1,0 +1,189 @@
+﻿
+.div_total
+{
+  /*border:1px solid black;*/
+  width :940px;
+  height:100%;
+   background-color:#F5F5F2;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15); 
+
+ -webkit-border-radius: 5px 5px 5px 5px;
+  -moz-border-radius   : 5px 5px 5px 5px;
+  border-radius        : 5px 5px 5px 5px;
+}
+
+.div_Main
+{
+    float:left;
+    background-color:#333399;
+    width:97%;
+    height:16px;
+    border-bottom :1px solid black;
+}
+
+.DivMainLable
+{
+background-color:#ffffff;
+width:100%;
+height:12%;
+border-bottom :1px solid black;
+}
+
+.DivHeaderlbl
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:#333399;
+    margin-left:0.5%;
+    margin-top:0.5%;
+   
+}
+
+.DivJoblbl
+{
+width:9%;
+height:13px;
+float:left;
+margin-top:0.2%;
+margin-left:1%;
+color:darkblue;
+text-align:left;
+
+}
+
+.DivJobTxt
+{
+width:91.2%;
+height:6%;
+float:left;	
+margin-top:0.2%;
+margin-left:1%;
+
+}
+
+.divRadioList
+{
+    width:27%;
+    height:12%;
+    margin-top:0.2%;
+    /*border:1px solid red;*/
+    float:left;
+    /*margin-left:2%;*/
+}
+
+.div_Break
+{
+    clear:both;
+}
+
+.GridPalTele
+{
+    width:98.8%;
+    height:415px;
+    border:1px solid black;
+    margin-bottom:0.5%;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+
+.Hide
+    {
+        display: none;
+        
+    }
+
+.DivClear
+{
+    width:5.2%;
+    /*border:1px solid red;*/
+    margin-top:0.2%;
+    float:left;
+    margin-left:1%;
+}
+
+.DivStatelbl
+{
+width:5%;
+height:13px;
+float:left;
+margin-top:1%;
+margin-left:1%;
+color:darkblue;
+text-align:left;
+
+}
+
+.DivStateTxt
+{
+width:21.1%;
+height:6%;
+float:left;	
+margin-top:0.5%;
+margin-left:1%;
+}
+
+.DivDistictlbl
+{
+width:6.2%;
+height:13px;
+float:left;
+margin-top:0.5%;
+margin-left:0.5%;
+color:darkblue;
+text-align:left;
+
+}
+
+.DivDistictTxt
+{
+width:22%;
+height:6%;
+float:left;	
+margin-top:0.5%;
+margin-left:1%;
+}
+
+
+.DivLocationlbl
+{
+width:8%;
+height:13px;
+float:left;
+margin-top:1%;
+margin-left:0.5%;
+color:darkblue;
+text-align:left;
+
+}
+
+.DivLocationTxt
+{
+width:24%;
+height:6%;
+float:left;	
+margin-top:0.5%;
+margin-left:1%;
+}
+
+.GRidLeftAlign
+{
+    /*margin-left:20%;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

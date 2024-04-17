@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin xmlns="http://www.crystaldecisions.com/CrystalEnterprise_pin.xsd">
+	<propertybag name="CrystalEnterprise.MetaData.DataFoundation" type="Infoobject" flags="0">
+		<property name="SI_PROGID" type="String" flags="0">CrystalEnterprise.MetaData.DataFoundation</property>
+		<property name="SI_NAME" type="String" flags="0">CrystalEnterprise.MetaData.DataFoundation</property>
+		<property name="SI_PLUGIN_CLASSID" type="String" flags="0">{5399A1AD-A250-4732-8C0D-B605E6DDAFDA}</property>
+		<property name="SI_PLUGIN_PINFILE" type="String" flags="0">CrystalEnterprise_MetaData_DataFoundation_pin.xml</property>
+		<property name="SI_PARENTID" type="Long" flags="0">27</property>
+		<property name="SI_PLUGIN_VERSION" type="String" flags="0">10.0.0.0</property>
+		<property name="SI_PLUGIN_MUSTCREATEUNDERROOTFOLDER" type="Bool" flags="0">True</property>
+		<property name="SI_PLUGIN_ROOTFOLDERID" type="Long" flags="0">98</property>
+		<property name="SI_PLUGIN_LEVEL" type="Long" flags="0">3</property>
+	</propertybag>
+</plugin>

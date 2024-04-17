@@ -1,0 +1,227 @@
+﻿.div_totalEmpchangepass
+{
+   
+    width:650px;     
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.div_lbl_Header
+{
+    background-color: #333399;
+    color: White;
+    width: 99.7%;
+    margin-left: 0.20%;
+    margin-top: -1%%;
+    font-weight: bold;
+   /* border:1px solid black;*/
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbl_EmpName
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_EmpName
+{    
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;   
+
+}
+.div_txt_EmpName input, Select
+{
+    width: 100%;
+}
+.div_lbl_Division
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_Division
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    
+}
+.div_txt_Division input, Select
+{
+    width: 100%;
+}
+.div_lbl_Branch
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_Branch
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top:0.5%;
+   
+}
+.div_txt_Branch input, Select
+{
+    width: 100%;
+}
+
+.div_lbl_Department
+{
+   width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_Department
+{   
+    width: 50%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_Department input, Select
+{
+    width: 100%;
+}
+
+.div_lbl_Designation
+{
+   /*width: 15%;
+    float: left;
+    margin-left: 1.25%;
+    margin-top: 0.5%;
+    text-align: right;*/
+
+  /* width: 13%;
+    height: 13px;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    text-align: left;*/
+    width: 15%;
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+
+.div_txt_Designation
+{    
+    width: 47%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    text-align:left;
+}
+.div_txt_Designation input, Select 
+{
+    width: 100%;
+}
+
+.div_lbl_OldPassword
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_OldPassword
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+   
+}
+.div_txt_OldPassword input, Select
+{
+    width: 100%;
+}
+.div_lbl_NewPassword
+{
+   width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_NewPassword
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+   
+}
+.div_txt_NewPassword input, Select
+{
+    width: 100%;
+}
+.div_lbl_ConfirmPassword
+{
+   width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_txt_ConfirmPassword
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;    
+}
+.div_txt_ConfirmPassword input, Select
+{
+    width: 100%;
+}
+
+.div_lbl_chara
+{
+    width: 70%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-left:1%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_btn
+{
+    float: right;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 0.5%;
+    text-align:right;
+}
+

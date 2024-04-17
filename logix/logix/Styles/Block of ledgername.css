@@ -1,0 +1,83 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 68%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbl 
+{
+    width:10%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txt
+{
+    float:left;
+    width:30%;
+    margin-left:1%;
+    margin-top:1%;
+    height: 19px;
+}
+.div_txt input ,text
+{
+    width:100%;
+}
+.div_lbl1 
+{
+    width:6%;
+    float: left;
+    margin-left:4%;
+    margin-top:1%;
+}
+.div_drop1
+{
+    width:17%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_drop1 input ,select
+{
+	width:100%;
+}
+.div_btn
+{
+    float:right;
+    width:6%;
+    margin-right:1%;
+    margin-top:1%;
+}
+.div_btn input ,button
+{
+	width:100%;
+}
+.div_btn1
+{
+    float:right;
+    width:6%;
+    margin-right:30%;
+    margin-top:1%;
+}
+.div_btn1 input ,button
+{
+	width:100%;
+}
+.div_btn2
+{
+    float:left;
+    width:6%;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_btn2 input ,button
+{
+	width:100%;
+}

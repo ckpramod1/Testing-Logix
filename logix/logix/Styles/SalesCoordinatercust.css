@@ -1,0 +1,42 @@
+﻿.divTotal {
+    width: 650px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.Divsalcoord
+{  
+   width:97.5%;   
+   float:left;	
+   margin-left:1%;
+   margin-top:0.5%;	
+   margin-right:0.2%;
+}
+.Gridpln
+{
+      width:100%;
+      height:415px;
+    border:1px solid #b1b1b1;
+    margin-bottom:1%;
+    margin-top:1%;
+    margin-right:0%;
+    margin-left:0%;
+    overflow:auto;
+}
+.DivButton
+{
+    float:right;
+    margin-right:0.7%;
+    margin-bottom:1%;
+}

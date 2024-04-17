@@ -1,0 +1,255 @@
+﻿.div_total
+{
+   width:550px;
+    /*height:100%;*/
+    /*border:1px solid black;*/ 
+    
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 90.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+}
+.div_lbl_flight
+{
+    width: 8%;
+    height: 13px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Jobno
+{
+    width: 20%;   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_Jobno INPUT
+{
+    width: 100%;
+}
+.div_lbl_lnkrate
+{    
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left; 
+}
+
+.div_txt_Flight
+{
+    width: 55%;   
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt_Flight INPUT
+{
+    width: 100%;
+}
+.div_lbl_flydt
+{
+    width: 10%;
+    height: 13px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_dtFDate
+{
+    width: 15%;
+    height: 17px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_txt_dtFDate INPUT
+{
+    width: 100%;
+}
+.div_break
+{
+    clear: both;
+}
+.div_lbl_agent
+{
+    width: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+    height: 14px;
+}
+.div_txt_Agent
+{
+    width: 97.6%;   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_Agent INPUT
+{
+    width: 100%;
+}
+.div_lbl_airline
+{
+    width: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+    height: 14px;
+}
+.div_txt_AirLine
+{
+    width: 97.6%;   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_AirLine INPUT
+{
+    width: 100%;
+}
+.div_lbl_pol
+{
+    width: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+    height: 14px;
+}
+.div_txt_PoL
+{
+    width: 40.7%;   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_PoL INPUT
+{
+    width: 100%;
+}
+.div_txt_PoD
+{
+    width: 40.7%;   
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt_PoD INPUT
+{
+    width: 100%;
+}
+.div_lbl_pod
+{
+    width: 10%;
+    height: 12px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_candt
+{
+    width: 10%;
+    height: 12px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_dtFDate
+{
+    width: 14.7%;   
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt_dtFDate INPUT
+{
+    width: 100%;
+}
+
+.div_txt_dtFDate1
+{
+    width: 14.7%;   
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt_dtFDate1 INPUT
+{
+    width: 100%;
+}
+.buy_btn
+{    
+    float: right;
+    margin-top: 1%;
+    margin-right:1.1%;
+    text-align: right;
+    margin-bottom:1%;
+}
+.div_grd_CAN
+{
+    width: 100%;
+    /*margin-left: 1%;*/
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.div_grd_CAN input
+{
+    width: 98%;
+}
+.div_grdrat
+{
+    width: 98%; 
+	height:90%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-left:1%;
+	text-align:center;
+	float:left; 
+}
+.div_grdrat input
+{
+    width: 100%;
+}
+.div_close_voucher
+{
+	cursor: pointer;
+	float: right;
+}
+.div_popup
+{
+	float: left;
+	width: 100%;
+	height: 70%;    
+	background-color:White;
+}
+.div_popup1
+{
+	float: left;
+	width: 100%;
+	height: 70%;
+	background-color:White;
+}
+
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+

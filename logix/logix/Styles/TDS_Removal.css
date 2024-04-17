@@ -1,0 +1,132 @@
+﻿.div_total
+{    
+    width:750px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_dividdl
+{
+    float: left;
+    width: 48%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_dividdl input, Select
+{
+    width: 100%;
+}
+.div_branchddl
+{
+    float: left;
+    width: 20%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_branchddl input, Select
+{
+    width: 100%;
+}
+
+.div_vouddl
+{
+    float: left;
+    width: 23%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_vouddl input, Select
+{
+    width: 100%;
+}
+.div_vou_date
+{
+    float: left; 
+    margin-top: 1%;
+    margin-left: 1%;   
+}
+.div_vou_from
+{
+    float: left;
+    width: 4%;
+    margin-top: 1%;
+    margin-left: 0.5%;   
+}
+.div_datetxt
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_datetxt input, Text
+{
+    width: 100%;
+}
+.div_date
+{
+	width: 3%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+.div_datetxt
+{
+	width: 8%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_datetxt input, Text
+{
+    width:100%;
+}
+
+.div_date1
+{
+	width: 1%;
+	float: left;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+.div_datetxt
+{
+	width: 10%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_datetxt input, Text
+{
+    width:100%;
+}
+.div_btnGet
+{	
+	float: right;
+	margin-right: 1%;
+	margin-top: 0.5%;
+}
+.div_btnGet1
+{	
+	float: right;
+	margin-right: 1%;
+	margin-top: 0.5%;
+}
+.div_Grid
+{
+    /*width: 93%;
+    height:250px;
+    float: left;
+    margin-left: 1%;
+    margin-right: 0.5%;
+    margin-top: 1%;  
+    border:1px solid Gray;
+    overflow:auto;*/
+     width: 97.5%;
+    float: left;    
+    margin-left:1%;       
+    margin-bottom:1%;
+    height:250px;
+    border:1px solid Gray;
+}

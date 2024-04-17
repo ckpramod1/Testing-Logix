@@ -1,0 +1,97 @@
+﻿.div_total
+{
+    width :750px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+     
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 89%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+}
+.div_lbl_cfs
+{
+    width: 7%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+     margin-top: 1%;
+    text-align: left;
+}
+.div_txt_cfs
+{
+    width: 50%;
+   
+    float: left;
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+.div_txt_cfs INPUT
+{
+    width: 100%;
+}
+.Cargo_break
+{
+    clear:both;
+}
+.div_lbl_cargo
+{
+    width: 11%;
+    height: 10%;
+    float: left; 
+    margin-left: 1.5%;
+     margin-top: 1%;
+    text-align: left;
+}
+.div_txt_dtPickOn
+{
+    width: 10%;   
+    float: right;
+    margin-right: 1.4%;
+    margin-top: 1.5%;
+}
+.div_txt_dtPickOn INPUT
+{
+    width: 100%;
+}
+.div_btn
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right: 1%;
+    margin-top:1%;
+    margin-bottom:1%;
+    text-align: right;
+    /*padding-left:10%;*/
+}
+
+.div_grd
+{
+    width:100%;
+    /*margin-left: 1%;*/
+    margin-top:1%;
+    /*margin-bottom:1%;*/
+    margin-left:0%;
+    height:400px;
+    overflow:auto;
+    border:1px solid gray;
+}
+.div_grd input
+{
+    width: 98%;
+}

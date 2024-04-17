@@ -1,0 +1,134 @@
+﻿.div_total
+{
+    /*width:35%;*/
+     width:500px;
+    /*border:1px solid black;*/
+    /*background-color:#a5b0f2;*/
+      background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+   height :100%;
+}
+
+.div_Grid
+{
+width:98%;
+margin-bottom:1%;
+  margin-right:1%;
+ margin-top:-3%;
+ margin-left:1%;
+ text-transform:uppercase;
+ 
+ /*border :1px solid red;*/
+ overflow: hidden;
+}
+.div_grd2
+{
+   
+    
+  
+    width:98%;
+   Height:205px;
+    
+    margin-left:1%;
+    margin-bottom:1%;
+    margin-top:1%;
+
+}
+.div_txt_Search
+{
+    width: 97.5%;  
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+    
+}
+.div_txt_Search input,Text
+{
+    width:100%;
+}
+.GridHeader_my
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-1.5%
+   
+}
+.div_label
+{
+/*border:1px solid black;*/
+width:16%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.5%;
+text-align:right;
+
+}
+
+.div_header
+{
+    background-color:Navy;
+width:98.5%;
+height:10%;
+border-bottom :1px solid black;
+padding:3px;
+}
+.LabelValue
+{
+    font-family:sans-serif;
+    font-size:8pt;
+    color:black;
+    font-weight:normal;
+    float:left;
+    
+}
+.div_TB
+{
+    /*border:1px solid black;*/
+width:97.3%;
+float:left;	
+margin-left:1%;
+margin-top:1.5%;
+}
+.Text
+{
+    font-family:sans-serif;
+    font-size:8pt;
+    font-style:normal;
+    border-style:solid;
+    border-width:1px;   
+    border-color :Black; 
+    width:100%;
+    
+    }
+    .Button
+{
+    font-family:sans-serif;
+    font-size:8pt;
+    cursor:hand;
+    float:right;
+    
+    }
+    
+.div_break
+{
+    clear:both;
+}
+
+.buy_btn
+{
+   
+    float: right;
+    margin-left:1%;
+     /*margin-top: 0.5%;*/ /*margin-left:1%;*/ 
+     margin-right:1%;
+    text-align: right;  
+    width: 480px;
+}

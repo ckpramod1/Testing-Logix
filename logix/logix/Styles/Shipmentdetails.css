@@ -1,0 +1,519 @@
+﻿.div_total
+{    
+    width:1090px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+.div_Main
+{
+	background-color: #0061AE;
+    color : White ;
+	width: 100%;
+	/*margin-left: 1%;*/
+	/*margin-top: 1%;*/
+	margin-bottom: 1%;
+	/*font-weight: bold;*/
+    font-size:10pt;
+}
+.div_lblbranch
+{
+	width: 5%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 1%;
+    height: 15px;
+}
+
+.div_ddlbranch
+{
+	width: 12%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_ddlmonth input, select
+{
+	width: 100%;
+}
+
+.div_lblproduct
+{
+	width: 5%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+
+
+.div_ddlproduct
+{
+	width: 15%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_ddlproduct input, select
+{
+	width: 100%;
+}
+
+.div_lblby
+{
+	/*width: 3%;*/
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+
+
+.div_ddlby
+{
+	width: 14%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_ddlby input, select
+{
+	width: 100%;
+}
+.div_frm
+{
+	/*width: 4%;*/
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+.div_fromcal
+{
+	width: 8%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+    margin-bottom: 1%;
+}
+
+.div_to
+{
+	/*width: 2%;*/
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+.div_tocal
+{
+	width: 8%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+    margin-bottom: 1%;
+}
+
+.div_btnget
+{
+	/*width: 6%;*/
+	float: right;
+	margin-top: 0.5%;
+	margin-right: 1%;
+}
+
+.div_btncancel
+{
+	/*width: 6%;*/
+	float: left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+/*.div_btncancel input, button
+{
+	width: 100%;
+}*/
+.div_Break
+{
+	clear: both;
+}
+.div_Leftmain
+{
+	width: 22%;
+	float:left;
+	margin-top:1%;
+    margin-left:0.5%;
+}
+.div_Rightmain
+{
+	width: 77.5%;
+	float:left;
+    margin-left :-0.5%;
+	margin-top:-0.5%;
+    /*border:1px solid gray;*/
+}
+.div_panel
+{
+     width:850px;
+    height:250px;
+   
+}
+.div_linkjob
+{
+	width: 33%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_linkjob input, button
+{
+	width: 80%;
+}
+.div_linkhbl
+{
+	width: 33%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_linkhbl input, button
+{
+	width: 80%;
+}
+.div_spiltbl
+{
+	width: 30%;
+	float: left;
+	margin-bottom: 1.5%;
+	margin-left: 0.2%;
+}
+.div_linkjobtxt
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right: 0.5%;
+	margin-bottom: 1.5%;
+}
+.div_linkjobtxt input,Text
+{
+	width: 100%;
+}
+
+.div_linkhbltxt
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right: 0.5%;
+	margin-bottom: 1.5%;
+}
+.div_linkhbltxt input,Text
+{
+	width: 80%;
+}
+
+.div_splitbltxt
+{
+	width: 34%;
+	float: left;
+	margin-right: 1%;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_splitbltxt input,Text
+{
+	width: 80%;
+}
+.div_linkjobtxt input,Text
+{
+	width: 80%;
+}
+.div_lblfcl
+{
+	width: 10%;
+	float: left;
+	margin-left: 0.5%;
+	margin-bottom: 1.5%;
+}
+.div_lblfcl20
+{
+	width: 30%;
+	float: left;
+	margin-left:0.2%;
+	margin-bottom: 1.5%;
+}
+.div_lblfcl40
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_lblfcltues
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_txtfcl20
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtfcl20 input,Text
+{
+	width: 80%;
+}
+.div_txtfcl40
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtfcl40 input,Text
+{
+	width: 80%;
+}
+.div_txtfcltues
+{
+	width: 34%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtfcltues input,Text
+{
+	width: 80%;
+}
+.div_lblconsole
+{
+	width: 20%;
+	float: left;
+	margin-left: 0.5%;
+	margin-bottom: 1.5%;
+	
+}
+.div_lblconsol20
+{
+	width: 30%;
+	float: left;
+	margin-left:0.2%;
+	margin-bottom: 1.5%;
+}
+.div_lblconsol40
+{
+	width: 30%;
+	float: left;
+	margin-left:0.2%;
+	margin-bottom: 1.5%;
+}
+.div_lblconsolcbm
+{
+	width: 30%;
+	float: left;
+	margin-left:0.2%;
+	margin-bottom: 1.5%;
+}
+.div_txtconsol20
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtconsol20 input,Text
+{
+	width: 80%;
+}
+.div_txtconsol40
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtconsol40 input,Text
+{
+	width: 80%;
+}
+.div_txtconsolcbm
+{
+	width: 34%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtconsolcbm input,Text
+{
+	width: 80%;
+}
+.div_lbllcl
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_lblAE
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_lblcha
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_txtcha
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtcha input,Text
+{
+	width: 80%;
+}
+.div_lblcbm
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_lblGW
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_lblShpts
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-bottom: 1.5%;
+}
+.div_txtcbm
+{
+    width : 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtcbm input,Text
+{
+	width: 80%;
+}
+.div_txtGW
+{
+	width: 30%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtGW input,Text
+{
+	width: 80%;
+}
+.div_txtShpts
+{
+	width: 34%;
+	float: left;
+	margin-left: 0.2%;
+	margin-right:0.5%;
+	margin-bottom: 1.5%;
+}
+.div_txtShpts input,Text
+{
+	width: 80%;
+}
+.div_Grid
+{
+	width: 99%;
+	float :left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_Grid1
+{
+	width: 99%;
+	float :left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+}
+.div_Grid2
+{
+	width: 94%;
+     height:200px;
+	float :left;
+     margin-bottom:1%;
+	margin-left: 0.5%;
+	margin-top: 1%;
+    border:1px solid gray;
+
+  
+}
+.div_Grid_Job
+{
+	width: 100%;
+	float :left;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+	margin-bottom: 1.5%;
+}
+.text
+{
+	 font-family:sans-serif;
+    font-size:8pt;
+    font-style:normal;
+    border-style:solid;
+    border-width:1px;
+    margin-left: 0px;
+    border-color:Black ;
+    text-align :right;
+}
+
+.GridPalICD
+{
+   
+     width:100%;
+     height:420px;
+    border:1px solid gray;
+    float:left;
+    margin-bottom:1%;
+    margin-left:-0.5%;
+    /*margin-top:0.5%;*/
+    margin-right:0.5%;
+}

@@ -1,0 +1,193 @@
+﻿
+.div_total
+{
+    width:820px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width:83%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    float: left;
+    width: 8%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right
+}
+.div_lbl
+{
+    float: left;
+    width: 11%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right
+}
+.div_Grid
+{
+    width:100%;
+       margin-left :0%;
+       margin-top:0%;
+       margin-bottom:0%;
+       Border :1px solid  #b1b1b1;
+}
+
+.div_Company
+{
+    float: left;
+    width: 36%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Company input, text
+{
+    width: 100%;
+}
+.div_txtDesignation
+{
+
+    float: left;
+    width: 36%;
+    margin-left:1%;
+    margin-top: 0.5%;
+}
+.div_txtDesignation input, text
+{
+  width: 100%;
+}
+.div_txtdept
+{
+    float: left;
+    width: 36%;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_txtdept input, text
+{
+    width: 100%;
+}
+
+.div_txtemp
+{
+    float: left;
+    width: 36%;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_txtemp input, text
+{
+    width: 100%;
+}
+.div_yeartxt
+{
+    float: left;
+    width: 5%;
+    margin-left:0.1%;
+    margin-top: 0.5%;
+}
+.div_yeartxt input, text
+{
+    width: 100%;
+}
+
+.div_workday
+{
+    float: left;
+    width: 5%;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_workday input, text
+{
+    width: 100%;
+}
+.div_ddlmonth
+{
+    float: left;
+    width: 13%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddlmonth input, select
+{
+    width: 100%;
+}
+.div_txtmonth
+{
+    float: left;
+    width:13%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtmonth input, text
+{
+    width: 100%;
+}
+.div_Getbtn
+{
+    width: 5.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Getbtn input, submit
+{
+    width: 95%;
+    margin-left: 2%;
+}
+.div_Getbtn2
+{
+    width:5.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+    .div_Getbtn2 input, submit {
+        width: 95%;
+        margin-left: 2%;
+    }
+.div_btn
+{
+         float:right;        
+        margin-right:0.8%;
+        margin-top :0.3%;
+}
+
+.div_Grid
+{
+    width: 100%;
+    height:250px;
+    float: left;
+    margin-left: 0%;
+    overflow:auto;
+    margin-top: 0%;
+    margin-bottom:0.5%;
+}
+.div_Emp
+{
+    width: 140px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.div_Desg
+{
+    width: 110px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

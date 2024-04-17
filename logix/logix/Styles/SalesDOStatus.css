@@ -1,0 +1,57 @@
+﻿.div_total
+{
+  /*border:1px solid black;*/
+  width :400px;
+  /*height:100%;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_txt_sales
+{
+    width:98%;
+    margin-left:1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.div_txt_sales input
+{
+	width:100%;
+}
+.div_Break
+{
+	clear:both;
+}
+.div_txt_From
+{
+	width: 49%;
+	height: 17px;
+	float: left; 	
+	margin-bottom: 1%;
+	margin-left:1%;
+}
+.div_txt_From input
+{
+	width:100%;
+}
+.div_txt_To
+{
+	width: 48%;
+	height: 17px;
+	float: left; 	
+	margin-bottom: 1%;
+	margin-left:1%;
+}
+.div_txt_To input
+{
+	width:100%;
+}
+.div_btn 
+{   
+	margin-top: 0.5%;
+	float: right;
+	text-align: right;
+	margin-right: 1%;
+}

@@ -1,0 +1,727 @@
+﻿
+.divTotal
+{
+   
+    width:600px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+.DivHeaderlbl
+{
+    width:100%;
+    font-size: 9pt;
+    font-family: Arial;
+    font-weight: bold;
+    color: White;
+    margin-left: 0.5%;
+}
+.div_break
+{
+    clear: both;  
+}
+.div_label
+{
+    width: 9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Tab
+{
+    padding: 3px 4px;  
+    width: 8%;
+    float: left;
+    font-family:sans-serif;
+   
+}
+.div_TabClick
+{
+    padding: 3px 4px;
+    border-top: 1px solid #b1b1b1;
+        border-left: 1px solid #b1b1b1;   
+        border-right: 1px solid #b1b1b1; 
+   
+    border-bottom: none;
+    width: 8%;
+    float: left;
+    background-color:#fff;
+    z-index:99999;
+    position:relative;
+    margin:-1px 0px 0px 0px;
+}
+a.LabelValue:hover {
+    color:#aaafb5!important;
+}
+.LabelValue {
+    color: #4e4c4c !important;
+    font-family: tahoma!important;
+    font-size: 12px!important;
+    font-weight: normal!important;
+    text-align: right!important;
+}
+
+.div_Tab:hover
+{
+    background: #0077c9;
+    color: #4e4c4c!important;
+}
+.div_Head
+{
+    background-color: #333399;
+    width: 100%;
+    margin-left: 1%;
+    margin-top:0.8%;
+    font-weight: bold;
+    color:White;
+}
+.Pln
+{
+    position: static;
+    /*border: 1px solid #000000;*/
+    background-color: #ffffff;
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 0.8%;
+    width: 98%;
+}
+.div_Table
+{
+    width: 100%;
+    float: left;
+}
+.div_Left
+{
+    width: 81.5%;
+    float: left;
+    /*border: 1px solid red;*/
+}
+.div_right
+{
+  /*border: 1px solid blue;*/
+    width: 8%;
+    height:100%;
+    float: left;
+margin-top: 0.5%;
+    /*margin-left: 1%;
+    margin-top: 0.8%;*/
+}
+
+.div_EmptxtNew
+{
+    float: left;
+    width: 84.7%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+
+.div_label
+{
+    float: left;
+    width: 12%;
+    /*margin-left: 1%;*/
+    margin-top:1.2%;
+    text-align: right;
+}
+.div_Emptxt
+{
+    float: left;
+    width: 97.8%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_Emptxt input, Text
+{
+    width: 100%;
+}
+
+.div_Nameddl
+{
+    float: left;
+    width: 12%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_Nameddl input, Select
+{
+    width: 100%;
+}
+.div_Nametxt
+{
+    float: left;    
+    width: 86%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_Nametxt input, Text
+{
+    width: 98.5%;
+}
+.div_Img
+{
+    float: left;
+    min-width: 100%;
+    min-height: 100%;
+    margin-top: 0.5%;
+    text-align: center;
+}
+.div_Address_lbl
+{
+    float: left;
+    width: 11%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt
+{
+    float: left;
+    width: 10%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_DOBtxt
+{
+    float: left;
+    width: 30%;
+    margin-left:0.8%;
+    margin-top: 0.8%;
+}
+.div_DOBtxt input, Text
+{
+    width: 100%;
+}
+.div_Grouptxt
+{
+    float: left;
+    width: 30%;
+    margin-left:1%;
+    margin-top: 0.8%;
+}
+.div_Grouptxt input, Text
+{
+    width: 100%;
+}
+.div_lblgroup
+{
+    float: left;
+    width: 5%;
+    margin-left: 1.2%;
+    margin-top: 0.5%;
+}
+.div_upload
+{
+    float: left;
+    width: 23%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+
+
+.Updbtn
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;
+    color: White;
+    vertical-align: bottom;
+}
+.Updbtn:hover
+{
+    color: black;
+    cursor: pointer;
+}
+.div_address
+{
+    float: left;
+    width: 97.5%;
+    margin-left: 0.8%;
+    margin-top: 0.8%;
+}
+.div_address input, Text
+{
+    width: 100%;
+}
+.div_mobile_txt
+{
+    float: left;
+    width: 34.2%;
+    margin-left: 0.8%;
+    margin-top: 0.8%;
+}
+.div_mobile_txt input, Text
+{
+    width: 96%;
+}
+
+.div_mobiletxt
+{
+    float: left;
+    width: 31%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_mobiletxt input, Text
+{
+    width: 96%;
+}
+.div_mobile
+{
+    float: left;
+    width: 10%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_land
+{
+    float: left;
+    width: 5.5%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Emailtxt
+{
+    float: left;
+    width: 42.1%;
+    margin-left: 0.8%;
+    margin-top: 0.8%;
+}
+
+.div_scbtxt
+{
+    float: left;
+    width: 66.2%;
+    margin-left: 0.8%;
+    margin-top: 0.8%;
+}
+
+.div_pan
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+
+.div_Button
+{
+    float:right;
+    margin-right:0.7%;
+    margin-top:0.8%; 
+    margin-bottom: 0.8%;
+}
+
+.div_btn
+{
+  float: left;
+    width: 10%;
+    margin-left: 3.5%;
+    margin-top: 0.8%;   
+}
+
+.modalBackgroundjob
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    float: right;
+    cursor: pointer;
+}
+
+
+.div_frame
+{
+    width: 100%;
+    height: 100%;
+    float: left;
+    vertical-align: top;
+}
+.frames
+{
+    width: 100%;
+    height: 90%;
+}
+.div_Edu
+{
+    width: 98%;
+    float: left;
+    border: 1px solid black;
+    height: 10%;
+    margin-left: 1%;
+    margin-top:0.8%;
+}
+.div_Edulabel
+{
+    width: 7%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.div_EduEmplabel
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.div_EduEmpNamelabel
+{
+    width: 68%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.div_EduQualifi
+{
+    width: 28%;
+    float: left;
+    margin-left: 1%;
+    margin-top:0.8%;
+}
+.div_EduQualifi input, Text
+{
+    width: 100%;
+}
+.div_EduMonth
+{
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    margin-top:0.8%;
+}
+.div_EduMonth input, Select
+{
+    width: 100%;
+}
+.div_EduYear
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top:0.8%;
+}
+.div_EduYear input, Text
+{
+    width: 100%;
+}
+.div_EduPrecentage
+{
+    width: 24.8%;
+    float: left;
+    margin-left: 1%;
+    margin-top:0.8%;
+}
+.div_EduPrecentage input, Text
+{
+    width: 100%;
+}
+.div_Edubtn
+{
+    width: 7%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top:0.8%;
+    text-align: right;
+}
+.div_Edubtn input, submit
+{
+    width: 90%;
+}
+.div_EduGrid
+{
+    width: 75.5%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0.5%;
+    margin-bottom:0%;
+    
+}
+.div_Exporg
+{
+    width: 55%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_Exporg input, Text
+{
+    width: 100%;
+}
+.div_Expdesig
+{
+    width: 41.9%;
+    float: left;
+    margin-left: 1%;
+    margin-top:0.8%;
+}
+.div_Expdesig input, Select
+{
+    width: 100%;
+}
+.div_From
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Fromddl
+{
+    width: 29.9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_Fromddl input, Select
+{
+    width: 100%;
+}
+.div_ExpYear
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+
+.div_ExpYeartxt
+{
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_ExpYeartxt input, Text
+{
+    width: 100%;
+}
+.div_EmpOrg
+{
+    width: 140px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; /*overflow: hidden;     display: block;     text-overflow: ellipsis;     white-space: nowrap;*/
+}
+.div_Off
+{
+   width: 98%;
+    float: left;
+    border: 1px solid black;
+    height: 10%;
+    margin-left: 1%;
+    margin-top:0.8%;
+}
+.div_Offlbl
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.div_OffEmplabel
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.div_OffEmpNamelabel
+{
+    width: 58%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.div_division
+{
+    width: 98.3%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_division input, Select
+{
+    width: 93%;
+}
+.div_branch
+{
+    width: 55%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_branch input, Select
+{
+    width: 100%;
+}
+.div_branchtxt
+{
+    width: 54.55%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_branchtxt input, Text
+{
+    width: 100%;
+}
+.div_DOJ
+{
+    width: 41.9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_DOJ input,Text
+{
+    width: 100%;
+}
+.div_DOJddl
+{
+    width: 42.3%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_DOJddl input,Select
+{
+    width: 100%;
+}
+.div_OffLeft
+{
+    width: 63%;
+    float: left;
+    /*margin-top:0.8%;*/
+ 
+}
+.div_offright
+{
+    width: 35.5%;
+    float: left;
+    margin-left: 0.8%;
+}
+
+.div_Offlabel
+{
+    width: 32%;
+    float: left;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.div_Offtext
+{
+    width: 98%;
+    float: left;
+    margin-left: 1.5%;
+    margin-top: 1%;
+}
+.div_Offtext input,Text
+{
+    width: 100%;
+}
+.div_Offsign
+{
+    width: 99%;
+    float: left;
+    margin-top:0.8%;
+}
+.div_ImgSign
+{
+    float: left;
+    width:100%;
+    min-height: 100%;
+    margin-top:1%;
+}
+.div_UpdatebtnSign
+{
+    width: 96%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_UpdatebtnSign input, submit
+{
+    width: 50%;
+}
+
+.div_Updatebtnnew
+{
+    width: 24%;
+    float: left;
+    margin-top: 2%;
+
+}
+
+.div_Updatebtn
+{
+    width: 8%;
+    float: right;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    margin-right:1%;
+}
+
+.div_Updatebtn input, submit
+{
+    width: 15%;
+}
+.div_uploadsign
+{
+    float: left;
+    width: 75%;
+    margin-top: 2.2%;
+}
+
+.Button
+{
+    font-family:sans-serif;
+    font-size:8pt;
+    cursor:hand;
+    }
+
+
+.div_framecls
+{
+    /*width: 100%;
+    height: 90%;*/
+    width: 200px;
+     Height:305px;
+   
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}
+
+.div_framecls
+{
+    /*width: 100%;
+    height: 90%;*/
+    width: 500px;
+     Height:305px;
+   
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}

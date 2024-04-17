@@ -1,0 +1,929 @@
+﻿.bookingMain
+{
+    /*border:1px solid black;*/
+   height:474px;
+    float:left;
+  width:1150px;
+
+ background-color:#F5F5F2;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15); 
+-webkit-border-radius: 5px 5px 5px 5px; 
+  -moz-border-radius   : 5px 5px 5px 5px ;
+  border-radius        : 5px 5px 5px 5px ;
+}
+
+.booking
+{
+    /*border:1px solid blue;*/
+   height:209px;
+    float:left;
+ /* Height:100%;*/
+     /*width:65%;*/
+  width:780px;
+}
+
+.DivNew
+{
+    /*border:1px solid red;*/
+   height:215px;
+   float:left;
+ /* Height:100%;*/
+     /*width:65%;*/
+  width:366px;
+}
+
+.DivHeaderlblBooking
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+   
+}
+
+.div_txt_tran
+{
+    /*width:87.5%;*/
+    Height :6%;
+    width:34.2%;
+    float:left;
+     margin-top:0.8%;
+     margin-left:0.8%;
+       height:23px;
+}
+ .div_txt_tran select 
+    {
+        width :100%;
+        Height  :100%;
+    }
+
+.div_lblheader
+{
+  background-color:#333399;     
+    width:100%;
+    height:20.8px;
+    color:white;
+    /*border :1px solid red;*/
+
+}
+
+.div_break
+{
+    clear: both;
+    width: 604px;
+}
+
+
+/* --------------------------------------------Label----------------------------------------------- */
+.div_lbl_Qut
+{
+    width: 9.5%;
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top:1%;    
+    margin-left:0.8%;
+    
+   
+}
+
+.div_lbl_Qut1
+{
+    width: 8.8%;
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top:1%;    
+    margin-left:1%;
+   
+}
+
+
+
+.div_lbl_name
+{
+    width: 7%;  
+    
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top: 0.7%;
+    margin-left:2%;
+    margin-right:0.6%; 
+}
+.div_lbl_nameinside
+{
+    width: 12.7%;   
+    height: 13px;
+    float: left;
+    text-align: Left;
+    margin-top: 1.5%;
+    margin-left:3.1%;
+    margin-right:0%; 
+}
+.div_lbl_nameinsidediv
+{
+    width: 13%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1%;
+    margin-left:-0.5%;
+    /*margin-right:0.2%; */
+/*border:1px solid red;*/
+  
+   
+}
+.div_lbl_nameinsidediv1
+{
+    width: 3.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 2%;
+    margin-left:2%;
+    margin-right:0.5%; 
+   
+}
+
+.div_lbl_inco
+{
+     width: 3.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 2%;
+    margin-left:1.5%;
+    margin-right:0.2%; 
+}
+
+
+.div_lbl_nameinsidedivdiv
+{
+    width: 54%;
+    
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 2%;
+    margin-left:7.5%;
+    margin-right:0.2%; 
+}
+.div_lbl_nameinsidedivdi
+{
+    width: 7%;  
+    height: 13px;
+    float: left;
+    text-align: left;
+    margin-top: 2.5%;
+    margin-left:1.5%;
+    margin-right:0.2%; 
+}
+
+.div_lbl_namecus
+{
+    width: 17%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    /*margin-top: 1%;*/
+    margin-left:1.5%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_nbuying
+{
+    width:30%;   
+    height: 13px;
+    float: left;
+    text-align: left;
+    /*margin-top: 1%;*/
+    margin-left:1.5%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_namecuss
+{
+    width: 10%;   
+    height: 13px;
+    float: left;
+    text-align: Left;
+    margin-top:2%;
+    margin-left:0.8%;
+    /*margin-right:0.6%;*/ 
+    /*border:1px solid red;*/
+}
+
+.div_lbl_cancelbkng
+{
+    width: 15%;   
+    height: 13px;
+    float: left;
+    text-align: Left;
+    margin-top: 1.5%;
+    margin-left:2%;
+    margin-right:0.6%; 
+  /*  border:1px solid red;*/
+}
+
+
+.div_lbl_consignee
+{
+    width: 8.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 1%;
+    margin-left:41.5%;
+    margin-right:0.6%; 
+}
+
+.div_lbl_quot
+{
+    width: 9.3%;   
+    height: 13px;
+    float: left;
+    text-align: Left;
+    margin-top: 2%;
+   margin-left:2%;
+    margin-right:0%; 
+   /* border:1px solid red;*/
+}
+
+.div_lbl_shipment
+{
+    width: 9.7%;   
+    height: 13px;
+    float: left;
+    text-align: Right;
+    margin-top: 2%;
+    margin-left:1%;
+    margin-right:0.6%; 
+}
+.div_lbl_quot1
+{
+    width: 7%;   
+    height: 13px;
+    float: left;
+    text-align: left;
+      margin-top:1%;   
+    margin-left:1%;
+    /*Border:1px solid red;*/
+    /*margin-right:0.6%;*/ 
+}
+
+.div_lbl_booking
+{
+    width:7.5%;   
+    height: 15px;
+    float: left;
+    text-align: left;
+    margin-top: 1.5%;
+    margin-left:1.5%;
+   
+    /*Border:1px solid red;*/
+}
+
+/* --------------------------------------------TextBox  & DropDown----------------------------------------------- */
+.div_txt_name
+{
+    width: 13.3%;
+    float: left;
+    margin-top: 0.5%;
+    text-align :right ;
+  
+   
+}
+
+ .div_txt_name1
+{
+    width: 20%;
+    float: left;
+    margin-top: 1.5%;
+    text-align :right ;
+  
+   
+}
+
+.div_txt_name input
+{
+    width:100%;
+}
+.div_txt_vol
+{
+    width: 15%;
+    height: 17px;
+    float: left;
+    margin-left:1%;
+    margin-top: 1.5%;
+   
+   /*border :1px solid blue;*/
+}
+
+.div_txt_vol input
+{
+    width:100%;
+}
+
+.div_txt_por
+{
+    width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:1.7%;
+    /*border :1px solid green;*/
+}
+
+.div_txt_por input
+{
+    width:100%;
+}
+.div_txt_pol
+{
+    width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:2.2%;
+    /*border :1px solid green;*/
+}
+
+.div_txt_pol input
+{
+    width:100%;
+}
+.div_txt_pod
+{
+    width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:1.7%;
+    /*border :1px solid green;*/
+}
+
+.div_txt_pod input
+{
+    width:100%;
+}
+
+.div_txt_fd
+{
+    width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:2.2%;
+    /*border :1px solid green;*/
+}
+
+.div_txt_fd input
+{
+    width:100%;
+}
+
+.div_txt_shipment
+{
+  width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:1.7%;
+    /*border :1px solid green;*/
+}
+
+.div_txt_shipment input
+{
+    width:100%;
+}
+.div_txt_flight
+{
+   width: 47.5%;
+    /*height: 18px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:2.2%;
+    /*border :1px solid green;*/
+}
+
+.div_txt_flight input
+{
+    width:100%;
+}
+
+.div_txt_porsmall
+{
+    width: 48.2%;
+    height: 17px;
+    float: left;
+    margin-top: 1.5%;
+    margin-left:1.2%;
+}
+
+.div_txt_porsmall input
+{
+    width:100%;
+}
+.div_txt_porsmal
+{
+    width: 20%;
+    height: 17px;
+    float: left;
+    margin-top: 0%;
+    margin-left:2%;
+    
+  
+}
+.div_txt_porsmal1
+{
+    width: 12%;
+    height: 17px;
+    float: left;
+    margin-top: 1.5%;
+    margin-left:1%;
+   
+
+}
+.div_txt_porsmal1 input
+{
+    width:100%;
+}
+.div_txt_porsmal input
+{
+    width:100%;
+}
+.div_txt_porsmalll
+{
+    width: 97.5%;
+    height: 17px;
+    float: left;
+    margin-top: 1%;
+    margin-left:1.5%;
+}
+
+.div_txt_porsmalll input
+{
+    width:100%;
+}
+
+.div_txt_shiper
+{
+    width: 47.8%;
+    height: 17px;
+    float: left;
+    margin-left:1.5%;
+    margin-top: 1.5%;
+    height: 15.5px;
+}
+
+.div_txt_shiper input
+{
+    width:100%;
+}
+.div_txt_consignee
+{
+    width: 47.8%;
+    height: 17px;
+    float: left;
+    margin-left:1.4%;
+    margin-top: 1.5%;
+    height: 15.5px;
+  
+}
+
+.div_txt_consignee input
+{
+    width:100%;
+}
+.div_txt_shiperqcus
+{
+    width: 97.5%;
+    /*height: 17px;*/
+    float: left;
+    margin-left:1.5%;
+    margin-top: 1.5%;
+  
+}
+
+.div_txt_shiperqcus input
+{
+    width:100%;
+}
+
+.div_txt_shipermail
+{
+    width: 83%;
+    height: 17px;
+    float: left;
+    margin-left:2%;
+    margin-top: 2.8%;
+    
+}
+
+.div_txt_shipermailNext
+{
+   width: 83%;
+    height: 17px;
+    float: left;
+    margin-left:2%;
+   margin-top: 4%;
+    
+}
+
+.div_txt_shipermailNextDown
+{
+    width: 83%;
+    height: 17px;
+    float: left;
+    margin-left:2%;
+    margin-top: 4%;
+    
+}
+
+
+.div_txt_shipermail input
+{
+    width:100%;
+}
+
+.div_txt_shiperinside
+{
+    width: 98%;
+    height: 18px;
+    float: left;
+    margin-left:2%;
+    margin-top: 1%;
+    /*border:1px solid green;*/
+}
+
+.div_txt_shiperinsideNext
+{
+    width: 98%;
+    height: 18px;
+    float: left;
+    margin-left:2%;
+    margin-top: 4%;
+    /*border:1px solid green;*/
+}
+
+.div_txt_shiperinside input
+{
+    width:100%;
+}
+
+.div_txt_shiperinsideNext input
+{
+    width:100%;
+}
+
+.div_txt_shipermulti
+{
+    width: 47.8%;
+    height: 42px;
+    float: left;
+    margin-left:1.5%;
+    margin-top: 2.5%;
+}
+
+.div_txt_shipermulti textarea
+{
+    width:98.3%;
+    Height :100%;    
+}
+
+.div_txt_condigneemulti
+{
+    width: 47.8%;
+    height: 42px;
+    float: left;
+    margin-left:1.3%;
+    margin-top: 2.5%;
+}
+
+.div_txt_condigneemulti textarea
+{
+    width:98.3%;
+    Height :100%;    
+}
+.div_txt_remarks
+{
+    width: 98.5%;
+    height: 30px;
+    float: left;
+    margin-left:1%;
+    margin-top: 1%;
+}
+
+.div_txt_remarks textarea
+{
+    width:98.3%;  
+    height :100%;  
+}
+
+.div_txt_agentmulti
+{
+    width: 98.3%;
+    height: 46px;
+    float: left;
+    margin-left:0.7%;
+    margin-top: 1%;
+}
+
+.div_txt_agentmulti textarea
+{
+    width:98.3%;
+    height :100%;   
+}
+
+.div_txt_datedrop
+{
+    width: 15.5%;
+    height: 15.5px;
+    float: left;
+    margin-left:1%;
+    margin-top: 0.5%;
+    font-family :sans-serif ;
+    font-size :10pt;
+    height :20px;
+}
+.div_txt_datedrop input
+{
+    width:100%;
+    height :100%;
+}
+
+.DivMarketby
+{
+    width: 47.3%;
+    height: 15.5px;
+    float: left;
+    /*margin-left:1%;*/
+    margin-top: 1.5%;
+    font-family :sans-serif ;
+    font-size :10pt;
+    height :20px;
+}
+.DivMarketby input
+{
+    width:100%;
+    height :100%;
+}
+
+
+.div_txt_datedrop1
+{
+    width: 11%;
+    height: 15.5px;
+    float: left;
+    margin-left:1%;
+    margin-top: 1.5%;
+    font-family :sans-serif ;
+    font-size :10pt;
+    height :20px;
+}
+.div_txt_datedrop1 input
+{
+    width:100%;
+    height :100%;
+}
+/* --------------------------------------------Div Inside dIV----------------------------------------------- */
+
+.div_div1
+{
+ 
+    height :144px;
+    /*height :21.5%;*/
+    width: 59%;
+    float: left;
+    margin-top :-0.2%;
+
+}
+
+.div_right_one
+{ 
+
+    border: 1px none #999997;
+    width: 40.6%;
+    float:left;
+    /*border :1px solid blue;*/
+     margin-top :-0.1%;
+}
+
+.agent_div
+{
+    height:50px;
+    width:58%;
+    float:left;    
+}
+
+.div_div2
+{
+    border-style: none solid none none;
+    border-width: 1px;
+    border-color: #999997;
+    height:210px;
+    width: 51%;
+    float: left;
+     margin-top :-0.5%;
+   /*border :1px solid pink;*/
+    
+}
+
+.div_right_two
+{
+    
+    height: 210px;
+    width: 48.6%;
+    float:left;
+}
+
+.grid_1
+{
+    height:110px;
+    border:1px solid #999997;
+    width:100%;
+    margin-left:0%;
+    margin-top:0%;
+   overflow-y :scroll ;
+}
+.GridHeader_my
+{
+     
+
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-0.1%;
+   
+}
+.GridHeader_my1
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: -0.2%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-2.2%;
+
+}
+.GridHeader_my2
+{
+     /*background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: 4px;
+    margin-bottom: 0px;*/
+   
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+     margin-left:-0.2%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-2.5%;
+
+}
+.GridHeader_my3
+{
+     /*background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: 4px;
+    margin-bottom: 0px;*/
+   
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+     margin-left:-0.2%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-2.5%;
+
+}
+
+.grid_1  input
+{
+width:100%;
+height:100%;
+}
+
+.grid_2
+{
+    height:194px;
+    border:1px solid #999997;
+    width:98.5%;
+    /*background-color:Gray;*/
+    margin-left:0.5%;
+    margin-top:1.8%;
+    overflow-y: auto;
+    float:left;
+    /*margin-bottom:2%;*/
+}
+
+.div_Button
+{
+    float:right;
+    margin-right:0.5%;
+    margin-top :0.2%;
+    margin-bottom:-0.5%;
+   }
+   
+   .btn1
+   {
+       float:Right;
+      margin-top:5%;
+      margin-right :1.8%;
+      height: 17px;
+       
+   }
+
+     .btn2
+   {
+       float:Right;
+      margin-top:4%;
+      margin-right :1.8%;
+      margin-left:0.5%;
+      height: 17px;
+       
+   }
+
+      .btn
+   {
+      /*float:Right;
+      margin-top:3.5%;
+      margin-right :1.8%;
+      height: 17px;*/
+       
+   }
+      .div_Grid1
+        {
+   
+       width:100%;
+       margin-right :0%;
+        margin-top:0%;
+        margin-bottom :-3%;
+         Height:294px;
+        
+        }
+        
+        .div_lbl_markededby
+        {
+            width:45%;     
+            font-weight :bold;
+            font-family :sans-serif ;
+            font-size :8pt;
+            margin-left :0.5%;
+            margin-top :0.5%;
+            float:left;
+        }
+
+.div_Top_first
+{  
+    width:100%;
+    height :35px;
+   /*Border:1px solid black;*/
+    /*border-style: none  none solid none;*/
+    Border-top :none;
+    border-left :none ;
+    border-right :none;
+    border-bottom :1px solid #999997;
+   
+}
+
+.agent_div_twoRight
+{
+    width:49%;
+    height:100%;
+    /*border:1px solid red;*/
+    float:left;
+    margin-top:1.5%;
+    margin-left:0.4%;
+    
+}
+
+.agent_div_two
+{
+   width:48.5%;
+   height:100%;
+   float:left;
+   margin-top:1.5%;
+   margin-left:1%;
+   /*border:1px solid blue;*/
+}
+

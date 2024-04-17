@@ -1,0 +1,81 @@
+﻿.divTotal 
+{
+    width: 800px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{  
+    width: 99%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size:15px;
+}
+.div_break
+{
+    clear: both;
+}
+.div_Reasonddl
+{
+    float: left;
+    width: 85%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Reasonddl input,select
+{   
+    width: 100%;
+}
+.div_btn1 
+{
+    float: right;
+    margin-right: 1.2%;   
+    margin-top: 0.5%; 
+}
+.div_btn2
+{
+    float: right;
+    margin-right: 1.2%;   
+    margin-bottom: 0.5%; 
+}
+.div_radio1
+{    
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_radio2
+{    
+    float: left;
+    margin-left: 11%;
+    margin-top: 0.5%;
+}
+.div_radio3
+{    
+    float: left;
+    margin-left: 11%;
+    margin-top: 0.5%;
+}
+.div_radio4
+{    
+    float: left;
+    margin-left: 11%;
+    margin-top: 0.5%;
+}
+.div_radio5
+{    
+    float: left;
+    margin-left: 11%;
+    margin-top: 0.5%;
+}
+.div_Grid
+{
+    width: 100%;
+    float: left;    
+    margin-left:0%;    
+    margin-bottom:0.5%;
+    height:150px;
+}

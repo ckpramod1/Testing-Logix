@@ -1,0 +1,287 @@
+﻿.div_total 
+{
+    width: 650px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    width:100%;
+    background:#333399;
+    margin-bottom:0.2%;
+    color:white;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_Break
+{
+    clear: both;
+}
+.div_bl
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bldate
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt
+{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt input, Text
+{
+    width: 100%;
+}
+.div_bldatetxt
+{
+    width: 19%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bldatetxt input, Text
+{
+    width: 100%;
+}
+.div_customer
+{
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_customer_txt
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_customer_txt input, Text
+{
+    width: 100%;
+}
+.div_customer_txt1
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_customer_txt1 input, Text
+{
+    width: 100%;
+}
+.div_customeraddress_txt
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_customeraddress_txt input, Text
+{
+    width: 100%;
+    
+}
+.div_customeraddress_txt1
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_customeraddress_txt1 input, Text
+{
+    width: 100%;
+    
+}
+.div_port
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_porttxt
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_porttxt input, Text
+{
+    width: 100%;
+}
+.div_porttxt1
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_porttxt1 input, Text
+{
+    width: 100%;
+}
+.div_Grosswt
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Grosswttxt
+{
+    width: 24.25%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Grosswttxt input, Text
+{
+    width: 100%;
+}
+.div_Grosswttxt1
+{
+    width: 23.75%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Grosswttxt1 input, Text
+{
+    width: 100%;
+}
+.div_Packages
+{
+    width: 24.1%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Packagestxt
+{
+    width: 24.25%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Packagestxt input, Text
+{
+    width: 100%;
+}
+.div_Packagestxt1
+{
+    width: 23.75%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Packagestxt1 input, Text
+{
+    width: 100%;
+}
+.div_container
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_containertxt
+{
+    width: 97%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-bottom : 0.5%;
+}
+.div_containertxt input, Text
+{
+    width: 100%;   
+}
+.div_ddlblformat
+{
+    width: 40%;
+    float: left;
+    margin-left: 1.2%;
+    margin-top: 0.5%;
+}
+.div_ddlblformat input, Select
+{
+    width: 100%;
+}
+.div_rbt
+{
+    font-family: sans-serif;
+    font-size: 8pt;
+    font-style: normal;
+    width: 18%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+
+.div_btn
+{
+    width: 32%;
+    float: left;
+    margin-left: 1.2%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_btn input, Submit
+{
+    width: 20%;
+    margin-left: 2%;
+}
+.div_bltxt_blapprove
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_bltxt_blapprove input, Text
+{
+    width: 100%;
+}
+.div_bldatetxt_blapprove
+{
+    width: 32.2%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_bldatetxt_blapprove input, Text
+{
+    width: 100%;
+}
+.div_btn_blapprove
+{
+    float: left;
+    margin-left:0.6%;
+}

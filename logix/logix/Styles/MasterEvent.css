@@ -1,0 +1,148 @@
+﻿
+.div_total
+{
+  
+
+  width:550px;
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_Main
+{
+background-color:#333399;
+width:100%;
+height:10%;
+border-bottom :1px solid black;
+}
+
+.div_label
+{
+width:10%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:1%;	
+color:Darkblue;
+text-align:right;
+
+}
+.div_Grid2
+{
+width:97%;
+   Height:205px;
+    border:1px solid #999997;
+    margin-left:1%;
+    margin-bottom:2%;
+    margin-top:1%;
+   
+}
+
+.div_TB
+{
+width:97.3%;
+height:6%;
+float:left;	
+margin-left:1.5%;
+margin-top:1%;
+margin-right:0.2%;
+}
+
+.div_TB input
+{
+width:100%;
+}
+.div_txt_Search
+{
+    width: 97.5%;  
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+    
+}
+.div_txt_Search input,Text
+{
+    width:100%;
+}
+.div_Break
+{
+    clear:both;
+}
+
+.div_Button
+{
+   /* margin-top:1%;*/
+float:right;
+margin-right:1%;
+}
+
+
+.dldesign
+{
+margin-left:70%;               
+ }
+
+.gridalign
+{
+    width:98%;
+margin-top:1%;
+margin-left:1%;
+margin-bottom:1%;
+font-family:sans-serif; 
+    font-size:10pt;
+    color:Black;
+    text-transform:uppercase;
+    overflow-y :scroll;
+}
+.div_Grid1
+{
+margin-left:1%;
+margin-top:1%;
+margin-bottom:1%;
+margin-right:1%;
+text-transform:uppercase;
+}
+.div_Grid
+{
+width:98%;
+margin-top:1%;
+margin-left:1%;
+font-family:sans-serif; 
+    font-size:8pt;
+    color:Black;
+    text-transform:uppercase;
+}
+.GrdAltRow
+{
+    background-color:#FFF8DC;
+    font-family:sans-serif;
+    font-size:10pt;
+    color:Black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}
+.GridHeader
+{
+    background-color:Navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: 4px;
+    margin-bottom: 0px;
+  
+}
+.GridHeader_my
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-1.5%
+   
+}

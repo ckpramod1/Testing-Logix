@@ -1,0 +1,129 @@
+﻿.total
+{
+   
+  width :800px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+
+   
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 90.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+}
+.div_lbl_cus
+{
+    width: 50%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_appro
+{
+    width: 20%;
+    height: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_creditday
+{
+    width: 18%;
+    height: 11px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+
+.div_txt_to
+{
+    width: 51.5%;  
+    float: left;
+    margin-top: 1%;
+    margin-left:1%;
+}
+.div_txt_to INPUT
+{
+    width: 100%;
+}
+.outstnd_break
+{
+    clear: both;
+}
+.div_txt_AppAmt
+{
+    width: 24%;  
+    float: left;
+    margin-top: 1%;
+    margin-left: 0.5%;
+}
+.div_txt_AppAmt INPUT
+{
+    width: 100%;
+}
+
+.div_txt_AppDays
+{
+    width: 21%;  
+    float: left;
+    margin-top: 1%;
+    margin-left: 0.5%;
+}
+.div_txt_AppDays INPUT
+{
+    width: 100%;
+}
+
+.div_grd
+{
+  /* width: 98%;
+    height: 90%;*/
+    width: 100%;
+    height:270px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left:0%;
+    text-align: center;
+    float: left;
+    overflow:auto;
+    border:1px solid #b1b1b1;
+}
+
+.outstand_btn
+{
+    width: 97.5%;
+    float: left;
+    margin-top: 1%; /*margin-left:1%;*/ /*margin-right:17%;*/
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

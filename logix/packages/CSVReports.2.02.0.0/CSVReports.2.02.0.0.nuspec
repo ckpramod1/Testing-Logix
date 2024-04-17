@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>CSVReports</id>
+    <version>2.02.0.0</version>
+    <title>CSV Reports</title>
+    <authors>KellermanSoftware</authors>
+    <owners>KellermanSoftware</owners>
+    <licenseUrl>http://www.kellermanstores.com/downloads/licensing/csv-reports-license.rtf</licenseUrl>
+    <projectUrl>http://kellermansoftware.com/products/csv-reports</projectUrl>
+    <iconUrl>http://www.kellermansoftware.com/images/NuGetIcon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Read and write CSV files with a single line of code. Reads from files, streams, strings into lists, dictionaries, lists of objects and data tables. Writes from lists of objects or data tables to files, streams, and strings. Handles embedded commas, double quotes, escaped commas, and columns that span multiple lines.</description>
+    <summary>Read and write CSV files with a single line of code. Reads from files, streams, strings into lists, dictionaries, lists of objects and data tables. Writes from lists of objects or data tables to files, streams, and strings. Handles embedded commas, double quotes, escaped commas, and columns that span multiple lines.</summary>
+    <releaseNotes>Project site url change.</releaseNotes>
+    <copyright>Copyright 2015 Kellerman Software</copyright>
+    <language>en-US</language>
+    <tags>CSV pipe tab read write files stream reader writer comma seperated value delimited csvhelper</tags>
+  </metadata>
+</package>

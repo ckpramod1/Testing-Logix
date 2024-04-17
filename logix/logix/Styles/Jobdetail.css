@@ -1,0 +1,103 @@
+﻿.div_total
+{
+    width: 700px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_Main
+{
+	background-color: #0061AE;
+    color : White ;
+	width: 100%;	
+    font-size:10pt;
+}
+.div_frm
+{
+	width: 4%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+.div_fromcal
+{
+	width: 10%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 2.5%;
+	margin-top: 1.5%;
+}
+.div_to
+{
+	width: 2%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 7%;
+	margin-top: 2%;
+}
+.div_tocal
+{
+	width: 10%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 2.5%;
+	margin-top: 1.5%;
+}
+.div_btnprint
+{
+	width: 10%;
+	float: left; 
+	margin-top: 1.5%;
+	margin-left: 29.5%;
+}
+.div_btnprint input,button
+{
+	width: 100%;
+	
+}
+.div_btnget
+{
+	width: 10%;
+	float: left; 
+	margin-top: 1.5%;
+	margin-left: 0.2%;
+}
+.div_btnget input,button
+{
+	width: 100%;
+	
+}
+.div_btncancel
+{
+	width: 10%;
+	float: left; 
+	margin-top: 1.5%;
+	margin-left: 0.2%;
+}
+.div_btncancel input,button
+{
+	width: 100%;
+	
+}
+
+.div_break
+{
+    clear: both;
+}
+
+.div_Grid
+{
+	width:100%;
+	float :left;
+	margin-left: 0%;
+	margin-top: 0%;
+    margin-bottom: 0%;
+}
+.div_panel
+{
+    width:587px;
+    height:115px;  
+}

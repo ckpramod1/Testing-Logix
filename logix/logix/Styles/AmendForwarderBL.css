@@ -1,0 +1,123 @@
+﻿.div_total
+{    
+    width:480px;
+    /*height:100%;*/
+    /*border:1px solid black;*/ 
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_lbl_header
+{
+    background-color: #0061AE;
+    color: White;
+    width: 35%;    
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+
+.div_lbl_AFD
+{
+width:99%;
+    float:left;
+    margin-left:5%;
+    margin-top:3%;
+    text-align:left;
+    font-weight: bold;
+}
+
+.div_lbl_job
+{
+	/*width:7%;*/ 
+    float: left;     
+    margin-top:1.5%;
+    text-align:right;
+}
+.div_txt_job
+{
+    width:29%; 
+    float: left;  
+    margin-left:1%; 
+    margin-top:0.5%;    
+}
+.div_txt_job input
+{
+	width:100%;
+}
+
+.div_lbl_fbl
+{
+	/*width:7%;*/ 
+    float: left;     
+    margin-top:1.5%;
+    text-align:right;
+}
+.div_ddl_fbl
+{
+    width:34%; 
+    float: left;  
+    margin-left:1%; 
+    margin-top:0.5%;    
+}
+.div_ddl_fbl input,Select
+{
+	width:100%;
+}
+.div_lbl_amendbl
+{
+	/*width:7%;*/ 
+    float: left;     
+    margin-top:1.5%;
+    text-align:right;
+}
+.div_txt_amendbl
+{
+    width:32.5%; 
+    float: left;  
+    margin-left:1%; 
+    margin-top:0.5%;    
+}
+.div_txt_amendbl input
+{
+	width:100%;
+}
+
+.div_button
+{
+    float:right;
+margin-right:1%;
+margin-bottom:0.5%;
+margin-top:0.5%;
+}
+.div_btn_amendfbl
+{
+    width: 22%;
+    float: left;
+    margin-left: 59%;
+    margin-top: 1%;
+    text-align: right;
+    margin-bottom:1%;
+}
+.div_btn_amendfbl input, Button
+{
+    width: 100%;
+}
+.div_btn_cancel
+{
+    width: 16%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: right;
+     margin-bottom:1%;
+}
+.div_btn_cancel input, Button
+{
+    width: 100%;
+}

@@ -1,0 +1,246 @@
+﻿
+
+.total
+{
+    /*width: 800px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+   height:480px;
+    border:1px solid Black;*/
+    /*border:1px solid black;*/
+  width :1020px;
+  /*height:100%;*/
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+
+   
+}
+
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 78%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_CNOP
+{
+    /*width: 16%;*/
+    width:20%;
+    float: left;
+    /*margin-left: 0.5%;*/
+    margin-top: 0.5%;
+}
+.div_CNOP input, Radio
+{
+    width: 10%;
+    display: inline-block;
+}
+
+.div_CN
+{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_CN input, Radio
+{
+    width: 30%;
+    display: inline-block;
+}
+.div_lnk
+{
+    width: 16%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0%;      
+}
+.div_header
+{
+    width:100%;
+    border:1px solid black;
+  background-color:#333399;
+    /*   background-color:red;*/
+    margin-left:0%;
+
+}
+.div_total
+{
+    width: 72%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+    /*height:500px;*/
+ }
+.div_total_txt
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_total_txt input, Text
+{
+    width: 100%;
+}
+
+.div_btn
+{    
+    float: right;
+    margin-right: 0.8%;
+    margin-top: 0.2%;
+    margin-bottom:0.5%;
+    text-align: center;
+}
+.div_btn input, Text
+{
+    width: 100%;
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    float: right;
+    cursor: pointer;
+}
+
+.div_frame
+{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width: 100%;
+    height: 390px;
+    float: left;
+    vertical-align: top;
+}
+
+.div_Grd_popup
+{
+    float: left;
+    width: 100%;
+    height:320px;
+    overflow: auto;
+   
+}
+
+/*.Pnl
+{
+    position: absolute;
+    top: 5%;
+    margin-left: 20%;
+    width: 25%;
+    height: 20%;
+    background-color: CaptionText;
+    border: solid 2px black;
+    float: left;
+}*/
+.div_lbl
+{
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl input, Text
+{
+    width: 99%;
+}
+.div_lbl_mode
+{
+    width: 28%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_mode input, Text
+{
+    width: 97%;
+}
+.div_lbl_remark
+{
+    width: 68%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 0.5%;
+}
+.div_lbl_remark input, Text
+{
+    width: 97%;
+}
+
+.div_lnk
+{
+    text-decoration: none;
+    cursor: default;
+    float:right;
+    margin-right:0.8%;
+    height: 15px;
+}
+.div_add
+{
+    /*width: 20%;*/
+    float: left;
+    margin-left: 79%;
+    margin-top: 0.5%;
+}
+
+.Pnlfav
+{
+    position: absolute;
+    top: 5%;
+    margin-left: 20%;
+    width: 30%;
+    height: 25%;
+    background-color: CaptionText;
+    border: solid 2px black;
+    float: left;
+}
+.hidden
+{
+    width:0%;
+    display: none;
+}
+.frames
+{
+    width: 100%;
+    height: 100%;
+}

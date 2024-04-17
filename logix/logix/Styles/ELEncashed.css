@@ -1,0 +1,160 @@
+﻿.div_Main
+{
+    /*background-color: #0061AE;*/
+    /*color: White;*/
+    width: 100%;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;   
+    font-size:15px;
+}
+
+.div_break
+{
+    clear: both;
+}
+
+.divTotal
+{
+   
+    width:500px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_label
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_txt 
+{
+    float: left;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input,text
+{
+    width: 100%;
+    
+}
+
+.div_txt4 
+{
+    float: left;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt4 input,text
+{
+    width: 100%;
+    
+   
+}
+.div_txt5
+{
+    float: left;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt5 input,text
+{
+    width: 100%;
+    text-align:right;
+   
+}
+.div_txt3
+{
+    float: left;
+    width: 34%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+   
+}
+.div_txt3 input,text
+{
+    width: 100%;
+}
+
+.div_txt1
+{
+    float: left;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+  
+}
+.div_txt1 input,text
+{
+    width: 100%;
+}
+.div_Nametxt
+{
+    float: left;
+    width: 65%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Nametxt input,text
+{
+    width: 100%;
+}
+.div_Leavetxt
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Leavetxt input,text
+{
+    width: 100%;
+}
+.div_labelday
+{
+    float: left;
+    width: 12%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_labelEncash
+{
+    float: left;
+    width: 10%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_lbl
+{
+    float: left;
+    width: 7%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Claimtxt
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Claimtxt input,text
+{
+    width: 95%;
+}
+.div_btn
+{
+    float:right;
+    margin-right:2%;
+    margin-top:1%;
+   
+}

@@ -1,0 +1,371 @@
+﻿.div_total
+{
+      width:700px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left:1%;
+    margin-top:1%;
+    font-weight:bold;
+    width:85%;
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 10%;
+    float: left;
+    margin-left:1%;
+    margin-top: 1%;
+}
+.div_Taxlabel
+{
+    float: left;
+    width: 75%;
+    margin-left:7%;
+    margin-top:1%;
+    text-align:right;
+}
+.div_lbl
+{
+    width: 3%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Yearlabel
+{
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_RentExplabel
+{
+    width: 9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Rentpaidlabel
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Rentlabel
+{
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_Incomelbl
+{
+    width: 27%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align:right;
+}
+.div_PFlbl
+{
+    width:80%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txt
+{
+    float:left;
+    width:15%;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txt Input,Text
+{
+    width:100%;  
+}
+.div_txt1
+{   
+    width:25%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+    height: 20px;
+}  
+.div_txt1 Input,Text
+{
+    width:100%;
+}
+.div_txt2
+{
+    float:left;
+    width:44%;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_txt2 Input,Text
+{
+    width: 100%;
+}  
+.div_txt3
+{
+    float:left;
+    width:40%;
+    margin-left:1%;
+    margin-top:1%;
+    height:20px;
+}
+.div_txt3 input,Text
+{
+    width:100%;
+   
+} 
+
+.div_txt4
+{
+    float: left;
+    width: 35%;
+    margin-left:1%;
+    margin-top:1%;
+    height:20px;
+}
+.div_txt4 input,Text
+{
+    width:100%;
+   
+} 
+.div_txt5
+{
+    float: left;
+    width: 40%;
+    margin-left: 1%;
+    margin-top:1%;
+    height: 20px;
+}
+.div_txt5 input,Text
+{
+    width:100%;
+   
+} 
+.div_txt6
+{
+    float: left;
+    width: 35%;
+    margin-left:1%;
+    margin-top:1%;
+    height: 20px;
+}
+.div_txt6 input,Text
+{
+    width:100%;
+   
+} 
+.div_txt7
+{
+    float:left;
+    width:20%;
+    margin-left:1%;
+    margin-top:1%;
+    height:20px;
+}
+.div_txt7 Input,Text
+{
+    width:100%;
+   
+}  
+.div_txt9
+{
+    float: left;
+    width: 20%;
+    margin-left:1%;
+    margin-top:1%;
+    height: 20px;
+}
+.div_txt9 Input,Text
+{
+    width:100%;
+   
+}  
+.div_txt10
+{
+    float: left;
+    width: 20%;
+    margin-left: 1%;
+    margin-top:1%;
+    height: 20px;
+}
+.div_txt10 Input,Text
+{
+    width:100%;
+    
+}  
+.div_txt8
+{
+    float:left;
+    width:40%;
+    margin-left:1%;
+    margin-top:1%;
+    height: 17px;
+}
+.div_txt8 input,Text
+{
+    width:100%;
+}
+.div_btn
+{
+    width:95%;
+    float: left;
+    margin-left:1%;
+    margin-top:1%;
+    text-align:right;
+}
+.div_btn input,submit
+{
+    width: 16%;
+    margin-left: 2%;
+}
+.div_ddlmonth
+{
+    float:right;
+    width:13%;
+    margin-left:1%;
+    margin-top:1%; 
+    margin-right:2%;
+}
+.div_ddlmonth input,Select
+{
+    width:100%;
+}
+.div_Gradetxt
+{
+    float: left;
+    width: 14%;
+    margin-left: 1%;
+    margin-top:1%;
+}
+.div_Gradetxt input,Text
+{
+    width:100%;
+}
+.div_Dojtxt
+{
+    float:left;
+    width:20%;
+    margin-left:1%;
+    margin-top:1%;
+}
+.div_Dojtxt input, Text
+{
+    width:100%;
+}
+.div_ddlSection
+{
+    float: left;
+    width: 15%;
+    margin-left: 1%;
+    margin-top:1%;
+}
+.div_ddlSection input, Select
+{
+    width:100%;
+}
+.div_Detail
+{
+    float: left;
+    width: 30%;
+    margin-left: 1%;
+    margin-top:1%;
+   
+    
+}
+.div_Detail input, Text
+{
+    width:100%;
+}
+.div_PlanDetail
+{
+    float: left;
+    width:25%;
+    margin-left: 1%;
+    margin-top:1%;
+  
+}
+.div_PlanDetail input, Text
+{
+    width:100%;
+}
+.div_Amount
+{
+    float: left;
+    width:15%;
+    margin-left:1%;
+    margin-top:1%;
+   
+}
+.div_Amount input, Text
+{
+    width:100%;
+}
+.div_Addbtn
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top:1%;
+    text-align: right;
+}
+.div_Addbtn input, submit
+{
+    width: 95%;
+}
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+}
+.modalBackgroundjob
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    float: right;
+    cursor: pointer;
+}
+
+
+.div_frame
+{
+    width:100%;
+    height:100%;
+    float: left;
+    vertical-align: top;
+}
+.frames
+{
+    width:100%;
+    height:90%;
+}

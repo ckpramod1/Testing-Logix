@@ -1,0 +1,1433 @@
+﻿
+
+.div_body{
+         width:1010px;
+         margin-top :1%;
+         margin-bottom:1%;
+        background-color:#F8F8F8;
+       -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+       -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+       box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+height:100%;
+/*overflow:hidden;*/
+        }
+.div_sub1
+{
+    float:left;
+    width:75%;
+
+  /*background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);*/
+}
+.div_total2
+{
+    float:left;
+    width:25%;
+height:100%;
+  /*background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);*/
+}
+.DivNew_gr2
+{
+    /*border:1px solid black;*/
+   height:293px;
+   float:left;
+   margin-top:1%;
+ /* Height:100%;*/
+     /*width:65%;*/
+  width:312px;
+  
+}
+/*.DivNew
+{   
+   height:300px;
+   float:left;
+  width:92%;
+  margin-top:8%;
+border:1px solid red;
+}*/
+/*.DivNew_gr
+{
+    border:1px solid black;
+   height:165px;
+   float:left;
+  width:97%;
+     margin-top:9%;
+  
+}*/
+
+.DivNew_gr2
+{
+  
+   width: 312px;
+   height: 250px;
+   float:left;
+   margin-top:0%;
+
+}
+
+.div_btn1
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right: 3.5%;
+    margin-top:2%;
+    text-align: right;
+}
+
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 92%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+}
+.div_lbl_Feder
+{
+    width: 22%;
+    height: 15px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 2%;
+    text-align: left;
+}
+.div_lbl_job
+{
+    /*width: 6%;*/
+    /*height: 15px;*/
+    float: left;
+    text-align: left;
+    margin-top:1%;
+    margin-left:1%;
+}
+
+.div_txt_jobno
+{
+    width: 12%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+
+
+.div_lbl_jobda
+{
+    width: 8%;
+    height: 15px;
+    float: right;
+    text-align: left;
+    margin-top:0.5%;
+    /*margin-left:53%*/      
+}
+
+.div_lbl_vessel
+{
+    width: 21%;
+    height: 11px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+/*.div_radio
+{
+    width: 49%;
+    float: left;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-top: 0.5%;
+}
+.div_radio input, radio
+{
+    width: 40%;
+    
+}*/
+.div_ra
+{
+    width: 10%;
+    float: left;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-top: 0.5%;
+    text-align:left;
+}
+.div_ra input, radio
+{
+    width: 40%;
+    
+}
+.div_btn_radi
+{
+    width: 99%;
+    height: 15px;
+    float: left;
+    /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.panel
+{
+    width:100%;
+    float:left;
+    margin-left:0%;
+    margin-top:0%;
+     /*background-color:#a5b0f2;*/
+}
+.div_lbl_Voyage
+{
+    width: 10%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+    text-align: left;
+}
+
+.div_lbl_IM
+{
+    width: 17%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+    text-align: left;
+}
+
+.div_lbl_IMDate
+{
+    width: 13%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+    text-align: left;
+}
+.div_lbl_ETA
+{
+    width: 12%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+    text-align: left;
+}
+.div_lbl_ETP
+{
+    width: 9%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+    text-align: left;
+}
+.div_lbl_Load
+{
+    width: 27%;
+    height: 15px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_MLO
+{
+    width: 50%;
+    height: 15px;
+    float: left;
+    margin-top: 2%;
+    text-align: left;
+}
+.div_lbl_Deliver
+{
+    width: 24%;
+    height: 15px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_shi
+{
+    width: 50%;
+    height: 15px;
+    float: left;
+    margin-top: 2%;
+    text-align: left;
+}
+
+.div_lbl_bond
+{
+    width: 24%;
+    height: 15px;
+    float: left;
+    margin-top: 2%;
+    text-align: left;
+}
+.div_lbl_truck
+{
+    width: 18%;
+    height: 15px;
+    float: left;
+    margin-top: 2%;
+    text-align: left;
+}
+.div_lbl_Discharge
+{
+    width: 22%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_MBL
+{
+    width: 28%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+.lbl_MBL_Date
+{
+    width: 9%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+
+.div_lbl_Agent
+{
+    width: 12.5%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+    text-align: left;
+}
+.div_lbl_CFS
+{
+    width: 25%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_cf
+{
+    width: 12%;
+    height: 15px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_cmb
+{
+    width: 7%;
+    height: 11px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_gross
+{
+    width: 7.5%;
+    height: 11px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_book
+{
+    width: 13%;
+    height: 11px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_No_of
+{
+    width: 9%;
+    height: 11px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_dt_jobdate
+{
+    width: 12%;
+    /*height: 16px;*/
+    float: right;
+    margin-top: 0.5%;
+    margin-left:1%;
+    margin-right:0.5%;
+}
+.div_dt_jobdate INPUT
+{
+    width: 100%;
+}
+
+.div_txt_vessel
+{
+    width: 30%;
+    /*height: 20px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+}
+.div_txt_vessel INPUT
+{
+    width:100%;
+}
+.div_txt_cbm
+{
+    width: 7%;
+    /*height: 20px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_txt_cbm INPUT
+{
+    width: 100%;
+}
+.div_txt_grwt
+{
+    width: 7%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_txt_grwt INPUT
+{
+    width: 100%;
+}
+.div_dt_imdate
+{
+    width: 13%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_dt_imdate INPUT
+{
+    width: 100%;
+}
+
+.div_txt_Pkgs
+{
+    width: 13%;
+    /*height: 16px;*/
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left: 0.5%;
+}
+.div_txt_Pkgs INPUT
+{
+    width: 100%;
+}
+.div_txt_Wt
+{
+    width: 13%;
+    /*height: 16px;*/
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left: 0.5%;
+}
+.div_txt_Wt INPUT
+{
+    width: 100%;
+}
+.div_txt_isocode
+{
+ width: 10%;
+    /*height: 16px;*/
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left: 0.5%;
+}
+.div_txt_isocode INPUT
+{
+    width: 100%;
+}
+.div_txt_SocFlag
+{
+ width: 8%;
+    /*height: 16px;*/
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left: 0.5%;
+}
+.div_txt_SocFlag INPUT
+{
+    width: 100%;
+}
+
+
+
+
+
+
+.div_lbl_Container
+{
+    width: 13%;
+    height: 14px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_lbl_size
+{
+    width: 12%;
+    height: 15px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_seal
+{
+    width: 13%;
+    height: 15px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_wt
+{
+    width: 14%;
+    height: 15px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_pkg
+{
+    width: 13%;
+    height: 15px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_ISO
+{
+     width: 12%;
+    height: 15px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_soc
+{
+    width: 9%;
+    height: 15px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Container
+{
+    width: 21%;
+    /*height: 20px;*/
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left:1%;
+}
+.div_txt_Container INPUT
+{
+    width:100%;
+}
+.cmbbase
+{
+    width: 10%;
+    height: 17px;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: -0.1%;
+   
+}
+.cmbbase select
+{
+    width: 100%;
+}
+
+.div_txt_pod
+{
+    width: 25%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_txt_pod INPUT
+{
+    width: 100%;
+}
+.div_txt_Agent
+{
+    width: 34%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_txt_Agent INPUT
+{
+    width: 100%;
+}
+.div_txt_cfscode
+{
+    width: 27%;
+    /*height: 13px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_txt_cfscode INPUT
+{
+    width: 100%;
+}
+
+.div_txt_cfs
+{
+    width: 44.5%;
+    /*height: 13px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_txt_cfs INPUT
+{
+    width: 100%;
+}
+.div_dt_ETA
+{
+    width: 12%;
+    height: 16px;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_dt_ETA INPUT
+{
+    width: 100%;
+}
+
+.div_txt_mblno
+{
+    width: 29%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_txt_mblno INPUT
+{
+    width: 100%;
+}
+
+.div_dt_MBL
+{
+    width: 13%;
+    height: 16px;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_dt_MBL INPUT
+{
+    width: 100%;
+}
+
+.div_txt_noofpkg
+{
+    width: 13%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_txt_noofpkg INPUT
+{
+    width: 100%;
+}
+.div_dt_ETB
+{
+    width: 13%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_dt_ETB INPUT
+{
+    width: 100%;
+}
+
+.div_txt_pol
+{
+    width: 30%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+}
+.div_txt_pol INPUT
+{
+    width: 100%;
+}
+.div_txt_MLO
+{
+    width: 50.5%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+}
+.div_txt_MLO INPUT
+{
+    width: 100%;
+}
+.div_txt_ImoCode
+{
+    width: 26%;
+    /*height: 14px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left:1%;
+}
+.div_txt_ImoCode INPUT
+{
+    width: 100%;
+}
+
+.div_txt_Bond
+{
+    width: 21%;
+    /*height: 14px;*/
+    float: left;
+   margin-top:2.5%;
+    margin-left:0.5%;
+   
+}
+.div_txt_Bond INPUT
+{
+    width: 100%;
+}
+.div_txt_MMT
+{
+    width: 22%;
+    /*height: 14px;*/
+    float: left;
+    margin-left:0.5%;
+    
+    margin-top:2.5%;
+}
+.div_txt_MMT INPUT
+{
+    width: 100%;
+}
+
+.outstnd_break
+{
+    clear: both;
+}
+.div_txt_voyage
+{
+    width: 10.5%;
+    /*height: 20px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_txt_voyage INPUT
+{
+    width: 100%;
+}
+
+.div_lbl_Vsl
+{
+    width: 6%;
+    height: 12px;
+    float: left; /*margin-left: 1%;*/
+     margin-top: 1%;
+    text-align: left;
+    
+}
+
+.div_lbl_age
+{
+    width: 5%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+.div_lbl_call
+{
+    width: 6%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+
+.div_lbl_line
+{
+    width: 6%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+
+.div_lbl_arr
+{
+    width: 6%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+     margin-top: 1%;
+    text-align: left;
+    
+}
+.div_lbl_last
+{
+    width: 6%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+.div_lbl_por
+{
+    width: 6%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+     margin-top: 1%;
+     margin-left: 1%;
+    text-align: left;
+    
+}
+.div_lbl_por1
+{
+    width: 5%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+     margin-top: 1%;
+     margin-left: 1%;
+    text-align: left;
+    
+}
+.div_lbl_po
+{
+    width: 6%;
+    height: 12px;
+    float: left; /*margin-left: 1%;*/
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+.div_lbl_grt
+{
+    width: 6%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+     margin-top: 1%;
+    text-align: left;
+    
+}
+
+.div_lbl_master
+{
+    width: 6%;
+    height: 14px;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+    
+}
+.div_txt_CGRT
+{
+    width: 15%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_CGRT INPUT
+{
+    width:100%;
+}
+.div_txt_CMaster
+{
+    width: 31.5%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_CMaster INPUT
+{
+    width:100%;
+}
+
+.div_lbl_nrt
+{
+    width: 5%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+
+.div_lbl_nation
+{
+    width: 5%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align: left;
+    
+}
+
+.div_lbl_DeStuff
+{
+    width: 5%;
+    height: 10%;
+    float: left; 
+    margin-left: 1%;
+     margin-top: 0.5%;
+    text-align: left;
+    
+}
+
+.div_txt_CNRT
+{
+    width: 15%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_CNRT INPUT
+{
+    width:100%;
+}
+
+.div_txt_CNation
+{
+    width: 22%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_CNation INPUT
+{
+    width:100%;
+}
+
+
+.div_txt_remarks
+{
+    width: 43.8%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_remarks INPUT
+{
+    width:100%;
+}
+
+
+.div_lbl_tot
+{
+    width: 6%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+.div_lbl_vsl1
+{
+    width: 6%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+.div_lbl_docred
+{
+    width: 9%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+    margin-left: 1%;
+     margin-top: 1%;
+    text-align: left;
+    
+}
+
+.div_txt_Godown
+{
+    width: 16%;
+    /*height: 12px;*/
+    float: left;
+    /*margin-left: 1%;*/
+     margin-top: 0.5%;
+}
+.div_txt_Godown INPUT
+{
+    width:100%;
+}
+
+.div_dt_destuff
+{
+    width: 16%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 1%;
+     margin-top: 0.5%;
+}
+.div_dt_destuff INPUT
+{
+    width:100%;
+}
+
+
+.div_txt_CVslCode
+{
+    width: 16%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 1%;
+     margin-top: 0.5%;
+}
+.div_txt_CVslCode INPUT
+{
+    width:100%;
+}
+.div_txt_CVslCode1
+{
+    width: 15%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_CVslCode1 INPUT
+{
+    width:100%;
+}
+
+.div_txt_CLineCode
+{
+    width: 15%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+
+    
+}
+.div_txt_CLineCode INPUT
+{
+    width: 100%;
+}
+.div_txt_lstport
+{
+    width: 18.8%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+
+     /*border:1px solid green;*/
+}
+.div_txt_lstport INPUT
+{
+    width: 100%;
+}
+
+
+.buy_btn
+{
+    width: 46%;
+    float: right;
+     /*margin-top: 0.5%;*/ /*margin-left:1%;*/ /*margin-right:17%;*/
+    text-align: right;
+    /*margin-bottom:1%;*/
+    margin-right:1%;
+}
+.buy_btn input, button
+{
+    width: 10%;
+    margin-left: 0.5%;
+}
+
+.job_but
+{
+    /*width: 5%;*/
+    float: right;
+     /*margin-top: 1%; /*margin-left:1%;*/ /*margin-right:17%;*/
+    text-align: right;
+    margin-left:1%;
+    margin-right:1%;
+    margin-top:-0.3%;
+}
+.job_but input, button
+{
+    width: 100%;
+    /*margin-left: 0.5%;*/
+}
+
+
+
+.div_txt_CAgent
+{
+    width: 16%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_CAgent INPUT
+{
+    width: 100%;
+}
+.div_txt_CAgent1
+{
+    width: 16%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 1%;
+     margin-top: 0.5%;
+}
+.div_txt_CAgent1 INPUT
+{
+    width: 100%;
+}
+
+.div_txt_callsign
+{
+    width: 15%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_callsign INPUT
+{
+    width: 100%;
+}
+.div_txt_callsign1
+{
+    width: 15%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_callsign1 INPUT
+{
+    width: 100%;
+}
+
+.div_txt_CTotal
+{
+    width: 18.8%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_CTotal INPUT
+{
+    width: 100%;
+}
+.div_txt_CVsltype
+{
+    width: 16%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_CVsltype INPUT
+{
+    width: 100%;
+}
+.div_lbl_remar
+{
+    width: 6%;
+    height: 13px;
+    float: left; /*margin-left: 1%;*/
+     margin-top: 1%;
+    text-align: left;
+    
+}
+
+.div_lbl_god
+{
+    width: 10%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+     margin-top: 0.5%;
+    text-align: left;
+    
+}
+
+.div_txt_DocRecdon
+{
+    width: 13%;
+    /*height: 12px;*/
+    float: left;
+    margin-left: 0.5%;
+     margin-top: 0.5%;
+}
+.div_txt_DocRecdon INPUT
+{
+    width: 100%;
+}
+
+.div_txt_Seal
+{
+    width: 12%;
+    /*height: 16px;*/
+    float: left;
+    /*margin-top: 1%;*/
+    margin-left: 0.5%;
+}
+.div_txt_Seal INPUT
+{
+    width: 100%;
+}
+
+
+
+.div_txt_imno
+{
+    width: 17.5%;
+    /*height: 16px;*/
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.div_txt_imno INPUT
+{
+    width: 100%;
+}
+
+.query_break
+{
+    clear: both;
+}
+
+.divRoated
+        {
+           width:100%; 
+            Height:600px;
+            /*width:100%; 
+            Height:100%;*/ 
+            /*border:1px solid black;*/
+            margin-left:-0.5%;
+            /*margin-top:-1%;*/
+            /*background-color:lightcyan;*/
+        }
+
+.DivSecPanel
+        {
+            width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:98%;
+            margin-top:-2.5%;
+            border-radius: 90px 90px 90px 90px;
+        }
+
+.div_find_btn
+{
+    width: 7%;
+    float: left;
+    margin-top: 1%; /*margin-left:1%;*/ /*margin-right:17%;*/
+    text-align: right;
+    margin-left: 23%;
+}
+.div_find_btn input, button
+{
+    width: 100%;
+    margin-left: 0.5%;
+}
+
+
+
+.div_grd
+{
+    width: 100%; 
+	/*height:180px;*/
+	margin-top: 1%;
+	margin-bottom: 1%;
+	/*text-align:center;*/
+	float:left;
+    margin-left:0%;
+}
+
+.outstand_btn
+{
+    width: 90.5%;
+    float: left;
+    margin-top: 1%; /*margin-left:1%;*/ /*margin-right:17%;*/
+    text-align: right;
+}
+.outstand_btn input, button
+{
+    width: 10%;
+    margin-left: 0.5%;
+}
+.div_image
+{
+    width: 98%; 
+	height:17px;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-left:1%;
+	text-align:center;
+	float:left; 
+}
+.div_cancel_voucher
+{
+	cursor: pointer;
+	float: right;
+	/*text-align:right*/
+}
+.div_popupview
+{
+	float: left;
+	width: 100%;
+	height: 70%;
+	background-color:White;
+}
+
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_image
+{
+    width: 98%; 
+	height:17px;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-left:1%;
+	text-align:center;
+	float:left; 
+}
+.div_image input
+{
+    width: 100%;
+}
+.div_popup1
+{
+	float: left;
+	width: 100%;
+	height: 70%;
+	background-color:White;
+}
+
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+.div_close_voucher
+{
+	cursor: pointer;
+	float: right;
+}
+.grd_jobno
+{
+    width: 98%; 
+	height:90%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-left:1%;
+	text-align:center;
+	float:left; 
+}
+.grd_jobno input
+{
+    width: 100%;
+}
+
+.GridHeader_my
+{
+    background-color:navy;
+    color:White;
+    font-family:sans-serif;
+   font-size: 12px;
+    margin-left: -0.6%;    
+    position :absolute ;
+    /*margin-top:-2.3%;*/
+   margin-top: -1.7%;
+     width:938px;       
+        
+  }
+
+
+
+
+
+
+
+
+
+
+

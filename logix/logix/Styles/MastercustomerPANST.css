@@ -1,0 +1,180 @@
+﻿.div_total
+{    
+    width:550px;   
+   background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_lblheader
+{
+    background-color: #0061AE; 
+    width: 73%; 
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+    height: 14px;
+}
+.divlbl_car
+{
+    width: 11%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Customer
+{
+    width: 97%;   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_Customer INPUT
+{
+    width: 100%;
+}
+.div_break
+{
+    clear: both;
+}
+.div_lbl_custtyp
+{
+    width: 11%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_txt_CustType
+{
+    width: 48%;   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_CustType INPUT
+{
+    width: 100%;
+}
+.div_lbl_city
+{
+    width: 4%;
+    height: 13px;
+    float: left; 
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_City
+{
+    width: 48.5%;  
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_City INPUT
+{
+    width: 100%;
+}
+.div_lbl_add
+{
+    width: 11%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_Address
+{
+     width: 96%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    resize:none;
+}
+.div_txt_Address input, Text
+{
+    width: 100%;
+}
+.div_lbl_pan
+{
+    width: 11%;
+    height: 10%;
+    float: left; /*margin-left: 1%;*/
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_txt_PAN
+{
+    width: 48%;   
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_PAN INPUT
+{
+    width: 100%;
+}
+.div_lbl_st
+{
+    width: 4%;
+    height: 12px;
+    float: left; 
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_ST
+{
+    width: 48.5%;  
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_ST INPUT
+{
+    width: 100%;
+}
+.buy_btn
+{
+    width: 72.5%;
+    float: left;
+    margin-top: 2%;
+    text-align: right;
+}
+.buy_btn input, button
+{
+    width: 10%;
+    margin-left: 0.5%;
+}
+.div_lbl_edu
+{
+    width: 4%;
+    height: 12px;
+    float: left; 
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_lbl_search
+{
+    width: 4%;
+    height: 12px;
+    float: left; 
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: left;
+}
+
+.div_btn
+{
+    
+    float: right;
+    margin-right:2%; 
+    margin-top: -0.6%;
+    text-align: right;
+    margin-bottom:0.5%;   
+}

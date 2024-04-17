@@ -1,0 +1,886 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\formmain.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\formmain.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\mainpage\\chadocked.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\mainpage\\chadocked.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\mainmodule_product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\mainmodule_product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\accounts\\approvedosvouchers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\approvedosvouchers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\mainpage\\chadocked.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\mainpage\\chadocked.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\home\\oeopsanddocs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\home\\oeopsanddocs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\mainpage\\oceanexportsops_docs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\mainpage\\oceanexportsops_docs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\home\\saleshome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\home\\saleshome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\accounts\\performaosvouchers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\performaosvouchers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\accounts\\proosv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\proosv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\accounts\\proformalv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\proformalv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\faforms\\paymentfa_receipt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\paymentfa_receipt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\accounts\\proformalv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\proformalv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\mainpage\\salesdocked.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\mainpage\\salesdocked.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\mainpage\\salesdocked.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\mainpage\\salesdocked.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\formmain.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\formmain.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|c:\\vino\\consolidated_backup_15042024\\onebkponehosting_12april\\logix\\logix\\faforms\\paymentfa_backdated.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\paymentfa_backdated.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\faforms\\paymentfa_backdated.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\paymentfa_backdated.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\theme\\assets\\css\\system.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\theme\\assets\\css\\system.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\faforms\\paymentfa_receipt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\paymentfa_receipt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\faforms\\faledgerview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\faledgerview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\faforms\\faledgerviewpg.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\faledgerviewpg.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\shipmentdetails\\blrelease.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\shipmentdetails\\blrelease.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ae\\aeawbdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\ae\\aeawbdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\home\\oeopsanddocs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\home\\oeopsanddocs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\crm\\customersupport4alltask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\crm\\customersupport4alltask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ae\\aejobinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\ae\\aejobinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ae\\aejobinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\ae\\aejobinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ae\\aeawbdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\ae\\aeawbdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ae\\awbrelease.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\ae\\awbrelease.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\forwardexports\\costingdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\forwardexports\\costingdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\accounts\\approvedosvouchers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\approvedosvouchers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\accounts\\tallyxml.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\tallyxml.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\shipmentdetails\\uploaddocument.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\shipmentdetails\\uploaddocument.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\faforms\\voucherregister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\voucherregister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\faforms\\voucherregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\voucherregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\accounts\\osvouchers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\osvouchers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\faforms\\remittance_receipt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\faforms\\remittance_receipt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\shipmentdetails\\uploaddocument.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\shipmentdetails\\uploaddocument.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\forwardexports\\jobinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\forwardexports\\jobinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\forwardexports\\jobinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\forwardexports\\jobinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\accounts\\proosv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\proosv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\shipmentdetails\\febldetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\shipmentdetails\\febldetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\shipmentdetails\\febldetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\shipmentdetails\\febldetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\accounts\\tallyxml.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\accounts\\tallyxml.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\mainpage\\mis_approvaldock.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\mainpage\\mis_approvaldock.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\taskdetailsdashmain.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\taskdetailsdashmain.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\cor_mainmodulenew.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\cor_mainmodulenew.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\sales\\quotbuybook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA6B3A9-47F8-49CE-BE48-D59C577A7852}|logix\\logix.csproj|solutionrelative:logix\\sales\\quotbuybook.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OceanExportsOps_Docs.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\OceanExportsOps_Docs.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\MainPage\\OceanExportsOps_Docs.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\OceanExportsOps_Docs.aspx.cs",
+              "RelativeToolTip": "logix\\MainPage\\OceanExportsOps_Docs.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:40:18.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FormMain.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\FormMain.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FormMain.aspx.cs",
+              "RelativeToolTip": "logix\\FormMain.aspx.cs",
+              "ViewState": "AQIAAGYHAAAAAAAAAAAwwGoHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:06:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerformaOsVouchers.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\PerformaOsVouchers.aspx",
+              "RelativeDocumentMoniker": "logix\\Accounts\\PerformaOsVouchers.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\PerformaOsVouchers.aspx",
+              "RelativeToolTip": "logix\\Accounts\\PerformaOsVouchers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T06:58:54.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CHADocked.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\CHADocked.aspx",
+              "RelativeDocumentMoniker": "logix\\MainPage\\CHADocked.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\CHADocked.aspx",
+              "RelativeToolTip": "logix\\MainPage\\CHADocked.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T06:53:23.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalesDocked.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\SalesDocked.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\MainPage\\SalesDocked.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\SalesDocked.aspx.cs",
+              "RelativeToolTip": "logix\\MainPage\\SalesDocked.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:26:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesHome.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Home\\SalesHome.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Home\\SalesHome.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Home\\SalesHome.aspx.cs",
+              "RelativeToolTip": "logix\\Home\\SalesHome.aspx.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:26:30.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CHADocked.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\CHADocked.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\MainPage\\CHADocked.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\CHADocked.aspx.cs",
+              "RelativeToolTip": "logix\\MainPage\\CHADocked.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:53:27.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mainmodule_product.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Mainmodule_product.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Mainmodule_product.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Mainmodule_product.aspx.cs",
+              "RelativeToolTip": "logix\\Mainmodule_product.aspx.cs",
+              "ViewState": "AQIAALcFAAAAAAAAAAAwwMQFAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:52:26.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OEOpsAndDocs.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Home\\OEOpsAndDocs.aspx",
+              "RelativeDocumentMoniker": "logix\\Home\\OEOpsAndDocs.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Home\\OEOpsAndDocs.aspx",
+              "RelativeToolTip": "logix\\Home\\OEOpsAndDocs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T09:02:34.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApprovedOSVouchers.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ApprovedOSVouchers.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Accounts\\ApprovedOSVouchers.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ApprovedOSVouchers.aspx.cs",
+              "RelativeToolTip": "logix\\Accounts\\ApprovedOSVouchers.aspx.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAmwKMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:37:44.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormMain.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FormMain.aspx",
+              "RelativeDocumentMoniker": "logix\\FormMain.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FormMain.aspx",
+              "RelativeToolTip": "logix\\FormMain.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T14:12:32.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProOSV.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ProOSV.aspx",
+              "RelativeDocumentMoniker": "logix\\Accounts\\ProOSV.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ProOSV.aspx",
+              "RelativeToolTip": "logix\\Accounts\\ProOSV.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T08:33:54.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProformaLV.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ProformaLV.aspx",
+              "RelativeDocumentMoniker": "logix\\Accounts\\ProformaLV.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ProformaLV.aspx",
+              "RelativeToolTip": "logix\\Accounts\\ProformaLV.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T06:58:56.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProformaLV.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ProformaLV.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Accounts\\ProformaLV.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ProformaLV.aspx.cs",
+              "RelativeToolTip": "logix\\Accounts\\ProformaLV.aspx.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAswEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:56:57.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Login.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Login.aspx.cs",
+              "RelativeToolTip": "logix\\Login.aspx.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAkwA4BAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:27:15.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentFA_Receipt.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\PaymentFA_Receipt.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\FAForms\\PaymentFA_Receipt.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\PaymentFA_Receipt.aspx.cs",
+              "RelativeToolTip": "logix\\FAForms\\PaymentFA_Receipt.aspx.cs",
+              "ViewState": "AQIAACoPAAAAAAAAAAAewC8PAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:40:10.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Login.aspx",
+              "RelativeDocumentMoniker": "logix\\Login.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Login.aspx",
+              "RelativeToolTip": "logix\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T13:27:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalesDocked.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\SalesDocked.aspx",
+              "RelativeDocumentMoniker": "logix\\MainPage\\SalesDocked.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\SalesDocked.aspx",
+              "RelativeToolTip": "logix\\MainPage\\SalesDocked.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T07:27:21.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentFA_BackDated.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\PaymentFA_BackDated.aspx",
+              "RelativeDocumentMoniker": "logix\\FAForms\\PaymentFA_BackDated.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\PaymentFA_BackDated.aspx",
+              "RelativeToolTip": "logix\\FAForms\\PaymentFA_BackDated.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-04T05:47:21.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentFA_BackDated.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\PaymentFA_BackDated.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\FAForms\\PaymentFA_BackDated.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\PaymentFA_BackDated.aspx.cs",
+              "RelativeToolTip": "logix\\FAForms\\PaymentFA_BackDated.aspx.cs",
+              "ViewState": "AQIAAIsZAAAAAAAAAAAEwI8ZAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:47:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentFA_Receipt.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\PaymentFA_Receipt.aspx",
+              "RelativeDocumentMoniker": "logix\\FAForms\\PaymentFA_Receipt.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\PaymentFA_Receipt.aspx",
+              "RelativeToolTip": "logix\\FAForms\\PaymentFA_Receipt.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-04T06:14:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "system.css",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Theme\\assets\\css\\system.css",
+              "RelativeDocumentMoniker": "logix\\Theme\\assets\\css\\system.css",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Theme\\assets\\css\\system.css",
+              "RelativeToolTip": "logix\\Theme\\assets\\css\\system.css",
+              "ViewState": "AQIAAI0CAAAAAAAAAAAgwGkCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T06:23:56.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BLRelease.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\BLRelease.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\ShipmentDetails\\BLRelease.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\BLRelease.aspx.cs",
+              "RelativeToolTip": "logix\\ShipmentDetails\\BLRelease.aspx.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:10:54.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JobInfo.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ForwardExports\\JobInfo.aspx",
+              "RelativeDocumentMoniker": "logix\\ForwardExports\\JobInfo.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ForwardExports\\JobInfo.aspx",
+              "RelativeToolTip": "logix\\ForwardExports\\JobInfo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T11:05:13.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "JobInfo.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ForwardExports\\JobInfo.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\ForwardExports\\JobInfo.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ForwardExports\\JobInfo.aspx.cs",
+              "RelativeToolTip": "logix\\ForwardExports\\JobInfo.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:04:49.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FALedgerView.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\FALedgerView.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\FAForms\\FALedgerView.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\FALedgerView.aspx.cs",
+              "RelativeToolTip": "logix\\FAForms\\FALedgerView.aspx.cs",
+              "ViewState": "AQIAAJQIAAAAAAAAAAAswKYIAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:55:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FALedgerViewPG.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\FALedgerViewPG.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\FAForms\\FALedgerViewPG.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\FALedgerViewPG.aspx.cs",
+              "RelativeToolTip": "logix\\FAForms\\FALedgerViewPG.aspx.cs",
+              "ViewState": "AQIAAEsJAAAAAAAAAAAvwH0JAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:54:06.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AWBRelease.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AWBRelease.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\AE\\AWBRelease.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AWBRelease.aspx.cs",
+              "RelativeToolTip": "logix\\AE\\AWBRelease.aspx.cs",
+              "ViewState": "AQIAAEgCAAAAAAAAAAAQwGMCAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:22:12.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OSVouchers.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\OSVouchers.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Accounts\\OSVouchers.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\OSVouchers.aspx.cs",
+              "RelativeToolTip": "logix\\Accounts\\OSVouchers.aspx.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:55:16.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TallyXML.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\TallyXML.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Accounts\\TallyXML.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\TallyXML.aspx.cs",
+              "RelativeToolTip": "logix\\Accounts\\TallyXML.aspx.cs",
+              "ViewState": "AQIAAHoFAAAAAAAAAAAwwIIFAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:39:01.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Customersupport4AllTask.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\CRM\\Customersupport4AllTask.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\CRM\\Customersupport4AllTask.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\CRM\\Customersupport4AllTask.aspx.cs",
+              "RelativeToolTip": "logix\\CRM\\Customersupport4AllTask.aspx.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwDQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:33:57.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VoucherRegister.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\VoucherRegister.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\FAForms\\VoucherRegister.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\VoucherRegister.aspx.cs",
+              "RelativeToolTip": "logix\\FAForms\\VoucherRegister.aspx.cs",
+              "ViewState": "AQIAAIULAAAAAAAAAAAwwJwLAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:06:02.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OEOpsAndDocs.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Home\\OEOpsAndDocs.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Home\\OEOpsAndDocs.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Home\\OEOpsAndDocs.aspx.cs",
+              "RelativeToolTip": "logix\\Home\\OEOpsAndDocs.aspx.cs",
+              "ViewState": "AQIAANkKAAAAAAAAAAAIwAELAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:56:57.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UploadDocument.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\UploadDocument.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\ShipmentDetails\\UploadDocument.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\UploadDocument.aspx.cs",
+              "RelativeToolTip": "logix\\ShipmentDetails\\UploadDocument.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswDgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:08:10.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "VoucherRegister.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\VoucherRegister.aspx",
+              "RelativeDocumentMoniker": "logix\\FAForms\\VoucherRegister.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\VoucherRegister.aspx",
+              "RelativeToolTip": "logix\\FAForms\\VoucherRegister.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T12:06:01.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApprovedOSVouchers.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ApprovedOSVouchers.aspx",
+              "RelativeDocumentMoniker": "logix\\Accounts\\ApprovedOSVouchers.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ApprovedOSVouchers.aspx",
+              "RelativeToolTip": "logix\\Accounts\\ApprovedOSVouchers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T08:37:58.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Remittance_Receipt.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\Remittance_Receipt.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\FAForms\\Remittance_Receipt.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\FAForms\\Remittance_Receipt.aspx.cs",
+              "RelativeToolTip": "logix\\FAForms\\Remittance_Receipt.aspx.cs",
+              "ViewState": "AQIAACULAAAAAAAAAAAiwC4LAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:38:16.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UploadDocument.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\UploadDocument.aspx",
+              "RelativeDocumentMoniker": "logix\\ShipmentDetails\\UploadDocument.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\UploadDocument.aspx",
+              "RelativeToolTip": "logix\\ShipmentDetails\\UploadDocument.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T11:08:25.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProOSV.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ProOSV.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Accounts\\ProOSV.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\ProOSV.aspx.cs",
+              "RelativeToolTip": "logix\\Accounts\\ProOSV.aspx.cs",
+              "ViewState": "AQIAAHEUAAAAAAAAAAAowIEUAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:32:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FEBLdetails.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\FEBLdetails.aspx",
+              "RelativeDocumentMoniker": "logix\\ShipmentDetails\\FEBLdetails.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\FEBLdetails.aspx",
+              "RelativeToolTip": "logix\\ShipmentDetails\\FEBLdetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T13:56:57.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FEBLdetails.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\FEBLdetails.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\ShipmentDetails\\FEBLdetails.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ShipmentDetails\\FEBLdetails.aspx.cs",
+              "RelativeToolTip": "logix\\ShipmentDetails\\FEBLdetails.aspx.cs",
+              "ViewState": "AQIAAJsDAAAAAAAAAAAowKQDAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:56:57.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CostingDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ForwardExports\\CostingDetails.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\ForwardExports\\CostingDetails.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\ForwardExports\\CostingDetails.aspx.cs",
+              "RelativeToolTip": "logix\\ForwardExports\\CostingDetails.aspx.cs",
+              "ViewState": "AQIAAHYpAAAAAAAAAAAQwI0pAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:55:16.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MIS_ApprovalDock.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\MIS_ApprovalDock.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\MainPage\\MIS_ApprovalDock.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\MainPage\\MIS_ApprovalDock.aspx.cs",
+              "RelativeToolTip": "logix\\MainPage\\MIS_ApprovalDock.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:36:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TallyXML.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\TallyXML.aspx",
+              "RelativeDocumentMoniker": "logix\\Accounts\\TallyXML.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Accounts\\TallyXML.aspx",
+              "RelativeToolTip": "logix\\Accounts\\TallyXML.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T08:39:04.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TaskDetailsDashMain.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\TaskDetailsDashMain.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\TaskDetailsDashMain.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\TaskDetailsDashMain.aspx.cs",
+              "RelativeToolTip": "logix\\TaskDetailsDashMain.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:17:54.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Cor_MainModuleNew.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Cor_MainModuleNew.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Cor_MainModuleNew.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Cor_MainModuleNew.aspx.cs",
+              "RelativeToolTip": "logix\\Cor_MainModuleNew.aspx.cs",
+              "ViewState": "AQIAANcBAAAAAAAAAIBJwAkCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:04:39.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AEAWBDetails.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AEAWBDetails.aspx",
+              "RelativeDocumentMoniker": "logix\\AE\\AEAWBDetails.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AEAWBDetails.aspx",
+              "RelativeToolTip": "logix\\AE\\AEAWBDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T13:56:57.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AEJobInfo.aspx",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AEJobInfo.aspx",
+              "RelativeDocumentMoniker": "logix\\AE\\AEJobInfo.aspx",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AEJobInfo.aspx",
+              "RelativeToolTip": "logix\\AE\\AEJobInfo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T13:56:57.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AEJobInfo.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AEJobInfo.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\AE\\AEJobInfo.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AEJobInfo.aspx.cs",
+              "RelativeToolTip": "logix\\AE\\AEJobInfo.aspx.cs",
+              "ViewState": "AQIAAIoCAAAAAAAAAAAQwJwCAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:56:57.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "QuotBuyBook.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Sales\\QuotBuyBook.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\Sales\\QuotBuyBook.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\Sales\\QuotBuyBook.aspx.cs",
+              "RelativeToolTip": "logix\\Sales\\QuotBuyBook.aspx.cs",
+              "ViewState": "AQIAANwKAAAAAAAAAAAkwO0KAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:56:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AEAWBDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AEAWBDetails.aspx.cs",
+              "RelativeDocumentMoniker": "logix\\AE\\AEAWBDetails.aspx.cs",
+              "ToolTip": "C:\\Vino\\Consolidated_Backup_15042024\\OneBKPOneHosting_12april\\logix\\logix\\AE\\AEAWBDetails.aspx.cs",
+              "RelativeToolTip": "logix\\AE\\AEAWBDetails.aspx.cs",
+              "ViewState": "AQIAAIMWAAAAZmZmZmYCwMAWAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:56:57.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

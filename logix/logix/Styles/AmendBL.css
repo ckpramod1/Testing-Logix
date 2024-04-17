@@ -1,0 +1,75 @@
+﻿.div_body{
+    width:30%;
+    height:100%;
+    border:1px solid black;
+}
+
+.lbl_head{
+     font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.lbl_subhead{
+     font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:darkblue;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.Sub_head
+{
+    margin-left:10%;
+    margin-top:1%;
+}
+
+.txt_input
+{
+    width:100%;
+}
+
+.lbl_job
+{
+    width:20%;
+    float:left;
+    text-align:right;
+    margin-left:1%;
+    margin-top:1.5%;
+}
+
+.txt_job
+{
+    width:20%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+}
+
+.txt_bl
+{
+    width:70%;
+    float:left;
+    margin-left:1%;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.btn_back
+{
+    float:right;
+    /*width:8%;*/
+    text-align:center;
+    margin-right:1%;
+    margin-bottom:1%;
+    margin-top:1%;
+    
+}
+.btn_back input
+{
+    width:100%;
+
+}

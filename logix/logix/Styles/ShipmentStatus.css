@@ -1,0 +1,506 @@
+﻿.div_total
+{
+    width:850px;
+    /*border:1px solid black;*/
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_lbl_header
+{
+    background-color: #0061AE;
+    color: White;
+    width: 83%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+
+.div_lbl_job
+{
+    /*width: 7%;*/
+    float: left;
+    margin-top: 1%;
+    margin-left:1%;
+}
+.div_lbl_vvoy
+{
+    width: 13%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_pol
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_etd
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_pod
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_eta
+{
+    width: 10%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_booking
+{    
+    float: left;
+    margin-left: 0.5%;
+    margin-top:1%;
+}
+.div_txt_job
+{
+    width:7.5%;
+    float: left;
+    margin-left:0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_job input
+{
+    width: 100%;
+}
+
+.div_txt_vvoy
+{
+    width: 28%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_vvoy input
+{
+    width: 100%;
+}
+.div_txt_pol
+{
+    width: 10%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_pol input
+{
+    width: 100%;
+}
+.div_txt_etd
+{
+    width: 8%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_etd input
+{
+    width: 100%;
+}
+.div_txt_pod
+{
+    width: 10%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_pod input
+{
+    width: 100%;
+}
+.div_txt_eta
+{
+     width: 8%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_eta input
+{
+    width: 100%;
+}
+.div_txt_booking
+{
+    width: 12.8%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_booking input
+{
+    width: 100%;
+}
+.div_lbl_bl
+{
+    width: 6%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_bl
+{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_bl input
+{
+    width: 100%;
+}
+.div_lbl_stuffedon
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_stuffedon
+{
+    width: 15%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_stuffedon input
+{
+    width: 100%;
+}
+.div_lbl_mvessel
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_mvessel
+{
+    width: 42%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_mvessel input
+{
+    width: 100%;
+}
+.div_lbl_containers
+{
+    width: 16%;
+    float: left;
+    margin-left: 58%;
+    margin-top: 0.5%;
+}
+.div_lbl_sbdate
+{
+    width: 15%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 0.5%;
+}
+
+.div_sca
+{
+    width: 83%;
+}
+.div_lbl_shipper
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_shipper
+{
+    width: 98.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_shipper input
+{
+    width: 100%;
+}
+.div_lbl_consignee
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_consignee
+{
+    width: 98.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_consignee input
+{
+    width: 100%;
+}
+.div_lbl_agent
+{
+    width: 12%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_agent
+{
+    width: 98.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_agent input
+{
+    width: 100%;
+}
+
+.div_lbl_sca
+{
+    width: 57.7%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left:0.2%;
+}
+.div_chk_containers
+{
+    
+    float: left;
+    margin-left: 0.2%;
+    margin-top: 0.5%;
+    border: 1px solid grey;
+    height: 66px;
+    overflow: auto;
+    width:172px;
+}
+.div_chk_containers input, checkbox
+{
+    display: inline-block;
+}
+.div_lst_sbdate
+{
+    /*width: 15%;*/
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    height: 66px;
+    overflow: auto;
+    border: 1px solid grey;
+    width:170px;
+}
+.div_lbl_status
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_status
+{
+    width: 97.8%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+}
+.div_txt_status input, TextArea
+{
+    width: 100%;
+}
+.div_btn_save
+{
+    /*width: 5%;
+    margin-top: 0.5%;*/
+    float: right;
+    margin-right: 0.8%;    
+    text-align: center;
+}
+
+.div_btn_back
+{
+    /*width: 5%;
+    margin-top: 0.5%;*/
+    float: right;
+    margin-right: 0.8%;      
+    text-align: center;
+}
+
+.div_lbl_cmailid
+{
+    width: 41%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl_imailid
+{
+    width: 40.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_cmailid
+{
+    width: 46.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_cmailid input, TextArea
+{
+    width: 100%;
+}
+.div_btn_plus
+{
+    /*width: 2%;*/
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.3%;
+    text-align: center;
+}
+.div_btn_plus input, Button
+{
+    width: 100%;
+}
+.div_txt_imailid
+{
+    width: 48%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt_imailid input, TextArea
+{
+    width: 100%;
+}
+.div_grd_cmail
+{
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    border: 1px solid grey;
+}
+.div_grd_imail
+{
+    width: 47.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    border: 1px solid grey;
+}
+.div_lbl_attachment
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_txt_attachment
+{
+    width: 72%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_attachment input
+{
+    width: 100%;
+}
+.div_btn_dot
+{
+    width: 2%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+
+.div_fu_attachment
+{
+    width: 92%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+
+.div_btn_send
+{
+    /*width: 5%;
+    margin-top: 0.5%;*/
+    margin-bottom: 0.5%;
+    float: right;
+    margin-right: 0.8%;    
+    text-align: center;
+}
+
+.div_job_popup
+{
+    float: left;
+    width: 83%;
+    height: 70%;
+    background-color: White;
+}
+.div_Grid
+{
+    float: left;
+    width: 90%;
+    height: 90%;
+    overflow: auto;
+    margin-left:1%;
+}
+.div_close_qutation
+{
+    cursor: pointer;
+    float: right;
+}
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.modalBackground_cancel
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.modalBackground_qutation
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}
+.modalBackground_byngdetails
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */ /* opacity: 0.7%;*/
+}

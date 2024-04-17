@@ -1,0 +1,90 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body{ padding:0px; margin:0px; background-color:#fff; font-family:sans-serif, Geneva, sans-serif; font-size:14px; color:#2c2b2b;}
+#Wrapper{width:100%; margin:auto; }
+.Container{ width:1024px; margin:auto;}
+.Header{ background-color:#878788; float:left; width:1025px;}
+.Logo{width:135px; float:left; margin:10px 0px 0px 20px;}
+.CompanyName{ float:left; width:869px; margin:5px 0px 0px 0px;}
+.CompanyName h3{ font-family:"Segoe UI"; font-size:24px; font-weight:normal; color:#ffffff; text-align:center; padding:0px 0px 5px 0px; 
+margin:0px 0px 0px 190px;}
+.CompanyName p{ text-align:center;  font-family:"Segoe UI"; font-size:14px; margin:0px 0px 10px 165px; padding:0px; font-weight:normal; line-height:18px; color:#ffffff;}
+.InvoiceHead{ float:left; width:1024px; background-color:#184684; margin:0px 0px 0px 0px; border-bottom:1px solid #c2bebe;}
+.InvoiceHead h3{ font-family:"Segoe UI"; font-size:24px; text-align:center; color:#ffffff; font-weight:normal; padding:0px; margin:0px;}
+.AddressLeft{ width:566px; border-right:1px solid #fff; float:left;}
+.AddressRight{ width:457px; float:left;}
+.ALTLeft1{ background-color:#f9dded; width:566px; float:left; padding:15px 0px 0px 0px;}
+.ALTLeft1 label{ width:145px; float:left; display:inline-block; margin:0px 0px 10px 20px;}
+.ALTLeft1 span{ width:380px; float:left; display:inline-block;  margin:0px 0px 10px 0px;}
+.Dotted{ width:4px; float:left; margin:0px 5px 0px 0px;}
+
+.ALTRight1 label{ width:145px; float:left; display:inline-block; margin:0px 0px 10px 0px; padding:0px 0px 0px 0px;}
+.ALTRight1 span{ width:260px; float:left; display:inline-block;  margin:0px 0px 10px 0px;}
+
+.ALTRight1{ background-color:#f9dded; width:437px; float:left; padding:15px 0px 0px 20px;}
+.ALTLeft2{ background-color:#faf2f7; width:566px; float:left; min-height:178px; border-top:1px solid #ffffff;}
+
+.ToLbl{ font-size:14px; color:#2c2b2b; width:90%; float:left; padding:10px 0px 10px 20px;}
+.ToAddress{ font-size:14px; color:#2c2b2b; width:90%; float:left;}
+.ToAddress p{ padding:0px 0px 10px 20px; margin:0px;}
+
+.ALTRight2{ background-color:#f5f5f5; width:457px; float:left; padding:10px 0px 0px 0px;  border-top:1px solid #ffffff;}
+.ALTRight2 label{ width:145px; float:left; display:inline-block; margin:0px 0px 10px 0px; padding:0px 0px 0px 20px;}
+.ALTRight2 span{ float:left; display:inline-block;  margin:0px 0px 10px 0px;
+}
+
+.ShipperDetails{background-color:#f9dded; width:1024px; float:left; padding:10px 0px 10px 0px; line-height:24px;}
+.ShipperDetails label{ display:inline-block; width:200px; float:left; margin:0px 0px 0px 20px;}
+.ShipperDetails span{ display:inline-block;  float:left; margin:0px 0px 0px 0px;}
+.TblGridReport{ width:100%; border-collapse:collapse; border-right:1px solid #cdbcb1; border-left:1px solid #cdbcc1;
+    margin-right: 0px;
+}
+.TblGridReport th{ background-color:#184684; color:#ffffff; font-family:sans-serif, Geneva, sans-serif; font-size:14px; padding:3px; margin:0px; border-right:1px solid #cdbcb1; border-bottom:1px solid #ffffff;}
+.TblGridReport td{  color:#2c2b2b; font-size:14px; padding:5px 2px 5px 2px;  border-right:1px solid #cdbcb1;}
+.TblGridReport tr.alt1{ background-color:#f5f5f5;}
+.TblGridReport tr.alt2{ background-color:#fafafa;}
+.TblGridReport label{ display:inline-block; width:45px; float:left;}
+.Borderbottom{ border-bottom:1px solid #cdbcc1; }
+.TblGridReport span{ display:inline-block; width:110px; float:right; text-align:left;}
+.TblGridReport td:last-child{ border-right:none;}
+.TblService td.borderbtm{ border-bottom:1px solid #2c2b2b;}
+.TxtAlignTD{float:right;}
+.TxtAlignTD_left{text-align:left; float:left;margin:0px 0px 0px 0px;}
+.TblService td{ border-right:0px solid #b1b1b1;}
+.TblService h3{ color:#184684; font-family:sans-serif, Geneva, sans-serif; font-size:18px; padding:10px 0px 10px 3px; margin:0px;}
+.BankDetails{ width:1022px; border-left:1px solid #cdbcb1; border-right:1px solid #cdbcb1; border-top:1px solid #cdbcb1; border-bottom:1px solid #cdbcb1;}
+.BankDetails h3{color:#184684; font-family:sans-serif, Geneva, sans-serif; font-size:18px; padding:10px 0px 10px 3px; margin:0px; }
+.Clear{clear:both;}
+.BankDetails label{ width:120px; float:left; line-height:24px; margin:0px 0px 0px 3px;}
+.BankDetails span{ width:850px; float:left; line-height:24px; margin:0px 0px 0px 3px;}
+.BankDetails p{margin:5px 0px 0px 0px; padding:10px 0px 10px 3px;}
+.BankDetails p.AlignRight{text-align:right; color:#cdbcb1; margin:5px 10px 5px 0px;}
+.BroderTop{ border-top:1px solid #000000;}
+
+
+
+.Grid {width:100%;border:1px solid #b1b1b1;  margin:0px 0px 0px 0px; overflow-x:hidden!important; overflow-y:auto!important;
+}
+.Grid th { background-color:#dbdbdb!important; border-right:1px solid #51789d; font-family:tahoma; padding:2px 5px 2px 5px; font-size:12px; color:#4e4c4c!important;
+}
+.Grid td {border-right:1px solid #dddddd; font-size:12px; text-align:left; font-family:tahoma; padding:2px 5px 2px 5px; margin:0px; color:#4e4c4c; border-bottom:1px solid #dddddd;
+}
+.Grid tr:last-child {color:#ab1e1e!important;
+}
+
+.EmptyRowStyle
+{
+    text-align:center;
+}
+
+.GrdAltRow
+{
+    background-color:#FFF8DC;
+   font-family:sans-serif;
+    font-size:10pt;
+     color:Black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}

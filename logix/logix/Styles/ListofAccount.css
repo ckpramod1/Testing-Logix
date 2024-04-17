@@ -1,0 +1,58 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color : White;
+    width: 60%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_btn
+{
+    width: 90%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    text-align:right;
+    height: 250px;
+}
+
+.div_gridview
+{
+    width: 90%;
+    float: left;
+    margin-top:1%;
+    margin-left:1%;
+    height: 320px;
+    overflow: auto;
+}
+
+.div_btn input, button
+{
+    width: 10%;
+}
+.div_Grid
+{
+    width: 60%;
+    margin-left: 1%;
+    float: left;
+    margin-top: 0.5%;
+}
+
+.div_Break
+{
+    clear: both;
+}
+.Grd_LeftTemplate
+{
+    border-left: none;
+}
+.Grd_RightTemplate
+{
+    border-right: none;
+}
+
+
+
+
+

@@ -1,0 +1,98 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+body{ padding:0px 0px 0px 0px; font-family:14px; font-family:sans-serif, Geneva, sans-serif; line-height:24px; margin:0px 0px 0px 0px;}
+
+
+
+
+#Wrapper{ width:100%; padding:0px; margin:0px;}
+
+.RContainer{ width:1024px; margin:0px auto; border:0px solid #b1b1b1;}
+.Header{ width:100%; min-height:105px; background-color:#878788; border-bottom:1px solid #b1b1b1;}
+.LogoReport{ width:72px; float:left; padding:12px 0px 0px 24px;border-bottom-color:white;}
+.ToLeft{ width:390px; float:left; margin:20px 0px 0px 24px;}
+.ToRight{ width:220px; float:right; margin:42px 0px 0px 24px;}
+.ToLabel{ display:inline-block; font-size:12px; color:#ffffff;font-weight:bold;}
+.ToAddress{ font-size:12px; color:#ffffff; line-height:24px;font-family:sans-serif;} /*color:#7c7c7c;*/
+.ToAddress p{ line-height:24px; font-size:12px; color:#ffffff;font-family:sans-serif;}/*color:#7c7c7c;*/
+.ToRight{font-size:10px; color:#ffffff; line-height:24px;font-family:sans-serif;}/*color:#7c7c7c;*/
+.ToRight p{line-height:24px; font-size:10px; color:black; font-family:sans-serif;}/*color:#7c7c7c;*/
+.ToRight label{ display:inline-block; width:110px; font-weight:normal; font-size:10px; float:left; color:black; font-family:sans-serif;} /*color:#003777;*/
+.ToRight span{ display:inline-block; font-size:12px; width:96px; float:left; color:#ffffff; font-family:sans-serif;}  /*color:#7c7c7c;*/
+.ThankYou{ width:100%; margin:0px auto 0px 0px; padding:0px; float:left; font-size:14px; background-color:#d0d0d0; }
+.ThankYou p{ font-size:14px; color:#000000; line-height:24px; padding:0px 10px 0px 20px;font-family:sans-serif;}  /*color:#0a447f;*/
+.ReportBG{ background-color:#65737e; width:1024px; overflow:hidden; margin:0px auto;}
+.ReportBG h3{ font-family:sans-serif, Geneva, sans-serif; font-size:10px; padding:15px 10px 15px 10px; margin:0px;font-family:sans-serif;}
+.ReportBG label{width:200px; float:left; margin:5px 5px 5px 5px; color:black; font-size:14px;}  /*color:#0a447f;*/
+.ReportBG span{width:520px; font-size:14px; float:left; margin:5px 5px 5px 5px; color:#ffffff;}  /*color:#0a447f;*/
+.SellRate {background-color:#d0d0d0; padding:10px;
+}
+.SellRate h3{ color:#000000; font-size:14px; padding:5px 0px 5px 11px; margin:0px;font-family:sans-serif;}
+.TabelGrid{ background-color:white; width:95%; color:black; margin:0px 0px 0px 20px; font-size:10px; text-align:center; border-bottom:1px solid black; border-collapse:collapse; font-family:sans-serif;}
+.LblTxt123{font-size:10px; color:black;  margin-left:20px; margin-top:5px;font-family:sans-serif;} /*color:#7c7c7c;*/
+.BestRegards{font-size:12px; width:100%;font-family:sans-serif;}
+.TabelGrid th{ text-align:left; color:black; padding:4px; border-bottom:1px solid black;font-family:sans-serif;}
+.TabelGrid td{ font-size:10px; font-weight:500; background-color:#ffffff; text-align:left; border-bottom:0px solid black; color:black; padding:4px;} /*color:#7c7c7c;*/ 
+.ClrB{ clear:both;}
+.BestRegards p{color:#7c7c7c; padding:20px 20px 20px 20px;}
+.LogisticsTitle{ width:828px; float:left; margin:0px 0px; text-align:center; }
+.LogisticsTitle h3{ font-size:24px; color:black; padding:10px 10px 10px 10px; margin:0px; color:#ffffff; font-weight:normal;}
+.LogisticsTitle p{ font-size:12px; color:#ffffff!important; text-align:center; line-height:18px; color:black; padding:0px 5px 5px 5px; margin:0px;}
+.Printbtn input {
+    padding: 5px;
+    background-color: #c1d5db;
+    border:0px solid #fff;
+}
+
+
+.Grid {width:100%;border:1px solid #b1b1b1;  margin:0px 0px 0px 0px; overflow-x:hidden!important; overflow-y:auto!important;
+}
+.Grid th { background-color:#dbdbdb!important; border-right:1px solid #51789d; font-family:tahoma; padding:2px 5px 2px 5px; font-size:12px; color:#4e4c4c!important;
+}
+.Grid td {border-right:1px solid #dddddd; font-size:12px; text-align:left; font-family:tahoma; padding:2px 5px 2px 5px; margin:0px; color:#4e4c4c; border-bottom:1px solid #dddddd;
+}
+.Grid tr:last-child {color:#ab1e1e!important;
+}
+
+.EmptyRowStyle
+{
+    text-align:center;
+}
+
+.GrdAltRow
+{
+    background-color:#FFF8DC;
+   font-family:sans-serif;
+    font-size:10pt;
+     color:Black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}
+
+
+.ReportBG1{ background-color:#65737e; width:1024px; overflow:hidden; margin:0px auto;}
+.ReportBG1 h3{ font-family:sans-serif, Geneva, sans-serif; font-size:10px; padding:15px 10px 15px 10px; margin:0px;font-family:sans-serif;}
+.ReportBG1 label{width:200px; float:left; margin:5px 5px 5px 5px; color:black; font-size:14px;}  /*color:#0a447f;*/
+.ReportBG1 span{width:520px; font-size:14px; float:left; margin:5px 5px 5px 5px; color:#ffffff;}  /*color:#0a447f;*/
+
+
+
+
+.ReportBG1 span {
+    width: 520px;
+    font-size: 14px;
+    float: left;
+    margin: 5px 5px 5px 5px;
+    color: #000000;
+}
+
+
+.TabelGrid1{ background-color:white; width:100%; color:black; margin:0px 0px 0px 0px; font-size:14px; text-align:center; border:1px solid #b1b1b1; border-collapse:collapse; font-family:sans-serif;}
+.TabelGrid1 th{ background-color: #184684; color:#ffffff; font-family: sans-serif, Geneva, sans-serif; font-size: 14px; padding: 3px; margin: 0px; border-right: 1px solid #cdbcb1; border-bottom: 1px solid #ffffff;}
+.TabelGrid1 td{ color: #2c2b2b; font-size: 14px!important; padding: 5px 2px 5px 20px; border: 1px solid #cdbcb1;}
+
+.LblTxtN1{font-size:12px; color:#ffffff;  margin-left:20px; margin-top:0px; padding:25px 0px 0px 0px;font-family:sans-serif;} /*color:#7c7c7c;*/
+.LblTxtN2{font-size:12px; color:#ffffff;  margin-left:20px; margin-top:25px;font-family:sans-serif;} /*color:#7c7c7c;*/

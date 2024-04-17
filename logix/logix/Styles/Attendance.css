@@ -1,0 +1,85 @@
+﻿.div_total {
+    width: 700px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1 {
+    font-size: 12pt;
+    font-family: sans-serif;
+    text-align: left;
+    color: navy;
+    margin-left: 1%;
+    font:bold;
+}
+
+.div_Break {
+    clear: both;
+}
+
+.div_AttendanceDatetxt{
+
+    width:17%;
+    float:left;
+    margin-left:81%;
+    margin-top:0.5%;
+}
+
+.div_AttendanceDatetxt input,Text{
+    width:100%;
+}
+
+.div_companyddl{
+     width:32%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_companyddl input,select{
+     width:100%;
+}
+
+.div_branchddl{
+     width:32%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_branchddl input,select{
+     width:100%;
+}
+
+.div_departmentddl{
+     width:31.6%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_departmentddl input,select{
+     width:100%;
+}
+
+.div_btn{
+
+    float:right;
+    margin-right:1.7%;
+    margin-top:1%;
+
+}
+
+.div_grd{
+      width:100%;
+    float:left;
+    margin-left:0%;
+    margin-top:0%;
+   height:200px;
+   border:1px solid #b1b1b1;
+
+}
+
+

@@ -1,0 +1,329 @@
+﻿.div_total
+{
+     width:800px;
+      background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+
+}
+.txtcustomer
+{
+    width:98%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.txtcustomer input
+{
+    width:100%;
+}
+.ddltype
+{
+ width:98.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.ddltype select
+{
+    width:99.75%;
+
+}
+.txtunit
+{
+    width:11%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+
+}
+.txtunit input
+{
+    width:100%;
+}
+.txtbuilding
+{
+     width:39%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+.txtbuilding input
+{
+    width:100%;
+}
+.txtdoor
+{
+    width:11%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+
+}
+.txtdoor input
+{
+    width:100%;
+}
+.txtstreet
+{
+     width:35.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+  .txtstreet input {
+        width: 100%;
+ }
+.txtcity {
+     width:27%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+
+}
+.txtcity input
+{
+    width:100%;
+}
+.txtcity select 
+{
+    width:100%;
+}
+.txtcity1 {
+     width:24.3%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+
+}
+.txtcity1 input
+{
+    width:100%;
+}
+.txtcity1 select 
+{
+    width:100%;
+}
+.txtdistrict {
+     width:22%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+.txtZIP
+{
+     width:23%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+.txtZIP input
+
+{
+    width:100%;
+}
+.txtdistrict input
+{
+    width:100%;
+}
+.txtisd
+{
+    width:5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.txtisd input
+{
+    width:100%;
+}
+.txtstd
+
+{
+     width:8%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+.txtstd input
+
+{
+    width:100%;
+}
+.txtlandline
+
+{
+      width:36.59%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+
+}
+.txtlandline input
+{
+    width:100%;
+}
+
+.txtfax
+
+{
+      width:32.8%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+
+}
+.txtfax input
+{
+    width:100%;
+}
+.txtmobile
+{
+     width:44.9%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+.txtmobile input
+{
+    width:100%;
+}
+
+.txtpannoabove {
+     width:48%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.25%;
+
+}
+.txtpannoabove input
+{
+    width:100%;
+}
+
+.txtpanno {
+      /*width:48.5%;*/
+     width:47.1%; 
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+
+}
+.txtpanno input
+{
+    width:100%;
+}
+.txtpanno1 {
+      /*width:48.5%;*/
+     width:47.1%; 
+    float:left;
+    /*margin-top:0.5%;*/
+    margin-left:0.5%;
+
+}
+.txtpanno1 input
+{
+    width:100%;
+}
+.txtstno {
+     width:48.3%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.25%;
+}
+.txt_name
+{
+    width:41.8%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+.txt_name1
+{
+    width:41.8%;
+    float:left;
+    /*margin-top:0.5%;*/
+    margin-left:0.5%;
+}
+.ddl_mr
+{
+    width:8%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+    /*height:10%;*/
+}
+.ddl_mr2 select
+{
+    width:100%;
+}
+.ddl_mr2
+{
+    width:8%;
+    float:left;
+    /*margin-top:0.5%;*/
+    margin-left:1%;
+    /*height:10%;*/
+}
+.ddl_mr select
+{
+    width:100%;
+}
+.txtstno input
+{
+    width:100%;
+}
+.txtemail {
+     width:47%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+
+}
+.txtemail input
+{
+    width:100%;
+}
+.div_button
+{
+    float:right;
+margin-right:1%;
+margin-bottom:0.5%;
+margin-top:-0.4%;
+}
+.chk_list
+{
+    float:left;
+    width:30%;
+    margin-left:2%;
+    height:100%;
+}
+
+
+
+.txtfaxisd
+{
+    width:5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+}
+.txtfaxisd input
+{
+    width:100%;
+}
+
+
+.txttds {
+     width:10.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+
+}
+.txttds input
+{
+    width:100%;
+}

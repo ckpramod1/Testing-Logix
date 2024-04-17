@@ -1,0 +1,541 @@
+﻿.div_total
+{
+    width:750px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Main
+{
+    background-color:navy;
+    padding:3px;
+    color: White;
+    width: 98.5%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    /*font-weight: bold;*/
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lnkjob
+{
+    /*width: 6%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+  
+}
+.div_lnkbook
+{
+    /*width: 10%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;   
+}
+.div_txtjob
+{
+    width: 20.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    height: 18px;
+}
+.div_txtjob input, Text
+{
+    width: 100%;
+}
+.div_txtjob1
+{
+    width: 22.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    height: 18px;
+}
+.div_txtjob1 input, Text
+{
+    width: 100%;
+}
+.div_ship
+{
+    width: 8%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_date
+{
+    /*width: 4%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_txtdate
+{
+    width: 13%;
+    float: right;
+    /*margin-left: 1%;*/
+    margin-top: 0.3%;
+    margin-right:1%;
+}
+.div_txtdate input, Text
+{
+    width: 100%;
+}
+.div_shipper
+{
+    width: 30.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtshipper
+{
+    width: 48.6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+    resize:none;
+    margin-bottom: 0px;
+}
+.div_txtshipper input, Text
+{
+    width: 100%;
+}
+.txt_consignee
+{
+    width: 49%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.8%;
+    resize:none;
+    margin-bottom: 0px;
+}
+.txt_consignee input, Text
+{
+    width: 100%;
+}
+.div_txtshipper1
+{
+    width: 49.1%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    resize:none;
+    margin-bottom: 0px;
+}
+.div_txtshipper1 input, Text
+{
+    width: 100%;
+}
+.div_txtshipperAddress
+{
+    width: 48%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    resize:none;
+
+}
+.div_txtshipperAddress input, Text
+{
+    width: 100%;
+   
+}
+.div_txtshipperAddress1
+{
+    width: 48.4%;
+    float: left;
+    margin-left:1.1%;
+    margin-top: 0.5%;
+    resize:none;
+
+}
+.div_txtshipperAddress1 input, Text
+{
+    width: 100%;
+   
+}
+.div_port
+{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_porttxt1
+{
+    width: 23.65%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_porttxt1 input, Text
+{
+    width: 100%;
+}
+.div_porttxt
+{
+    width: 24.29%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_porttxt input, Text
+{
+    width: 100%;
+}
+.div_mark
+{
+    width: 47%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_container
+{
+    width: 16%;
+    float: right;
+    margin-right:20.5%;
+    margin-top: 0.5%;
+}
+.div_marktxt
+{
+    width: 79%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_marktxt input, Text
+{
+    width: 100%;
+}
+.div_marktxt1
+{
+    width: 79%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_marktxt1 input, Text
+{
+    width: 100%;
+}
+.div_submain
+{
+    width: 47%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_submaincontainer
+{
+    width: 38.5%;
+    float: right;
+    margin-right: 0.75%;
+    margin-top: -7.5%;
+    height: 53px;
+    /*overflow:auto;*/
+    /*border-left:1px solid black;
+    border-right:1px solid black;
+    border-top:1px solid black;
+    border-bottom:1px solid black;*/
+}
+.panel 
+{
+    border:1px solid #999997;            
+    width: 18.5%;   
+    height:66px;
+    float: right;
+    margin-right: 0.7%;
+    margin-top: -5.9%;    
+}
+.div_containerlist1
+{
+    /*width: 97%;*/
+   color:navy;  
+    float: right;
+    margin-right:23.7%;
+    margin-top:-4.5%
+    /*margin-left: 0.5%;*/
+    
+ }
+.div_containerlist
+{
+    /*width: 97%;*/    
+    float: left;
+    margin-top:1.5%;
+    /*margin-left: 0.5%;*/
+   
+ }
+.div_MainList
+{
+    width: 62%;
+    float:left;
+    margin-top: 0.5%;
+}
+.div_Grosswt
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_wt
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_netweight
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_unit
+{
+    width: 3%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+}
+.div_wttxt
+{
+    width:15%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_wttxt input, Text
+{
+    width: 100%;
+}
+.div_wttxt1
+{
+    width:16.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_wttxt1 input, Text
+{
+    width: 100%;
+}
+.div_unittxt
+{
+    width:15.7%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_unittxt input, select
+{
+    width: 100%;
+}
+.div_GR
+{
+    width: 3.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_GRtxt
+{
+     width:14%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_GRtxt input, Text
+{
+    width: 100%;
+}
+.div_GRtxt1
+{
+     width:13.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_GRtxt1 input, Text
+{
+    width: 100%;
+}
+.div_GRdate
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_HTS
+{
+     width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    }
+.div_HTStxt
+{
+    width: 33%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_HTStxt input, Text
+{
+    width: 100%;
+}
+.txt_shiptype{
+    width:21.5%;
+    margin-left:0.5%;
+    float:left;
+    margin-top:0.5%;
+}
+.txt_shiptype input
+{
+    width:100%;
+}
+.div_btn
+{
+    /*width: 62.4%;*/
+    float: right;
+    margin-right:0.5%;
+    /*margin-left: 0.25%;*/
+    margin-top: -0.6%;
+    /*text-align: right;*/
+    margin-bottom:0.5%;
+}
+
+.div_Grid
+{
+    width: 53%;
+    float: left;
+    margin-top:1%;
+    margin-left:1%;
+}
+.div_popup
+{
+    width: 100%;
+    float: left;
+}
+
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    /*width: 100%;
+    float: left;
+    text-align: right;
+    cursor: pointer;*/
+ width:20px; 
+            Height:20px; 
+            border:2px solid white;
+            margin-left:95%;
+            margin-top:-2.5%;
+            border-radius: 90px 90px 90px 90px;
+       
+
+}
+.div_Grd
+{
+    float: left;
+    width: 95%;
+    height: 95%;
+    overflow: auto;
+    margin-top: 2%;
+     font-family:sans-serif;
+     font-size:10pt;
+    /*overflow-y:scroll;*/
+}
+.GridHeader_my1
+{
+    
+
+    background-color:navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:10px;
+    margin-left: -0.1%;
+    margin-bottom: 0px;
+  position :absolute ;
+   margin-top:-1.5%;
+   margin-bottom: 0px;  
+}
+.div_frame
+{
+    /*width: 100%;
+    height: 90%;*/
+    width: 200px;
+     Height:305px;
+   
+    float: left;
+    text-align: center;
+    /*overflow-y:scroll;*/
+}
+.myGridHeader1 {
+    background-color: navy;
+    color: White;
+    font-family: sans-serif;
+    font-size: 11px;
+    margin-left: -0.6%;
+    position: absolute;
+    /*margin-top: -2.3%;*/
+       margin-top: -1.7%;
+    width: 944px;
+}
+.myGridHeader2
+{
+   
+
+     background-color:navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:12px;
+    margin-left: -0.8%;   
+    margin-bottom: 0px;  
+    position :absolute ;
+    margin-top:-2.3%;
+    width:944px;
+    margin-bottom: 0px;  
+}
+
+.myGridHeader3
+{
+   
+
+     background-color:navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:12px;
+    margin-left: -0.8%;   
+    margin-bottom: 0px;  
+    position :absolute ;
+    /*margin-top:-2%;*/
+    width:944px;
+     margin-top: -1.7%;
+}

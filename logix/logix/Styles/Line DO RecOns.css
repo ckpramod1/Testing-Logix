@@ -1,0 +1,60 @@
+﻿.div_total 
+{
+     width: 1025px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+    text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 90.5%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+}
+
+.div_grd_BL
+{
+    /*width:97%; 
+	height:450px;
+    float:left; 
+	margin-top: 1%;	
+	margin-left:0.6%;	
+    overflow:auto;
+    border:1px solid gray;*/
+       width:1005px;
+    height:385px;
+    /*border:1px solid #999997;*/
+    margin-bottom:3%;
+    margin-top:0.5%;
+    margin-right:0.5%;
+    margin-left:1%;
+}
+
+.div_Break
+{
+    clear: both;
+}
+
+.div_btn    
+{
+    /*width: 95%;*/
+    float:right;
+    margin-right: 0.5%;
+    margin-top:0.5%;
+    text-align: right;
+    margin-bottom:0.5%;
+    /*padding-left:10%;*/
+}

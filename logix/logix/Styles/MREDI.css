@@ -1,0 +1,226 @@
+﻿.div_total
+ {
+    width:650px;
+   
+    border:1px solid black;
+    
+}
+.div_header
+{
+    width:100%;
+    border:1px solid black;
+     background-color:#333399;
+     color:white ;
+}
+.div_Label
+{
+  width:9%;
+  float:left;
+  margin-left:0.5%;
+  text-align:right;   
+  margin-top:0.5%;
+}
+.div_text
+ {
+    width:25%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+.div_text input {
+ width:100%;
+ }
+.div_text_JOB
+ {
+    width:55%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+.div_text_JOB input
+{
+    width:100%;
+}
+.div_text_EDI
+ {
+    width:16%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+    
+}
+.div_text_EDI input
+{
+    width:100%;
+}
+.div_text_shiporder
+ {
+     width:12.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+    .div_text_shiporder input {
+        width:100%;
+    }
+.div_text_shiporder1
+ {
+    width:25%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+    .div_text_shiporder1 input {
+        width:100%;
+    }
+    .div_ddl_contract1
+    {
+          width:19%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+    }
+    .div_ddl_contract1 select 
+    {
+        width:100%;
+    }
+    .div_ddl_contract
+    {
+          width:20%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+    }
+    .div_ddl_contract select 
+    {
+        width:100%;
+    }
+    .div_Label_Ship
+{
+  width:12.5%;
+  float:left;
+  margin-left:0.5%;
+  text-align:right;   
+  margin-top:0.5%;
+ 
+}
+    .div_text_Contrct1
+ {
+     width:16%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+    .div_text_Contrct1 input
+    {
+        width:100%;
+    }
+    .div_text_Contrct
+ {
+     width:12%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+    .div_text_Contrct input
+    {
+        width:100%;
+    }
+    .div_text_CType1
+ {
+    width:35%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+    .div_text_CType1 input
+    {
+        width:100%;
+    }
+    .div_text_CType
+ {
+     width:11%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.2%;
+ }
+    .div_text_CType input
+    {
+        width:100%;
+    }
+    .div_Label_EDI
+{
+  width:9%;
+  float:left;
+  margin-left:0.5%;
+  text-align:right;   
+  margin-top:0.5%;
+
+}
+      .div_ddl_Job
+    {
+     width:13.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+    }
+    .div_ddl_Job select 
+    {
+        width:100%;
+    }
+       .div_ddl_Consol
+    {
+       width:11%;
+        float:left;
+        margin-top:0.5%;
+        margin-left:1%;
+    }
+    .div_ddl_Consol select 
+    {
+        width:100%;
+    }
+        .div_ddl_ams
+    {
+         width:10%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.8%;
+   
+}
+    .div_ddl_ams select 
+    {
+        width:100%;
+    }
+         .div_ddl_ISF
+    {
+         width:10%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+    }
+    .div_ddl_ISF select 
+    {
+        width:100%;
+    }
+    .div_date
+    {
+          width:11%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+    }
+    .div_date input
+    {
+        width:100%;
+    }
+    .div_text_shipname
+ {
+    width:57.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.8%;
+ }
+    .div_text_shipname input
+    {
+        width:100%;
+    }

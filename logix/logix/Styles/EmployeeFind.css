@@ -1,0 +1,66 @@
+﻿.div_Main
+{
+    /*background-color: Navy;
+    color: White;*/
+    width: 98%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size:15px;
+}
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+.div_Emptxt
+{
+    width: 98.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top:1%;
+}
+.div_Emptxt input, Text
+{
+    width: 99%;
+}
+
+.div_Grd
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+}
+.div_EmpColumn
+{
+    width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+}
+
+.divTotal
+{
+   
+    width:600px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_btn{
+
+    width:6%;
+    margin-top:1%;
+    margin-left:92.5%;
+    height: 21px;
+}

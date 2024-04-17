@@ -1,0 +1,10 @@
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\bin\Release\IGM.dll
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\bin\Release\IGM.pdb
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\bin\Release\IGM.xml
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\obj\Release\IGM.vbproj.AssemblyReference.cache
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\obj\Release\IGM.Resources.resources
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\obj\Release\IGM.vbproj.GenerateResource.cache
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\obj\Release\IGM.vbproj.CoreCompileInputs.cache
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\obj\Release\IGM.dll
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\obj\Release\IGM.xml
+D:\gayathri\AIDNI_LIVE\ifacttouch\IGM\obj\Release\IGM.pdb

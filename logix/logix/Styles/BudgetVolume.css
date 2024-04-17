@@ -1,0 +1,151 @@
+﻿.div_total 
+{
+    width: 1050px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_ddlCompany{
+   width:37%;
+   float:left;
+   margin-left:1%;
+   margin-top:0.5%;
+}
+
+    .div_ddlCompany input, select {
+        width:100%;
+    }
+
+.div_ddlBranch{
+     width:27%;
+   float:left;
+   margin-left:1%;
+   margin-top:0.5%;
+}
+.div_ddlBranch input,select{
+    width:100%;
+}
+
+.div_ddlMonth{
+      width:20%;
+   float:left;
+   margin-left:1%;
+   margin-top:0.5%;
+}
+
+.div_ddlMonth input,select{
+      width:100%;
+}
+
+.div_ddlYear{
+     width:11.1%;
+   float:left;
+   margin-left:1%;
+   margin-top:0.5%;
+}
+    .div_ddlYear input, select {
+         width:100%;
+    }
+
+.div_lblName {
+     width:26.2%;
+   float:left;
+   margin-left:1%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+
+.div_lblOcenExports{
+      width:26%;
+   float:left;
+   margin-left:0.1%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+
+.div_lblOcenImports
+{
+      width:25.8%;
+   float:left;
+   margin-left:0%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+.div_airI{
+     width:7.5%;
+   float:left;
+   margin-left:0%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+.div_airE{
+      width:7.5%;
+   float:left;
+   margin-left:0%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+
+.div_chalbl{
+      width:4%;
+   float:left;
+   margin-left:0%;
+   margin-top:0.5%;
+    border: 1px solid;
+    border-color: white;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+     text-align: center;
+}
+
+.div_grd1{
+
+    width:100%;
+    float:left;
+    margin:0% 0%;
+  
+    height:292px;
+    border:1px solid #b1b1b1;
+
+}

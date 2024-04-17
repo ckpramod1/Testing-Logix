@@ -1,0 +1,147 @@
+﻿.div_Main
+{
+    /*background-color: #0061AE;
+    color: White;*/
+    width:99%;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size:15px;
+}
+
+.divTotal
+{
+   
+    width:500px;
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+
+.div_break
+{
+    clear: both;
+}
+.div_label
+{
+    float: left;
+    width: 8%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt
+{
+    float: left;
+    width: 25.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, text
+{
+    width: 100%;
+}
+.div_txt1
+{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt1 input, text
+{
+    width: 100%;
+    text-align:right;
+}
+.div_txt2
+{
+    float: left;
+    width: 27%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt2 input, text
+{
+    width: 100%;
+    text-align:right;
+}
+.div_Nametxt
+{
+    float: left;
+    width: 70%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Nametxt input, text
+{
+    width: 100%;
+}
+
+.div_Divisiontxt
+{
+    float: left;
+    width: 96.5%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Divisiontxt input, text
+{
+    width: 100%;
+}
+.div_ddl
+{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddl input, select
+{
+    width: 100%;
+}
+.div_Chk
+{
+    float: left;
+    width: 14%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Claimtxt
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Claimtxt input, text
+{
+    width: 95%;
+}
+.div_btn
+{
+   float:right;
+   margin-right:2%;
+   margin-top: 1%;
+   margin-bottom:1%;
+
+}
+
+.div_Grid
+{
+    width:100%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+    height:150px;
+    border:1px solid #b1b1b1;
+}

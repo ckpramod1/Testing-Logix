@@ -1,0 +1,1392 @@
+﻿@charset "utf-8";
+
+/*Praveen Commented*/
+
+/*.btn {
+    display: inline-block;
+    text-align: center !important;
+    z-index: 2 !important;
+    border-radius: 0px !important;
+}*/
+
+/*Praveen commented*/
+/*.btn {
+    display: inline-block;
+    text-align: center !important;
+    z-index: 2 !important;
+    border-radius: 2px !important;
+    border: 0.5px solid #e1d8d852;
+    background: #e1d8d852 !important;
+}*/
+
+/*Praveen commmented 2023-may-10*/
+/*.btn {
+        display: inline-block;
+    text-align: center !important;
+    z-index: 2 !important;
+    border-radius: 2px !important;
+    border: 0.5px solid #fde2d2;
+    background: #ffeee6 !important;
+}*/
+
+/*Praveen added 2023-may-10*/
+
+.btn {
+    display: inline-block;
+    text-align: center !important;
+    z-index: 2 !important;
+    border-radius: 2px !important;
+    width: 38px;
+    margin: 0px 9px 0px 0px;
+    border-radius: 2px !important;
+    /* border: 0.5px solid #fde2d2; */
+    /*background: #8bbcc147 !important;*/
+}
+
+
+    /*praveen commented 2023-may-10*/
+    /*.btn input[type="submit"],
+    .btn input[type="button"] {
+        overflow: hidden;
+        text-indent: -99em;
+    }*/
+
+    /*praveen added 2023-may-10*/
+
+
+
+    /*praveen commented 2023-may-11*/
+    /*.btn input[type="submit"], .btn input[type="button"] {
+    overflow: hidden;
+    width: 34px !important;
+    height: 34px !important;
+    text-indent: -99em;
+}*/
+
+    /*praveen addded 2023-may-11*/
+
+    .btn input[type="submit"], .btn input[type="button"] {
+        overflow: hidden;
+        width: 28px !important;
+        height: 28px !important;
+        text-indent: -99em !important;
+    }
+
+/*praveen commented 2023-may-10*/
+
+/*input[type="submit"],
+input[type="button"] {
+    border-style: none !important;
+    border-color: inherit !important;
+    border-width: medium !important;
+    line-height: normal !important;
+    color: #4e4e4e !important;
+    padding: 5px 0px 6px 28px !important;
+    cursor: pointer !important;
+}*/
+
+/*praveen added 2023-may-10*/
+
+input[type="submit"], input[type="button"] {
+    border-style: none !important;
+    border-color: inherit !important;
+    border-width: medium !important;
+    line-height: normal !important;
+    color: #4e4e4e !important;
+    padding: 0px !important;
+    cursor: pointer !important;
+}
+
+
+
+    input[type="submit"]::-ms-tooltip,
+    input[type="button"]::-ms-tooltip {
+        border: 1px solid #b1b1b1;
+    }
+
+
+
+/*New Design - Buttons*/
+
+/*.btn::before {
+    width: 36px;
+    height: 34px;
+    background: #f095562e;
+    position: absolute;
+    content: "";
+    border-radius: 6px;
+    border-right: 1px solid #b1b1b1;
+}*/
+
+.btn input[type="submit"], .btn input[type="button"], .btn button {
+    overflow: hidden;
+    /*text-indent: inherit !Important;*/
+    width: 37px !important;
+    background-position: 2px 2px !important;
+    background-color: #f095561c !important;
+    margin-right: 8px;
+    border: 1px solid #cdcdcd !important;
+    border-radius: 6px;
+    padding: 0px !important;
+    height: 34px !important;
+}
+
+
+
+
+
+
+.btn-proforma-invoice input {
+    background: url(../img/buttonIcon/proforma_invoice.png) no-repeat left top !important;
+}
+
+.btn-proforma-CNOps input {
+    background: url(../img/buttonIcon/proforma_CNOps.png) no-repeat left top !important;
+}
+
+.btn-proforma-OSDNCN input {
+    background: url(../img/buttonIcon/proforma_OSDNCN.png) no-repeat left top !important;
+}
+
+/*.btn-save input {
+    background: url(../img/buttonIcon/save_ic.png) no-repeat left top !important;
+}
+
+.btn-save1 input {
+    background: url(../img/buttonIcon/save_ic.png) no-repeat left top !important;
+}*/
+
+.btn-edicancel1 input {
+    background: url(../img/buttonIcon/edicancel_icon.png) no-repeat left top !important;
+}
+
+.btn-exceldown1 input {
+    background: url(../img/buttonIcon/exceldownload_ic.png) no-repeat left top !important;
+}
+
+.btn-nonit1 input {
+    background: url(../img/buttonIcon/nonit_ic.png) no-repeat left top !important;
+}
+
+.btn-buyrate1 input {
+    background: url(../img/buttonIcon/buyrate1_ic.png) no-repeat left top !important;
+}
+
+.btn-branchwise1 input {
+    background: url(../img/buttonIcon/branch_ic.png) no-repeat left top !important;
+}
+
+.btn-groupwise1 input {
+    background: url(../img/buttonIcon/itcomputation_ic.png) no-repeat left top !important;
+}
+
+.btn-servicetax1 input {
+    background: url(../img/buttonIcon/save_ic.png) no-repeat left top !important;
+}
+
+.btn-previous1 input {
+    background: url(../img/buttonIcon/back_ic.png) no-repeat left top !important;
+}
+
+.btn-ledgerwise1 input {
+    background: url(../img/buttonIcon/log.png) no-repeat left top !important;
+}
+
+.btn-annex1 input {
+    background: url(../img/buttonIcon/approve_ic.png) no-repeat left top !important;
+}
+
+.btn-acd1 input {
+    background: url(../img/buttonIcon/log.png) no-repeat left top !important;
+}
+
+.btn-next1 input {
+    background: url(../img/buttonIcon/next_ic.png) no-repeat left top !important;
+}
+
+.btn-log1 input {
+    background: url(../img/buttonIcon/log.png) no-repeat left top !important;
+}
+
+.btn-ledgerwise1 input {
+    background: url(../img/buttonIcon/ledgerwise_ic.png) no-repeat left top !important;
+}
+
+.btn-changepass1 input {
+    background: url(../img/buttonIcon/changepassword_ic.png) no-repeat left top !important;
+}
+
+.btn-itcomputation1 input {
+    background: url(../img/buttonIcon/itcomputation_ic.png) no-repeat left top !important;
+}
+
+.btn-appraisal1 input {
+    background: url(../img/buttonIcon/appraisal_ic.png) no-repeat left top !important;
+}
+
+.btn-claim1 input {
+    background: url(../img/buttonIcon/claim_ic.png) no-repeat left top !important;
+}
+
+.btn-access1 input {
+    background: url(../img/buttonIcon/accessrights_ic.png) no-repeat left top !important;
+}
+
+.btn-appointment1 input {
+    background: url(../img/buttonIcon/appointmentletter_ic.png) no-repeat left top !important;
+}
+
+.btn-cancelApp1 input {
+    background: url(../img/buttonIcon/cancel_appointments_ic.png) no-repeat left top !important;
+}
+
+.btn-month1 input {
+    background: url(../img/buttonIcon/month_ic.png) no-repeat left top !important;
+}
+
+.btn-earn1 input {
+    background: url(../img/buttonIcon/earned_ic.png) no-repeat left top !important;
+}
+
+.btn-pending1 input {
+    background: url(../img/buttonIcon/pending_ic.png) no-repeat left top !important;
+}
+
+.btn-pending2 input {
+    background: url(../img/buttonIcon/pendingdo1_ic.png) no-repeat left top !important;
+}
+
+.btn-pending3 input {
+    background: url(../img/buttonIcon/pendingdosales_ic.png) no-repeat left top !important;
+}
+
+.btn-connectschedule1 a {
+    background: url(../img/buttonIcon/connectschdule_ic.png) no-repeat left top !important;
+}
+
+.btn-addschedule1 a {
+    background: url(../img/buttonIcon/addschedule_ic.png) no-repeat left top !important;
+}
+
+.btn-confirm1 input {
+    background: url(../img/buttonIcon/confirm_ic.png) no-repeat left top !important;
+}
+
+.btn-apply1 input {
+    background: url(../img/buttonIcon/ok_ic.png) no-repeat left top !important;
+}
+
+.btn-reuse1 input {
+    background: url(../img/buttonIcon/reuse_ic.png) no-repeat left top !important;
+}
+
+.btn-mainfest1 input {
+    background: url(../img/buttonIcon/mainfest_ic.png) no-repeat left top !important;
+}
+
+.btn-annex2 input {
+    background: url(../img/buttonIcon/annexure_2ic.png) no-repeat left top !important;
+}
+
+.btn-annex3 input {
+    background: url(../img/buttonIcon/annexure_3ic.png) no-repeat left top !important;
+}
+
+.btn-annex4 input {
+    background: url(../img/buttonIcon/annexure_4ic.png) no-repeat left top !important;
+}
+
+.btn-form1 input {
+    background: url(../img/buttonIcon/approve1_ic.png) no-repeat left top !important;
+}
+
+.btn-form2 input {
+    background: url(../img/buttonIcon/form_2ic.png) no-repeat left top !important;
+}
+
+.btn-Cont1 input {
+    background: url(../img/buttonIcon/confirmcheckreturn_ic.png) no-repeat left top !important;
+}
+
+.btn-final1 input {
+    background: url(../img/buttonIcon/igm_ic.png) no-repeat left top !important;
+}
+
+.btn-icd1 input {
+    background: url(../img/buttonIcon/edi_ic.png) no-repeat left top !important;
+}
+
+.btn-icd2 input {
+    background: url(../img/buttonIcon/icdtsa_ic.png) no-repeat left top !important;
+}
+
+.btn-icd3 input {
+    background: url(../img/buttonIcon/movementnote_ic.png) no-repeat left top !important;
+}
+
+.btn-icd4 input {
+    background: url(../img/buttonIcon/cargodecalaration_ic.png) no-repeat left top !important;
+}
+
+.btn-igm1 input {
+    background: url(../img/buttonIcon/igm_ic.png) no-repeat left top !important;
+}
+
+.btn-liner1 input {
+    background: url(../img/buttonIcon/liner_ic.png) no-repeat left top !important;
+}
+
+.btn-custom1 input {
+    background: url(../img/buttonIcon/custom_edi_ic.png) no-repeat left top !important;
+}
+
+.btn-print1 input {
+    background: url(../img/buttonIcon/print_ic.png) no-repeat left top !important;
+}
+
+.btn-desi1 input {
+    background: url(../img/buttonIcon/desingnation_ic.png) no-repeat left top !important;
+}
+
+.btn-approve1 input {
+    background: url(../img/buttonIcon/approve_ic.png) no-repeat left top !important;
+}
+
+.btn-job1 input {
+    background: url(../img/buttonIcon/job_ic.png) no-repeat left top !important;
+}
+
+.btn-backdated1 input {
+    background: url(../img/buttonIcon/backdated_ic.png) no-repeat left top !important;
+}
+
+.btn-transfer1 input {
+    background: url(../img/buttonIcon/transfer_ic.png) no-repeat left top !important;
+}
+
+.btn-non1 input {
+    background: url(../img/buttonIcon/non_ic.png) no-repeat left top !important;
+}
+
+.btn-draft1 input {
+    background: url(../img/buttonIcon/draft_ic.png) no-repeat left top !important;
+}
+
+.btn-orig1 input {
+    background: url(../img/buttonIcon/original_ic.png) no-repeat left top !important;
+}
+
+.btn-unclosed1 input {
+    background: url(../img/buttonIcon/viewunclosedjob_ic.png) no-repeat left top !important;
+}
+
+.btn-process1 input {
+    background: url(../img/buttonIcon/process1_ic.png) no-repeat left top !important;
+}
+
+.btn-profoma1 input {
+    background: url(../img/buttonIcon/approve1_ic.png) no-repeat left top !important;
+}
+
+.btn-upd1 input {
+    background: url(../img/buttonIcon/update_ic.png) no-repeat left top !important;
+}
+
+.btn-export1 input {
+    background: url(../img/buttonIcon/export_ic.png) no-repeat left top !important;
+}
+
+.btn-export2 input {
+    background: url(../img/buttonIcon/export_ic.png) no-repeat left top !important;
+}
+
+.btn-excel1 input {
+    background: url(../img/buttonIcon/export_ic..png) no-repeat left top !important;
+}
+
+.btn-back1 input {
+    background: url(../img/buttonIcon/back_ic.png) no-repeat left top !important;
+}
+
+.btn_back1 input {
+    background: url(../img/buttonIcon/back_ic.png) no-repeat left top !important;
+}
+
+.btn-nextB1 input {
+    background: url(../img/buttonIcon/next_ic.png) no-repeat left top !important;
+}
+
+.btn-clear1 input {
+    background: url(../img/buttonIcon/clear_ic.png) no-repeat left top !important;
+}
+
+.btn-service1 input {
+    background: url(../img/buttonIcon/servicetax_ic.png) no-repeat left top !important;
+}
+
+.btn-find1 input {
+    background: url(../img/buttonIcon/find_ic.png) no-repeat left top !important;
+}
+
+.btn-import1 input {
+    background: url(../img/buttonIcon/import_ic.png) no-repeat left top !important;
+}
+
+.btn-pdf1 input {
+    background: url(../img/buttonIcon/pdf_ic.png) no-repeat left top !important;
+}
+
+.btn-edi1 input {
+    background: url(../img/buttonIcon/edi_ic.png) no-repeat left top !important;
+}
+
+.btn-view1 input {
+    background: url(../img/buttonIcon/view_ic.png) no-repeat left top !important;
+}
+
+.btn-view input {
+    background: url(../img/buttonIcon/view.png) no-repeat left top !important;
+}
+
+.btn-DebitAd1 input {
+    background: url(../img/buttonIcon/debitadvise_ic.png) no-repeat left top !important;
+}
+
+.btn-appdel1 input {
+    background: url(../img/buttonIcon/approvedelete_ic.png) no-repeat left top !important;
+}
+
+.btn-credit1 input {
+    background: url(../img/buttonIcon/creditadvise_ic.png) no-repeat left top !important;
+}
+
+.btn-Gst1 input {
+    background: url(../img/buttonIcon/gst_ic.png) no-repeat left top !important;
+}
+
+.btn-upload1 input {
+    background: url(../img/buttonIcon/upload_ic.png) no-repeat left top !important;
+}
+
+.btn-delete1 input {
+    background: url(../img/buttonIcon/delete_ic.png) no-repeat left top !important;
+}
+
+.btn-close1 input {
+    background: url(../img/buttonIcon/jobclose_ic.png) no-repeat left top !important;
+}
+
+.btn-cancel1 input {
+    background: url(../img/buttonIcon/cancel_ic.png) no-repeat left top !important;
+}
+
+.btn-generate1 input {
+    background: url(../img/buttonIcon/generate_ic.png) no-repeat left top !important;
+}
+
+.btn-add1 input {
+    background: url(../img/buttonIcon/add_ic.png) no-repeat left top !important;
+}
+
+.btn-add-icon-blue input {
+    /* background:url(../img/buttonIcon/small_blue_plus.png) ;*/
+    background: url(../img/buttonIcon/add_ic.png) no-repeat left top !important;
+}
+
+.btn-forwarder1 input {
+    background: url(../img/buttonIcon/forwarder_ic.png) no-repeat left top !important;
+}
+
+.btn-send1 input {
+    background: url(../img/buttonIcon/send_flying.png) no-repeat left top !important;
+}
+
+.btn-send-email input {
+    background: url(../img/buttonIcon/send.png) no-repeat left top !important;
+}
+
+.btn-compare1 input {
+    background: url(../img/buttonIcon/compare.png) no-repeat left top !important;
+}
+
+.btn-get1 input {
+    background: url(../img/buttonIcon/get_ic.png) no-repeat left top !important;
+}
+
+.btn-Unclosed1 input {
+    background: url(../img/buttonIcon/unclosedjobbooking_ic.png) no-repeat left top !important;
+}
+
+.btn-update1 input {
+    background: url(../img/buttonIcon/updateadd_ic.png) no-repeat left top !important;
+}
+
+.btn-xml1 input {
+    background: url(../img/buttonIcon/xml_ic.png) no-repeat left top !important;
+}
+
+.btn-can1 input {
+    background: url(../img/buttonIcon/can_ic.png) no-repeat left top !important;
+}
+
+.btn-Reverse1 input {
+    background: url(../img/buttonIcon/reverse_booking_ic.png) no-repeat left top !important;
+}
+
+.btn-Reversenew11 input {
+    background: url(../img/buttonIcon/reverse1_icon.png) no-repeat left top !important;
+}
+
+.btn-canprofrma1 input {
+    background: url(../img/buttonIcon/can_profoma_ic.png) no-repeat left top !important;
+}
+
+.btn-Frieght1 input {
+    background: url(../img/buttonIcon/freightCertificate_ic.png) no-repeat left top !important;
+}
+
+.btn-reject1 input {
+    background: url(../img/buttonIcon/reject_ic.png) no-repeat left top !important;
+}
+
+.btn-Ok1 input {
+    background: url(../img/buttonIcon/ok_ic.png) no-repeat left top !important;
+}
+
+.btn-amend1 input {
+    background: url(../img/buttonIcon/amend_ic.png) no-repeat left top !important;
+}
+
+.btn-amend1 input {
+    background: url(../img/buttonIcon/amend_ic.png) no-repeat left top !important;
+}
+
+.btn-branch1 input {
+    background: url(../img/buttonIcon/branch_ic.png) no-repeat left top !important;
+}
+
+.btn-UpdateAdd2 input {
+    background: url(../img/buttonIcon/updateadd_ic.png) no-repeat left top !important;
+}
+
+.btn-adjustable1 input {
+    background: url(../img/buttonIcon/adjustable_ic.png) no-repeat left top !important;
+}
+
+.btn-excelformat1 input {
+    background: url(../img/buttonIcon/excelformat_ic.png) no-repeat left top !important;
+}
+
+.btn-Reversenew11 input {
+    background: url(../img/buttonIcon/reverse1_icon.png) no-repeat left top !important;
+}
+
+.btn-file1 input {
+    background: url(../img/buttonIcon/filexml_ic.png) no-repeat left top !important;
+}
+
+.btn-backd1 input {
+    background: url(../img/buttonIcon/backdated_ic.png) no-repeat left top !important;
+}
+
+.btn-consol2 input {
+    background: url(../img/buttonIcon/consoleupload_ic.png) no-repeat left top !important;
+}
+
+.btn-xml2 input {
+    background: url(../img/buttonIcon/xmlupload_ic.png) no-repeat left top !important;
+}
+
+.btn-reclose1 input {
+    background: url(../img/buttonIcon/reclose_ic.png) no-repeat left top !important;
+}
+
+/*new*/
+
+.btn-block1 input {
+    background: url(../img/buttonIcon/block_ic1.png) no-repeat left top !important;
+}
+
+.btn-edit input {
+    background: url(/images/edit.gif);
+}
+
+.btn-summary1 input {
+    background: url(../img/buttonIcon/summary_ic1.png) no-repeat left top !important;
+}
+
+.btn-portrait1 input {
+    background: url(../img/buttonIcon/portrait_ic1.png) no-repeat left top !important;
+}
+
+.btn-landscape1 input {
+    background: url(../img/buttonIcon/landscape_ic1.png) no-repeat left top !important;
+}
+
+.btn-select1 input {
+    background: url(../img/buttonIcon/selectIcon.png) no-repeat left top !important;
+}
+
+/* New Dec_23_2022 */
+
+.btn-log input {
+    background: url(../img/buttonIcon/log.png) no-repeat left top !important;
+}
+
+.btn-changepass input {
+    background: url(../img/buttonIcon/changepassword_ic.png) no-repeat left top !important;
+}
+
+.btn-itcomputation input {
+    background: url(../img/buttonIcon/itcomputation_ic.png) no-repeat left top !important;
+}
+
+.btn-appraisal input {
+    background: url(../img/buttonIcon/appraisal_ic.png) no-repeat left top !important;
+}
+
+.btn-claim input {
+    background: url(../img/buttonIcon/claim_ic.png) no-repeat left top !important;
+}
+
+.btn-access input {
+    background: url(../img/buttonIcon/accessrights_ic.png) no-repeat left top !important;
+}
+
+.btn-appointment input {
+    background: url(../img/buttonIcon/appointmentletter_ic.png) no-repeat left top !important;
+}
+
+.btn-cancelApp input {
+    background: url(../img/buttonIcon/cancel_appointments_ic.png) no-repeat left top !important;
+}
+
+.btn-month input {
+    background: url(../img/buttonIcon/month_ic.png) no-repeat left top !important;
+}
+
+.btn-earn input {
+    background: url(../img/buttonIcon/earned_ic.png) no-repeat left top !important;
+}
+
+.btn-pending input {
+    background: url(../img/buttonIcon/pending_ic.png) no-repeat left top !important;
+}
+
+.btn-confirm input {
+    background: url(../img/buttonIcon/confirm_ic.png) no-repeat left top !important;
+}
+
+.btn-apply input {
+    background: url(../img/buttonIcon/ok_ic.png) no-repeat left top !important;
+}
+
+.btn-reuse input {
+    background: url(../img/buttonIcon/reuse_ic.png) no-repeat left top !important;
+}
+
+.btn-mainfest input {
+    background: url(../img/buttonIcon/mainfest_ic.png) no-repeat left top !important;
+}
+
+.btn-annex1 input {
+    background: url(../img/buttonIcon/approve_ic.png) no-repeat left top !important;
+}
+
+.btn-form input {
+    background: url(../img/buttonIcon/approve1_ic.png) no-repeat left top !important;
+}
+
+.btn-Cont input {
+    background: url(../img/buttonIcon/confirmcheckreturn_ic.png) no-repeat left top !important;
+}
+
+.btn-final input {
+    background: url(../img/buttonIcon/igm_ic.png) no-repeat left top !important;
+}
+
+.btn-consol input {
+    background: url(../img/buttonIcon/appointmentletter_ic.png) no-repeat left top !important;
+}
+
+.btn-icd input {
+    background: url(../img/buttonIcon/edi_ic.png) no-repeat left top !important;
+}
+
+.btn-igm input {
+    background: url(../img/buttonIcon/igm_ic.png) no-repeat left top !important;
+}
+
+.btn-liner input {
+    background: url(../img/buttonIcon/liner_ic.png) no-repeat left top !important;
+}
+
+.btn-custom input {
+    background: url(../img/buttonIcon/custom_edi_ic.png) no-repeat left top !important;
+}
+
+.btn-print input {
+    background: url(../img/buttonIcon/print_ic.png) no-repeat left top !important;
+}
+
+.btn-approve input {
+    background: url(../img/buttonIcon/approve_ic.png) no-repeat left top !important;
+}
+
+.btn-transfer input {
+    background: url(../img/buttonIcon/transfer_ic.png) no-repeat left top !important;
+}
+
+.btn-unclosed input {
+    background: url(../img/buttonIcon/viewunclosedjob_ic.png) no-repeat left top !important;
+}
+
+.btn-profoma input {
+    background: url(../img/buttonIcon/approve1_ic.png) no-repeat left top !important;
+}
+
+.btn-upd input {
+    background: url(../img/buttonIcon/can_ic.png) no-repeat left top !important;
+}
+
+.btn-export input {
+    background: url(../img/buttonIcon/export_ic.png) no-repeat left top !important;
+}
+
+.btn-excel input {
+    background: url(../img/buttonIcon/export_ic..png) no-repeat left top !important;
+}
+
+.btn-back input {
+    background: url(../img/buttonIcon/back_ic.png) no-repeat left top !important;
+}
+
+.btn-clear input {
+    background: url(../img/buttonIcon/clear_ic.png) no-repeat left top !important;
+}
+
+.btn-find input {
+    background: url(../img/buttonIcon/find_ic.png) no-repeat left top !important;
+}
+
+.btn-edi input {
+    background: url(../img/buttonIcon/edi_ic.png) no-repeat left top !important;
+}
+
+.btn-view input {
+    background: url(../img/buttonIcon/view_ic.png) no-repeat left top !important;
+}
+
+.btn-Gst input {
+    background: url(../img/buttonIcon/gst_ic.png) no-repeat left top !important;
+}
+
+.btn-upload input {
+    background: url(../img/buttonIcon/upload_ic.png) no-repeat left top !important;
+}
+
+.btn-delete input {
+    background: url(../img/buttonIcon/delete_ic.png) no-repeat left top !important;
+}
+
+.btn-cancel input {
+    background: url(../img/buttonIcon/cancel_ic.png) no-repeat left top !important;
+}
+
+.btn-generate input {
+    background: url(../img/buttonIcon/generate_ic.png) no-repeat left top !important;
+}
+
+.btn-add input {
+    background: url(../img/buttonIcon/add_ic.png) no-repeat left top !important;
+}
+
+.btn-send input {
+    background: url(../img/buttonIcon/send_xml.png) no-repeat left top !important;
+}
+
+.btn-compare input {
+    background: url(../img/buttonIcon/compare.png) no-repeat left top !important;
+}
+
+.btn-get input {
+    background: url(../img/buttonIcon/get_ic.png) no-repeat left top !important;
+}
+
+.btn-Unclosed input {
+    background: url(../img/buttonIcon/unclosedjobbooking_ic.png) no-repeat left top !important;
+}
+
+.btn-update input {
+    background: url(../img/buttonIcon/update_ic.png) no-repeat left top !important;
+}
+
+.btn-Reverse input {
+    background: url(../img/buttonIcon/reverse_booking_ic.png) no-repeat left top !important;
+}
+
+.btn-canprofrma input {
+    background: url(../img/buttonIcon/can_profoma_ic.png) no-repeat left top !important;
+}
+
+.btn-Frieght input {
+    background: url(../img/buttonIcon/freightCertificate_ic.png) no-repeat left top !important;
+}
+
+.btn-branch input {
+    background: url(../img/buttonIcon/branch_ic.png) no-repeat left top !important;
+}
+
+.btn-window1 input {
+    background: url(../img/buttonIcon/window_ic.png) no-repeat left top !important;
+}
+
+.btn-unselect1 input {
+    background: url(../img/buttonIcon/unselect_ic1.png) no-repeat left top !important;
+}
+
+.btn-select1 input {
+    background: url(../img/buttonIcon/select_ic1.png) no-repeat left top !important;
+}
+
+.btn-remove1 input {
+    background: url(../img/buttonIcon/remove_ic.png) no-repeat left top !important;
+}
+
+.btn-onaccount1 input {
+    background: url(../img/buttonIcon/on-account.png) no-repeat left top !important;
+}
+
+.btn-consol input {
+    background: url(../img/buttonIcon/appointmentletter_ic.png) no-repeat left top !important;
+}
+
+
+
+
+/*-------------------------------------------------------------------------------------------------------------------------*/
+/*Button Missing created by -Praveen 2023-May-5 >> START */
+/*-------------------------------------------------------------------------------------------------------------------------*/
+
+/*icons for anchor tag*/
+.ico-log-sm a {
+    background: url(../img/buttonicon/active/log-sm.png) no-repeat left top !important;
+}
+
+.ico-terms-popup {
+    background: url(../img/buttonicon/active/terms-popup.png) no-repeat left top !important;
+}
+
+.ico-find-sm {
+    background: url(../img/buttonicon/active/find-sm.png) no-repeat center !important;
+}
+
+.ico-info-sm {
+    background: url(../img/buttonicon/active/info-sm.png) no-repeat center !important;
+}
+.ico-inquiry {
+    background: url(../img/buttonicon/active/inquiry.png) no-repeat center !important;
+}
+/*.ico-excel a { background: url(../img/buttonicon/active/excel.png) no-repeat left top !important; }*/
+/*.ico-excel  { background: url(../img/buttonicon/active/excel.png) no-repeat left top !important; }*/
+
+
+
+
+
+
+/*icons for input tag*/
+.ico-acd input {
+    background: url(../img/buttonicon/active/acd.png) no-repeat left top !important;
+}
+
+.ico-add input {
+    background: url(../img/buttonicon/active/add.png) no-repeat left top !important;
+}
+
+.ico-add-icon-blue input {
+    background: url(../img/buttonicon/active/add-icon-blue.png) no-repeat left top !important;
+}
+
+.ico-airline-booking input {
+    background: url(../img/buttonicon/active/airline-booking.png) no-repeat left top !important;
+}
+
+.ico-all-rights input {
+    background: url(../img/buttonicon/active/all-rights.png) no-repeat left top !important;
+}
+
+.ico-Amend-BL input {
+    background: url(../img/buttonicon/active/Amend-BL.png) no-repeat left top !important;
+}
+
+.ico-Amend-MBL input {
+    background: url(../img/buttonicon/active/Amend-MBL.png) no-repeat left top !important;
+}
+
+.ico-annexure-b input {
+    background: url(../img/buttonicon/active/annexure-b.png) no-repeat left top !important;
+}
+
+.ico-annexure-i input {
+    background: url(../img/buttonicon/active/annexure-i.png) no-repeat left top !important;
+}
+
+.ico-annexure-ii input {
+    background: url(../img/buttonicon/active/annexure-ii.png) no-repeat left top !important;
+}
+
+.ico-approve input {
+    background: url(../img/buttonicon/active/approve.png) no-repeat left top !important;
+}
+
+.ico-approved-items-list input {
+    background: url(../img/buttonicon/active/approved-items-list.png) no-repeat left top !important;
+}
+
+.ico-awb-acd input {
+    background: url(../img/buttonicon/active/awb-acd.png) no-repeat left top !important;
+}
+
+.ico-awb-Draft input {
+    background: url(../img/buttonicon/active/awb-Draft.png) no-repeat left top !important;
+}
+
+.ico-awb-Manifest input {
+    background: url(../img/buttonicon/active/awb-Manifest.png) no-repeat left top !important;
+}
+
+.ico-awb-Original input {
+    background: url(../img/buttonicon/active/awb-Original.png) no-repeat left top !important;
+}
+
+.ico-back input {
+    background: url(../img/buttonicon/active/back.png) no-repeat left top !important;
+}
+
+.ico-back-dated input {
+    background: url(../img/buttonicon/active/back-dated.png) no-repeat left top !important;
+}
+
+.ico-BL-draft input {
+    background: url(../img/buttonicon/active/BL-draft.png) no-repeat left top !important;
+}
+
+.ico-BL-nn input {
+    background: url(../img/buttonicon/active/BL-nn.png) no-repeat left top !important;
+}
+
+.ico-BL-release input {
+    background: url(../img/buttonicon/active/BL-release.png) no-repeat left top !important;
+}
+
+.ico-booking-register input {
+    background: url(../img/buttonicon/active/booking-register.png) no-repeat left top !important;
+}
+
+.ico-branch input {
+    background: url(../img/buttonicon/active/branch.png) no-repeat left top !important;
+}
+
+.ico-can input {
+    background: url(../img/buttonicon/active/can.png) no-repeat left top !important;
+}
+
+.ico-cancel input {
+    background: url(../img/buttonicon/active/cancel.png) no-repeat left top !important;
+}
+
+.ico-can-proforma input {
+    background: url(../img/buttonicon/active/can-proforma.png) no-repeat left top !important;
+}
+
+.ico-cfs-profoma input {
+    background: url(../img/buttonicon/active/cfs-proforma.png) no-repeat left top !important;
+}
+
+.ico-charge-Reverse input {
+    background: url(../img/buttonicon/active/charge-Reverse.png) no-repeat left top !important;
+}
+
+.ico-cheque-print input {
+    background: url(../img/buttonicon/active/cheque-print.png) no-repeat left top !important;
+}
+
+.ico-clear input {
+    background: url(../img/buttonicon/active/clear.png) no-repeat left top !important;
+}
+
+.ico-clp input {
+    background: url(../img/buttonicon/active/clp.png) no-repeat left top !important;
+}
+
+.ico-close-sm input {
+    background: url(../img/buttonicon/active/close-sm.png) no-repeat left top !important;
+}
+.sm-close input {
+    background: url(../img/buttonicon/active/close-sm.png) no-repeat left top !important;
+}
+.ico-confirm input {
+    background: url(../img/buttonicon/active/confirm.png) no-repeat left top !important;
+}
+
+.ico-confirm-brs input {
+    background: url(../img/buttonicon/active/confirm-brs.png) no-repeat left top !important;
+}
+
+.ico-consol-letter input {
+    background: url(../img/buttonicon/active/consol-letter.png) no-repeat left top !important;
+}
+
+.ico-credit-advice input {
+    background: url(../img/buttonicon/active/credit-advice.png) no-repeat left top !important;
+}
+
+.ico-customs-edi input {
+    background: url(../img/buttonicon/active/customs-edi.png) no-repeat left top !important;
+}
+
+.ico-custom-view input {
+    background: url(../img/buttonicon/active/customs-edi-view.png) no-repeat left top !important;
+}
+
+.ico-debit-advice input {
+    background: url(../img/buttonicon/active/debit-advice.png) no-repeat left top !important;
+}
+.ico-do input {
+    background: url(../img/buttonicon/active/do.png) no-repeat left top !important;
+}
+
+.ico-decline input {
+    background: url(../img/buttonicon/active/decline.png) no-repeat left top !important;
+}
+
+.ico-delete input {
+    background: url(../img/buttonicon/active/delete.png) no-repeat left top !important;
+}
+
+.ico-delete input {
+    background: url(../img/buttonicon/active/delete.png) no-repeat left top !important;
+}
+
+.ico-delete-row input {
+    background: url(../img/buttonicon/active/delete-row.png) no-repeat left top !important;
+}
+
+.ico-download input {
+    background: url(../img/buttonicon/active/download.svg) no-repeat left top !important;
+}
+
+.ico-edi input {
+    background: url(../img/buttonicon/active/edi.png) no-repeat left top !important;
+}
+
+.ico-edit input {
+    background: url(../img/buttonicon/active/edit.png) no-repeat left top !important;
+}
+
+.ico-edi-all-day input {
+    background: url(../img/buttonicon/active/edi-all-day.png) no-repeat left top !important;
+}
+
+.ico-excel input {
+    background: url(../img/buttonicon/active/excel.png) no-repeat left top !important;
+}
+
+.ico-find input {
+    background: url(../img/buttonicon/active/find.png) no-repeat left top !important;
+}
+
+.ico-form-ii input {
+    background: url(../img/buttonicon/active/form-ii.png) no-repeat left top !important;
+}
+
+.ico-form-iii input {
+    background: url(../img/buttonicon/active/form-iii.png) no-repeat left top !important;
+}
+
+.ico-freight-certiciate input {
+    background: url(../img/buttonicon/active/freight-certiciate.png) no-repeat left top !important;
+}
+
+.ico-generate-edi input {
+    background: url(../img/buttonicon/active/generate-edi.png) no-repeat left top !important;
+}
+
+.ico-get input {
+    background: url(../img/buttonicon/active/get.png) no-repeat left top !important;
+}
+
+.ico-icd-cargo-declaration input {
+    background: url(../img/buttonicon/active/icd-cargo-declaration.png) no-repeat left top !important;
+}
+
+.ico-icd-cfs input {
+    background: url(../img/buttonicon/active/icd-cfs.png) no-repeat left top !important;
+}
+
+.ico-icd-movement-note input {
+    background: url(../img/buttonicon/active/icd-movement-note.png) no-repeat left top !important;
+}
+
+.ico-icd-tsa input {
+    background: url(../img/buttonicon/active/icd-tsa.png) no-repeat left top !important;
+}
+
+.ico-igm-1-5 input {
+    background: url(../img/buttonicon/active/igm-1-5.png) no-repeat left top !important;
+}
+
+.ico-igm-1-5-view input {
+    background: url(../img/buttonicon/active/igm-1-5-view.png) no-repeat left top !important;
+}
+
+.ico-igm-final input {
+    background: url(../img/buttonicon/active/igm-final.png) no-repeat left top !important;
+}
+
+.ico-inco-terms input {
+    background: url(../img/buttonicon/active/inco-terms.png) no-repeat left top !important;
+}
+
+.ico-job-close input {
+    background: url(../img/buttonicon/active/job-close.png) no-repeat left top !important;
+}
+
+.ico-job-new input {
+    background: url(../img/buttonicon/active/job_new.png) no-repeat left top !important;
+}
+
+.ico-ledger-branchwise input {
+    background: url(../img/buttonicon/active/ledger-branchwise.png) no-repeat left top !important;
+}
+
+.ico-ledger-groupwise input {
+    background: url(../img/buttonicon/active/ledger-groupwise.png) no-repeat left top !important;
+}
+
+.ico-ledger-ledgerwise input {
+    background: url(../img/buttonicon/active/ledger-ledgerwise.png) no-repeat left top !important;
+}
+
+.ico-liner-igm input {
+    background: url(../img/buttonicon/active/liner-igm.png) no-repeat left top !important;
+}
+
+.ico-liner-view input {
+    background: url(../img/buttonicon/active/liner-igm-view.png) no-repeat left top !important;
+}
+
+.ico-log input {
+    background: url(../img/buttonicon/active/log.png) no-repeat left top !important;
+}
+
+.ico-log-sm input {
+    background: url(../img/buttonicon/active/log-sm.png) no-repeat left top !important;
+}
+
+.ico-MAWB-Report input {
+    background: url(../img/buttonicon/active/MAWB-Report.png) no-repeat left top !important;
+}
+
+.ico-mbl-annexure input {
+    background: url(../img/buttonicon/active/mbl-annexure.png) no-repeat left top !important;
+}
+
+.ico-next input {
+    background: url(../img/buttonicon/active/next.png) no-repeat left top !important;
+}
+
+.ico-on-account input {
+    background: url(../img/buttonicon/active/on-account.png) no-repeat left top !important;
+}
+
+.ico-payment-cancel input {
+    background: url(../img/buttonicon/active/payment-cancel.png) no-repeat left top !important;
+}
+
+.ico-pdf input {
+    background: url(../img/buttonicon/active/pdf.png) no-repeat left top !important;
+}
+
+.ico-pending input {
+    background: url(../img/buttonicon/active/pending.png) no-repeat left top !important;
+}
+.ico-pre-alert input {
+    background: url(../img/buttonicon/active/PreAlert.png) no-repeat left top !important;
+}
+
+.ico-pending-do input {
+    background: url(../img/buttonicon/active/pending-do.png) no-repeat left top !important;
+}
+
+.ico-pending-do-sales input {
+    background: url(../img/buttonicon/active/pending-do-sales.png) no-repeat left top !important;
+}
+
+.ico-pending-do-unreversed input {
+    background: url(../img/buttonicon/active/pending-do-unreversed.png) no-repeat left top !important;
+}
+
+.ico-print input {
+    background: url(../img/buttonicon/active/print.png) no-repeat left top !important;
+}
+
+.ico-proforma-oscn input {
+    background: url(../img/buttonicon/active/proforma-oscn.png) no-repeat left top !important;
+}
+
+.ico-proforma-oscndn input {
+    background: url(../img/buttonicon/active/proforma-oscndn.png) no-repeat left top !important;
+}
+
+.ico-proforma-osdn input {
+    background: url(../img/buttonicon/active/proforma-osdn.png) no-repeat left top !important;
+}
+
+.ico-proforma-purchase-invoice input {
+    background: url(../img/buttonicon/active/proforma-purchase-invoice.png) no-repeat left top !important;
+}
+
+.ico-proforma-sales-invoice input {
+    background: url(../img/buttonicon/active/proforma-sales-invoice.png) no-repeat left top !important;
+}
+
+.ico-reject input {
+    background: url(../img/buttonicon/active/reject.png) no-repeat left top !important;
+}
+
+.ico-reuse input {
+    background: url(../img/buttonicon/active/reuse.png) no-repeat left top !important;
+}
+
+.ico-Reverse input {
+    background: url(../img/buttonicon/active/Reverse.png) no-repeat left top !important;
+}
+
+.ico-reverse-booking input {
+    background: url(../img/buttonicon/active/reverse-booking.png) no-repeat left top !important;
+}
+
+.ico-reverse-charge input {
+    background: url(../img/buttonicon/active/reverse-charge.png) no-repeat left top !important;
+}
+
+.ico-onaccount1 input {
+    background: url(../img/buttonIcon/active/on-account.png) no-repeat left top !important;
+}
+
+.ico-save input {
+    background: url(../img/buttonicon/active/save.png) no-repeat left top !important;
+}
+
+.ico-search input {
+    background: url(../img/buttonicon/active/search.png) no-repeat left top !important;
+}
+
+.ico-Select-Destination-Job input {
+    background: url(../img/buttonicon/active/Select-Destination-Job.png) no-repeat left top !important;
+}
+
+.ico-send input {
+    background: url(../img/buttonicon/active/send.png) no-repeat left top !important;
+}
+
+.ico-send-mail input {
+    background: url(../img/buttonicon/active/send-mail.png) no-repeat left top !important;
+}
+
+.ico-to-consignee input {
+    background: url(../img/buttonicon/active/to-consignee.png) no-repeat left top !important;
+}
+
+.ico-to-forwarder input {
+    background: url(../img/buttonicon/active/to-forwarder.png) no-repeat left top !important;
+}
+
+.ico-transfer input {
+    background: url(../img/buttonicon/active/transfer.png) no-repeat left top !important;
+}
+.ico-task input {
+    background: url(../img/buttonicon/active/task.png) no-repeat left top !important;
+}
+.ico-transfer-from-icd input {
+    background: url(../img/buttonicon/active/transfer-from-icd.png) no-repeat left top !important;
+}
+
+.ico-transfer-to-actual-invoice input {
+    background: url(../img/buttonicon/active/transfer-to-actual-invoice.png) no-repeat left top !important;
+}
+
+.ico-transfer-to-actual-os-voucher input {
+    background: url(../img/buttonicon/active/transfer-to-actual-os-voucher.png) no-repeat left top !important;
+}
+
+.ico-transfer-to-bt input {
+    background: url(../img/buttonicon/active/transfer-to-bt.png) no-repeat left top !important;
+}
+
+.ico-transfer-to-fa input {
+    background: url(../img/buttonicon/active/transfer-to-fa.png) no-repeat left top !important;
+}
+
+.ico-transfer-to-icd input {
+    background: url(../img/buttonicon/active/transfer-to-icd.png) no-repeat left top !important;
+}
+
+.ico-transfer-to-pol input {
+    background: url(../img/buttonicon/active/transfer-to-pol.png) no-repeat left top !important;
+}
+
+.ico-unclosed-job input {
+    background: url(../img/buttonicon/active/unclosed-job.png) no-repeat left top !important;
+}
+
+.ico-untransfer input {
+    background: url(../img/buttonicon/active/untransfer.png) no-repeat left top !important;
+}
+
+.ico-update input {
+    background: url(../img/buttonicon/active/update.png) no-repeat left top !important;
+}
+
+.ico-upload input {
+    background: url(../img/buttonicon/active/upload.png) no-repeat left top !important;
+}
+
+.ico-view input {
+    background: url(../img/buttonicon/active/view.png) no-repeat left top !important;
+}
+
+.ico-xml input {
+    background: url(../img/buttonicon/active/xml.png) no-repeat left top !important;
+}
+
+.ico-xml-send input {
+    background: url(../img/buttonicon/active/xml-send.png) no-repeat left top !important;
+}
+
+.ico-xml-upload input {
+    background: url(../img/buttonicon/active/xml-upload.png) no-repeat left top !important;
+}
+
+.ico-xml-upload input {
+    background: url(../img/buttonicon/active/xml-upload.png) no-repeat left top !important;
+}
+.ico-sailing input {
+    background: url(../img/buttonicon/active/Sailing.png) no-repeat left top !important;
+}
+.ico-swap input {
+    background: url(../img/buttonicon/active/swap.png) no-repeat left top !important;
+}
+.ico-ship-invoice input {
+    background: url(../img/buttonicon/active/shipinvoice.png) no-repeat left top !important;
+}
+.ico-mbl-draft input {
+    background: url(../img/buttonicon/active/mbl-draft.png) no-repeat left top !important;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------*/
+/*Button Missing created by -Praveen 2023-May-5 >> END */
+/*-------------------------------------------------------------------------------------------------------------------------*/
+

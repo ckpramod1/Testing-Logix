@@ -1,0 +1,818 @@
+﻿.div_total
+{
+  /*border:1px solid black;*/
+  width :750px;   
+  /*height:100%;*/
+  background-color:#F5F5F2;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.DivSub
+{
+  /*border:1px solid red;*/
+  width :78.3%;
+  float:left;
+  margin-top:0.5%;
+  height:100%;
+}
+
+.divSubSide
+{
+ /*border:1px solid green;*/
+  width :21%;
+  float:left;
+  margin-top:0.5%;
+  height:100%;
+}
+
+.div_Main
+{
+background-color:navy;
+width:100%;
+height:6%;
+font-weight:bold;
+border-bottom :1px solid black;
+}
+
+.DivHeaderlbl
+{
+    font-size: 9pt;
+    font-family: Arial;
+    font-weight: bold;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 0.8%;
+}
+
+.div_Break
+{
+    clear:both;
+}
+
+/*.lbl_blno
+{
+width:12%;
+float:left;
+margin-left:1%;
+margin-top:0.5%;	
+text-align :right;
+}*/
+
+.txt_blno
+{
+width:49.7%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;	
+}
+
+.txt_blno input
+{
+width:100%;
+}
+
+ .chk_mbl
+{
+width:10%;
+height:13px;
+float:left;
+margin-top:1.2%;	
+margin-right:3%;
+}
+
+ .ChkLabelValue
+{
+    font-family:Arial;
+    font-size:9pt;
+    margin-top:-5%;
+    color:DarkBlue;
+    font-weight:normal;
+    text-align:right;
+    font-weight:700;
+}
+
+
+ .lbl_mbl
+{
+margin-top:1.8%;
+margin-left :1%;
+float:left;      
+}
+.lbl_mbl input
+{
+width:100%;
+}
+
+.lbl_bltype
+{
+width:10%;
+height:13px;
+float:left;
+/*margin-left:0.5%;*/
+margin-top:0.5%;
+text-align :right;
+margin-left:0.5%;
+/*border :1px solid red;*/
+}
+
+.ddl_billtype
+{
+    Width:35.2%;
+float:left;	
+margin-top:0.5%;
+float:left;
+font :sans-serif;
+font-size :8pt;
+text-transform:uppercase;   
+margin-left :0.5%;
+}
+.ddl_billtype Select
+{
+width:100%;
+}
+
+.lbl_refno
+{
+width:30%;
+height:13px;
+float:left;
+margin-top:6%;	
+text-align :right;
+margin-right :1%;
+
+}
+.txt_refno
+{
+width:67%;
+float:left;	
+margin-top:3.5%;
+}
+.txt_refno input 
+{
+    width:100%;
+}
+
+ .txt_vouyear
+ {
+    width: 28%;    
+    float: left;
+    margin-top:3.5%;
+    margin-left:3%;
+}
+
+.txt_vouyear input 
+{
+    width:100%;
+}
+.lbl_to
+{
+width:10%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.5%;	
+text-align :right;
+}
+
+.txt_to
+{
+width:98%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_to input
+{
+width:100%;
+}
+
+.lbl_date
+{
+width:30%;
+height:13px;
+float:left;
+margin-top:4.5%;	
+text-align :right;
+margin-right :1%;
+
+}
+ .txt_Date
+{
+/*width:17.5%;*/
+width:53%;
+float:right;
+margin-left:1%;
+margin-top:2.5%;	
+margin-right:1.5%;
+}
+.txt_Date input
+{
+width:100%;
+}
+
+.txt_address
+{
+width:97.3%;
+height :30px;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+margin-bottom:1%;
+}
+
+.txt_address textarea
+{
+width:100%;
+height :100%;
+}
+
+.lbl_vrefno
+{
+width:50%;
+height:13px;
+float:left;
+margin-top:2%;	
+text-align :left;
+margin-left:3%;
+/*border:1px solid red;*/
+}
+
+.lbl_jobdetails
+{
+width:13.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_jobdetails
+{
+width:49.5%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_jobdetails input
+{
+width:100%;
+}
+
+
+.lbl_destination
+{
+width:12%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_destination
+{
+width:47.4%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_destination input
+{
+width:100%;
+}
+
+.txt_vrefno
+{
+width:98.5%;
+float:left;	
+margin-top:1.5%;
+}
+
+.txt_vrefnoSec
+{
+width:96%;
+height:6%;
+float:left;	
+margin-left:3.8%;
+margin-top:0.5%;
+/*margin-bottom:0.5%;*/
+}
+
+.txt_vrefno input
+{
+width:100%;
+}
+
+.txt_creditdays
+{
+width:45%;
+height:6%;
+float:left;	
+margin-left:7%;
+margin-top:0.5%;
+}
+
+.txt_creditdays input
+{
+width:100%;
+}
+
+
+.lbl_shipper
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_shipper
+{
+width:32.8%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_shipper input
+{
+width:100%;
+}
+
+.lbl_agent
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_agent
+{
+width:33.5%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_agent input
+{
+width:100%;
+}
+
+.div_right 
+{
+width :73%;
+float :left;
+}
+
+.div_left 
+{
+width:99.5%;
+height:51px;
+float:left;
+margin-top:2%;
+}
+
+.lbl_consignee
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+}
+
+.txt_consignee
+{
+width:32.8%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_consignee input
+{
+width:100%;
+}
+
+
+.lbl_mlo
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_mlo
+{
+width:33.5%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_mlo input
+{
+width:100%;
+}
+
+
+
+.lbl_nparty
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_nparty
+{
+width:32.8%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_nparty input
+{
+width:100%;
+}
+
+
+.lbl_cnf
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_cnf
+{
+width:33.5%;
+height:6%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_cnf input
+{
+width:100%;
+}
+
+.lst_cont
+{
+    width: 100%;
+    height: 110px;
+}
+
+.lst_vol
+{
+    width: 100%;
+    height: 100%;
+    margin-top:0%;
+}
+
+    .lst_vol select {height:108px!important;
+    }
+
+.lbl_remarks
+{
+width:14.5%;
+height:13px;
+float:left;
+margin-left:1%;
+margin-top:0.8%;	
+text-align :right;
+
+}
+
+.txt_remarks
+{
+width:98%;
+float:left;	
+margin-left:1%;
+margin-top:0.5%;
+}
+
+.txt_remarks textarea
+{
+width:100%;
+}
+
+.div_Button 
+{
+    float: right;
+    margin-right: 1%;
+}
+
+ /*new*/
+
+        .crg_labels
+        {
+        width:40%;
+        margin-left :2%;
+        height:10%;
+        float:left;
+        margin-top:0.5%;
+        text-align :Left ;
+        }
+        .curr_labels
+        {
+        
+        width:7%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:0.5%;
+        text-align :Left ;
+       
+        }
+       .rate_labels
+        {
+        
+        width:10.5%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:0.5%;
+        text-align :Left ;
+        }
+
+        .exrate_labels
+        {
+        
+        width:7%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:0.5%;
+        text-align :Left ;
+        }
+         .base_labels
+        {
+        
+        width:10.5%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:0.5%;
+        text-align :Left ;
+       
+        }
+
+        .amt_labels
+        {
+        
+        width:12%;
+        margin-left :1%;
+        height:10%;
+        float:left;
+        margin-top:0.5%;
+        text-align :Left ;
+        }
+        .charge_textboxes
+        {
+       margin-left :2%;
+        width:40%;
+        height:10%;
+        float:left;	
+        /*margin-left:1%;*/
+        margin-top:0.5%;
+        float:left;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase ;
+        }
+        .charge_textboxes input
+        {
+            width :100%;
+        }
+        .curr_textboxes
+        {
+        margin-left :1%;
+        width:7%;
+        height:10%;
+        float:left;	
+        margin-top:0.5%;
+        float:left;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase ;
+        
+        }
+        .curr_textboxes input
+        {
+            width :100%;
+        }
+        .rate_textboxes
+        {
+        margin-left :1%;
+        width:10.5%;
+        height:10%;
+        float:left;	
+        /*margin-left:1%;*/
+        margin-top:0.5%;
+        float:left;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase ;
+        }
+        .rate_textboxes input
+        {
+            width :100%;
+        }
+
+        .exrate_textboxes
+        {
+        margin-left :1%;
+        width:7%;
+        height:10%;
+        float:left;	
+        /*margin-left:1%;*/
+        margin-top:0.5%;
+        float:left;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase ;
+        }
+        .exrate_textboxes input
+        {
+            width :100%;
+        }
+
+        .ddl_amt
+        {
+         margin-left :1%;
+        width:10.5%;
+        height:10%;
+        float:left;	
+        margin-top:0.5%;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase ;   
+        
+        }
+        .ddl_amt Select
+        {
+        width:100%;
+        }
+
+        .amt_txt
+        {
+        margin-left :1%;
+        width:11%;
+        height:10%;
+        float:left;	
+        margin-top:0.5%;
+        font :sans-serif;
+        font-size :8pt;
+        text-transform:uppercase ;   
+        
+        }
+        .amt_txt input
+        {
+        width:100%;
+        }
+        .btn_add
+        {
+         float:right;
+         width:3.5%;
+         margin-top :0.5%;
+         margin-right:2.5%;
+         margin-bottom :1%;
+          
+        }
+        .hide
+        {
+            display :none;
+        }
+
+.txttotal 
+{
+     float :right;
+    Width:13%;
+    margin-right :5%;
+    margin-top :2%;
+    margin-bottom :1%;
+
+
+}
+.txttotal input 
+{
+    width :100%;
+}
+
+.lbl_total
+{
+width:14.5%;
+height:13px;
+float:right ;
+margin-left:1%;
+margin-top:1.3%;	
+text-align :right;
+margin-right :1%;
+}
+
+.div_Grid
+ {
+width:98.3%;
+margin-left :0.8%;
+margin-top:1%;
+height:100px;
+Border :1px solid Gray;
+}
+
+.Pnl
+{
+    position: absolute;
+    /*top: 165%;*/
+    /*margin-left:1%;*/
+    width: 30%;
+    height: 15%;
+    text-align: center;
+    background-color: White;
+    border: solid 3px black;
+    float:left;
+    /*left: 160px;*/
+
+    /*background-color: #FFFFFF;*/
+      /*  border-width: 3px;
+        border-style: solid;*/
+        padding-top: 10px;
+        padding-left: 10px;
+        /*width: 30%;
+        height: 15%;*/
+        margin-left :1%;
+    top: 848px;
+    left: 413px;
+}
+.div_confirm
+{
+    /*Border:1px solid red;*/
+    width: 100%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0%;
+}
+
+
+.btn
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    /*-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;*/
+    /*border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;*/
+    color: black;
+}
+.btn:hover
+{
+    cursor: pointer;
+}
+
+.HrCss
+{
+    height:10px;
+    margin-top:-2%;
+    border-bottom:1px solid black;
+    /*border:1px solid red;*/
+}
+
+/*.HrCss input
+{
+    margin-top:-6%;    
+}*/

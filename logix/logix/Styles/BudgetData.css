@@ -1,0 +1,442 @@
+﻿.gvHeader th{
+   padding:3px; 
+    background-color:#DDEECC; 
+   color:maroon; 
+   border:1px solid #bbb;
+    font-family:Arial ;
+    font-size :9pt;
+     background-color:Navy;
+    color:White;
+     font-weight :bold;
+  }
+ .gvRow td{padding:3px; 
+    background-color:#ffffff; 
+    border:1px solid #bbb;
+     font-family:sans-serif;
+       font-size :8pt;
+ }
+.gvAltRow td{
+    padding:3px; 
+    background-color:#f1f1f1; 
+    border:1px solid #bbb;
+     font-family:sans-serif;
+       font-size :8pt;
+    
+}
+
+
+.gvHeader th:first-child{display:none; }
+.gvRow td:first-child{display:none; }
+.gvAltRow td:first-child{display:none; }
+
+
+.grid
+{
+    height:380px;
+    border:1px solid #999997;
+    width:98%;
+    /*background-color:Gray;*/
+    margin-left:1%;
+    margin-top:0.8%;
+    overflow-y: auto;
+}
+
+
+.PnlTotal
+{
+  /*border:1px solid black;
+  /*width :723px;
+ 
+ 
+  float:left;
+     height:550px;
+ /* Height:100%;
+     width:65%;
+  /*background: url(../ImgLogin/fsdf.jpg);*/
+   width :923px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.DivHeaderlbl
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+   
+}
+
+.div_lblheader
+{
+  background-color:#333399;     
+    width:100%;
+    height:20.8px;
+    color:white;
+    /*border :1px solid red;*/
+
+}
+
+
+.txtcompany
+{
+   width:55%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+
+.txtbranch
+{
+   width:30%;
+    float:right;
+    margin-top:0.5%;
+    margin-right:1%;
+
+}
+
+
+.ddlbranch
+{
+    width:29.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+
+.ddlbranch
+{
+    width:46.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+
+.div_btnview
+{
+    width: 6%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: left;
+    margin-left:1%;
+}
+
+.ddlyear
+{
+    width:13%;
+    float:right;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+
+.ddlbudgetmon
+{
+     width:30.4%;
+    float:right;
+    margin-top:0.5%;
+    margin-right:0.7%;
+}
+
+
+.ddlbudgetlbl
+{
+     width:35%;
+    float:right;
+    margin-top:0.8%;
+    margin-right:0.7%;
+    font-size:10pt;
+    color:maroon;
+    font-weight:bold;
+    /*border:1px solid red;*/
+}
+
+
+.div_button
+{
+    float:right;
+margin-right:0.7%;
+margin-bottom:0.5%;
+margin-top:0.6%;
+}
+
+.hide
+{
+ display:none;
+}
+
+.Grid1
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    color: Black;
+}
+.Grid_txtbox
+{
+    Height :1px;
+    width:100%;
+    font-family: sans-serif;
+    font-size: 8pt;
+}
+Grid_txtbox input
+{
+    Height :100%;
+    Width :100%;
+}
+
+.div_Protitle
+{
+    width: 32.5%;
+   height:20px;
+    margin-left: 0.9%;
+    margin-top: 1%;
+    float: left;
+    border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold;   
+}
+
+.div_lbl_volume
+{
+    width: 32.4%;
+      height:20px;
+    margin-top: 1%;
+    float: left;
+    border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold;
+    
+}
+
+.div_lbl_revenu
+{
+    width: 32.8%;
+    margin-top: 1%;
+     height:20px;
+    float: left;
+    border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold;
+    
+}
+
+.DivTotnew
+{
+    width:100%;
+    height:100%;
+     /*border: 1px solid #999997;*/
+}
+
+.divlblsubpdt
+{
+    width: 20.3%;
+   height:17px;
+     margin-top:-0.3%;
+    float: left;
+    margin-left:0.9%;
+    border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold;   
+}
+
+.divlblsubunittype
+{
+    width: 12%;
+     height:17px;
+     margin-top:-0.3%;
+     margin-left:-0.1%;
+    float: left;
+    border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold;
+    
+}
+
+.divlblsubunits
+{
+    width: 20.3%;
+   height:17px;
+     margin-top:-0.3%;
+    float: left;
+
+    border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold;   
+}
+
+.divlblsubretn
+{
+    width: 12.2%;
+     height:17px;
+     margin-top:-0.3%;
+     margin-left:-0.1%;
+    float: left;
+    border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold;  
+}
+
+.txtsubproduct
+{
+   width: 22%;
+   height:17px;
+     margin-top:0.2%;
+    float: left;
+    margin-left:1%;
+}
+
+.txtsubunittype
+{
+   width: 9.5%;
+   height:17px;
+  margin-top:0.2%;
+    float: left;
+  margin-left:0.5%;
+}
+
+
+.txtsubnunitsnew
+{
+   width: 22%;
+   height:17px;
+     margin-top:0.2%;
+    float: left;
+    margin-left:0.6%;
+}
+
+.txtsubunitretnnew
+{
+   width: 9.8%;
+   height:17px;
+  margin-top:0.2%;
+    float: left;
+    margin-left:0.5%;
+}
+
+
+.txtsubnunitsAct
+{
+   width: 22%;
+   height:17px;
+     margin-top:0.2%;
+    float: left;
+    margin-left:0.5%;
+}
+
+.txtsubunitretnAct
+{
+   width: 10%;
+   height:17px;
+  margin-top:0.2%;
+    float: left;
+    margin-left:0.5%;
+}
+
+ .GridHeaderbud
+{
+    background-color:Navy;
+    color:White;
+    font-family:sans-serif;
+    font-size:8pt;
+    margin-left: 4px;
+    margin-bottom: 0px;
+     /*padding:2px;*/
+  text-align:center;
+}
+
+ .GrdAltRowbud
+{
+    background-color:#FFF8DC;
+   font-family:sans-serif;
+    font-size:8pt;
+     color:Black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}
+.GrdRowbud
+{
+    font-family:sans-serif;
+    font-size:8pt;
+    color:Black;
+   
+    /*background-color:#e0f2dd;*/
+}
+
+.txttotnew
+{
+   width: 22%;
+   height:17px;
+     margin-top:0.5%;
+    float: right;
+    margin-left:0.5%;
+    margin-right:35%;
+}
+
+.txttotbal
+{
+   width: 22%;
+   height:17px;
+     margin-top:0.5%;
+    float: right;
+    margin-left:0.5%;
+}
+
+.txttotallbl
+{
+    width: 3%;
+   /*border:1px solid red;*/
+margin-top: 0.8%;
+margin-bottom: 1.2%;
+    float: right;
+    text-align: right;
+    color:darkblue;    
+}
+
+.txttotallblbal
+{
+    width: 10%;
+    margin-left: 0.9%;
+margin-top: 0.8%;
+margin-bottom: 1.2%;
+    float: right;
+    text-align: right;
+    color:darkblue;    
+}
+
+.GrdAltRownew
+{
+    /*background-color:#FFF8DC;*/
+   font-family:sans-serif;
+    font-size:10pt;
+     color:Black;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    
+}

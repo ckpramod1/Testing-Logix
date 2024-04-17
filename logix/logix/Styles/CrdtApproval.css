@@ -1,0 +1,124 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 25%;
+}
+.div_total 
+{
+    width: 350px;
+    height:90px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+    clear: both;
+}
+
+.div_radio
+{
+    min-width: 32%;
+    float: left;
+    width: 99%;
+    margin-top: 5%;
+    margin-left: 1%;
+    /*height: 25%;*/
+    white-space: nowrap;
+}
+.div_radio input, Radio
+{
+    width: 20%;
+    display: inline-block;
+}
+
+.div_btn
+{    
+    float: right;
+    margin-right: 3%;
+    margin-top: 2%;
+    text-align:right;
+    margin-bottom:0.5%;
+}
+
+
+
+.div_lblName {
+     width:5%;
+   float:left;
+   margin-left:1%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+
+.div_lblOcenExports{
+      width:19.5%;
+   float:left;
+   margin-left:1%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+
+.div_airE{
+      width:9%;
+   float:left;
+   margin-left:0%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+
+.div_airI{
+     width:34.5%;
+   float:left;
+   margin-left:0%;
+   margin-top:0.5%;
+       border: 1px solid;
+    border-color: white;
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+}
+.div_chalbl{
+      width:35%;
+   float:left;
+   margin-left:0%;
+   margin-top:0.5%;
+    border: 1px solid;
+    border-color: white;
+    background-color:darkblue;
+    color:white;
+    font-weight:bold; 
+     text-align: center;
+}
+
+.div_grd1{
+
+    width:100%;
+    float:left;
+    margin-left:0%;
+  
+    height:292px;
+    /*border:1px solid gray;*/
+    margin-bottom:0.5%;
+}

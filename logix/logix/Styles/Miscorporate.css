@@ -1,0 +1,229 @@
+﻿body {
+}
+
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 100%;
+    /*margin-left: 1%;
+    margin-top: 1%;*/
+    font-weight: bold;
+}
+
+.div_total
+{    
+    height:520px;
+   margin-top :1%;
+         margin-bottom:1%;
+        background-color:#F8F8F8;
+       -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+       -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+       box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+    width: 850px;
+}
+
+.ddl_branch
+{
+    margin-left:1%;
+    margin-top:1%;
+    width:35%;
+    float:left;
+    /*height:18px;*/
+}
+.ddl_branch input,select
+{
+    width:100%;
+}
+.txt_agent
+{
+    margin-left:1%;
+    margin-top:1%;
+    width:57%;
+    float:left;
+}
+.txt_agent input
+{
+    width:100%;
+}
+.txt_from
+{
+    width:8.5%;
+    margin-top:1%;
+    margin-left:1%;
+    float:left;
+}
+.txt_from input
+{
+    width:100%;
+
+}
+.div_Break
+{
+    clear: both;
+}
+.div_btn_Get
+{
+    width: 8%;
+    /*height: 10%;*/
+    float: right;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-right:1%;
+}
+.div_btn_Get input
+{
+    width:100%;
+}
+.div_Grid
+{
+    width: 100%;
+    margin-left: 0%;
+    /*border:1px solid black;*/
+    height:320px;
+    margin-top:0%;
+    margin-bottom:0%;
+}
+.div_button{
+    width:40%;
+    /*text-align:center;*/
+    float:right;
+    margin-right:1%;
+    margin-bottom:1%;
+    margin-top:-1%;
+}
+
+.div_Grid1
+        {
+        width:100%;
+       margin-right :0%;
+        margin-top:0%;
+        margin-bottom :0%;
+         Height:494px;
+        }
+
+.ddl_graph
+{
+    width: 13%;
+    float: left;
+    margin-top: 1%;
+    margin-left:1%;
+    text-align:center;
+}
+.ddl_graph input,select
+{
+    width:100%;
+}
+
+.ddl_graph1
+{
+    width: 13.5%;
+    float: left;
+    margin-top: 1%;
+    margin-left:1%;
+    text-align:center;
+}
+.ddl_graph1 input,select
+{
+    width:100%;
+}
+
+.lb_from{
+    /*width:5%;*/
+    float:left;
+    text-align:right;
+    /*margin-right:1%;*/
+    margin-top:1.5%;
+    margin-left:1.5%;
+}
+
+.DivAllChart
+{
+    Width:98%;
+    height:360px;
+    /*border:2px solid blue;*/
+}
+
+.DivAllChartFriest
+{
+    Width:24%;
+    height:170px;
+    float:left;
+    /*border:1px solid red;*/
+     margin-left:1%;
+}
+
+.DivAllChart2
+{
+    Width:24%;
+    height:170px;
+    float:left;
+    /*border:1px solid red;*/
+    margin-left:1%;
+}
+
+.DivAllChart3
+{
+    Width:24%;
+    height:170px;
+    float:left;
+    /*border:1px solid red;*/
+    margin-left:1%;
+   
+}
+
+.DivAllChart4
+{
+    Width:23%;
+    height:170px;
+    float:left;
+    /*border:1px solid red;*/
+    margin-left:1%;
+
+}
+.DivAllChart5
+{
+    Width:24%;
+    height:170px;
+    float:left;
+    /*border:1px solid red;*/
+   margin-top:2%;
+    margin-left:1%;
+}
+
+.DivAllChart6
+{
+   Width:24%;
+    height:170px;
+    float:left;
+    /*border:1px solid red;*/
+    margin-left:1%;
+    margin-top:2%;
+}
+
+
+.DivAllChart7
+{
+    Width:24%;
+    height:170px;
+    float:left;
+    /*border:1px solid red;*/
+    margin-left:1%;
+    margin-top:2%;
+}
+
+.DivAllChart8
+{
+    Width:23%;
+    height:170px;
+    float:left;
+     /*border:1px solid red;*/
+     margin-left:1%;
+     margin-top:2%;
+}
+
+.InsideDiv
+{
+    width:100px;
+    height:100px;
+}

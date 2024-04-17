@@ -1,0 +1,228 @@
+﻿.div_lbl_header
+{
+    background-color: #0061AE;
+    color: White;
+    width: 52.5%;    
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lbl_job
+{
+	width:7%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:right;
+}
+.div_txt_job
+{
+    width:20%; 
+    float: left;  
+    margin-left:1%; 
+    margin-top:0.5%;    
+}
+.div_txt_job input
+{
+	width:100%;
+}
+.div_lbl_eta
+{
+	width:7%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:right;
+    margin-left:18%;
+}
+.div_txt_eta
+{
+    width:15%; 
+    float: right;  
+    margin-right:1.4%; 
+    margin-top:0.5%;    
+}
+.div_txt_eta input
+{
+	width:100%;
+}
+.div_lbl_vvoy
+{
+	width:7%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:right;
+}
+.div_txt_vvoy
+{
+    width:97.6%; 
+    float: left;  
+    margin-left:1%; 
+    margin-top:0.5%;    
+}
+.div_txt_vvoy input
+{
+	width:100%;
+}
+.div_lbl_agent
+{
+	width:7%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:right;
+}
+.div_txt_agent
+{
+    width:97.6%; 
+    float: left;  
+    margin-left:1%; 
+    margin-top:0.5%;    
+}
+.div_txt_agent input
+{
+	width:100%;
+}
+
+.div_lbl_mlo
+{
+	width:7%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:right;
+}
+.div_txt_mlo
+{
+    width:97.6%; 
+    float: left;  
+    margin-left:1%; 
+    margin-top:0.5%;    
+}
+.div_txt_mlo input
+{
+	width:100%;
+}
+
+.div_lbl_condet
+{	
+    float: left;
+    margin-left:45%;     
+    margin-top:0.5%;
+    text-align:center;
+    font-size:10pt;
+}
+
+.div_lbl_con
+{
+	width:14%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:left;
+    margin-left:1%;
+}
+.div_lbl_size
+{
+	width:6%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:left;
+    margin-left:1%;
+}
+.div_lbl_seal
+{
+	width:14%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:left;
+    margin-left:1%;
+}
+.div_lbl_dstuff
+{
+	width:8%; 
+    float: left;     
+    margin-top:0.5%;
+    text-align:left;
+    margin-left:1%;
+}
+
+.div_txt_con
+{
+    width:27%; 
+    float: left;  
+    margin-top:0.5%;
+    margin-left:1%;
+}
+.div_txt_con input
+{
+	width:100%;
+}
+
+.div_txt_size
+{
+    width:15%; 
+    float: left;  
+    margin-left:0.9%; 
+    margin-top:0.5%;    
+}
+.div_txt_size input
+{
+	width:100%;
+}
+.div_txt_seal
+{
+    width:27%; 
+    float: left;  
+    margin-left:0.9%; 
+    margin-top:0.5%;    
+}
+.div_txt_seal input
+{
+	width:100%;
+}
+.div_txt_dstuff
+{
+    width:16%; 
+    float: left;  
+    margin-left:0.9%; 
+    margin-top:0.5%;    
+}
+.div_txt_dstuff input
+{
+	width:100%;
+}
+.div_btn_update
+{
+    float: right;
+    margin-right: 0.9%;
+    margin-top: 0.3%;
+    text-align: right;
+}
+.div_total
+{
+    /*border:1px solid black;*/
+   
+    width:530px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_pnl_dstuff
+{
+	width:98.5%; 
+    float: left; 
+    /*height:100px;*/    
+    margin-top:1%;
+    margin-left:1%; 
+    text-align:right;
+}
+
+.div_btn_cancel
+{    
+    float: right;
+    margin-right: 0.9%;
+    margin-top: 0.5%;
+    text-align: right;
+    margin-bottom:1%;
+}

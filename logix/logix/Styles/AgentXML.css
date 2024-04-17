@@ -1,0 +1,107 @@
+﻿.div_total
+{    
+    width:650px;
+      background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_jobtxt
+{
+    width: 32%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+    .div_jobtxt input {
+    width:100%;
+    }
+.div_etdtxt
+{
+    width: 65%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_etdtxt input {
+    width:100%;
+    }
+.div_vesseltxt
+{
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_vesseltxt input {
+    width:100%;
+    }
+.div_mbltxt
+{
+    width: 48%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_mbltxt input {
+    width:100%;
+    }
+.div_agenttxt
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_agenttxt input {
+    width:100%;
+    }
+.div_mlotxt
+{
+    width: 97.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_mlotxt input {
+    width:100%;
+    }
+.div_poltxt
+{
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_poltxt input {
+    width:100%;
+    }
+.div_podtxt
+{
+    width: 48%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_podtxt input {
+    width:100%;
+    }
+.div_btn
+{    
+    float: right;
+    margin-right: 1%;
+    margin-top: -0.5%;
+    margin-bottom: 0.5%;
+    text-align:right;
+}

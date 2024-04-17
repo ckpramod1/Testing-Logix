@@ -1,0 +1,1327 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin: 0px auto 0px auto !important;
+    overflow:hidden;
+    font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.LogoutBtn {margin-right:-16px; float:left; width:23px; height:24px; }
+.LogoutBtn a.SignOut{background:url(../img/signout.png) no-repeat left top; width:24px; height:24px; display:inline-block; margin:15px 5px 0px 0px;}
+.mainPageBg {/*background:url(../img/pic1.jpg) no-repeat left top;*/ background-color:#fff; width:1366px; height:607px;
+}
+.HomeIc {margin-right:10px; float:left; width:24px; height:24px; margin-top:15px;
+}
+.ChangepassIc {margin-right:10px; float:left; width:24px; height:24px; margin-top:15px;
+}
+.ChangepassIc a.Home {background:url( ../img/home_ic.png) no-repeat left top; width:24px; height:24px; display:inline-block; margin:15px 5px 0px 0px;    }
+.HomeIc a.Home {background:url( ../img/changepassword_ic.png) no-repeat left top; width:24px; height:24px; display:inline-block; margin:15px 5px 0px 0px;    }
+.FloatRightbtn1 {float:right; margin:0px 17px 0px 0px;
+}
+.HomeMenu {width:635px; margin:0px 0px 5px 18px; float:left; border-right:2px dotted #000; min-height:100px;}
+    .HomeMenu a {text-decoration:none;
+    }
+
+
+    .HomeMenu h3 {
+        margin:0px 0px 10px 0px; background:url(../img/homeicon/shipmenticon.png) no-repeat left top; padding:3px 0px 8px 27px; color:#000; border-bottom:1px dotted #000; width:94%; font-size:15px; font-weight:normal; font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+
+.HomeMenuleft {
+    margin-left:0px;
+}
+
+.HomeMenu .Booking {width:160px; height:100px; background-color:#a8b6c0; margin:0px 30px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  }
+.HomeMenu .Booking .BookingIc {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; background:url(../img/homeicon/booking_ic.png) no-repeat 30px 7px; color:#ffffff; width:101px; height:28px; margin:6px 0px 0px 11px; padding:44px 0px 0px 3px; text-align:center; -moz-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);
+   }
+
+
+.HomeMenu .OceanExportc1 {width:115px; height:44px; background-color:#638ca6; margin:0px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .OceanExportc1 .OceanExport { font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/oceanexportround_ic.png) no-repeat 43px 1px; color:#ffffff; width:110px; height:16px; margin:4px 0px 0px 0px; padding:22px 0px 0px 0px; text-align:center;}
+
+.HomeMenu .OceanImportC1 {width:115px; height:44px; background-color:#042b4c; margin:0px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .OceanImportC1 .OceanImport {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/oceanimportround_ic.png) no-repeat 43px 1px; color:#ffffff; width:115px; height:16px; margin:4px 0px 0px 0px; padding:22px 0px 0px 0px; text-align:center;}
+
+.HomeMenu .AirExportC1 {width:115px; height:44px; background-color:#413b61; margin:0px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .AirExportC1 .AirExport {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;  font-size:11px; background:url(../img/homeicon/airexportround_ic.png) no-repeat 43px 1px; color:#ffffff; width:110px; height:16px; margin:4px 0px 0px 0px; padding:25px 0px 0px 0px; text-align:center;}
+
+
+.HomeMenu .AirImportC1 {width:115px; height:44px; background-color:#c65911; margin:0px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .AirImportC1 .AirImport {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/airimportsround_ic.png) no-repeat 43px 0px; color:#ffffff; width:110px; height:16px; margin:2px 0px 0px 0px; padding:25px 0px 0px 0px; text-align:center;}
+
+
+
+
+
+
+
+.HomeMenu .EblC {width:130px; height:75px; background-color:#d02027; margin:0px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .EblC .Ebl {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; background:url(../img/homeicon/ebl_ic.png) no-repeat 41px 7px; color:#ffffff; width:110px; height:28px; margin:6px 0px 0px 15px; padding:35px 0px 0px 11px; text-align:center;}
+
+
+.HomeMenu .InvoiceC1 {width:115px; height:44px; background-color:#f17d80; margin:15px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .InvoiceC1 .Invocie {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/invocieround_ic.png) no-repeat 43px 0px; color:#ffffff; width:114px; height:16px; margin:2px 0px 0px 0px; padding:25px 0px 0px 0px; text-align:center;}
+
+.HomeMenu .ReceiptC { margin-top:10px; width:115px; height:44px; background-color:#737495; margin:15px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .ReceiptC .Receipt {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/receiptsround_ic.png) no-repeat 43px 1px; color:#ffffff; width:114px; height:16px; margin:1px 0px 0px 0px; padding:25px 0px 0px 0px; text-align:center;}
+
+
+.HomeMenu .LedgerC {margin-top:10px; width:115px; height:44px; background-color:#68a8ad; margin:15px 0px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .LedgerC .Ledger {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/ledgerround_ic.png) no-repeat 40px 1px; color:#ffffff; width:114px; height:16px; margin:3px 0px 0px 0px; padding:25px 0px 0px 0px; text-align:center;}
+
+
+
+
+.HomeMenu .EbookingC {margin-top:10px; width:115px; height:44px; background-color:#9fa9b0; margin:15px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .EbookingC .Ebooking {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/ebboking_ic.png) no-repeat 43px 1px; color:#ffffff; width:114px; height:16px; margin:3px 0px 0px 0px; padding:25px 0px 0px 0px; text-align:center;}
+
+
+.HomeMenu .PODetailsC {margin-top:10px; width:115px; height:44px; background-color:#2b4e86; margin:15px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .PODetailsC .PoDetails {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/podetails_ic.png) no-repeat 43px 1px; color:#ffffff; width:114px; height:16px; margin:3px 0px 0px 0px; padding:25px 0px 0px 0px; text-align:center;}
+
+
+
+
+
+
+.HomeMenu .CHAC {margin-top:10px; width:115px; height:44px; background-color:#b5c1ca; margin:0px 0px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .CHAC .CHA {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/cha_ic.png) no-repeat 43px 1px; color:#ffffff; width:114px; height:16px; margin:1px 0px 0px 0px; padding:27px 0px 0px 0px; text-align:center;}
+
+
+
+
+
+
+
+
+
+.HomeMenu .OutStandingC {width:110px; height:55px; background-color:#042b4c; margin:15px 15px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .OutStandingC .OutStanding {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; background:url(../img/homeicon/outstanding_ic.png) no-repeat 34px 1px; color:#ffffff; width:80px; height:16px; margin:2px 0px 0px 8px; padding:38px 0px 0px 0px; text-align:center;}
+
+.HomeMenu .ChangePassC {width:110px; height:55px; background-color:#413b61; margin:15px 0px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);}
+.HomeMenu .ChangePassC .ChangePass {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; background:url(../img/homeicon/changepassword_ic.png) no-repeat 52px 7px; color:#ffffff; width:159px; height:16px; margin:6px 0px 0px 0px; padding:35px 0px 0px 1px; text-align:center;}
+
+
+
+/* Booking CSS Styles Start */
+
+.BookingTxtBox {width:20%; float:left; margin:0px 0.5% 0px 0px;
+}
+.Bookingdate {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+    .Bookingdate img {float:left; margin:0px 0px 0px 5px;
+    }
+
+.BookingExport {width:23%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingAir {width:21.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingFCL {width:25.5%; float:left; margin:0px 0% 0px 0px;
+}
+.BookingShipper {width:33%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingConsignee {width:33%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingNotify {width:33%; float:left; margin:0px 0px 0px 0px;
+}
+.BookingApprox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingCargo {width:9.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ReceivedDate {width:7%; float:left; margin:0px 0.5% 0px 0px;
+}
+.Pickupdate {width:7%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingINCO {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingRemarks {width:75%; float:left; margin:0px 0px 0px 0px;
+}
+.BookingInvocie {width:10%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingInvocieDate {width:7%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingPO {width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingStyle {width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingQty {width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingPKG{width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingWeight{width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingCartoons{width:19.5%; float:left; margin:0px 0% 0px 0px;
+}
+.BookingMarks {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.BookingDes{width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingRemarks1 {width:94%; float:left; margin:0px 0.5% 0px 0px;
+}
+.CalImg {float:left; width:24px; height:24px; margin:0px 4px 0px 0px; 
+}
+    .CalImg img {vertical-align:middle;
+    }
+
+.BookingPOR {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingPOL{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingPOD{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BookingFD{width:25%; float:left; margin:0px 0% 0px 0px;
+}
+/* Booking CSS Style End */
+
+/* Ocean Exports CSS Style Start */
+.SearchByTxt {width:6%; float:left; margin:2px 0.5% 0px 0px;
+}
+.SearchDrop {width:13%; float:left; margin:0px 0.5% 0px 0px;
+}
+.SearchTxtbox {width:20%; float:left; margin:0px 0.5% 0px 0px;
+}
+.FromTxt {width:3%; float:left; margin:2px 0.5% 0px 0px;
+}
+.FromDate {width:8.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ToTxt {width:2%; float:left; margin:2px 0.5% 0px 0px;
+}
+.Todate {width:8.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.Bordertop {border-top:1px solid #b1b1b1; height:1px; width:100%; float:left; margin:5px 0px 5px 0px;
+}
+#UpdateProgress1 {left:570px; top:160px; position:relative; z-index:99999999;
+}
+.FromTxtbox {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ToTxtBox {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+/* Ocean Exports CSS Style End */
+
+/* Change password CSS Style Start */
+.UsernameTxt {width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.UserNameTxtbox {width:35%; float:left; margin:0px 0px 0px 0px;
+}
+.CurrentPassword {width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.CurrentTxtBox{width:35%; float:left; margin:0px 0px 0px 0px;
+}
+.NewPassword{width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.NewpassTxtBox{width:35%; float:left; margin:0px 0px 0px 0px;
+}
+.ConfirmPass {width:12%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ConfirmPassTxt {width:35%; float:left; margin:0px 0px 0px 0px;
+}
+.RequiredField {float:left; width:2%; margin:0px 0px 0px 0.5%;
+}
+/* Change Passord CSS Style End */
+
+
+/* Sign UP CSS Style Start */
+.SignupContent {float:left; width:90%; font-family:sans-serif; color:#4e4e4c; font-size:12px; line-height:18px;
+}
+    .SignupContent p {
+        font-family:sans-serif; padding:10px 0px 10px 0px;
+    }
+
+.TypeTxt {float:left; width:10%; color:#4e4e4c; margin:0px 0.5% 0px 0px; 
+}
+
+.TypeDrop {float:left; width:20%; margin:0px 0px 0px 0px;
+}
+
+.CompanyNameTxt {float:left; width:10%; color:#4e4e4c; margin:0px 0.5% 0px 0px;
+}
+.CompanyNameTxtbox {float:left; width:58%; margin:0px 0px 0px 0px;
+}
+
+.ContactPersontxt {float:left; width:10%; color:#4e4e4c; margin:0px 0.5% 0px 0px;
+}
+.ContactPersonTxtbox {float:left; width:58%; margin:0px 0px 0px 0px;
+}
+.AddressTxt {float:left; width:10%; color:#4e4e4c; margin:0px 0.5% 0px 0px;
+}
+.AddressTxtbox {float:left; width:58%; margin:0px 0px 0px 0px;
+}
+.CityTxt1 {float:left; width:10%; color:#4e4e4c; margin:0px 0.5% 0px 0px;
+}
+.CityTxtbox {float:left; width:58%; margin:0px 0px 0px 0px;
+}
+.CountryTxt {float:left; width:10%; color:#4e4e4c; margin:0px 0.5% 0px 0px;
+}
+.CountryTxtbox {float:left; width:25%; margin:0px 0.5% 0px 0px;
+}
+.ZipTxt2 {float:left; width:7%; color:#4e4e4c; margin:0px 0.5% 0px 0px;
+}
+.LoginCompanyName img {margin:0px 5px 0px 0px;
+}
+.ZipTxtDrop {float:left; width:25%; margin:0px 0.5% 0px 0px;
+}
+.PhoneTxt2 {float:left; width:10%; color:#4e4e4c; margin:0px 0.5% 0px 0px;
+}
+.PhoneTxtbox {float:left; width:25%; margin:0px 0.5% 0px 0px;
+}
+.FAXTxtbox1 {float:left; width:25%; margin:0px 0px 0px 0px;
+}
+.FAXTxt2 {float:left; color:#4e4e4c; width:7%; margin:0px 0.5% 0px 0px;
+}
+.EmailTxt2 {float:left; width:10%; color:#4e4e4c; margin:0px 0.5% 0px 0px;
+}
+.EmailTxtbox {float:left; width:58%; margin:0px 0px 0px 0px;
+}
+.ReferrerTxt {float:left; color:#4e4e4c; width:10%; margin:0px 0.5% 0px 0px;
+}
+.ReferrerTxtbox {float:left; width:58%; margin:0px 0px 0px 0px;
+}
+.BranchOfficeTxt {float:left; color:#4e4e4c; width:10%; margin:0px 0.5% 0px 0px;
+}
+.BranchOfficeTxtbox {float:left; width:58%; margin:0px 0px 0px 0px;
+}
+.CaptchaBox {float:left; width:50%; margin:0px 0px 0px 133px;
+}
+.LeftBtn {float:left; width:30%; margin:0px 0px 0px 133px;
+}
+.Caddress {font-size:24px; font-family:'Segoe UI'; width:85%; margin:-5px 0px 0px 0px; float:left;
+}
+.LogIn {float:right; margin:15px 15px 0px 0px;
+}
+/* Sign UP CSS Style End */
+
+
+.LeftBtn1 {float:left; margin:0px 0px 0px 163px; width:35%;
+}
+
+
+/* BL Print CSS Styles Start */
+
+
+
+.btn-NonNegotiable {
+    /* background-color: #558024;
+    color: #ffffff;*/
+    z-index: 2;
+    border-radius: 0px;
+}
+
+    .btn-NonNegotiable input {
+        border-style: none !important;
+        border-color: inherit !important;
+        border-width: medium !important;
+        background-color: #7982f7 !important;
+        background-image: none !important;
+        line-height: normal;
+        color: #ffffff;
+        padding: 5px 13px !important;
+        /*height: 27px;*/
+        margin-right:1px;
+    }
+
+    .btn-FristOriginal {
+    /* background-color: #558024;
+    color: #ffffff;*/
+    z-index: 2;
+    border-radius: 0px;
+}
+
+    .btn-FristOriginal input {
+        border-style: none !important;
+        border-color: inherit !important;
+        border-width: medium !important;
+        background-color: #7982f7 !important;
+        background-image: none !important;
+        line-height: normal;
+        color: #ffffff;
+        padding: 5px 13px !important;
+        /*height: 27px;*/
+        margin-right:1px;
+    }
+
+     .btn-SecondOriginal {
+    /* background-color: #558024;
+    color: #ffffff;*/
+    z-index: 2;
+    border-radius: 0px;
+}
+
+    .btn-SecondOriginal input {
+        border-style: none !important;
+        border-color: inherit !important;
+        border-width: medium !important;
+        background-color: #7982f7 !important;
+        background-image: none !important;
+        line-height: normal;
+        color: #ffffff;
+        padding: 5px 13px !important;
+        /*height: 27px;*/
+        margin-right:1px;
+    }
+
+         .btn-ThirdOrginal {
+    /* background-color: #558024;
+    color: #ffffff;*/
+    z-index: 2;
+    border-radius: 0px;
+}
+
+    .btn-ThirdOrginal input {
+        border-style: none !important;
+        border-color: inherit !important;
+        border-width: medium !important;
+        background-color: #7982f7 !important;
+        background-image: none !important;
+        line-height: normal;
+        color: #ffffff;
+        padding: 5px 13px 5px 13px !important;
+        /*height: 27px;*/
+        margin-right:1px;
+    }
+
+
+         .btn-Original {
+    /* background-color: #558024;
+    color: #ffffff;*/
+    z-index: 2;
+    border-radius: 0px;
+}
+
+    .btn-Original input {
+        border-style: none !important;
+        border-color: inherit !important;
+        border-width: medium !important;
+        background-color: #7982f7 !important;
+        background-image: none !important;
+        line-height: normal;
+        color: #ffffff;
+        padding: 5px 13px 5px 13px !important;
+        /*height: 27px;*/
+        margin-right:0px;
+    }
+
+
+.JobNumber1 {float:left; width:10%; margin:0px 0.5% 0px 0px;
+}
+.BillJobInput {float:left; width:75%; margin:0px 0.5% 0px 0px;
+}
+.BookingNo {float:left; width:14%; margin:0px 0px 0px 0px;
+}
+.BillBL {float:left; width:24.5%; margin:0px 0.5% 0px 0px;
+   }
+.IssuedAtTxtbox {float:left; width:24.5%; margin:0px 0.5% 0px 0px;
+}
+.IssuedOntxtbox {float:left; width:24.5%; margin:0px 0.5% 0px 0px;
+}
+
+.ShipperTxtbox {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ConsigneeTxtbox {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.ShipperAddressBill {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ConsigneeAddress1 {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.NotifyTxtBox {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AgentTxtBox {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.NotifyAddress {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AgentAddress {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.ReceiptTxtbox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.PortTxtbox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.PortDischargeTxtBox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.FinalTxtbox {width:25%; float:left; margin:0px 0px 0px 0px;
+}
+.MarksTxtBox {width:33%; float:left; margin:0px 0.5% 0px 0px;
+}
+
+.CommodityTxtBox {width:33%; float:left; margin:0px 0.5% 0px 0px;
+}
+.Orignaltxtbox {width:33%; float:left; margin:0px 0px 0px 0px;
+}
+.DescrTxtBox {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ChaTxtBox {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.CBMTxtBox {width:13.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.WTKgsTxtBox {width:13.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.NWtKGS{width:13.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.NoOfpkgTxtBox {width:13.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.UnitsTxtBox{width:13.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ShipmentTxtBox{width:13.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.SurrendertxtBox{width:16%; float:left; margin:0px 0% 0px 0px;
+}
+.RemarksTxtBox {width:83.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.DGCargoChkBox {width:16%; float:left; margin:0px 0px 0px 0px;
+}
+.CBMLeft {width:79.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.CBMRight {width:20%; float:left;
+}
+/* BL Print CSS Styl
+     es End */
+
+/* AEIBL Print New CSS Style Start */
+
+.AwblTxtBox {width:41.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblDateTxtBox {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblJobTxtBox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblBookingLBL {width:6%; float:left; margin:0px 0.5% 0px 0px;
+}
+
+.AwblStatusTxtBox{width:41.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblIssuedTxtBox{width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblMBLTxtBox{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblStatusTxtBox1 {width:24.5%; float:left; margin:0px 0px 0px 0px;
+}
+.AwblQuotationTxt {width:6%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblQuotationTxtBox {width:29.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblFlightTxtBox {width:13.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwblMLOTxtBox {width:49.5%; float:left; margin:0px 0px 0px 0px;
+}
+.AwBLPORTxtBox {width:36%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwBLPOLTxtBox {width:13.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwBLPoDTxtBox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AwBLFDTxtBox{width:24.5%; float:left; margin:0px 0% 0px 0px;
+}
+.AWBLShipperTxtBox {width:50%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLConsigneeTxtBox{width:49.5%; float:left; margin:0px 0% 0px 0px;
+}
+.AWBLShipperAdd {width:50%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLConsigneeAdd{width:49.5%; float:left; margin:0px 0% 0px 0px;
+}
+.AWBLNotifyTxtBox {width:50%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLAgentTxtBox{width:49.5%; float:left; margin:0px 0% 0px 0px;
+}
+.AWBLNotifyAddress{width:50%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLAgentAddress{width:49.5%; float:left; margin:0px 0% 0px 0px;
+}
+.AWBLFrieghtTxtBox{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLPackagesTxtbox{width:25%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLWeightTxtbox{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLCHTxtBox{width:24.5%; float:left; margin:0px 0% 0px 0px;
+}
+.AwblBookingTxtBox {width:18%; float:left; margin:0px 0px 0px 0px;
+}
+/* AEIBL Print New CSS Style End */
+
+
+/* Agent XML CSS Style Start */
+
+.OceanExpLBL {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.OceanFromLbl {width:3%; float:left; margin:0px 0.5% 0px 0px;
+}
+.OceanFromTxt {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.OceancalImg {width:2.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.OceanToLbl {width:2%; float:left; margin:0px 0.5% 0px 0px;
+}
+.OceanToTxtbox {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.OceancalImg1 {width:2.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+/* Agent XML CSS Style End */
+
+
+/* BL Print CSS Style Start */
+.BillBLTxtBox1 {width:41.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+
+.BillDate1 {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillJobTxtBox {width:20%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillBooking {width:4.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillBookingTxtbox {width:23.5%; float:left; margin:0px 0px 0px 0px;
+}
+.BillStatusTxtBox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillIssuedTxtBox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillMBLTxtBox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillStatusTxtbox1{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillQuotTxt {width:5.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillQuotTxtbox {width:43.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillCFSTxtBox {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.BillVesTxtBox {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.MVessselTxtbox {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.BillPoLTxtBox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillEtdTxtBox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillPolTxtBox1{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillEtdTxtBox1{width:25%; float:left; margin:0px 0% 0px 0px;
+}
+.BillPodTxtBox1 {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillEtaTxtBox1 {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillPodTxtBox2 {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillEtaTxtbox2{width:25%; float:left; margin:0px 0% 0px 0px;
+}
+.ShipperTxtBox1{width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillConsigneeTxtBox{width:50%; float:left; margin:0px 0% 0px 0px;
+}
+.ShipperAddTxtBox{width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ConsignAddTxtBox{width:50%; float:left; margin:0px 0% 0px 0px;
+}
+.NotifyTxtbox1{width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AgentTxtBox1{width:50%; float:left; margin:0px 0% 0px 0px;
+}
+.NotifyAddTxtbox{width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AgentAddTxtBox{width:50%; float:left; margin:0px 0% 0px 0px;
+}
+.BillPoRTxtbox{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillPolTxtBox2{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillPodTxtBox3{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillFDTxtBox{width:25%; float:left; margin:0px 0% 0px 0px;
+}
+.BillFreight {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillPackages {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillVolume {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillKgs{width:25%; float:left; margin:0px 0% 0px 0px;
+}
+.BillLeft {width:79.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.BillRight{width:20%; float:left; margin:0px 0% 0px 0px;
+}
+.ContLbl {width:95%; float:left; margin:3px 0px 5px 5px;
+}
+    .ContLbl label {font-weight:normal; font-size:12px; color:#d02027;
+    }
+.ContList {width:97%; float:left; margin:5px 0px 0px 5px;
+}
+.LineTxtbox {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.JobIM1{width:25%; float:left; margin:0px 0% 0px 0px;
+}
+.ContLBL1 {width:100%; float:left; margin:0px 0px 0px 0px;
+}
+
+/* BL Print CSS Style End */
+
+.FreightTxtbox {width:25%; float:left;
+}
+
+
+
+/* AIEBL Print CSS Style Start */
+.AWBLInput {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLIssued {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLIssueat {width:25%; float:left; margin:0px 0% 0px 0px;
+}
+.btnCancel {float:right;
+}
+.AWBLFromPort {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLTOPort {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.AWBLTo {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.AWBLBy {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.PackagesTxtBox {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.GrossWtTxtBox {width:15%; float:left; margin:0px 0.5% 0px 0px;
+}
+.QuantityTxtBox {width:15%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ChargeTxtBox {width:18.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+/* AIEBL Print CSS Style End */
+
+
+
+/* ForGot Password CSS Style Start */
+.UserNameLbl {width:11%; float:left; margin:0px 0.5% 0px 0px;
+}
+.UserTxtBox {width:88%; float:left; margin:0px 0px 0px 0px;
+}
+.ForGotLBL {width:100%; float:left; margin:10px 0px 10px 0px;
+}
+.RowForGot {width:40%;  margin:10px auto;
+}
+.ErrorMsg {float:left; width:35%; margin:10px 0px;
+}
+.OSDNJob {float:left; width:3%; margin:0px 0.5% 0px 0px;
+}
+.OSDNJobInput {float:left; width:20%; margin:0px 0.5% 0px 0px;
+}
+.OSDNDNNumber {float:left; width:12%; margin:0px 0.5% 0px 0px;
+}
+.OSDNTxtBox {float:left; width:40%; margin:0px 0.5% 0px 0px;
+}
+.OSDNTxtBox1 {float:left; width:46.9%; margin:0px 0% 0px 0px;
+}
+.CustomerTxtBox {float:left; width:49.5%; margin:0px 0.5% 0px 0px;
+}
+.ShipmentDetail {float:left; width:50%; margin:0px 0% 0px 0px;
+}
+.DebitLbl {float:left; width:50%; margin:0px 0px 0px 0px;
+}
+.DebitTbl {float:left; width:100%; margin:0px 0px 0px 0px;
+}
+.CSTbl {width:100%; float:left; border:1px solid #b1b1b1; border-collapse:collapse; margin:5px 0px 0px 0px;
+}
+    .CSTbl th {background-color:#4f81bd; padding:2px; border-right:1px solid #fff;
+    }
+    .CSTbl td {background-color:#d0d8e8; padding:2px; border-right:1px solid #fff;
+    }
+.TotlaLBL {float:left; width:18%; margin:0px 0.5% 0px 0px;
+}
+.TotalTxtBox {float:left; width:81%; margin:0px 0px 0px 0px;
+}
+
+
+/* ForGot Password CSS Style End */
+
+
+/* Invoice Report CSS Stlye Start */
+
+.BTNInvocie {float:left; width:5%; margin:0px 0.5% 0px 0px;
+}
+.BTNInput {float:left; width:20%; margin:0px 0.5% 0px 0px;
+}
+.InvoiceTxt {float:left; width:35%; margin:0px 0.5% 0px 0px;
+}
+.InvocieTxtBox {float:left; width:64%; margin:0px 0px 0px 0px;
+}
+.InvocieCustomerTxtBox {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.InvocieShipment {width:50%; float:left; margin:0px 0px 0px 0px;
+}
+.BTNInput1 {float:left; width:20%; margin:0px 0px 0px 0px;
+}
+.TotalTxtBox1 {float:left; width:21%; margin:0px 0.5% 0px 0px;
+}
+.TotalInputBox {float:left; width:78%; margin:0px 0px 0px 0px;
+}
+/* Invoice Report CSS Style End */
+
+
+/* Davies XMl CSS styles Start */
+.Containerfrom {width:100%; float:left; margin:0px 0% 0px 0px;
+}
+.Contfrom {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ContfromLbl {width:2.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.CalImgAlign {width:4%; float:left; margin:3px 0px 0px 0px;
+}
+.ContToLBl {width:1%; float:left; margin:0px 0.5% 0px 0px;
+}
+.ContToTxtBox {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+/* Davies XMl CSS Styles End */
+
+
+/* FEBL Print CSS Styles Start */
+
+.LadingLeft {width:79.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LadingRight {width:20%; float:left; margin:0px 0px 0px 0px;
+}
+.LadingInput {width:70%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LadingDate {width:8%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LadingIssued {width:21%; float:left; margin:0px 0px 0px 0px;
+}
+.PlaceOfReceipt {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.PortOfLoading {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.PortOfDischarge {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.FinalDestination {width:25%; float:left; margin:0px 0px 0px 0px;
+}
+.LadingVolume {width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LadingWeight{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.Ladingfreight{width:24.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LadingPackage{width:25%; float:left; margin:0px 0% 0px 0px;
+}
+.LadingMarks {width:49.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LadingCargoDes {width:50%; float:left; margin:0px 0% 0px 0px;
+}
+.LoadingPol {width:33%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LoadingPOD {width:33%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LoadingETD {width:16.5%; float:left; margin:0px 0.5% 0px 0px;
+}
+.LoadingETB {width:16%; float:left; margin:0px 0px 0px 0px;
+}
+.MotherLBL {width:50%; float:left; font-size:12px; font-weight:bold; color:#4e4e4c; margin:5px 0px 5px 0px;
+}
+.MotherGrid {width:100%; float:left; border:1px solid #b1b1b1; height:200px; overflow:auto;
+}
+/* FEBL Print CSS Styles End */
+
+
+/* Right Side Menu */
+.RightSideMenu {
+
+    width:386px;
+    float:right;
+    margin:0px 10px 0px 0px;
+
+}
+
+
+  .RightSideMenu h3 {
+        margin:0px 0px 10px 0px; background:url(../img/homeicon/quickviewicon.png) no-repeat left top; padding:3px 0px 8px 27px; color:#000; border-bottom:1px dotted #000; width:93%; font-size:15px; font-weight:normal; font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+
+.RightSideMenu a {text-decoration:none;
+    }
+
+
+
+
+
+
+.RightSideMenu .OceanExportc { margin:0px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4); background-color:#638ca6; width:80px; height:44px; border-radius:0px;}
+.RightSideMenu .OceanExportc .OceanExport {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:10px; color:#fff; background:url(../img/homeicon/oceanexportround_ic.png) no-repeat center 6px;  width:80px; height:18px; margin:0px 0px 0px 0px; padding:27px 0px 0px 0px; text-align:center;}
+   
+.RightSideMenu .OceanImportC { background-color:#042b4c; margin:0px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4); background-color:#042b4c; width:80px; height:44px; border-radius:0px;}
+.RightSideMenu .OceanImportC .OceanImport {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:10px; background:url(../img/homeicon/oceanimportround_ic.png) no-repeat center 6px; color:#fff; width:80px; height:18px; margin:0px 0px 0px 0px; padding:27px 0px 0px 0px; text-align:center;}
+
+.RightSideMenu .AirExportC {width:102px; height:102px;  margin:0px 10px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4); background-color:#413b61; width:80px; height:44px; border-radius:0px;}
+.RightSideMenu .AirExportC .AirExport {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:10px; background:url(../img/homeicon/airexportround_ic.png) no-repeat 30px 1px; color:#fff; width:80px; height:18px; margin:3px 0px 0px 0px; padding:25px 0px 0px 0px; text-align:center;}
+
+
+.RightSideMenu .AirImportC {margin:0px 0px 0px 0px; float:left; -webkit-box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4);  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, .4), inset -2px -2px 2px rgba(0, 0, 0, .4); background-color:#c65911; width:80px; height:44px; border-radius:0px;}
+.RightSideMenu .AirImportC .AirImport {font-family:'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:10px; background:url(../img/homeicon/airimportsround_ic.png) no-repeat 25px 0px; color:#fff; width:80px; height:18px; margin:3px 0px 0px 0px; padding:24px 0px 0px 0px; text-align:center;}
+
+
+
+
+
+/* CS Value Style */
+.CSValue {
+	float: right;
+	width: 21%;
+}
+
+
+    .CSValue input {
+        border:1px solid #b1b1b1;
+        padding:3px;
+        height:17px;
+        width:100%;
+    }
+
+
+
+.RoundHeight {
+	width: 2px;
+	left: 89%;
+	top: 54px;
+	position: absolute;
+	min-height: 460px;
+    border-left:2px dotted #000;
+	
+}
+
+.RoundHeight1 {
+	width: 2px;
+	left: 89%;
+	top: 54px;
+	position: absolute;
+	min-height: 460px;
+    border-left:2px dotted #000;
+	
+}
+
+.RoundHeightn1 {
+	width: 2px;
+	left: 89%;
+	top: 54px;
+	position: absolute;
+	min-height: 429px;
+    border-left:2px dotted #000;
+	
+}
+
+
+
+.Round {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 50px;
+	position: absolute;
+}
+
+.Roundcolor{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 50px;
+	position: absolute;
+}
+
+
+
+
+.Round1 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 84px;
+	position: absolute;
+}
+.Roundcolor1{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 84px;
+	position: absolute;
+}
+
+.Round2 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 120px;
+	position: absolute;
+}
+
+
+
+.Roundcolor2{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 120px;
+	position: absolute;
+}
+
+.Round3 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 158px;
+	position: absolute;
+}
+.Roundcolor3{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 158px;
+	position: absolute;
+}
+
+.Round4 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 197px;
+	position: absolute;
+}
+
+.Roundcolor4{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 197px;
+	position: absolute;
+}
+
+
+
+
+
+.Round5 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 237px;
+	position: absolute;
+}
+
+.Roundcolor5{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 237px;
+	position: absolute;
+}
+
+.Round6 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 276px;
+	position: absolute;
+}
+
+.Roundcolor6{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 276px;
+	position: absolute;
+}
+
+.Round7 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 315px;
+	position: absolute;
+}
+
+.Roundcolor7{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 315px;
+	position: absolute;
+}
+.Round8 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 353px;
+	position: absolute;
+}
+
+.Roundcolor8{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 353px;
+	position: absolute;
+}
+.Round9 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top:391px;
+	position: absolute;
+}
+
+.Roundcolor9{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 391px;
+	position: absolute;
+}
+
+.Round10 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 431px;
+	position: absolute;
+}
+
+.Roundcolor10{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 431px;
+	position: absolute;
+}
+
+.Round11 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 470px;
+	position: absolute;
+}
+
+.Roundcolor11{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 470px;
+	position: absolute;
+}
+
+.Round12 {
+	background-color: #000;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 506px;
+	position: absolute;
+}
+
+.Roundcolor12{
+	background-color: #0000ff;
+	border-radius: 25px;
+	width: 15px;
+	height: 15px;
+	left: 88.6%;
+	top: 506px;
+	position: absolute;
+}
+
+
+.Textlinkc {
+	left: 68%;
+	top: 0px;
+	position: absolute;
+	width: 17%;
+    height: 17px;
+}
+.TxtLbl {
+	left: 129%;
+	top: 48px;
+	position: absolute;
+	content: '';
+	width: 150px;
+}
+.TxtLbl1 {
+	left: 68%;
+	top: 82px;
+	position: absolute;
+	content: '';
+	width: 122px;
+    text-align:right;
+}
+.TxtLbl2 {
+	left: 129%;
+	top: 120px;
+	position: absolute;
+	content: '';
+	width: 130px;
+}
+.TxtLbl3 {
+	left: 68%;
+	top: 156px;
+	position: absolute;
+	content: '';
+	width: 121px;
+    text-align:right;
+}
+.TxtLbl4 {
+	left: 129%;
+	top: 197px;
+	position: absolute;
+	content: '';
+	width: 130px;
+}
+.TxtLbl5 {
+	left:51%;
+	top: 234px;
+	position: absolute;
+	content: '';
+	width: 164px;
+    text-align:right;
+}
+
+.TxtLbl6 {
+	left:129%;
+	top: 276px;
+	position: absolute;
+	content: '';
+	width: 148px;
+    text-align:left;
+}
+label#LblOriginaldocsentonDate {
+    text-align: left;
+    margin-left: 13px;
+}
+
+.TxtLbl7 {
+	left:66%;
+	top: 313px;
+	position: absolute;
+	content: '';
+	width: 126px;
+    text-align:right;
+}
+.TxtLbl8 {
+	left:128%;
+	top: 353px;
+	position: absolute;
+	content: '';
+	width: 134px;
+    text-align:left;
+}
+.TxtLbl9{
+	left:54%;
+	top: 389px;
+	position: absolute;
+	content: '';
+	width: 155px;
+    text-align:right;
+}
+
+.TxtLbl10{
+	left:128%;
+	top: 431px;
+	position: absolute;
+	content: '';
+	width: 115px;
+    text-align:left;
+}
+.TxtLbl11{
+	left:68%;
+	top: 469px;
+	position: absolute;
+	content: '';
+	width: 115px;
+    text-align:right;
+}
+
+.TxtLbl12{
+	left:128%;
+	top: 507px;
+	position: absolute;
+	content: '';
+	width: 115px;
+    text-align:left;
+}
+
+
+.crumbs {
+    color:#000!important;
+}
+
+
+.Textlinkc span {
+	color: #000;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	display: block;
+	margin: 0px 5% 0px 5%;
+	font-weight: normal;
+	width:auto;
+}
+.Textlinkc label {
+	color: #0000ff;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	display:block;
+	margin: 0px 5% 0px 6px;
+	font-weight:normal;
+}
+
+
+ .BookingHeadn1 {
+    margin-top: 36px;
+    float: left;
+}
+
+    .BookingHeadn1 a { background:url(../img/homeicon/updatestatus_ic.png) no-repeat left top; color:brown; display:inline-block; font-weight:bold; padding:3px 0px 6px 30px;
+
+    }

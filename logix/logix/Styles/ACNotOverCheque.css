@@ -1,0 +1,247 @@
+﻿.total
+{
+   
+  width :650px;
+ 
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+   
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 68%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_label
+{
+    /*width: 4%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_label_narration
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_labelReceipt
+{
+    /*width: 44%;*/
+    float: right;
+    margin-right: 1%;
+    margin-top: 1%;
+    text-align: center;
+    text-decoration:none;
+}
+.div_receipttxt
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_receipttxt input, Text
+{
+    width: 100%;
+}
+.div_yeartxt
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_yeartxt input, Text
+{
+    width: 100%;
+}
+.div_module
+{
+    width: 21%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_module input, Select
+{
+    width: 100%;
+}
+.div_title
+{
+    width: 38%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 0.5%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.div_date
+{
+    /*width: 5%;*/
+    float: right;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: center;
+}
+.div_datetxt
+{
+    width: 11.5%;
+    float: right;
+    margin-right: 1%;
+    margin-top: 0.5%;
+}
+.div_datetxt input, Text
+{
+    width: 100%;
+}
+.div_txtamt
+{
+    width: 9%;
+    float: right;
+    margin-right: 1%;
+    margin-top: 0.5%;
+}
+.div_txtamt input, Text
+{
+    width: 100%;
+}
+.div_received
+{
+    width: 9%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_receivedtxt
+{
+    width: 85.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_receivedtxt input, Text
+{
+    width: 100%;
+}
+.div_cheque
+{
+    width: 17%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_cheque input, Text
+{
+    width: 100%;
+}
+.div_bank
+{
+    width: 43.2%;
+    float: left;
+    margin-left: 0.6%;
+    margin-top: 0.5%;
+}
+.div_bank input, Text
+{
+    width: 100%;
+}
+.div_branch
+{
+    width: 24%;
+    float: left;
+    margin-left: 0.6%;
+    margin-top: 0.5%;
+}
+.div_branch input, Text
+{
+    width: 100%;
+}
+.div_chequedate
+{
+    width: 12%;
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_chequedate input, Text
+{
+    width: 100%;
+}
+iv_chequedate input, Text
+{
+    width: 100%;
+}
+.div_narrationtxt
+{
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_narrationtxt input, Text
+{
+    width: 100%;
+}
+
+.div_btn
+{
+    margin-top: 0.5%;
+    margin-right: 0.5%;
+    text-align: center;
+    float:right;
+    margin-bottom:1%;
+}
+
+
+.modalBackground
+{
+    background-color: Gray; /*filter:alpha(opacity=70); 	opacity:0.7;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; /* IE 5-7 */
+    filter: alpha(opacity=70); /* Netscape */
+    -moz-opacity: 0.7; /* Safari 1.x */
+    -khtml-opacity: 0.7; /* Good browsers */
+    opacity: 0.7;
+}
+
+.div_close
+{
+    float: right;
+    cursor: pointer;
+}
+.div_frame
+{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.div_Grd_popup
+{
+    float: left;
+    width: 100%;
+    height: 95%;
+    overflow: auto;
+    margin-top: 1%;
+}

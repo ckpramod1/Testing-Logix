@@ -1,0 +1,274 @@
+﻿.div_total
+{
+    /*border:1px solid black;*/
+    /*height:500px;*/
+    width:600px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_lblheader
+{
+    background-color: #0061AE; /*border:1px solid black;*/
+    width: 63%; /*margin-left: 1%;*/
+    margin-top: 1%;
+    font-weight: bold;
+    color: White;
+}
+
+.div_lbl_lnkrate
+{
+    /*width: 11%;*/
+    float: left; 
+    margin-left: 1%;
+    margin-top: 1.5%;
+    text-align: left;
+}
+.pobreak_break
+{
+    clear: both;
+}
+.div_txt_bookno
+{
+    width: 25%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_txt_bookno input, Text
+{
+    width: 100%;
+}
+.divlbl_car
+{
+    width: 11%;
+    height: 10%;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_custname
+{
+    width: 62%;    
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 1%;   
+}
+.div_txt_custname input, Text
+{
+    width: 100%;
+}
+
+.div_lbl_po
+{
+    width: 11%;
+    height: 10%;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_pono
+{
+    width: 35.2%;  
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_pono input, Text
+{
+    width: 100%;
+}
+.div_lbl_sty
+{
+    width: 11%;
+    height: 10%;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_style
+{
+    width: 20%;    
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt_style input,Text
+{
+    width: 100%;
+}
+.div_lbl_piec
+{
+    width: 7%;
+    height: 13px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+    margin-left: 1%;
+}
+.div_txt_pieces
+{
+    width: 20.6%;    
+    float: left;
+    margin-left: 0.6%;
+    margin-top: 0.5%;
+}
+.div_txt_pieces INPUT
+{
+    width: 100%;
+}
+.div_lbl_cart
+{
+    width: 5%;
+    height: 10%;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+    margin-left: 1%;
+}
+.div_txt_cartons
+{
+    width: 20%;    
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt_cartons input,Text
+{
+    width: 100%;
+}
+.div_lbl_wei
+{
+    width: 11%;
+    height: 10%;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+}
+.div_txt_weight
+{
+    width: 20%;    
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_weight input,Text
+{
+    width: 100%;
+}
+
+.div_lbl_Dime
+{
+    width: 7%;
+    height: 13px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+    margin-left: 1%;
+}
+.div_txt_dimension
+{
+    width: 35.1%;    
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt_dimension input,Text
+{
+    width: 100%;
+}
+.div_lbl_invoic
+{
+    width: 11%;
+    height: 13px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+    /*margin-left: 1%;*/
+}
+.div_txt_invno
+{
+    width: 27.7%;    
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 0.5%;
+}
+.div_txt_invno input,Text
+{
+    width: 100%;
+}
+.div_lbl_Dime
+{
+    width: 7%;
+    height: 13px;
+    float: left;
+    margin-top: 1%;
+    text-align: left;
+    margin-left: 1%;
+}
+.div_dtvali
+{
+    width: 13%;    
+    float: left;
+    margin-left: 0.6%;
+    margin-top: 0.5%;  
+}
+.div_dtvali input,Text
+{
+    width: 100%;
+}
+.buy_btn
+{    
+    float: right;
+    margin-top: 1%; 
+    text-align: right;
+    margin-bottom:1%;
+    margin-right:0.9%;
+}
+
+.div_grd
+{
+    width: 100%;
+    /*margin-left: 1%;*/
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.div_grd input
+{
+    width: 98%;
+}
+
+.div_grdrat
+{
+    width: 98%; 
+	height:90%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-left:1%;
+	text-align:center;
+	float:left; 
+}
+.div_grdrat input
+{
+    width: 100%;
+}
+.div_close_voucher
+{
+	cursor: pointer;
+	float: right;
+}
+.div_popup
+{
+	float: left;
+	width: 100%;
+	height: 70%;    
+	background-color:White;
+}
+.div_popup1
+{
+	float: left;
+	width: 100%;
+	height: 70%;
+	background-color:White;
+}

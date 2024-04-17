@@ -1,0 +1,274 @@
+﻿.div_total 
+{
+    width: 600px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+    clear: both;
+}
+.div_label
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_labelRef
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_txt_Ref
+{
+    width: 17%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 1%;
+}
+.div_txt_Ref input, Text
+{
+    width: 100%;
+}
+.div_txt_year
+{
+    width: 7.2%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 1%;
+}
+.div_txt_year input, Text
+{
+    width: 100%;
+}
+
+.div_txt_bl
+{
+    width: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_txt_bl input, Text
+{
+    width: 100%;
+}
+.div_txt_mbl
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_ddl_bill
+{
+    width: 23%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    text-align:left;
+}
+.div_ddl_bill input, select
+{
+    width:100%;
+}
+.div_label_bill
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_label_DN
+{
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+    text-align:left;
+}
+.div_txt_DN
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_DN input, Text
+{
+    width: 100%;
+}
+.div_txt_To
+{
+    width: 79.3%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_To input, Text
+{
+    width: 99%;
+}
+
+
+.div_label_job
+{
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_label_dest
+{
+    width: 12%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_job
+{
+    width: 34%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_job input, Text
+{
+    width: 100%;
+}
+.div_txt_remark
+{
+    width: 97%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    height:40px;
+}
+.div_txt_remark input, Textarea
+{
+    width: 100%;
+    height:100%;
+}
+
+.div_label_vendor
+{
+    width: 48%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_vendor
+{
+     width: 50%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_vendor input, Text
+{
+    width: 100%;
+}
+.Text_Multi
+{
+    font-family: sans-serif;
+    font-size: 8pt;
+    font-style: normal;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 0.5px;
+    border-color: Black;
+    padding-left: 1px;
+    height: 49px;
+    margin-top: 1%;
+}
+.div_btn
+{
+    float: right;
+    margin-right: 1%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.div_label_charge
+{
+    width: 19%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_label_curr
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_charge
+{
+    width: 19%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_charge input, text
+{
+    width: 100%;
+}
+.div_txt_curr
+{
+    width: 6%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt_curr input, Text, Select
+{
+    width: 100%;
+}
+.div_Add_btn
+{
+    width: 5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_Add_btn input, Submit
+{
+    width: 100%;
+}
+.div_Grid
+{
+    width: 100%;
+    float: left;
+    margin-top: 0%;
+    margin-left: 0%;
+    height:150px;
+}
+/*.div_total
+{
+    width: 51%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}*/
+.div_total_txt
+{
+    width: 12%;
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 0.5%;
+    margin-bottom:1%;
+}
+.div_total_txt input, text
+{
+    width: 100%;
+}
+.hide
+{
+    display:none;
+}

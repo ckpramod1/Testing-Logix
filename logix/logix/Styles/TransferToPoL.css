@@ -1,0 +1,79 @@
+﻿
+.divTotal {
+   width:900px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.DivBreak
+{
+    clear:both;
+}
+.Divgrid
+{
+    font-family:sans-serif; 
+    width:99%;
+    height:100%;
+    font-size:10pt;
+    margin-left:0.5%;    
+    margin-bottom:1%;
+    margin-top:3%;
+}
+.DivMain
+{
+background-color:darkblue;
+width:100%;
+height:21px;
+border-bottom :1px solid black;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:0.5%;
+   /*margin-top:10px;*/
+}
+.GridPalICD
+{
+    width:100%!important;
+    Height:300px;
+    /*border:1px solid #999997;*/
+    margin-left:0%;
+    /*margin-bottom:1%;*/
+    margin-top:0%!important;
+}
+.DivHeaderlbl
+{
+    font-size:12pt;   
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:2%;
+    margin-top:2%;
+    margin-bottom:1%;
+    /*padding:5px;*/
+}
+
+.DivButton
+{
+    float:right;
+    margin-right:0.5%;
+    margin-top:-0.3%;
+    margin-bottom:0.5%;
+}
+.GridHeader_my1
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:9pt;
+    margin-left: -0.2%;
+    margin-bottom: 0px;
+  position :absolute ;
+    margin-top:-1.2%;
+
+}

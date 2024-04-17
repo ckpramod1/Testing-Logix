@@ -1,0 +1,305 @@
+﻿.gvHeader th{
+   padding:3px; 
+    background-color:#DDEECC; 
+   color:maroon; 
+   border:1px solid #bbb;
+    font-family:Arial ;
+    font-size :9pt;
+     background-color:Navy;
+    color:White;
+     font-weight :bold;
+  }
+ .gvRow td{padding:3px; 
+    background-color:#ffffff; 
+    border:1px solid #bbb;
+     font-family:sans-serif;
+       font-size :8pt;
+ }
+.gvAltRow td{
+    padding:3px; 
+    background-color:#f1f1f1; 
+    border:1px solid #bbb;
+     font-family:sans-serif;
+       font-size :8pt;
+    
+}
+
+
+.gvHeader th:first-child{display:none; }
+.gvRow td:first-child{display:none; }
+.gvAltRow td:first-child{display:none; }
+
+.div_pdt
+{
+    float:left;
+    Width :60%;
+
+}
+.div_unit
+{
+    margin-left :3%;
+ float:left;
+    height :100%;
+    Width :35.5%;
+
+}
+.div_lblheader
+{
+  background-color:#333399;     
+    width:100%;
+    height:20.8px;
+    color:white;
+    /*border :1px solid red;*/
+
+}
+.DivHeaderlbl
+{
+    font-size:9pt;    
+    font-family :Arial;
+    font-weight:bold;   
+    color:White;
+    margin-left:0.5%;
+    margin-top:0.5%;
+    float:left;
+   
+}
+.PnlTotal
+{
+  /*border:1px solid black;*/
+  float:left;
+     /*height:480px;*/
+     width:800px;
+background-color:#F5F5F2;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15); 
+
+ -webkit-border-radius: 5px 5px 5px 5px; 
+  -moz-border-radius   : 5px 5px 5px 5px ;
+  border-radius        : 5px 5px 5px 5px ;
+}
+.txtcompany
+{
+   width:58%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+.txtcompany input
+{
+    width:100%;
+}
+.txtbranch
+{
+   width:39%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+
+.txtbranch input
+{
+    width:100%;
+}
+
+.div_budunit
+{
+    float:left;
+    Width:40%;
+    height :100%;
+    border-right :1px solid white;
+}
+.div_budrete
+{
+   margin-left :3%;
+    float:left;
+    Width:56%;
+    height :100%;
+}
+
+.grid
+{
+    height:395px;
+    /*border:1px solid black;*/
+    width:98%;
+    /*background-color:Gray;*/
+    margin-left:1%;
+    margin-top:1%;
+    overflow-y: auto;
+}
+
+.div_button
+{
+    float:right;
+margin-right:1%;
+margin-bottom:0.3%;
+margin-top:1%;
+}
+
+.Hide
+{
+ display:none;
+}
+
+.div_textbox
+{
+    margin-bottom:0.3%;
+    margin-top:1%;
+    width:80%;
+    float:left;
+  
+}
+.div_lbl_tot
+{
+    width :5%;
+   
+    float :left ;
+     margin-top :0.5%;
+       margin-left :1%;
+}
+
+.div_lbl_retn
+{
+    float :left ;
+    width :8%;
+
+    margin-left :2%;
+    margin-top :0.5%;
+}
+
+.div_unit_total
+{
+    float:left;
+    Width :13%;
+    margin-left :1%;
+
+}
+.div_unit_rent
+{
+    float:left;
+    Width :20%;
+    margin-left :1%;
+
+}
+
+
+.txtSalesPer
+{
+   width:98%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+.txtSalesPer input
+{
+    width:100%;
+}
+
+.txtcompany
+{
+   width:35%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+
+}
+
+
+.ddlbranch
+{
+    width:29.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+
+.ddlbranch
+{
+    width:30%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+
+.div_btnview
+{
+    width: 6%;
+    float: left;
+    margin-top: 0.5%;
+    text-align: left;
+    margin-left:1%;
+}
+
+.ddlyear
+{
+    width:12%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+
+.ddlMonth
+{
+    width:17.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1.1%;
+}
+
+.div_button
+{
+    float:right;
+margin-right:1%;
+margin-bottom:0.3%;
+margin-top:1%;
+}
+
+.hide
+{
+ display:none;
+}
+
+.ddl_my
+
+{
+   font-family:sans-serif;
+    font-size:10pt;
+    font-style:normal;
+  Height :24px;
+    border-style:solid;
+    border-width:1px;   
+    border-color :Black; 
+    text-transform :uppercase ;
+}
+
+.LabelValue_my
+{
+    font-family:Arial;
+    font-size:9pt;
+    color:white;
+    font-weight:bold;
+    text-align:right;
+}
+
+ .GridHeader
+{
+    background-color:Navy;
+    color:white;
+    font-family:sans-serif;
+    border:1px solid white;
+    font-size:8pt;
+    margin-left: 4px;
+    margin-bottom: 0px;
+  
+}
+
+.div_btn_send
+{   
+    float:right;
+    margin-right: 0.6%;
+    margin-bottom:0.5%;
+    text-align: right;  
+}

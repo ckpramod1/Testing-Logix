@@ -1,0 +1,101 @@
+﻿.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 62%;
+}
+.div_total 
+{
+    width: 500px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+    clear: both;
+}
+.div_customer
+{
+    float: left;
+    width: 10%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_location
+{
+    float: left;
+    width: 7%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    text-align: right;
+}
+.div_customertxt
+{
+    float: left;
+    width: 98%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_customertxt input, Text
+{
+    width: 99.5%;
+}
+
+.div_description
+{
+    float: left;
+    width: 25%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_description input, Select
+{
+    width: 100%;
+}
+.div_type
+{
+    float: left;
+    width: 17%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_type input, Select
+{
+    width: 100%;
+}
+.div_slab
+{
+    float: left;
+    width: 36%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_slab input, Select
+{
+    width: 100%;
+}
+.div_precentage
+{
+    float: left;
+    width: 17%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+.div_precentage input, Select
+{
+    width: 100%;
+}
+.div_btn
+{    
+    float: right;
+    margin-right: 1%;
+    margin-top: 0.5%;
+    margin-bottom:0.5%;
+    text-align: right;
+}
+

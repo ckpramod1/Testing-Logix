@@ -1,0 +1,278 @@
+﻿.div_total
+{    /*margin-top:-1%;*/
+    width:950px;
+    /*height:950px;*/
+     background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+   margin-bottom:1%;
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    width: 80%;
+    margin-left: 1%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+
+.div_lbljob
+{
+    /*width: 4%;*/
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.div_txtjob
+{
+    width: 12%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtjob input
+{
+    width: 100%;
+}
+.div_txtjob1
+{
+    width: 12%;
+    float: right;
+    margin-right: 1%;
+    margin-top: 0.5%;
+}
+.div_txtjob1 input
+{
+    width: 100%;
+}
+.div_lbldate
+{
+    width: 73%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_Grid1
+{
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    border:1px solid grey;
+  height:140px;
+    margin-top: 0.5%;
+    overflow:auto;
+}
+.div_Grid 
+{
+    width: 100%;
+    float: left;
+    /*margin-left: 0.8%;*/
+    /*margin-top: 1%;*/
+    /*margin-bottom:1%;*/
+    /*height:60px;*/
+}
+.paneljob{
+    border:1px solid grey;
+  height:100px;
+  width:100%;
+  margin-left: 0.4%;
+    margin-top: 0.5%;
+}
+.div_Break
+{
+    clear: both;
+}
+.div_lblremark
+{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_lbl
+{
+    width: 13.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtremark
+{
+    width: 98%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtremark input
+{
+    width: 100%;
+}
+.div_btn
+{
+    /*width: 10%;*/
+    float: right;
+    margin-left: 0.5%;
+    margin-top: 0.5%;    
+}
+.div_btncancel
+{
+    /*width: 3%;*/
+    float: right;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_confirm
+{
+    /*width: 3%;*/
+    /*margin-top:-2%;*/
+    float: right;
+    margin-left: 0.5%;
+    margin-bottom:1%;
+    /*margin-top: 0.5%;*/
+}
+.div_job
+{
+    width: 18%;
+    float: left;
+    margin-left: 0.8%;
+    margin-top: 0.5%;
+}
+.div_job input, Select
+{
+}
+.div_btnjob
+{
+    /*width: 60%;*/
+    float: right;
+    margin-right: 0.5%;
+    margin-top: 0.5%;
+    text-align: right;
+}
+.div_btnupdate
+{
+    width: 14%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+    margin-right: 0.5%;
+    text-align: right;
+}
+.div_lblvsl
+{
+    width: 4%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtvsl
+{
+    width: 23%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtvsl input
+{
+    width: 100%;
+}
+.div_txteta
+{
+    width: 10%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txteta input
+{
+    width: 100%;
+}
+
+.div_txtport
+{
+    width: 20.3%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtport input
+{
+    width: 100%;
+}
+.div_txtPoD
+{
+    width: 19.3%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtPoD input
+{
+    width: 100%;
+}
+.div_lbleta
+{
+    width: 2%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtagent
+{
+    width: 57.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txtagent input
+{
+    width: 100%;
+}
+.div_txtmlo
+{
+    width: 40%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txtmlo input
+{
+    width: 100%;
+}
+.div_Grid_Job 
+{
+    width: 100%;
+    float: left;
+    /*margin-left: 0.5%;*/
+    /*height:139px;*/
+   /*margin-bottom:1%;*/
+   
+}
+
+.panelgrid
+{
+    margin-left:0.5%;
+    width:98%;
+    margin-bottom:2%;
+}
+.div_confirm1
+{
+    /*Border:1px solid red;*/
+    width: 100%;
+    float: left;
+    margin-left: 30%;
+    margin-top: 0%;
+}
+.Pnl1
+{
+    background-color:#E0E0E0;
+    border-color:#5D7B9D;
+    border-style:solid;
+    border-width:1px;
+    width:250px;
+    height:100px;
+    margin-right:1%;
+}

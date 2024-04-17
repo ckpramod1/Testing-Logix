@@ -1,0 +1,111 @@
+﻿.div_Main
+{
+	background-color: #0061AE;	
+    color : White;
+	width: 90%;
+	margin-left: 1%;
+	margin-top: 1%;
+	font-weight: bold;
+}
+.div_total 
+{
+    width: 950px;
+    /*height:100%;*/
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_Break
+{
+	clear:both;
+}
+.div_ledger
+{
+	width: 13%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+
+.div_ledgertxt
+{
+	width: 45%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_ledgertxt input, Text
+{
+    width:100%;
+}
+
+
+
+.div_date
+{
+	width: 3%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+
+.div_datetxt
+{
+	width: 10%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 0.5%;
+}
+.div_datetxt input, Text
+{
+    width:100%;
+}
+
+.div_btnGet
+{	
+	float: right;
+	margin-right: 0.85%;
+	margin-top: 0.5%;
+}
+
+.div_btn
+{
+	float: right;
+	margin-right: 0.85%;
+	margin-top: 0.5%;
+	text-align:right;
+    margin-bottom:0.5%;
+}
+
+.div_Grid
+{
+	width: 100%;
+	margin-left: 0%;
+    height:350px;
+    overflow-y:auto;
+    border:solid 1px #b1b1b1;
+}
+
+.div_Income
+{
+	width: 49%;
+	margin-left: 1%;
+	margin-top: 0.5%;
+	float:left;
+	border: 1px solid Black;
+	text-align :center;
+	color:Red;
+}
+
+.div_Expanse
+{
+	width: 48.7%;
+	margin-top: 0.5%;
+	float:left;
+	border: 1px solid Black;
+	text-align :center;
+	color:Red;
+}
+
+

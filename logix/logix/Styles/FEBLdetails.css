@@ -1,0 +1,609 @@
+﻿.div_total
+{    
+    width:950px;
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+.div_frame
+{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.div_close
+{
+    cursor: pointer;
+}
+
+.header
+{ 
+    width:100%;
+     background:#333399;
+       margin-bottom:0.2%;
+   /* background-color:  #99FFCC;
+    color:Black;
+    height:18px;
+    margin-bottom:0.5%;*/
+  }
+  .div_break
+  {
+      clear:both;
+  }
+
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.label_vessel
+{
+    width:5%;
+    float:left;
+    margin-left:1%;
+    color:darkblue;
+    font-family:Arial;
+    font-size:9pt;
+      margin-top:0.5%;
+    
+}
+.txt_vessel
+{
+    width:6%;
+    float:left;
+    margin-left:1%;
+   margin-top:0.5%;
+    
+}
+.txt_vessel input
+{
+    width:100%;
+}
+.label_voyage
+{
+    width:5%;
+    float:left;
+     margin-left:1%;
+     font-family:Arial; 
+     font-size:9pt;
+}
+.label_Booking
+{
+    /*width:5%;*/
+    float:left;
+     margin-left:1%;
+     margin-top:1%;
+}
+.txt_voyage
+{
+    width:68.5%;
+    float:left;
+     margin-left:0.5%;
+  margin-top:0.5%;
+    
+}
+.txt_voyage input
+{
+    width:100%;
+}
+.txt_booking
+{
+    width:12%;
+    float:left;
+     margin-left:0.5%;
+  margin-top:0.5%;
+    
+}
+.txt_booking input
+{
+    width:100%;
+}
+.txt_BL
+{
+    width:24%;
+    float:left;
+    margin-left:1%;
+    /*margin-top:0.5%;*/
+ }
+.txt_BL input
+{
+    width:100%;
+}
+.txt_BL1
+{
+    width:8%;
+    float:left;
+    margin-left:0.5%;
+ }
+.txt_BL1 input
+{
+    width:100%;
+}
+.div_ddl
+{   
+    width:17.2%;
+    float:left;
+    margin-left:0.5%;    
+    /*margin-top:0.3%;*/
+}
+.div_ddl select
+{
+    width:100%;
+}
+.lbl_shipper
+{
+    width:49%;
+    margin-left:1%;
+    font-family:Arial; 
+     font-size:9pt;
+     float:left;
+     margin-top:0.2%;
+}
+.txt_shipper
+{
+    width:49%;
+    margin-left:1%;
+     float:left;
+     margin-top:0.5%;
+}
+.txt_shipper input
+{
+    width:100%;
+    margin-bottom: 0px;
+}
+.txt_consignee
+{
+    width:48.5%;
+    margin-left:0.5%;
+     float:left;
+      margin-top:0.5%;
+}
+.txt_consignee input
+{
+    width:100%;
+}  
+   .txt_shipper_desc
+{
+    width:48.5%;
+    margin-left:1%;
+     float:left;
+     margin-top:0.5%;
+}
+.txt_shipper_desc textarea
+{
+    width:100%;
+    resize:none;
+}
+.txt_consignee_desc
+{
+    width:48.1%;
+    margin-left:1%;
+     float:left;
+     margin-top:0.5%;
+      
+}
+.txt_consignee_desc textarea
+{
+    width:100%;
+    resize:none;
+} 
+.lbl_place
+{
+    width:23.95%;
+    float:left;
+    margin-left:1%;
+    font-family:Arial; 
+     font-size:9pt;
+     margin-top:0.2%;
+   
+}
+.lbl_place_right
+{
+    width:23.5%;
+    float:left;
+    margin-left:0.9%;
+    font-family:Arial; 
+     font-size:9pt;
+     margin-top:0.2%;
+    /* border:1px solid p*/
+    
+}
+.txt_place1
+{
+    width:23%;
+    float:left;
+    margin-left:1%;
+     margin-top:0.5%;
+   
+}
+.txt_place1 input
+{
+    width:100%;
+}
+.txt_place
+{
+    width:24%;
+    float:left;
+    margin-left:0.5%;
+     margin-top:0.5%;
+   
+}
+.txt_place input
+{
+    width:100%;
+}
+.txt_place_right
+{
+    width:23.5%;
+    float:left;
+    margin-left:0.5%;     
+    margin-top:0.5%;
+}
+.txt_place_right input
+{
+    width:100%;
+}
+.txt_place_right1
+{
+    width:26%;
+    float:left;
+    margin-left:0.5%;
+    font-family:Arial;     
+    margin-top:0.5%;
+}
+.txt_place_right1 input
+{
+    width:100%;
+}
+.txt_place_right2
+{
+    width:24%;
+    float:left;
+    margin-left:0.5%;   
+    margin-top:0.5%;
+}
+.txt_place_right2 input
+{
+    width:100%;
+}
+.lbl_marks
+{
+    width:73.5%;
+    /*border:1px solid green;*/
+    margin-left:1%;
+    margin-top:0.2%;
+    float:left;
+   
+}
+.lbl_Original
+{
+    width:11%;
+ /*   border:1px solid red;*/
+     margin-left:0.9%;
+    margin-top:0.2%;
+    float:left;
+}
+.txt_Matks
+{
+     width:81%;
+    /*border:1px solid green;*/
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;
+}
+.txt_Matks input, textarea
+{
+    width:100%;
+    
+}
+.txt_Matks2
+{
+     width:73.5%;
+    /*border:1px solid green;*/
+    margin-left:1%;
+    margin-top:0.5%;
+    float:left;
+}
+.txt_Matks2 input, textarea
+{
+    width:100%;
+    
+}
+.txt_original
+{
+      width:22.3%;
+ /*   border:1px solid red;*/
+     margin-left:0.5%;
+   margin-top:0.1%;
+    float:left;
+    /*height: 17px;*/
+}
+.txt_original input
+{
+    width:100%;
+    
+}
+.div_submaincontainer
+{
+    width: 16%;
+    float: right;
+    /*margin-left: 0.9%;*/
+    margin-top: -3.25%;
+  /* height: 35px;*/
+   height:86px;
+    overflow: auto;
+    border:1px solid #999997  ;
+    margin-right:0.8%;
+}
+.div_containerlist
+{
+    width: 97%;
+    float: left;
+    margin-top:-1%;
+}
+.lbl_commodity
+{
+    width:24%;
+    margin-right:0.5%; 
+     margin-top:0.2%;
+     float:right;
+}
+.txt_commodity
+{
+     /*width:23.6%;*/
+   width: 16.1%;
+  margin-right:1%; 
+     margin-top:0.5%;
+     float:right;
+}
+.txt_commodity input
+{
+    width:100%;
+}
+.lbl_CBM
+{
+    width:11.3%;
+   /* border:1px solid red;*/
+    float:left;
+    margin-left:1%;
+    margin-top:0.2%;
+}
+.lbl_blstatus
+{
+    width:12%;
+   /* border:1px solid green;*/
+     float:left;
+    margin-left:1%;
+    margin-top:0.2%;
+}
+.txt_CBM
+{
+    width:11.3%;
+ /*   border:1px solid red;*/
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;
+}
+.txt_CBM input
+{
+    width:100%;
+}
+.txt_CBM1
+{
+    width:11%;
+ /*   border:1px solid red;*/
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.txt_CBM1 input
+{
+    width:100%;
+}
+.txt_blstatus
+{
+    width:12%;
+    /*border:1px solid green;*/
+     float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.txt_blstatus input
+{
+    width:100%;
+}
+.ddl_units
+{
+    width:13%;
+   /*  border:1px solid red;*/
+    float:left;
+    margin-left:0.5%;
+   margin-top:0.5%;    
+}
+.ddl_units select 
+{
+    width:100%;
+}
+.ddl_units1
+{
+    width:14.6%;
+   /*  border:1px solid red;*/
+    float:left;
+    margin-left:0.5%;
+   margin-top:0.5%;      
+}
+.ddl_units1 select 
+{
+    width:100%;
+}
+.ddl_shipment
+{
+    width:14%;
+    /* border:1px solid red;*/
+    float:left;
+    margin-left:0.5%;
+    margin-top:0.5%;        
+}
+.ddl_shipment select 
+{
+    width:100%;
+}
+.div_chek_DGCargo
+{  
+    margin-top:0.6%;
+    float:left;
+    margin-left:0.5%;    
+    font:darkblue;    
+}
+.div_chek_Agent
+{
+    /*width:20.5%;*/
+   /*   border:1px solid red;*/
+    margin-top:0.2%;
+    float:left;
+    margin-left:0.7%;
+    margin-top:0.7%;
+    font:darkblue;    
+}
+.txt_cha
+{
+    width:73.5%;   
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+.txt_cha input
+{
+    width:100%;
+}
+.label_job
+{
+   
+    float:left;
+     margin-left:1%;
+     margin-top:1%;
+
+    
+}
+.div_button
+{
+   float:right;
+margin-right:0.8%;
+margin-bottom:0.5%;
+margin-top:-0.4%;
+
+}
+
+        .modalBackground {
+            background-color: black;
+            filter: alpha(opacity=90);
+            opacity: 0.6;
+        }
+
+                
+.div_Grid1 {
+    /*width: 98%;*/
+    background-repeat:no-repeat;
+    width:1000px;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.Pnl1
+{
+    position: absolute;
+    /*top: 165%;*/
+    /*margin-left:1%;*/
+    width: 30%;
+    /*height: 15%;*/
+    text-align: center;
+    background-color: White;
+    border: solid 3px black;
+    float:left;
+    /*left: 160px;*/
+
+    background-color: #FFFFFF;
+        border-width: 3px;
+        border-style: solid;
+        padding-top: 10px;
+        padding-left: 10px;
+        /*width: 30%;
+        height: 15%;*/
+        margin-left :1%;
+    top: 548px;
+    /*left: 413px;*/
+}
+.div_confirm
+{
+    /*Border:1px solid red;*/
+    width: 100%;
+    float: left;
+    margin-left: 3%;
+    margin-bottom: 1%;
+}
+
+.btn
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    cursor: default;
+    /*-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;*/
+    /*border-radius: 5px;
+    border: 1px solid #ae4553;
+    background: #aac1dd;*/
+    color: black;
+}
+.btn:hover
+{
+    cursor: pointer;
+}
+.myGridHeader1
+{ 
+
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.8%;   
+    margin-bottom: 0px;  
+    position :absolute ;
+    margin-top:-2.3%;
+    width:944px;
+}
+.myGridHeader2
+{
+    background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.5%;   
+    margin-bottom: 0px;  
+    position :absolute ;
+    margin-top:-2.3%;
+    width:938px; 
+}
+.myGridHeader3
+{
+   
+
+     background-color:darkblue;
+    color:White;
+    font-family:sans-serif;
+    font-size:10pt;
+    margin-left: -0.8%;   
+    margin-bottom: 0px;  
+    position :absolute ;
+    margin-top:-2%;
+    width:944px;
+  
+}

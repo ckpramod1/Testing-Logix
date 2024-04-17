@@ -1,0 +1,244 @@
+﻿.div_total
+ {
+    width:700px;   
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow       : 8px 8px 8px rgba(0,0,0,.15);   
+    overflow-y:auto;
+}
+.lbl_Header1
+{
+    font-size:10pt;    
+    font-family :sans-serif;
+    /*font-weight:bold;*/  
+     text-align:left;
+    color:navy;
+    margin-left:1%;
+   /*margin-top:10px;*/
+}
+.div_header
+{
+    width:100%;
+    border:1px solid black;
+    background-color:#333399;
+    color:white ;
+}
+.div_Break
+ {
+    clear:both;
+}
+.div_Label
+{
+  width:9%;
+  float:left;
+  margin-left:0.5%;
+  text-align:right;   
+  margin-top:0.5%;
+    height: 15px;
+}
+.div_text
+ {
+    width:25.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+ }
+    .div_text input,Text {
+        width:100%;
+    }
+
+    .div_text1
+ {
+    width:25%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+    .div_text1 input,Text {
+        width:100%;
+    }
+
+        .div_text2
+ {
+    width:25%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+    .div_text2 input,Text {
+        width:100%;
+    }
+
+    .div_text_job
+ {
+    width:20.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+ }
+    .div_text_job input {
+        width:100%;
+    }
+    .div_text_Carrier
+ {
+    width:51.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:0.5%;
+ }
+    .div_text_Carrier input {
+        width:100%;
+    }
+  .div_text_Marks
+ {
+    width:98%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+    .div_text_Marks input {
+        width:100%;
+    }
+.div_right {   
+     /*width: 300px;*/
+     width:355px;
+     height: 58px;
+    margin-top:0.5%;
+    float:left;
+    /*margin-bottom:0.5%;*/
+    margin-left:-1.2%;
+   
+}
+
+.div_Left {
+    width:49%;
+        float:left;
+    margin-bottom:0.5%;
+     margin-left:0.5%;
+     margin-top:0.5%;   
+}
+.div_ChkBox {
+    width:35%;
+    float:left;
+    margin-bottom:0.5%;
+     margin-left:3%;
+}
+.div_Label_HBS
+{
+  width:17.5%;
+  float:left;
+  margin-left:0.5%;
+  text-align:right;   
+  margin-top:0.5%;
+
+}
+.div_text_HBS
+ {
+    width:50%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+.div_text_HBS input {
+    width:100%;
+}
+    .div_text_SCAC
+ {
+    width:44%;
+    float:left;
+    margin-top:0.5%;
+    margin-left:1%;
+ }
+.div_text_SCAC input {
+    width:100%;
+}
+ .div_text_HTS
+{
+width:95%;
+float:left;
+margin-top:0.9%;
+margin-left:1%;
+}
+.div_text_HTS input {
+    width:100%;
+}
+.div_Panl
+{
+    width :300px;
+    height:25px;
+    border:1px solid Black;
+    float:left;
+}
+      
+  .div_text_Importer
+ {
+    width:48.5%;
+    float:left;
+    margin-top:0.5%;
+    margin-left :1%;
+   
+ }
+ .div_text_Importer input
+  {
+ width:100%;
+   }
+   .div_text_Importer1
+ {
+    width:48.5%;
+    float:left;
+    /*margin-top:0.5%;*/
+    margin-left :1%;
+   
+ }
+ .div_text_Importer1 input
+  {
+ width:100%;
+   }
+.div_Txt_Buyer {
+      width:49%;
+    float:left;
+    margin-top:0.5%;
+    margin-left :0.5%;
+   }
+.div_Txt_Buyer input
+{
+    width:100%;
+}
+.div_Txt_Buyer1 {
+      width:49%;
+    float:left;
+    /*margin-top:0.5%;*/
+    margin-left :0.5%;
+   }
+.div_Txt_Buyer1 input
+{
+    width:100%;
+}
+.txtImporterAddress {
+    width:48%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+}
+ .txtImporterAddress textarea {
+        width:100%;
+    }
+ .txtBuyerAddress {
+    width:48.4%;
+    float:left;
+     margin-left:1%;
+    margin-top:0.5%;
+}
+ .txtBuyerAddress textarea {
+        width:100%;
+    }
+ .div_button
+{
+    
+   
+    float:right;
+margin-right:1%;
+margin-bottom:0.3%;
+margin-top:-0.3%;
+}

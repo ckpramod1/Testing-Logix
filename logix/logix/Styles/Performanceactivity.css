@@ -1,0 +1,339 @@
+﻿
+.div_Break
+{
+	clear:both;
+}
+.div_total
+{
+    /*width:850px;
+    height:450px;
+	margin-top: 1%;
+    border:1px solid black;
+	
+    margin-left: 1%;*/
+     width :850px;
+  background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.div_Main
+{
+	background-color: #0061AE;
+    color: White;
+    width: 99.5%;
+    /*margin-left: 0.1%;*/
+    /*margin-top: -0.1%;*/
+    /*font-weight: bold;*/
+    padding:2px;
+    font-size:10pt;
+}
+
+
+.div_lbl_Division
+{
+	width: 5%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+
+.div_ddl_Division
+{
+	width: 48%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+}
+.div_ddl_Division input, select
+{
+	width: 100%;
+}
+
+.div_lbl_Branch
+{
+	/*width: 6%;*/
+	/*height: 10%;*/
+	float: left;
+	margin-left: 2.1%;
+	margin-top: 2%;
+}
+
+.div_ddl_Branch
+{
+	width: 32%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 1.5%;
+}
+.div_ddl_Branch input, select
+{
+	width: 100%;
+}
+
+.div_lbl_Product
+{
+	width: 6%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 2.6%;
+	margin-top: 2%;
+}
+
+.div_ddl_Product
+{
+	width: 17%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 0.5%;
+	margin-top: 1.5%;
+}
+.div_ddl_Product input, select
+{
+	width: 100%;
+}
+
+
+.div_lbl_Month1
+{
+	width: 5%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+.div_ddl_Month1
+{
+	width: 20%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+}
+.div_ddl_Month1 input, select
+{
+	width: 100%;
+}
+
+.div_lbl_Year1
+{
+	/*width: 4%;*/
+	/*height: 10%;*/
+	float: left;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+.div_ddl_Year1
+{
+	width: 11%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+}
+.div_ddl_Year1 input, select
+{
+	width: 100%;
+}
+.div_lbl_Month2
+{
+	/*width: 5%;*/
+	/*height: 10%;*/
+	float: left;
+	margin-left: 3%;
+	margin-top: 2%;
+}
+.div_ddl_Month2
+{
+	width: 20%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+}
+.div_ddl_Month2 input, select
+{
+	width: 100%;
+}
+
+.div_lbl_Year2
+{
+	width: 12%;
+	height: 10%;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2.5%;
+}
+.div_ddl_Year2
+{
+	width: 11%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+}
+.div_ddl_Year2 input, select
+{
+	width: 100%;
+}
+
+
+.div_lbl_By
+{
+	width: 2%;
+	/*height: 10%;*/
+	float: left;
+	margin-left: 2.1%;
+	margin-top: 2%;
+}
+.div_ddl_By
+{
+    
+	width: 12%;
+	/*height: 12%;*/
+	float: left;
+	margin-left: 1%;
+	margin-top: 1.5%;
+    /*height: 18px;*/
+}
+.div_ddl_By input, select
+{
+	width: 100%;
+}
+
+
+
+.div_btn_View
+{
+	/*width: 8%;*/
+	float: left; /* margin-right:1%;*/
+	margin-top: 1.5%;
+	margin-left: 0.5%;
+    /*height: 20px;*/
+}
+
+
+.div_btn_Canel
+{
+    
+	/*width: 8%;*/
+	float: left; /* margin-right:1%;*/
+	margin-top: 1.5%;
+	margin-left: 0.5%;
+	
+}
+
+.div_lbl_yearMonth
+{
+	width: 19%;
+	margin-left: 1%;
+	margin-top: 1%;
+	float:left ;
+	border: 1px solid;
+	border-color :Black ;
+	text-align :center;
+     background-color:navy;
+      color:white;
+       font-weight:bold;
+    
+	
+}
+
+.div_lbl_ctrlbyus
+{
+	width: 25.4%;
+	margin-top: 1%;
+	float:left ;
+	border: 1px solid;
+	border-color :Black ;
+	text-align :center;
+     background-color:navy;
+      color:white;
+       font-weight:bold;
+    
+}
+.div_lbl_ctrlbyagent
+{
+	width: 25.2%;
+	margin-top: 1%;
+	float:left ;
+	border: 1px solid;
+	border-color :Black ;
+	text-align :center;
+     background-color:Navy;
+      color:white;
+       font-weight:bold;
+    
+}
+.div_lbl_Total
+{
+	width: 27%;
+	margin-top: 1%;
+	float:left ;
+	border: 1px solid;
+	border-color :Black ;
+	text-align :center;
+     background-color:navy;
+      color:white;
+       font-weight:bold;
+    
+}
+.div_GRDHead
+{   
+	width: 90%;
+	margin-left: 1%;	
+	border-color :Black;
+	border-right  :1px solid;
+}
+
+.div_Grid
+{
+	width: 100%;
+	margin: 0% 0%;
+	float:left;
+    height:300px;
+}
+.div_panel1
+{
+     width:830px;
+    height:300px;
+	
+}
+.div_panel2
+{
+     width:650px;
+    height:250px;
+	
+}
+.div_panel3
+{
+     width:500px;
+    height:250px;
+	
+}
+.div_panel4
+{
+     width:500px;
+    height:250px;
+	
+}
+.div_panel5
+{
+     width:500px;
+    height:250px;
+	
+}
+
+
+
+
+.div_Grid1
+{
+	width: 90%;
+	margin-left: 1%;
+	float:left;
+}

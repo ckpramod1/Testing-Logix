@@ -1,0 +1,81 @@
+﻿.div_total {
+
+    width :650px;  
+    background-color:#F8F8F8;
+   -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+   -moz-box-shadow   : 8px 8px 8px rgba(0,0,0,.15);
+   box-shadow        : 8px 8px 8px rgba(0,0,0,.15);
+
+}
+.div_Main
+{
+    background-color: #0061AE;
+    color: White;
+    margin-left: 0.5%;
+    margin-top: 1%;
+    font-weight: bold;
+    width: 36%;
+}
+
+.div_break
+{
+    clear: both;
+}
+
+
+.div_label
+{
+    float: left;
+    width: 8%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_lbl
+{
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt
+{
+    float: left;
+    width: 26%;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.div_txt input, text
+{
+    width: 100%;
+}
+.div_txt1
+{
+    float: left;
+    width: 26%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_txt1 input, text
+{
+    width: 100%;
+}
+.div_Emptxt
+{
+    float: left;
+    width: 45%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.div_Emptxt input, text
+{
+    width: 100%;
+}
+
+.div_btn
+{
+    /*width: 35%;*/
+    float: right;
+    margin-right: 1.5%;
+    margin-top: 0.5%;
+    text-align: right;
+}

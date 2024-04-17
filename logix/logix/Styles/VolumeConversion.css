@@ -1,0 +1,177 @@
+﻿.div_total 
+{
+    width: 400px;
+    /*background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);*/
+}
+
+.lbl_Header1
+{
+    font-size:11pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_inchestxt{
+
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_inchestxt input,Text{
+
+    width:100%;
+}
+
+.div_MilliMetertxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_MilliMetertxt input,Text{
+     width:100%;
+}
+
+.div_Yardstxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Yardstxt input,Text{
+     width:100%;
+}
+
+.div_CentiMetertxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_CentiMetertxt input,Text{
+     width:100%;
+}
+
+.div_Feettxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Feettxt input,Text{
+     width:100%;
+}
+
+.div_Tonnestxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_.div_total 
+{
+    width: 400px;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+    box-shadow: 8px 8px 8px rgba(0,0,0,.15);
+}
+
+.lbl_Header1
+{
+    font-size:11pt;    
+    font-family :sans-serif;
+    text-align:left;
+    color:navy;
+    margin-left:1%;
+  }
+.div_Break
+{
+    clear: both;
+}
+
+.div_Ouncetxt{
+
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Ouncetxt input,Text{
+
+    width:100%;
+}
+
+.div_MiliLitertxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_MiliLitertxt input,Text{
+     width:100%;
+    height: 20px;
+}
+
+.div_Quarttxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Quarttxt input,Text{
+     width:100%;
+}
+
+.div_Litertxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Litertxt input,Text{
+     width:100%;
+    height: 20px;
+}
+
+.div_Gallontxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_Gallontxt input,Text{
+     width:100%;
+}
+
+.div_KiloLitertxt{
+    width:48%;
+    float:left;
+    margin-left:1%;
+    margin-top:0.5%;
+}
+
+.div_KiloLitertxt input,Text{
+    width:100%;
+} 
