@@ -22,7 +22,7 @@
     <!-- Smartphone Touch Events -->
 
     <!-- General -->
-    <!-- Polyfill for min/max-width CSS3 Media Queries (only for IE8) -->
+    <!-- Polyfill for min/max-width CSS3 Media Queries (only for IE8) *************************** -->
     <script type="text/javascript" src="../Theme/Content/plugins/slimscroll/jquery.slimscroll.min.js"></script>
     <script type="text/javascript" src="../Theme/Content/plugins/slimscroll/jquery.slimscroll.horizontal.min.js"></script>
 
